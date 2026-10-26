@@ -46,6 +46,13 @@ môn học trước khi dùng bản xuất làm bài nộp.
 Không được bỏ source_mismatches.json vì nghĩ text_annotations rỗng là chưa làm.
 annotations.zip chứa đúng ba file này, do chính hàm save_export_archive tạo ra.
 
+Đối chiếu với ZIP mẫu người dùng gửi (ảnh 55432.png): mỗi bounding box có đủ
+`bbox`, `status`, `damage_level`, `unknown`, `unavailable_font`,
+`expert_prediction`, `suspicious`, `order`. Trường `order` được lưu tường minh,
+bằng thứ tự đọc và ID khung (1–276). Tọa độ có thể là số nguyên hoặc số thực.
+Mẫu 55432 là annotation thông thường; ảnh 17077 là Missing Content nên record
+trong source_mismatches.json có thêm các trường mô tả chênh lệch của tool.
+
 ## Các phần cần rà kỹ
 Có 18 khung bật Suspicious cho khác dạng chữ giữa nguồn và ảnh, gồm các chữ số
 一/壹, 百/佰, 十/拾. Nhãn theo PDF được giữ nguyên; candidate quan sát được lưu riêng.

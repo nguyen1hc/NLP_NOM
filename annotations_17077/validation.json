@@ -7,5 +7,7 @@
   "source_sequence_matches": true,
   "original_tool_round_trip": true,
   "condition_labels_provisional": true,
-  "final_human_review_complete": false
+  "final_human_review_complete": false,
+  "explicit_order_matches_ids": true,
+  "box_fields_match_uploaded_template": true
 }
