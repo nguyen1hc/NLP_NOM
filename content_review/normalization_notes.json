@@ -1,0 +1,137 @@
+[
+  {
+    "face": "46302",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "expert_prediction_markers",
+    "marked_text": [
+      "察",
+      "矣",
+      "后",
+      "款",
+      "一",
+      "一",
+      "俵",
+      "例",
+      "忌",
+      "后",
+      "祖",
+      "忌"
+    ],
+    "rule": "Remove editorial brackets but retain enclosed characters; assign Expert Prediction flags to the corresponding boxes later, after alignment."
+  },
+  {
+    "face": "46302",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "editorial_brackets_removed",
+    "rule": "Applies where brackets are annotations and not physically carved; verify against the image."
+  },
+  {
+    "face": "46302",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "raised_writing_markers",
+    "count": 1,
+    "rule": "Source foreword uses circle to indicate raised writing. Excluded from this draft alignment text; confirm course convention."
+  },
+  {
+    "face": "46302",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "footnote_marker_removed",
+    "count": 1,
+    "rule": "Superscript 1 points to the PDF footnote about 時/辰; not a character on the inscription. Keep the note for later image-vs-text review."
+  },
+  {
+    "face": "46303",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "expert_prediction_markers",
+    "marked_text": [
+      "秦",
+      "所",
+      "船"
+    ],
+    "rule": "Remove editorial brackets but retain enclosed characters; assign Expert Prediction flags to the corresponding boxes later, after alignment."
+  },
+  {
+    "face": "46303",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "editorial_brackets_removed",
+    "rule": "Applies where brackets are annotations and not physically carved; verify against the image."
+  },
+  {
+    "face": "46303",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "raised_writing_markers",
+    "count": 1,
+    "rule": "Source foreword uses circle to indicate raised writing. Excluded from this draft alignment text; confirm course convention."
+  },
+  {
+    "face": "46303",
+    "field": "Phiên âm Hán Việt",
+    "kind": "missing_character_placeholder",
+    "count": 3,
+    "rule": "One empty bracket pair -> one □. Do not infer a fixed count for [...] or (...)."
+  },
+  {
+    "face": "17390",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "missing_character_placeholder",
+    "count": 10,
+    "rule": "One empty bracket pair -> one □. Do not infer a fixed count for [...] or (...)."
+  },
+  {
+    "face": "17390",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "expert_prediction_markers",
+    "marked_text": [
+      "享",
+      "春"
+    ],
+    "rule": "Remove editorial brackets but retain enclosed characters; assign Expert Prediction flags to the corresponding boxes later, after alignment."
+  },
+  {
+    "face": "17390",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "editorial_brackets_removed",
+    "rule": "Applies where brackets are annotations and not physically carved; verify against the image."
+  },
+  {
+    "face": "17390",
+    "field": "Phiên âm Hán Việt",
+    "kind": "missing_character_placeholder",
+    "count": 10,
+    "rule": "One empty bracket pair -> one □. Do not infer a fixed count for [...] or (...)."
+  },
+  {
+    "face": "17077",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "editorial_brackets_removed",
+    "rule": "Applies where brackets are annotations and not physically carved; verify against the image."
+  },
+  {
+    "face": "17077",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "raised_writing_markers",
+    "count": 4,
+    "rule": "Source foreword uses circle to indicate raised writing. Excluded from this draft alignment text; confirm course convention."
+  },
+  {
+    "face": "31962",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "raised_writing_markers",
+    "count": 2,
+    "rule": "Source foreword uses circle to indicate raised writing. Excluded from this draft alignment text; confirm course convention."
+  },
+  {
+    "face": "18592",
+    "field": "Nguyên văn chữ Hán Nôm",
+    "kind": "missing_character_placeholder",
+    "count": 45,
+    "rule": "One empty bracket pair -> one □. Do not infer a fixed count for [...] or (...)."
+  },
+  {
+    "face": "18592",
+    "field": "Phiên âm Hán Việt",
+    "kind": "missing_character_placeholder",
+    "count": 45,
+    "rule": "One empty bracket pair -> one □. Do not infer a fixed count for [...] or (...)."
+  }
+]

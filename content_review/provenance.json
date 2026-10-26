@@ -1,0 +1,9 @@
+{
+  "source": "student_114/student_114.json",
+  "source_sha256": "af414bde377c91cb06f328555bfb5e635c9e04503a67786e1b5434f1ad16affa",
+  "records": 6,
+  "faces": 9,
+  "method": "Visual review of selected PDF text pages, assisted by approximate font-outline decoding. Decoder suggestions were not accepted as authoritative Unicode evidence. Original metadata retained where comparison agrees; selected confirmed text/structure corrections applied.",
+  "original_unchanged": true,
+  "final_annotation_ready": false
+}

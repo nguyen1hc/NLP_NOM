@@ -1,0 +1,26 @@
+[
+  {
+    "face": "17077",
+    "issue": "Literal Han content agrees with the PDF after ignoring whitespace. Tool count 283 includes four 〇 and four fullwidth parentheses; normalization draft is 275. This does not establish the current number or correctness of detector boxes."
+  },
+  {
+    "face": "55432",
+    "issue": "Source font glyph decodes as 户. Do not automatically replace with 戶 solely from a small screenshot; retain source Unicode in this reviewed copy. Earlier demo replacement was not sufficiently established."
+  },
+  {
+    "face": "55431",
+    "issue": "⿈ is U+2FC8 KANGXI RADICAL YELLOW, not U+9EC3 黃. Reference font outlines tie; visual shape alone does not settle Unicode. Retained unchanged and flagged."
+  },
+  {
+    "face": "46302/46303/31962/18592",
+    "issue": "Rare glyphs 𥸷, 𣷷, 𨕭, 𦝧, 𡧲 retained from source. Their exact Unicode/font rendering needs specialist confirmation; not blindly replaced with @."
+  },
+  {
+    "face": "18592/17390",
+    "issue": "Empty brackets must become □ per assignment; non-empty brackets represent expert-supplied characters. Normalization does not itself attach per-box Unknown/Expert Prediction flags."
+  },
+  {
+    "face": "all",
+    "issue": "No image-vs-PDF character accuracy or box geometry verification is claimed. This is the content-check stage. PDF-faithful and annotation-normalized copies serve different purposes."
+  }
+]

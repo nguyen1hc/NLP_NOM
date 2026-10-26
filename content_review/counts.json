@@ -1,0 +1,56 @@
+[
+  {
+    "face": "46302",
+    "original_count": 446,
+    "reviewed_literal_count": 447,
+    "normalized_draft_count": 421
+  },
+  {
+    "face": "46303",
+    "original_count": 219,
+    "reviewed_literal_count": 219,
+    "normalized_draft_count": 212
+  },
+  {
+    "face": "17390",
+    "original_count": 248,
+    "reviewed_literal_count": 252,
+    "normalized_draft_count": 238
+  },
+  {
+    "face": "17077",
+    "original_count": 283,
+    "reviewed_literal_count": 283,
+    "normalized_draft_count": 275
+  },
+  {
+    "face": "55432",
+    "original_count": 55,
+    "reviewed_literal_count": 55,
+    "normalized_draft_count": 55
+  },
+  {
+    "face": "55431",
+    "original_count": 196,
+    "reviewed_literal_count": 196,
+    "normalized_draft_count": 196
+  },
+  {
+    "face": "31962",
+    "original_count": 134,
+    "reviewed_literal_count": 134,
+    "normalized_draft_count": 132
+  },
+  {
+    "face": "18591",
+    "original_count": 172,
+    "reviewed_literal_count": 172,
+    "normalized_draft_count": 172
+  },
+  {
+    "face": "18592",
+    "original_count": 282,
+    "reviewed_literal_count": 282,
+    "normalized_draft_count": 237
+  }
+]
