@@ -1,0 +1,99 @@
+{
+  "image": "17077.jpg",
+  "positions": 276,
+  "source_characters": 275,
+  "missing_source_character": {
+    "box_id": 186,
+    "observed": "其",
+    "export_label": "MISS"
+  },
+  "method": "Manual column identification and image processing to tighten per-character boxes. No trained detection model used.",
+  "all_condition_labels_provisional": true,
+  "normalization": "Removed four editorial 〇 and four fullwidth parentheses from alignment text. Original source retained.",
+  "groups": [
+    {
+      "name": "title",
+      "count": 3
+    },
+    {
+      "name": "column_01",
+      "count": 15
+    },
+    {
+      "name": "column_02",
+      "count": 19
+    },
+    {
+      "name": "column_03",
+      "count": 19
+    },
+    {
+      "name": "column_04",
+      "count": 19
+    },
+    {
+      "name": "column_05",
+      "count": 19
+    },
+    {
+      "name": "column_06",
+      "count": 18
+    },
+    {
+      "name": "small_note_A",
+      "count": 6
+    },
+    {
+      "name": "column_07",
+      "count": 19
+    },
+    {
+      "name": "column_08",
+      "count": 19
+    },
+    {
+      "name": "column_09",
+      "count": 19
+    },
+    {
+      "name": "column_10",
+      "count": 14
+    },
+    {
+      "name": "father_name",
+      "count": 13
+    },
+    {
+      "name": "father_memorial_date",
+      "count": 6
+    },
+    {
+      "name": "mother_name",
+      "count": 16
+    },
+    {
+      "name": "mother_memorial_date",
+      "count": 7
+    },
+    {
+      "name": "benefactor_name",
+      "count": 6
+    },
+    {
+      "name": "benefactor_date_blank",
+      "count": 3
+    },
+    {
+      "name": "offerings",
+      "count": 14
+    },
+    {
+      "name": "small_note_B",
+      "count": 11
+    },
+    {
+      "name": "date_inscription",
+      "count": 11
+    }
+  ]
+}

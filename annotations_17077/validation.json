@@ -1,0 +1,11 @@
+{
+  "boxes": 276,
+  "source_characters": 275,
+  "missing_box_id": 186,
+  "schema_validation": true,
+  "geometry_in_crop": true,
+  "source_sequence_matches": true,
+  "original_tool_round_trip": true,
+  "condition_labels_provisional": true,
+  "final_human_review_complete": false
+}

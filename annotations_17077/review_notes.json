@@ -1,0 +1,77 @@
+{
+  "scope": "17077.jpg only",
+  "coverage_complete": true,
+  "geometry_method": "Manual column identification and image processing to tighten per-character boxes. No trained detection model used.",
+  "source_pdf": "Tap-4_Bia-Hau-dau-the-ki-XX_608-trang.pdf",
+  "pdf_pages": [
+    10,
+    11
+  ],
+  "printed_pages": [
+    408,
+    409
+  ],
+  "normalization": [
+    "Four 〇 raised-writing markers and four fullwidth parentheses removed from alignment text. Original source retained separately.",
+    "Do not add 其 to the PDF transcription merely to force equal counts; source mismatch is recorded instead."
+  ],
+  "confirmed_source_mismatch": {
+    "box_id": 186,
+    "observed": "其",
+    "source_excerpt": "以廣傳云耳",
+    "image_excerpt": "以廣其傳云耳",
+    "issue_type": "missing_text",
+    "export_label": "MISS"
+  },
+  "priority_review": [
+    6,
+    8,
+    11,
+    17,
+    31,
+    33,
+    36,
+    37,
+    43,
+    54,
+    56,
+    57,
+    62,
+    74,
+    75,
+    76,
+    94,
+    95,
+    97,
+    106,
+    112,
+    115,
+    116,
+    118,
+    137,
+    156,
+    171,
+    174,
+    175,
+    193,
+    208,
+    216,
+    231,
+    237,
+    259,
+    269,
+    271,
+    275
+  ],
+  "flags": {
+    "expert_prediction": "No expert-predicted source brackets in this inscription; not inferred from the assistant reading a damaged glyph.",
+    "unknown": "Not used for MISS: the missing PDF label is handled as source mismatch; observed glyph is 其.",
+    "suspicious": "18 positions flagged for source/image character-form differences. Some observed Unicode forms remain candidates requiring review."
+  },
+  "caveats": [
+    "All condition grades are provisional visual judgments; review before submitting.",
+    "Geometry was checked via per-character contact sheets and corrected for small text and memorial dates; fine boundary adjustments may remain.",
+    "Current Kaggle web session was not accessed or changed. Data was generated locally and round-tripped through the original tool schema.",
+    "Previous figure about the money phrase incorrectly numbered columns 4/5; correct main-body columns are 5/6 from the right, excluding title."
+  ]
+}

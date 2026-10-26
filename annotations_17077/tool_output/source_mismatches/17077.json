@@ -1,0 +1,4185 @@
+{
+  "image": "17077.jpg",
+  "inscription_code": "17077",
+  "source_text": "后碑誌\n河城第三户香義村為立碑誌事。\n盖聞：孝者，人之本善者。人之根，敬其所尊，爱其所親，古今同\n一揆也。兹因有河東省懷德府慈廉縣雲耕縂雲耕社金黄村人陳氏富，適見\n民村亭宇重新，规模再造，風淳俗美，祀事風光。為此，情願出銀一百伍\n十元以助民力，以廣民财。仍請寄后者三由考妣舆本身以傳不朽 。民\n村商同妥順，玉成其事，凡至忌日，炤禮而行，與春秋從祀。配饗人有心\n也，精誠必達于鬼神，德能忘乎！名姓宜垂於永久。其贵位號舆忌日並禮\n品詳誌于石，以廣傳云耳。\n顯考陳贵公諱德歸字福慎府君，十月三十日忌。\n顯妣陳公正室阮贵氏諱汝號妙清孺人，四月二十六日忌。\n陳氏富號妙贵，月日忌。\n忌日禮用翰歆、粢盛 、金銀、芙酒具足三忌亦周，由每忌準銀二\n元。\n保大七年歲在壬申吉日立。",
+  "source_character_count": 275,
+  "bounding_box_count": 276,
+  "issue_type": [
+    "missing_text"
+  ],
+  "note": "Ảnh có chữ 其 ở ID 186: 以廣其傳云耳. PDF Tập 4, trang PDF 10 (trang in 408) và JSON chỉ có 以廣傳云耳. Giữ nội dung theo PDF, gán MISS cho khung 186 theo quy tắc Missing Content. Chữ quan sát được 其 được ghi riêng trong character_review.json. Các mức hư hại là đánh giá sơ bộ, cần rà soát.",
+  "bounding_boxes": {
+    "1": {
+      "bbox": [
+        2530,
+        800,
+        2815,
+        1095
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "2": {
+      "bbox": [
+        1840,
+        827,
+        2135,
+        1100
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "3": {
+      "bbox": [
+        1140,
+        829,
+        1455,
+        1120
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "4": {
+      "bbox": [
+        2912,
+        1332,
+        3048,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "5": {
+      "bbox": [
+        2914,
+        1485,
+        3073,
+        1641
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "6": {
+      "bbox": [
+        2912,
+        1643,
+        3088,
+        1796
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "7": {
+      "bbox": [
+        2913,
+        1804,
+        3048,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "8": {
+      "bbox": [
+        2912,
+        1959,
+        3055,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "9": {
+      "bbox": [
+        2912,
+        2117,
+        3048,
+        2273
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "10": {
+      "bbox": [
+        2912,
+        2275,
+        3057,
+        2431
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "11": {
+      "bbox": [
+        2912,
+        2433,
+        3075,
+        2589
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "12": {
+      "bbox": [
+        2912,
+        2591,
+        3085,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "13": {
+      "bbox": [
+        2912,
+        2749,
+        3088,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "14": {
+      "bbox": [
+        2912,
+        2907,
+        3066,
+        3063
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "15": {
+      "bbox": [
+        2915,
+        3065,
+        3067,
+        3221
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "16": {
+      "bbox": [
+        2913,
+        3223,
+        3072,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "17": {
+      "bbox": [
+        2916,
+        3381,
+        3057,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "18": {
+      "bbox": [
+        2912,
+        3539,
+        3088,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "19": {
+      "bbox": [
+        2743,
+        1332,
+        2919,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "20": {
+      "bbox": [
+        2743,
+        1485,
+        2910,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "21": {
+      "bbox": [
+        2743,
+        1643,
+        2919,
+        1799
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "22": {
+      "bbox": [
+        2743,
+        1810,
+        2912,
+        1957
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "23": {
+      "bbox": [
+        2743,
+        1959,
+        2919,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "24": {
+      "bbox": [
+        2761,
+        2117,
+        2919,
+        2273
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "25": {
+      "bbox": [
+        2743,
+        2275,
+        2919,
+        2431
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "26": {
+      "bbox": [
+        2743,
+        2433,
+        2919,
+        2589
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "27": {
+      "bbox": [
+        2749,
+        2591,
+        2919,
+        2714
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "28": {
+      "bbox": [
+        2743,
+        2749,
+        2919,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "29": {
+      "bbox": [
+        2743,
+        2907,
+        2919,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "30": {
+      "bbox": [
+        2743,
+        3065,
+        2917,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "31": {
+      "bbox": [
+        2743,
+        3223,
+        2914,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "32": {
+      "bbox": [
+        2743,
+        3381,
+        2917,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "33": {
+      "bbox": [
+        2743,
+        3539,
+        2915,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "34": {
+      "bbox": [
+        2744,
+        3697,
+        2919,
+        3853
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "35": {
+      "bbox": [
+        2743,
+        3855,
+        2912,
+        3999
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "36": {
+      "bbox": [
+        2743,
+        4016,
+        2919,
+        4169
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "37": {
+      "bbox": [
+        2743,
+        4171,
+        2919,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "38": {
+      "bbox": [
+        2608,
+        1327,
+        2781,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "39": {
+      "bbox": [
+        2605,
+        1485,
+        2781,
+        1641
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "40": {
+      "bbox": [
+        2605,
+        1643,
+        2781,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "41": {
+      "bbox": [
+        2605,
+        1801,
+        2781,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "42": {
+      "bbox": [
+        2605,
+        1959,
+        2781,
+        2115
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "43": {
+      "bbox": [
+        2605,
+        2117,
+        2781,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "44": {
+      "bbox": [
+        2605,
+        2275,
+        2781,
+        2431
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "45": {
+      "bbox": [
+        2605,
+        2433,
+        2781,
+        2568
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "46": {
+      "bbox": [
+        2605,
+        2596,
+        2763,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "47": {
+      "bbox": [
+        2605,
+        2749,
+        2781,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "48": {
+      "bbox": [
+        2605,
+        2907,
+        2781,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "49": {
+      "bbox": [
+        2607,
+        3065,
+        2781,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "50": {
+      "bbox": [
+        2605,
+        3223,
+        2781,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "51": {
+      "bbox": [
+        2605,
+        3381,
+        2781,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "52": {
+      "bbox": [
+        2605,
+        3539,
+        2771,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "53": {
+      "bbox": [
+        2605,
+        3697,
+        2781,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "54": {
+      "bbox": [
+        2605,
+        3855,
+        2775,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "55": {
+      "bbox": [
+        2606,
+        4013,
+        2781,
+        4169
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "56": {
+      "bbox": [
+        2605,
+        4171,
+        2781,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "57": {
+      "bbox": [
+        2466,
+        1345,
+        2642,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "58": {
+      "bbox": [
+        2466,
+        1485,
+        2623,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "59": {
+      "bbox": [
+        2472,
+        1643,
+        2642,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "60": {
+      "bbox": [
+        2466,
+        1801,
+        2642,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "61": {
+      "bbox": [
+        2467,
+        1959,
+        2642,
+        2100
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "62": {
+      "bbox": [
+        2466,
+        2117,
+        2642,
+        2273
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "63": {
+      "bbox": [
+        2466,
+        2275,
+        2642,
+        2431
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "64": {
+      "bbox": [
+        2466,
+        2439,
+        2642,
+        2589
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "65": {
+      "bbox": [
+        2475,
+        2591,
+        2642,
+        2747
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "66": {
+      "bbox": [
+        2470,
+        2755,
+        2642,
+        2905
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "67": {
+      "bbox": [
+        2466,
+        2907,
+        2642,
+        3062
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "68": {
+      "bbox": [
+        2470,
+        3065,
+        2640,
+        3219
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "69": {
+      "bbox": [
+        2466,
+        3226,
+        2632,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "70": {
+      "bbox": [
+        2466,
+        3381,
+        2642,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "71": {
+      "bbox": [
+        2477,
+        3539,
+        2642,
+        3688
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "72": {
+      "bbox": [
+        2466,
+        3701,
+        2642,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "73": {
+      "bbox": [
+        2466,
+        3855,
+        2642,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "74": {
+      "bbox": [
+        2466,
+        4013,
+        2642,
+        4169
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "75": {
+      "bbox": [
+        2466,
+        4171,
+        2642,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "76": {
+      "bbox": [
+        2308,
+        1327,
+        2484,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "77": {
+      "bbox": [
+        2308,
+        1485,
+        2484,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "78": {
+      "bbox": [
+        2308,
+        1643,
+        2484,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "79": {
+      "bbox": [
+        2308,
+        1801,
+        2484,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "80": {
+      "bbox": [
+        2308,
+        1959,
+        2484,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "81": {
+      "bbox": [
+        2308,
+        2117,
+        2484,
+        2261
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "82": {
+      "bbox": [
+        2308,
+        2275,
+        2484,
+        2431
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "83": {
+      "bbox": [
+        2315,
+        2433,
+        2484,
+        2562
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "84": {
+      "bbox": [
+        2308,
+        2600,
+        2484,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "85": {
+      "bbox": [
+        2316,
+        2749,
+        2484,
+        2905
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "86": {
+      "bbox": [
+        2308,
+        2907,
+        2483,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "87": {
+      "bbox": [
+        2308,
+        3065,
+        2483,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "88": {
+      "bbox": [
+        2317,
+        3223,
+        2484,
+        3379
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "89": {
+      "bbox": [
+        2315,
+        3381,
+        2484,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "90": {
+      "bbox": [
+        2308,
+        3539,
+        2484,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "91": {
+      "bbox": [
+        2308,
+        3697,
+        2484,
+        3851
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "92": {
+      "bbox": [
+        2308,
+        3855,
+        2484,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "93": {
+      "bbox": [
+        2325,
+        4020,
+        2475,
+        4175
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "94": {
+      "bbox": [
+        2325,
+        4180,
+        2490,
+        4335
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "95": {
+      "bbox": [
+        2161,
+        1327,
+        2322,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "96": {
+      "bbox": [
+        2146,
+        1485,
+        2322,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "97": {
+      "bbox": [
+        2147,
+        1643,
+        2322,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "98": {
+      "bbox": [
+        2155,
+        1801,
+        2322,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "99": {
+      "bbox": [
+        2146,
+        1959,
+        2322,
+        2113
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "100": {
+      "bbox": [
+        2146,
+        2117,
+        2322,
+        2257
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "101": {
+      "bbox": [
+        2146,
+        2275,
+        2322,
+        2428
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "102": {
+      "bbox": [
+        2157,
+        2440,
+        2314,
+        2589
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "103": {
+      "bbox": [
+        2146,
+        2595,
+        2322,
+        2733
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "104": {
+      "bbox": [
+        2146,
+        2750,
+        2299,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "105": {
+      "bbox": [
+        2178,
+        2910,
+        2318,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "106": {
+      "bbox": [
+        2146,
+        3065,
+        2322,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "107": {
+      "bbox": [
+        2146,
+        3223,
+        2312,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "108": {
+      "bbox": [
+        2160,
+        3381,
+        2310,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "109": {
+      "bbox": [
+        2146,
+        3539,
+        2322,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "110": {
+      "bbox": [
+        2146,
+        3697,
+        2322,
+        3851
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "111": {
+      "bbox": [
+        2146,
+        3855,
+        2322,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "112": {
+      "bbox": [
+        2166,
+        4010,
+        2290,
+        4130
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "113": {
+      "bbox": [
+        2270,
+        4110,
+        2370,
+        4200
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "114": {
+      "bbox": [
+        2270,
+        4200,
+        2370,
+        4280
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "115": {
+      "bbox": [
+        2270,
+        4280,
+        2370,
+        4350
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "116": {
+      "bbox": [
+        2170,
+        4110,
+        2260,
+        4200
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "117": {
+      "bbox": [
+        2170,
+        4200,
+        2260,
+        4280
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "118": {
+      "bbox": [
+        2170,
+        4280,
+        2260,
+        4350
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "119": {
+      "bbox": [
+        2006,
+        1352,
+        2182,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "120": {
+      "bbox": [
+        2006,
+        1485,
+        2182,
+        1640
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "121": {
+      "bbox": [
+        2006,
+        1643,
+        2182,
+        1765
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "122": {
+      "bbox": [
+        2006,
+        1818,
+        2182,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "123": {
+      "bbox": [
+        2006,
+        1964,
+        2172,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "124": {
+      "bbox": [
+        2006,
+        2117,
+        2182,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "125": {
+      "bbox": [
+        2006,
+        2275,
+        2182,
+        2416
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "126": {
+      "bbox": [
+        2006,
+        2440,
+        2182,
+        2589
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "127": {
+      "bbox": [
+        2006,
+        2591,
+        2177,
+        2733
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "128": {
+      "bbox": [
+        2006,
+        2749,
+        2156,
+        2905
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "129": {
+      "bbox": [
+        2006,
+        2907,
+        2150,
+        3062
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "130": {
+      "bbox": [
+        2026,
+        3065,
+        2161,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "131": {
+      "bbox": [
+        2007,
+        3223,
+        2182,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "132": {
+      "bbox": [
+        2017,
+        3381,
+        2182,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "133": {
+      "bbox": [
+        2022,
+        3539,
+        2182,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "134": {
+      "bbox": [
+        2017,
+        3697,
+        2182,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "135": {
+      "bbox": [
+        2006,
+        3855,
+        2182,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "136": {
+      "bbox": [
+        2038,
+        4013,
+        2182,
+        4167
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "137": {
+      "bbox": [
+        2006,
+        4171,
+        2182,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "138": {
+      "bbox": [
+        1858,
+        1327,
+        2034,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "139": {
+      "bbox": [
+        1875,
+        1485,
+        2034,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "140": {
+      "bbox": [
+        1863,
+        1643,
+        2034,
+        1798
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "141": {
+      "bbox": [
+        1858,
+        1801,
+        2034,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "142": {
+      "bbox": [
+        1858,
+        1960,
+        2034,
+        2111
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "143": {
+      "bbox": [
+        1858,
+        2117,
+        2034,
+        2273
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "144": {
+      "bbox": [
+        1858,
+        2276,
+        2034,
+        2431
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "145": {
+      "bbox": [
+        1858,
+        2433,
+        2015,
+        2589
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "146": {
+      "bbox": [
+        1869,
+        2596,
+        2034,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "147": {
+      "bbox": [
+        1858,
+        2749,
+        2034,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "148": {
+      "bbox": [
+        1858,
+        2907,
+        2034,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "149": {
+      "bbox": [
+        1861,
+        3065,
+        2034,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "150": {
+      "bbox": [
+        1874,
+        3223,
+        2034,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "151": {
+      "bbox": [
+        1858,
+        3383,
+        2034,
+        3537
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "152": {
+      "bbox": [
+        1858,
+        3539,
+        2034,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "153": {
+      "bbox": [
+        1864,
+        3699,
+        2034,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "154": {
+      "bbox": [
+        1858,
+        3855,
+        2031,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "155": {
+      "bbox": [
+        1875,
+        4013,
+        2013,
+        4164
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "156": {
+      "bbox": [
+        1858,
+        4222,
+        2034,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "157": {
+      "bbox": [
+        1690,
+        1327,
+        1866,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "158": {
+      "bbox": [
+        1690,
+        1485,
+        1862,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "159": {
+      "bbox": [
+        1690,
+        1643,
+        1862,
+        1799
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "160": {
+      "bbox": [
+        1701,
+        1801,
+        1866,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "161": {
+      "bbox": [
+        1690,
+        1959,
+        1866,
+        2115
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "162": {
+      "bbox": [
+        1690,
+        2117,
+        1866,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "163": {
+      "bbox": [
+        1701,
+        2275,
+        1866,
+        2431
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "164": {
+      "bbox": [
+        1690,
+        2433,
+        1866,
+        2559
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "165": {
+      "bbox": [
+        1690,
+        2591,
+        1848,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "166": {
+      "bbox": [
+        1693,
+        2749,
+        1866,
+        2871
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "167": {
+      "bbox": [
+        1701,
+        2907,
+        1866,
+        3032
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "168": {
+      "bbox": [
+        1690,
+        3065,
+        1860,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "169": {
+      "bbox": [
+        1724,
+        3223,
+        1855,
+        3372
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "170": {
+      "bbox": [
+        1695,
+        3381,
+        1866,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "171": {
+      "bbox": [
+        1690,
+        3539,
+        1866,
+        3673
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "172": {
+      "bbox": [
+        1692,
+        3697,
+        1864,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "173": {
+      "bbox": [
+        1713,
+        3855,
+        1866,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "174": {
+      "bbox": [
+        1710,
+        4013,
+        1854,
+        4169
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "175": {
+      "bbox": [
+        1690,
+        4171,
+        1866,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "176": {
+      "bbox": [
+        1549,
+        1328,
+        1725,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "177": {
+      "bbox": [
+        1550,
+        1485,
+        1725,
+        1641
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "178": {
+      "bbox": [
+        1549,
+        1643,
+        1725,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "179": {
+      "bbox": [
+        1549,
+        1801,
+        1725,
+        1957
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "180": {
+      "bbox": [
+        1549,
+        1959,
+        1715,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "181": {
+      "bbox": [
+        1549,
+        2117,
+        1700,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "182": {
+      "bbox": [
+        1549,
+        2275,
+        1715,
+        2420
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "183": {
+      "bbox": [
+        1555,
+        2433,
+        1725,
+        2551
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "184": {
+      "bbox": [
+        1549,
+        2594,
+        1725,
+        2746
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "185": {
+      "bbox": [
+        1562,
+        2749,
+        1725,
+        2881
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "186": {
+      "bbox": [
+        1550,
+        2907,
+        1722,
+        3049
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "187": {
+      "bbox": [
+        1549,
+        3065,
+        1725,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "188": {
+      "bbox": [
+        1570,
+        3223,
+        1683,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "189": {
+      "bbox": [
+        1562,
+        3392,
+        1725,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "190": {
+      "bbox": [
+        1399,
+        1147,
+        1575,
+        1303
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "191": {
+      "bbox": [
+        1399,
+        1305,
+        1575,
+        1461
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "192": {
+      "bbox": [
+        1413,
+        1463,
+        1575,
+        1619
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "193": {
+      "bbox": [
+        1405,
+        1623,
+        1575,
+        1766
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "194": {
+      "bbox": [
+        1404,
+        1791,
+        1568,
+        1935
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "195": {
+      "bbox": [
+        1401,
+        1937,
+        1575,
+        2093
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "196": {
+      "bbox": [
+        1408,
+        2095,
+        1575,
+        2251
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "197": {
+      "bbox": [
+        1403,
+        2265,
+        1570,
+        2409
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "198": {
+      "bbox": [
+        1417,
+        2411,
+        1575,
+        2563
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "199": {
+      "bbox": [
+        1405,
+        2575,
+        1560,
+        2725
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "200": {
+      "bbox": [
+        1399,
+        2745,
+        1575,
+        2883
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "201": {
+      "bbox": [
+        1399,
+        2885,
+        1575,
+        3032
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "202": {
+      "bbox": [
+        1399,
+        3043,
+        1575,
+        3199
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "203": {
+      "bbox": [
+        1461,
+        3223,
+        1548,
+        3305
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "204": {
+      "bbox": [
+        1460,
+        3320,
+        1555,
+        3410
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "205": {
+      "bbox": [
+        1460,
+        3420,
+        1553,
+        3510
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "206": {
+      "bbox": [
+        1460,
+        3515,
+        1570,
+        3605
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "207": {
+      "bbox": [
+        1460,
+        3610,
+        1545,
+        3700
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "208": {
+      "bbox": [
+        1460,
+        3715,
+        1565,
+        3805
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "209": {
+      "bbox": [
+        1245,
+        1172,
+        1421,
+        1328
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "210": {
+      "bbox": [
+        1245,
+        1330,
+        1421,
+        1486
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "211": {
+      "bbox": [
+        1254,
+        1488,
+        1421,
+        1609
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "212": {
+      "bbox": [
+        1248,
+        1661,
+        1419,
+        1801
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "213": {
+      "bbox": [
+        1245,
+        1819,
+        1420,
+        1956
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "214": {
+      "bbox": [
+        1262,
+        1962,
+        1421,
+        2093
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "215": {
+      "bbox": [
+        1245,
+        2133,
+        1421,
+        2276
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "216": {
+      "bbox": [
+        1245,
+        2278,
+        1421,
+        2434
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "217": {
+      "bbox": [
+        1245,
+        2436,
+        1374,
+        2592
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "218": {
+      "bbox": [
+        1245,
+        2594,
+        1421,
+        2750
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "219": {
+      "bbox": [
+        1245,
+        2752,
+        1421,
+        2908
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "220": {
+      "bbox": [
+        1245,
+        2910,
+        1421,
+        3057
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "221": {
+      "bbox": [
+        1245,
+        3072,
+        1421,
+        3224
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "222": {
+      "bbox": [
+        1265,
+        3226,
+        1421,
+        3382
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "223": {
+      "bbox": [
+        1251,
+        3370,
+        1425,
+        3510
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "224": {
+      "bbox": [
+        1268,
+        3505,
+        1430,
+        3620
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "225": {
+      "bbox": [
+        1310,
+        3651,
+        1453,
+        3736
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "226": {
+      "bbox": [
+        1312,
+        3727,
+        1455,
+        3823
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "227": {
+      "bbox": [
+        1311,
+        3805,
+        1455,
+        3898
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "228": {
+      "bbox": [
+        1317,
+        3897,
+        1415,
+        3993
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "229": {
+      "bbox": [
+        1310,
+        3985,
+        1417,
+        4081
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "230": {
+      "bbox": [
+        1320,
+        4070,
+        1399,
+        4166
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "231": {
+      "bbox": [
+        1315,
+        4152,
+        1416,
+        4227
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "232": {
+      "bbox": [
+        1087,
+        1154,
+        1263,
+        1303
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "233": {
+      "bbox": [
+        1087,
+        1305,
+        1263,
+        1461
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "234": {
+      "bbox": [
+        1087,
+        1463,
+        1263,
+        1619
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "235": {
+      "bbox": [
+        1087,
+        1621,
+        1263,
+        1777
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "236": {
+      "bbox": [
+        1087,
+        1779,
+        1263,
+        1935
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "237": {
+      "bbox": [
+        1087,
+        1937,
+        1256,
+        2093
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "238": {
+      "bbox": [
+        1100,
+        3655,
+        1260,
+        3790
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "239": {
+      "bbox": [
+        1114,
+        3950,
+        1257,
+        4100
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "240": {
+      "bbox": [
+        1100,
+        4115,
+        1260,
+        4290
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "241": {
+      "bbox": [
+        931,
+        1327,
+        1107,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "242": {
+      "bbox": [
+        931,
+        1485,
+        1107,
+        1641
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "243": {
+      "bbox": [
+        931,
+        1643,
+        1107,
+        1792
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "244": {
+      "bbox": [
+        932,
+        1817,
+        1107,
+        1957
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "245": {
+      "bbox": [
+        931,
+        1959,
+        1107,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "246": {
+      "bbox": [
+        931,
+        2117,
+        1103,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "247": {
+      "bbox": [
+        931,
+        2275,
+        1107,
+        2422
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "248": {
+      "bbox": [
+        944,
+        2438,
+        1102,
+        2583
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "249": {
+      "bbox": [
+        931,
+        2591,
+        1094,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "250": {
+      "bbox": [
+        936,
+        2749,
+        1106,
+        2905
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "251": {
+      "bbox": [
+        931,
+        2907,
+        1107,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "252": {
+      "bbox": [
+        931,
+        3065,
+        1107,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "253": {
+      "bbox": [
+        931,
+        3223,
+        1107,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "254": {
+      "bbox": [
+        931,
+        3381,
+        1102,
+        3530
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "255": {
+      "bbox": [
+        1025,
+        3534,
+        1110,
+        3638
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "256": {
+      "bbox": [
+        1025,
+        3625,
+        1130,
+        3735
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "257": {
+      "bbox": [
+        1025,
+        3725,
+        1130,
+        3835
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "258": {
+      "bbox": [
+        1025,
+        3825,
+        1125,
+        3935
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "259": {
+      "bbox": [
+        915,
+        3522,
+        1030,
+        3618
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true
+    },
+    "260": {
+      "bbox": [
+        915,
+        3622,
+        1030,
+        3718
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "261": {
+      "bbox": [
+        917,
+        3717,
+        1030,
+        3813
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "262": {
+      "bbox": [
+        915,
+        3812,
+        1030,
+        3908
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "263": {
+      "bbox": [
+        915,
+        3922,
+        1011,
+        4018
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "264": {
+      "bbox": [
+        915,
+        4017,
+        1003,
+        4113
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "265": {
+      "bbox": [
+        915,
+        4112,
+        1017,
+        4208
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "266": {
+      "bbox": [
+        790,
+        1197,
+        963,
+        1353
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "267": {
+      "bbox": [
+        787,
+        1355,
+        932,
+        1511
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "268": {
+      "bbox": [
+        787,
+        1513,
+        963,
+        1669
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "269": {
+      "bbox": [
+        787,
+        1671,
+        963,
+        1827
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "270": {
+      "bbox": [
+        787,
+        1829,
+        963,
+        1985
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "271": {
+      "bbox": [
+        787,
+        1987,
+        963,
+        2143
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "272": {
+      "bbox": [
+        792,
+        2145,
+        963,
+        2301
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "273": {
+      "bbox": [
+        798,
+        2303,
+        963,
+        2459
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "274": {
+      "bbox": [
+        799,
+        2461,
+        963,
+        2617
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "275": {
+      "bbox": [
+        797,
+        2619,
+        963,
+        2775
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "276": {
+      "bbox": [
+        789,
+        2777,
+        963,
+        2933
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    }
+  },
+  "annotations": {
+    "1": "后",
+    "2": "碑",
+    "3": "誌",
+    "4": "河",
+    "5": "城",
+    "6": "第",
+    "7": "三",
+    "8": "户",
+    "9": "香",
+    "10": "義",
+    "11": "村",
+    "12": "為",
+    "13": "立",
+    "14": "碑",
+    "15": "誌",
+    "16": "事",
+    "17": "盖",
+    "18": "聞",
+    "19": "孝",
+    "20": "者",
+    "21": "人",
+    "22": "之",
+    "23": "本",
+    "24": "善",
+    "25": "者",
+    "26": "人",
+    "27": "之",
+    "28": "根",
+    "29": "敬",
+    "30": "其",
+    "31": "所",
+    "32": "尊",
+    "33": "爱",
+    "34": "其",
+    "35": "所",
+    "36": "親",
+    "37": "古",
+    "38": "今",
+    "39": "同",
+    "40": "一",
+    "41": "揆",
+    "42": "也",
+    "43": "兹",
+    "44": "因",
+    "45": "有",
+    "46": "河",
+    "47": "東",
+    "48": "省",
+    "49": "懷",
+    "50": "德",
+    "51": "府",
+    "52": "慈",
+    "53": "廉",
+    "54": "縣",
+    "55": "雲",
+    "56": "耕",
+    "57": "縂",
+    "58": "雲",
+    "59": "耕",
+    "60": "社",
+    "61": "金",
+    "62": "黄",
+    "63": "村",
+    "64": "人",
+    "65": "陳",
+    "66": "氏",
+    "67": "富",
+    "68": "適",
+    "69": "見",
+    "70": "民",
+    "71": "村",
+    "72": "亭",
+    "73": "宇",
+    "74": "重",
+    "75": "新",
+    "76": "规",
+    "77": "模",
+    "78": "再",
+    "79": "造",
+    "80": "風",
+    "81": "淳",
+    "82": "俗",
+    "83": "美",
+    "84": "祀",
+    "85": "事",
+    "86": "風",
+    "87": "光",
+    "88": "為",
+    "89": "此",
+    "90": "情",
+    "91": "願",
+    "92": "出",
+    "93": "銀",
+    "94": "一",
+    "95": "百",
+    "96": "伍",
+    "97": "十",
+    "98": "元",
+    "99": "以",
+    "100": "助",
+    "101": "民",
+    "102": "力",
+    "103": "以",
+    "104": "廣",
+    "105": "民",
+    "106": "财",
+    "107": "仍",
+    "108": "請",
+    "109": "寄",
+    "110": "后",
+    "111": "者",
+    "112": "三",
+    "113": "由",
+    "114": "考",
+    "115": "妣",
+    "116": "舆",
+    "117": "本",
+    "118": "身",
+    "119": "以",
+    "120": "傳",
+    "121": "不",
+    "122": "朽",
+    "123": "民",
+    "124": "村",
+    "125": "商",
+    "126": "同",
+    "127": "妥",
+    "128": "順",
+    "129": "玉",
+    "130": "成",
+    "131": "其",
+    "132": "事",
+    "133": "凡",
+    "134": "至",
+    "135": "忌",
+    "136": "日",
+    "137": "炤",
+    "138": "禮",
+    "139": "而",
+    "140": "行",
+    "141": "與",
+    "142": "春",
+    "143": "秋",
+    "144": "從",
+    "145": "祀",
+    "146": "配",
+    "147": "饗",
+    "148": "人",
+    "149": "有",
+    "150": "心",
+    "151": "也",
+    "152": "精",
+    "153": "誠",
+    "154": "必",
+    "155": "達",
+    "156": "于",
+    "157": "鬼",
+    "158": "神",
+    "159": "德",
+    "160": "能",
+    "161": "忘",
+    "162": "乎",
+    "163": "名",
+    "164": "姓",
+    "165": "宜",
+    "166": "垂",
+    "167": "於",
+    "168": "永",
+    "169": "久",
+    "170": "其",
+    "171": "贵",
+    "172": "位",
+    "173": "號",
+    "174": "舆",
+    "175": "忌",
+    "176": "日",
+    "177": "並",
+    "178": "禮",
+    "179": "品",
+    "180": "詳",
+    "181": "誌",
+    "182": "于",
+    "183": "石",
+    "184": "以",
+    "185": "廣",
+    "186": "MISS",
+    "187": "傳",
+    "188": "云",
+    "189": "耳",
+    "190": "顯",
+    "191": "考",
+    "192": "陳",
+    "193": "贵",
+    "194": "公",
+    "195": "諱",
+    "196": "德",
+    "197": "歸",
+    "198": "字",
+    "199": "福",
+    "200": "慎",
+    "201": "府",
+    "202": "君",
+    "203": "十",
+    "204": "月",
+    "205": "三",
+    "206": "十",
+    "207": "日",
+    "208": "忌",
+    "209": "顯",
+    "210": "妣",
+    "211": "陳",
+    "212": "公",
+    "213": "正",
+    "214": "室",
+    "215": "阮",
+    "216": "贵",
+    "217": "氏",
+    "218": "諱",
+    "219": "汝",
+    "220": "號",
+    "221": "妙",
+    "222": "清",
+    "223": "孺",
+    "224": "人",
+    "225": "四",
+    "226": "月",
+    "227": "二",
+    "228": "十",
+    "229": "六",
+    "230": "日",
+    "231": "忌",
+    "232": "陳",
+    "233": "氏",
+    "234": "富",
+    "235": "號",
+    "236": "妙",
+    "237": "贵",
+    "238": "月",
+    "239": "日",
+    "240": "忌",
+    "241": "忌",
+    "242": "日",
+    "243": "禮",
+    "244": "用",
+    "245": "翰",
+    "246": "歆",
+    "247": "粢",
+    "248": "盛",
+    "249": "金",
+    "250": "銀",
+    "251": "芙",
+    "252": "酒",
+    "253": "具",
+    "254": "足",
+    "255": "三",
+    "256": "忌",
+    "257": "亦",
+    "258": "周",
+    "259": "由",
+    "260": "每",
+    "261": "忌",
+    "262": "準",
+    "263": "銀",
+    "264": "二",
+    "265": "元",
+    "266": "保",
+    "267": "大",
+    "268": "七",
+    "269": "年",
+    "270": "歲",
+    "271": "在",
+    "272": "壬",
+    "273": "申",
+    "274": "吉",
+    "275": "日",
+    "276": "立"
+  },
+  "image_resize": {
+    "source_size": [
+      3840,
+      5474
+    ],
+    "output_size": [
+      3840,
+      5474
+    ],
+    "scale_x": 1.0,
+    "scale_y": 1.0
+  },
+  "crop": {
+    "top_left": [
+      775,
+      760
+    ],
+    "top_right": [
+      3125,
+      760
+    ],
+    "bottom_right": [
+      3125,
+      4370
+    ],
+    "bottom_left": [
+      775,
+      4370
+    ]
+  }
+}
