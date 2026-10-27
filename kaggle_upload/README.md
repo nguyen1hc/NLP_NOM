@@ -34,6 +34,44 @@ SOURCE_JSON = ANNOTATION_DIR / '_review/student_114_for_review.json'
 
 Nếu output đã có dữ liệu khác, cell sẽ dừng để không ghi đè. Chọn một thư mục output mới trong lời gọi khôi phục và dùng cùng đường dẫn cho app.
 
+### Nếu Kaggle báo thiếu `annotations/annotations.zip`
+
+Kaggle có thể tự giải nén cả ZIP con thành thư mục `annotations/annotations`.
+ZIP này chỉ là bản xuất để tải về; History đọc JSON từng ảnh. Bản đóng gói mới
+không chứa ZIP con và bộ khôi phục mới cũng hỗ trợ Dataset cũ bị giải nén theo cách này.
+Các JSON bắt buộc vẫn được kiểm tra đầy đủ bằng checksum; không bỏ qua file nhãn bị thiếu.
+
+Nếu đã upload Dataset cũ, không cần upload lại. Chạy cell sau trước cell mở web
+(đổi INPUT_DIR nếu Dataset của bạn nằm ở đường dẫn khác):
+
+```python
+from pathlib import Path
+import json
+import runpy
+import shutil
+import tempfile
+
+INPUT_DIR = Path('/kaggle/input/datasets/nhn12312312412/backup')
+restore = runpy.run_path(str(INPUT_DIR / 'restore_in_kaggle.py'))['restore_student_114']
+
+with tempfile.TemporaryDirectory() as temporary:
+    staged = Path(temporary) / 'backup'
+    shutil.copytree(INPUT_DIR, staged)
+    manifest_path = staged / 'student_114_manifest.json'
+    manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+    # Chỉ bỏ yêu cầu về ZIP phụ trong bản sao tạm; giữ kiểm tra các JSON.
+    manifest['files'].pop('annotations.zip', None)
+    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding='utf-8')
+    ANNOTATION_DIR = restore(
+        input_root=staged,
+        output='/kaggle/working/annotations_font_review',
+    )
+
+SOURCE_JSON = ANNOTATION_DIR / '_review/student_114_for_review.json'
+```
+
+Trong cell mở web, dùng cùng `ANNOTATION_DIR` và `SOURCE_JSON` ở trên.
+
 Nếu đã khôi phục gói cũ, hãy dùng Dataset chứa ZIP mới và khôi phục sang thư mục mới, ví dụ:
 
 ```python
