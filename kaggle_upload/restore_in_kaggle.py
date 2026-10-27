@@ -29,6 +29,9 @@ def restore_student_114(input_root='/kaggle/input', output='/kaggle/working/anno
             path=PurePosixPath(relative)
             if path.is_absolute() or '..' in path.parts or '\\' in relative:
                 raise ValueError('Unsafe path in backup manifest.')
+            if relative=='_review/student_114_for_review.json':
+                # Legacy replacement sources are no longer used or restored.
+                continue
             try:
                 data=read('annotations/'+relative)
             except (FileNotFoundError,KeyError):
@@ -65,11 +68,42 @@ def restore_student_114(input_root='/kaggle/input', output='/kaggle/working/anno
     print('Restored 9 images / 1940 boxes, including edited Content.')
     print('Bundle revision:',manifest.get('revision','initial_review'))
     print('Two mixed mismatches (17077 and 46302) load as Other; see _review/README.md.')
-    print('Use SOURCE_JSON =',output/'_review/student_114_for_review.json')
+    print('Keep SOURCE_JSON pointing to the original student_114.json in Input.')
     print('Use ANNOTATION_DIR =',output)
     return output
 
 
+def find_original_source(input_root='/kaggle/input', source_json=None):
+    if source_json is not None:
+        source = Path(source_json)
+        if source.name != 'student_114.json' or not source.is_file():
+            raise FileNotFoundError('SOURCE_JSON must point to the original student_114.json in Input.')
+        return source
+    matches = sorted(Path(input_root).rglob('student_114.json'))
+    if len(matches) != 1:
+        raise RuntimeError('Expected one original student_114.json in Input. '
+                           'Pass its path as source_json if multiple copies are attached.')
+    return matches[0]
+
+
+# EMBEDDED_LAUNCHER_START
+ORIGINAL_SOURCE_LAUNCHER = '"""Launch the upstream app while restoring saved Content from its output folder.\n\nOnly the selected record in memory is extended with sections already present in\nthe saved Content registry. The source JSON and upstream checkout stay unchanged.\n"""\nfrom copy import deepcopy\nfrom functools import wraps\nimport json\nimport os\nfrom pathlib import Path\nimport runpy\nimport sys\n\n\ndef enable_saved_content_sections(repo_dir):\n    gradio_dir = Path(repo_dir).resolve() / \'gradio\'\n    if str(gradio_dir) not in sys.path:\n        sys.path.insert(0, str(gradio_dir))\n    from annotation.workflow import Workflow\n    from annotation.text_extraction import validate_content_document\n\n    original = Workflow._saved_content_for\n    if getattr(original, \'_restores_missing_content_sections\', False):\n        return Workflow\n\n    @wraps(original)\n    def restore_content(self, image_name, code, source_record):\n        restored = deepcopy(original(self, image_name, code, source_record))\n        registry = self.output / \'.state\' / \'content.json\'\n        if not registry.exists():\n            return restored\n        documents = json.loads(registry.read_text(encoding=\'utf-8\'))\n        matches = [item for item in documents\n                   if isinstance(item, dict) and item.get(\'image\') == image_name]\n        if not matches:\n            return restored\n        # The upstream method has already checked uniqueness and schema.\n        saved = validate_content_document(matches[0], image_name)\n        faces = [face for face in restored.get(\'noi_dung\', [])\n                 if str(face.get(\'ky_hieu\')) == str(code)]\n        if not faces and str(code).isdigit():\n            faces = [face for face in restored.get(\'noi_dung\', [])\n                     if str(face.get(\'ky_hieu\')) == str(int(code))]\n        if len(faces) != 1:\n            raise ValueError(\'Exactly one face must match the restored Content.\')\n        face = faces[0]\n        sections = face.setdefault(\'chuyen_muc\', [])\n        existing = {section.get(\'tieu_de\') for section in sections}\n        for title in self.content_titles:\n            value = saved[\'content\'].get(title)\n            if title not in existing and isinstance(value, str):\n                sections.append({\'tieu_de\': title, \'van_ban\': value})\n                existing.add(title)\n        return restored\n\n    restore_content._restores_missing_content_sections = True\n    Workflow._saved_content_for = restore_content\n    return Workflow\n\n\ndef main():\n    repo = Path(os.environ.get(\'SINONOM_REPO_DIR\',\n                               \'/kaggle/working/SinoNom-Annotation\'))\n    app = repo / \'gradio/app.py\'\n    if not app.is_file():\n        raise FileNotFoundError(f\'Annotation app not found: {app}\')\n    enable_saved_content_sections(repo)\n    sys.argv[0] = str(app)\n    runpy.run_path(str(app), run_name=\'__main__\')\n\n\nif __name__ == \'__main__\':\n    main()\n'
+# EMBEDDED_LAUNCHER_END
+
+
+def prepare_original_source(output, input_root='/kaggle/input', source_json=None):
+    source = find_original_source(input_root, source_json)
+    launcher = Path(output) / '_support/launch_with_original_source.py'
+    launcher.parent.mkdir(parents=True, exist_ok=True)
+    compile(ORIGINAL_SOURCE_LAUNCHER, str(launcher), 'exec')
+    launcher.write_text(ORIGINAL_SOURCE_LAUNCHER, encoding='utf-8')
+    print('Original source (read only):', source)
+    print('Saved Content:', Path(output) / '.state/content.json')
+    return source, launcher
+
+
 if __name__=='__main__':
+    SOURCE_JSON=find_original_source()
     ANNOTATION_DIR=restore_student_114()
-    SOURCE_JSON=ANNOTATION_DIR/'_review/student_114_for_review.json'
+    SOURCE_JSON,APP_LAUNCHER=prepare_original_source(
+        ANNOTATION_DIR,source_json=SOURCE_JSON)

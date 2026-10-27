@@ -1,96 +1,92 @@
-# Dữ liệu để khôi phục trên Kaggle
+# Khôi phục nhãn với nguồn student_114.json gốc
 
-Gói có đủ **9 ảnh / 1.940 box**, gồm ba bài bạn cung cấp (17390, 18591, 31962) và bản nháp cho sáu ảnh còn lại. Giữ nguyên box, trạng thái và crop bạn cung cấp; nhãn **31962 #91** được sửa theo PDF như mô tả dưới đây.
+Gói có **9 ảnh / 1.940 box**, gồm ba bài bạn cung cấp và bản nháp cho sáu ảnh còn lại.
+`SOURCE_JSON` luôn trỏ tới **student_114.json gốc trong Input**. Không sửa hoặc tạo
+bản thay thế của file nguồn. Các chỉnh sửa Content, kể cả Toát yếu bổ sung và
+chữ đã xác minh ở 31962, được lưu trong `annotations/.state/content.json`.
 
-## Bản cập nhật sau khi rà lỗi font
+## Dataset backup đã upload vẫn dùng được
 
-- **31962, ô #91:** JSON trước ghi `足`, nhưng PDF Tập 4 trang 13 (trang in 526) và ảnh bia đều là `是` trong `是亦酬德報功`. Đã sửa đồng bộ Content, nhãn box, source_text, text_sequence và bản nguồn dùng để khôi phục.
-- Không thay bằng `@` ở vị trí này vì đã xác định được Unicode đúng.
-- Đã kiểm tra đủ bốn font CJK mà tool dùng: NomNaTong, DengXian, PMingLiU, PMingLiU-ExtB. Những chữ hiếm như `𦝧` có font dự phòng hỗ trợ nên giữ nguyên.
-- Bảy trang phiên chép chứa chín mặt bia không có glyph dán bằng ảnh raster. Không tìm thấy vị trí cần bắt buộc đổi sang `@` trong PDF và font đã kiểm tra.
-- Xem [báo cáo font](font_audit.json) và [ảnh đối chiếu](font_audit_evidence.png). Đây là kiểm tra PDF/font đi kèm tool, không phải kiểm tra việc tải font trong trình duyệt Kaggle của bạn.
+Không cần upload lại nhãn. Dừng ô chạy web, rồi:
 
-## File cần dùng
+1. Mở [restore_in_kaggle.ipynb](restore_in_kaggle.ipynb), sao chép **hai cell code**
+   để thay cell khôi phục và cell mở web cũ trong chính notebook đang chạy tool.
+2. Chạy cell đó. Nó tự tìm `student_114.json` gốc trong Input và backup đã gắn,
+   khôi phục vào `/kaggle/working/annotations`, rồi tạo `APP_LAUNCHER`.
+   Hỗ trợ cả Dataset còn ZIP hoặc đã được Kaggle giải nén, kể cả ZIP con đã bung.
+3. Cell mở web mới đã dùng APP_LAUNCHER. Nếu sửa thủ công cell cũ, thay:
 
-- **[student_114_kaggle_restore.zip](student_114_kaggle_restore.zip)**: tải file này, upload thành Kaggle Dataset rồi Add Input vào notebook tool. Gói chứa các JSON từng ảnh, Content đã lưu, nguồn để mở lại và ghi chú kiểm tra.
-- **[restore_in_kaggle.ipynb](restore_in_kaggle.ipynb)**: chứa cell khôi phục. Sao chép cell vào chính notebook đang chạy tool, trước cell mở web.
-- [annotations.zip](annotations.zip): ba JSON theo dạng Download All, để lưu trữ/đối chiếu. Dùng gói khôi phục ở trên để nạp lại tool.
+   ```python
+   str(REPO_PYTHON), '-u', str(REPO_DIR / 'gradio/app.py'),
+   ```
 
-Các ảnh gốc vẫn ở [student_114](../student_114). Notebook Kaggle cần có Dataset ảnh và model như trước; gói khôi phục không chứa model hay ảnh gốc.
+   bằng:
 
-## Cách chạy
+   ```python
+   str(REPO_PYTHON), '-u', str(APP_LAUNCHER),
+   ```
 
-1. Tải `student_114_kaggle_restore.zip`, tạo Dataset riêng trên Kaggle và Add Input vào notebook tool.
-2. Sao chép cell trong notebook khôi phục vào **cùng notebook tool**, sau các cell chuẩn bị dữ liệu và trước cell mở web. Chạy cell đó. Cell hỗ trợ cả ZIP còn nguyên hoặc Dataset đã được Kaggle giải nén.
-3. Cell tạo hai biến cần giữ cho lệnh mở web:
+4. Giữ các tham số sau trong command:
 
-```python
-ANNOTATION_DIR = Path('/kaggle/working/annotations')
-SOURCE_JSON = ANNOTATION_DIR / '_review/student_114_for_review.json'
-```
+   ```python
+   '--source-json', str(SOURCE_JSON.resolve()),
+   '--output-dir', str(ANNOTATION_DIR.resolve()),
+   ```
 
-4. Lệnh mở `gradio/app.py` phải dùng `--output-dir` và `--source-json` tương ứng với hai biến trên. Không gán lại SOURCE_JSON về JSON cũ sau cell khôi phục. IMAGE_DIR vẫn trỏ tới thư mục chín ảnh.
-5. Mở web, chọn ảnh trong History và kiểm tra. Không bấm Run Detection để khôi phục box.
+   SOURCE_JSON là đường dẫn tới `student_114.json` gốc trong Input; bỏ dòng gán
+   nó sang bản nguồn phụ nếu còn trong notebook cũ. IMAGE_DIR vẫn trỏ tới ảnh gốc.
+   Nếu REPO_DIR khác `/kaggle/working/SinoNom-Annotation`, đặt
+   `environment['SINONOM_REPO_DIR'] = str(REPO_DIR.resolve())` trước subprocess.run.
+5. Chạy riêng ô mở web, mở History và chọn ảnh. Không chạy detection để khôi phục.
 
-Nếu output đã có dữ liệu khác, cell sẽ dừng để không ghi đè. Chọn một thư mục output mới trong lời gọi khôi phục và dùng cùng đường dẫn cho app.
+[annotation-sinonom.ipynb](../annotation-sinonom.ipynb) đã hỗ trợ APP_LAUNCHER.
+Nếu có nhiều bản student_114.json trong Input, truyền đường dẫn gốc rõ ràng vào
+`find_original_source(source_json=...)`. Nếu output có nhãn khác hoặc chỉnh sửa
+mới, bộ khôi phục dừng để giữ dữ liệu đó; không tự xóa/ghi đè.
 
-### Nếu Kaggle báo thiếu `annotations/annotations.zip`
+## Content được lưu và đọc thế nào
 
-Kaggle có thể tự giải nén cả ZIP con thành thư mục `annotations/annotations`.
-ZIP này chỉ là bản xuất để tải về; History đọc JSON từng ảnh. Bản đóng gói mới
-không chứa ZIP con và bộ khôi phục mới cũng hỗ trợ Dataset cũ bị giải nén theo cách này.
-Các JSON bắt buộc vẫn được kiểm tra đầy đủ bằng checksum; không bỏ qua file nhãn bị thiếu.
+- File nguồn: `student_114.json` gốc, dùng để khởi tạo dữ liệu.
+- Content đã sửa: `/kaggle/working/annotations/.state/content.json`.
+- JSON từng ảnh: trực tiếp trong annotations hoặc annotations/source_mismatches.
+- Download All: xuất Content thành inscription_content.json trong ZIP tải về.
 
-Nếu đã upload Dataset cũ, không cần upload lại. Chạy cell sau trước cell mở web
-(đổi INPUT_DIR nếu Dataset của bạn nằm ở đường dẫn khác):
+Tool gốc bỏ qua mục Content chưa có trong nguồn. Bộ nạp mới lấy các mục đã lưu,
+như Toát yếu của 55431, 55432, 18592, vào **bản ghi trong bộ nhớ** khi mở ảnh.
+Sau đó giao diện cho sửa và Save Annotation như các mục khác. Không ghi nguồn,
+không sửa checkout của tool, không tạo hay chuyển nội dung Hán Nôm/Hán Việt mới.
+Mục có giá trị null vẫn giữ nguyên null; không tự tạo văn bản cho mục đó.
 
-```python
-from pathlib import Path
-import json
-import runpy
-import shutil
-import tempfile
+File nguồn phụ từ gói cũ, nếu đã nằm trong output cũ, không được dùng làm nguồn.
+Bản gói mới không chứa `student_114_for_review.json`.
 
-INPUT_DIR = Path('/kaggle/input/datasets/nhn12312312412/backup')
-restore = runpy.run_path(str(INPUT_DIR / 'restore_in_kaggle.py'))['restore_student_114']
+## File tải lên khi bắt đầu lại
 
-with tempfile.TemporaryDirectory() as temporary:
-    staged = Path(temporary) / 'backup'
-    shutil.copytree(INPUT_DIR, staged)
-    manifest_path = staged / 'student_114_manifest.json'
-    manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
-    # Chỉ bỏ yêu cầu về ZIP phụ trong bản sao tạm; giữ kiểm tra các JSON.
-    manifest['files'].pop('annotations.zip', None)
-    manifest_path.write_text(json.dumps(manifest, ensure_ascii=False), encoding='utf-8')
-    ANNOTATION_DIR = restore(
-        input_root=staged,
-        output='/kaggle/working/annotations_font_review',
-    )
+- [student_114_kaggle_restore.zip](student_114_kaggle_restore.zip): tạo Kaggle
+  Dataset rồi Add Input vào notebook tool. Không chứa ảnh hoặc model.
+- [restore_in_kaggle.ipynb](restore_in_kaggle.ipynb): cell mới tự chứa đầy đủ code.
+- [restore_in_kaggle.py](restore_in_kaggle.py): cùng code, dùng nếu chạy bằng Python.
+- [launch_with_original_source.py](launch_with_original_source.py): bộ nạp tương thích.
+- [annotations.zip](annotations.zip): ba JSON theo dạng Download All, để sao lưu.
 
-SOURCE_JSON = ANNOTATION_DIR / '_review/student_114_for_review.json'
-```
+## Giới hạn và kiểm tra nội dung
 
-Trong cell mở web, dùng cùng `ANNOTATION_DIR` và `SOURCE_JSON` ở trên.
+Đây vẫn là **bản nháp để kiểm tra**, chưa xác nhận sẵn sàng nộp:
 
-Nếu đã khôi phục gói cũ, hãy dùng Dataset chứa ZIP mới và khôi phục sang thư mục mới, ví dụ:
+- **17077 và 46302:** có cả nhãn dư lẫn thiếu; tool chỉ cho một loại nên dùng Other.
+  Native Other chỉ nạp box. Nhãn/trạng thái/crop đầy đủ ở `_review/review_details`.
+- **18592:** 145 box nhỏ/vùng hỏng cần soi kỹ; 45 MISS là hệ quả của quy tắc chỉ bỏ
+  ngoặc rỗng trong nguyên văn Hán Nôm đã thống nhất.
+- Sáu ảnh mới cần kiểm tra lại trạng thái hư hại.
 
-```python
-ANNOTATION_DIR = restore_student_114(output='/kaggle/working/annotations_font_review')
-SOURCE_JSON = ANNOTATION_DIR / '_review/student_114_for_review.json'
-```
+Nguyên văn Hán Nôm chỉ bỏ ngoặc, ngoại trừ lỗi Unicode đã xác minh ở **31962 #91:
+足 → 是**. Phiên âm Hán Việt đổi `[]` thành `□` rồi bỏ ngoặc. Phần thuần Việt sửa
+theo PDF. Không tìm thấy vị trí cần đổi sang `@` trong PDF và font đã kiểm tra;
+xem [báo cáo](font_audit.json) và [ảnh đối chiếu](font_audit_evidence.png).
 
-Lệnh mở web phải giữ đúng ANNOTATION_DIR mới; bỏ lệnh gán lại về đường dẫn cũ nếu có. Không gắn đồng thời nhiều Dataset chứa các bản `student_114_kaggle_restore*.zip` vì cell sẽ không tự chọn thay bạn.
+Sau khi sửa trên web: **Save Annotation → Download All**, giữ ZIP ngoài session.
+Gói trên GitHub không tự cập nhật theo thao tác trên Kaggle.
 
-## Các giới hạn cần kiểm tra
-
-Đây là **bản nháp để kiểm tra**, chưa xác nhận sẵn sàng nộp:
-
-- **17077 và 46302** có cả nhãn dư lẫn thiếu. Tool gốc không hỗ trợ đồng thời hai loại nên gói native dùng Other. Other chỉ nạp box; toàn bộ nhãn, trạng thái, crop được giữ riêng trong `_review/review_details` và `_review/character_review`.
-- **18592** có 145 box ghi chú nhỏ/vùng hỏng cần soi kỹ. Theo yêu cầu chỉ bỏ ngoặc ở Hán Nôm, 45 `[]` rỗng không được tự đổi thành `□` tại mục này, nên xuất thành 45 vị trí MISS. Đây là hệ quả của quy tắc chuẩn hóa đã chọn.
-- Sáu ảnh mới cần kiểm tra lại trạng thái hư hại. Ghi chú đầy đủ và báo cáo kiểm tra nằm trong `_review/README.md`, `_review/summary.pdf`, `_review/validation.json` sau khi khôi phục.
-
-Nguyên văn Hán Nôm chỉ bỏ ngoặc, ngoại trừ lỗi font/Unicode được xác minh theo yêu cầu rà soát mới nhất. Phiên âm Hán Việt đổi `[]` thành `□` rồi bỏ ngoặc, không tự thay chữ. Phần thuần Việt được sửa theo PDF. Các quy tắc và thay đổi được ghi trong gói.
-
-Đã kiểm tra checksum gói, schema JSON, nạp lại cả chín ảnh bằng Workflow của tool gốc, giữ nguyên hình học/trạng thái/crop và chỉ sửa nhãn Unicode nêu trên. Cell khôi phục cũng đã thử với Dataset ZIP, Dataset đã giải nén và tình huống có dữ liệu mới hơn.
-
-Sau khi làm thêm trên Kaggle, bấm **Save Annotation → Download All** và giữ ZIP mới bên ngoài session. Gói trong GitHub không tự cập nhật theo thao tác của bạn trên web.
+Kiểm tra khôi phục ZIP/Dataset và giữ nhãn mới: `python kaggle_upload/test_restore.py`.
+Kiểm tra nạp Content với nguồn gốc: chạy test_original_source.py bằng môi trường
+đã cài requirements của tool, truyền SINONOM_REPO_DIR trỏ tới checkout tool.

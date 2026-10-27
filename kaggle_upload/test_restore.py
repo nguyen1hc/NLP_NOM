@@ -105,6 +105,21 @@ class RestoreTests(unittest.TestCase):
             self.restore()
         self.assertFalse(self.output.exists())
 
+    def test_legacy_replacement_source_is_not_restored(self):
+        self.unpack()
+        relative = '_review/student_114_for_review.json'
+        data = b'[]'
+        (self.input / 'annotations' / relative).write_bytes(data)
+        manifest = self.input / 'student_114_manifest.json'
+        document = json.loads(manifest.read_text())
+        document['files'][relative] = {
+            'sha256': hashlib.sha256(data).hexdigest(), 'bytes': len(data),
+        }
+        manifest.write_text(json.dumps(document))
+        self.restore()
+        self.assert_payload()
+        self.assertFalse((self.output / relative).exists())
+
     def test_corrupted_native_is_rejected(self):
         self.unpack()
         (self.input / 'annotations/18591.json').write_bytes(b'corrupt')
