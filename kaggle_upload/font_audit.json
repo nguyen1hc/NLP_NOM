@@ -1,0 +1,304 @@
+{
+  "scope": "Nine assigned faces; seven PDF transcription pages; complete bundled Han/Nom web font fallback plus Arial.",
+  "baseline_commit": "2cb6df3",
+  "font_files": [
+    {
+      "name": "NomNaTong.ttf",
+      "sha256": "37bd8506257d0905d499395e7f0bc2b6a2ae619dbb635a82ea0905b75b2ff5f3"
+    },
+    {
+      "name": "DengXian.ttf",
+      "sha256": "1ee82be03530c693b9d3d47149c981fec0b7284f29bb8bd7a40d5f47e7a6caf6"
+    },
+    {
+      "name": "PMingLiU.ttf",
+      "sha256": "bb91bf55c7f5a7191b192d33a501aa9c0dfe80c44944b2e492835a8188d1f8cc"
+    },
+    {
+      "name": "PMingLiU-ExtB.ttf",
+      "sha256": "ff2233b55dc4d0a628d55f22ca8f9c0eef4b5a892b7d2d6734c28a323032fdfc"
+    },
+    {
+      "name": "Arial.ttf",
+      "sha256": "35c0f3559d8db569e36c31095b8a60d441643d95f59139de40e23fada819b833"
+    }
+  ],
+  "coverage": [
+    {
+      "image": "17077.jpg",
+      "distinct_nonwhitespace_characters": 190,
+      "unsupported_characters": [],
+      "rare_characters": []
+    },
+    {
+      "image": "17390.jpg",
+      "distinct_nonwhitespace_characters": 143,
+      "unsupported_characters": [],
+      "rare_characters": []
+    },
+    {
+      "image": "18591.jpg",
+      "distinct_nonwhitespace_characters": 132,
+      "unsupported_characters": [],
+      "rare_characters": []
+    },
+    {
+      "image": "18592.jpg",
+      "distinct_nonwhitespace_characters": 108,
+      "unsupported_characters": [],
+      "rare_characters": [
+        {
+          "char": "𡧲",
+          "unicode": "U+219F2",
+          "supporting_fonts": [
+            "NomNaTong.ttf",
+            "PMingLiU-ExtB.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "image": "31962.png",
+      "distinct_nonwhitespace_characters": 99,
+      "unsupported_characters": [],
+      "rare_characters": [
+        {
+          "char": "𦝧",
+          "unicode": "U+26767",
+          "supporting_fonts": [
+            "PMingLiU-ExtB.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "image": "46302.png",
+      "distinct_nonwhitespace_characters": 240,
+      "unsupported_characters": [],
+      "rare_characters": [
+        {
+          "char": "𥸷",
+          "unicode": "U+25E37",
+          "supporting_fonts": [
+            "NomNaTong.ttf",
+            "PMingLiU-ExtB.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "image": "46303.png",
+      "distinct_nonwhitespace_characters": 101,
+      "unsupported_characters": [],
+      "rare_characters": [
+        {
+          "char": "𣷷",
+          "unicode": "U+23DF7",
+          "supporting_fonts": [
+            "NomNaTong.ttf",
+            "PMingLiU-ExtB.ttf"
+          ]
+        },
+        {
+          "char": "𨕭",
+          "unicode": "U+2856D",
+          "supporting_fonts": [
+            "NomNaTong.ttf",
+            "PMingLiU-ExtB.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "image": "55431.png",
+      "distinct_nonwhitespace_characters": 132,
+      "unsupported_characters": [],
+      "rare_characters": [
+        {
+          "char": "⿈",
+          "unicode": "U+2FC8",
+          "supporting_fonts": [
+            "NomNaTong.ttf"
+          ]
+        }
+      ]
+    },
+    {
+      "image": "55432.png",
+      "distinct_nonwhitespace_characters": 38,
+      "unsupported_characters": [],
+      "rare_characters": []
+    }
+  ],
+  "pdf_transcription_pages": [
+    {
+      "volume": 3,
+      "pdf_page": 3,
+      "embedded_raster_images": 0,
+      "description": "These pages contain the Han transcription of the nine assigned images."
+    },
+    {
+      "volume": 3,
+      "pdf_page": 7,
+      "embedded_raster_images": 0,
+      "description": "These pages contain the Han transcription of the nine assigned images."
+    },
+    {
+      "volume": 3,
+      "pdf_page": 12,
+      "embedded_raster_images": 0,
+      "description": "These pages contain the Han transcription of the nine assigned images."
+    },
+    {
+      "volume": 4,
+      "pdf_page": 4,
+      "embedded_raster_images": 0,
+      "description": "These pages contain the Han transcription of the nine assigned images."
+    },
+    {
+      "volume": 4,
+      "pdf_page": 5,
+      "embedded_raster_images": 0,
+      "description": "These pages contain the Han transcription of the nine assigned images."
+    },
+    {
+      "volume": 4,
+      "pdf_page": 10,
+      "embedded_raster_images": 0,
+      "description": "These pages contain the Han transcription of the nine assigned images."
+    },
+    {
+      "volume": 4,
+      "pdf_page": 13,
+      "embedded_raster_images": 0,
+      "description": "These pages contain the Han transcription of the nine assigned images."
+    }
+  ],
+  "no_pasted_raster_glyphs_in_assigned_transcription_pages": true,
+  "candidate_visual_reviews": [
+    {
+      "char": "騰",
+      "decision": "keep",
+      "reason": "Visible PDF glyph is identifiable as the same character; approximate matching error alone is not an unavailable font.",
+      "glyph_matching_evidence": [
+        {
+          "char": "騰",
+          "unicode": "U+9A30",
+          "mean_abs_pixel_error": 25.8104,
+          "second_best_error": 27.0254,
+          "reference_font": "NomNaTong.ttf",
+          "glyph": "cid01037",
+          "method": "coarse_L2_top32_then_full_L1_proposal"
+        }
+      ]
+    },
+    {
+      "char": "孰",
+      "decision": "keep",
+      "reason": "Visible PDF glyph agrees with the source character.",
+      "glyph_matching_evidence": [
+        {
+          "char": "孰",
+          "unicode": "U+5B70",
+          "mean_abs_pixel_error": 21.3739,
+          "second_best_error": 28.6176,
+          "reference_font": "NomNaTong.ttf",
+          "glyph": "cid00911",
+          "method": "coarse_L2_top32_then_full_L1_proposal"
+        }
+      ]
+    },
+    {
+      "char": "饗",
+      "decision": "keep",
+      "reason": "Visible PDF glyph agrees with the source character.",
+      "glyph_matching_evidence": [
+        {
+          "char": "饗",
+          "unicode": "U+9957",
+          "mean_abs_pixel_error": 18.9593,
+          "second_best_error": 39.9345,
+          "reference_font": "NomNaTong.ttf",
+          "glyph": "cid01445",
+          "method": "coarse_L2_top32_then_full_L1_proposal"
+        }
+      ]
+    },
+    {
+      "char": "⿈",
+      "decision": "keep",
+      "reason": "The source code point and the usual yellow character share a glyph; source is displayable. Do not replace solely because this is a radical code point.",
+      "glyph_matching_evidence": [
+        {
+          "char": "⿈",
+          "unicode": "U+2FC8",
+          "mean_abs_pixel_error": 0.0785,
+          "second_best_error": 0.0785,
+          "reference_font": "NomNaTong.ttf",
+          "glyph": "cid00579",
+          "method": "coarse_L2_top32_then_full_L1_proposal"
+        }
+      ]
+    },
+    {
+      "char": "𦝧",
+      "decision": "keep",
+      "reason": "Rendered by the bundled PMingLiU-ExtB fallback; not missing from the complete web-font stack.",
+      "glyph_matching_evidence": [
+        {
+          "char": "𦝧",
+          "unicode": "U+26767",
+          "mean_abs_pixel_error": 0.4435,
+          "second_best_error": 33.5283,
+          "reference_font": "PMingLiU-ExtB.ttf",
+          "glyph": "cid00002",
+          "method": "coarse_L2_top32_then_full_L1_proposal"
+        }
+      ]
+    },
+    {
+      "char": "足",
+      "decision": "correct_one_occurrence",
+      "reason": "On volume 4 page 13, the actual PDF and stone both show 是 in 是亦酬德報功. Other occurrences of 足 are retained.",
+      "glyph_matching_evidence": [
+        {
+          "char": "足",
+          "unicode": "U+8DB3",
+          "mean_abs_pixel_error": 0.074,
+          "second_best_error": 7.5393,
+          "reference_font": "NomNaTong.ttf",
+          "glyph": "cid00545",
+          "method": "coarse_L2_top32_then_full_L1_proposal"
+        },
+        {
+          "char": "足",
+          "unicode": "U+8DB3",
+          "mean_abs_pixel_error": 25.0787,
+          "second_best_error": 26.8812,
+          "reference_font": "NomNaTong.ttf",
+          "glyph": "cid00237",
+          "method": "coarse_L2_top32_then_full_L1_proposal"
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "image": "31962.png",
+      "section": "Nguyên văn chữ Hán Nôm",
+      "box_id": "91",
+      "before": "足",
+      "after": "是",
+      "before_context": "足亦酬德報功",
+      "after_context": "是亦酬德報功",
+      "volume": 4,
+      "pdf_page": 13,
+      "printed_page": 526,
+      "reason": "Known Unicode decoding error, confirmed visually in PDF and the user box. Not an unknown-font placeholder.",
+      "user_geometry_and_status_unchanged": true
+    }
+  ],
+  "at_sign_replacements": [],
+  "conclusion": "No position requiring @ was found under the quoted rule in these PDFs and the bundled fonts. Correct the one identified source-decoding error to 是; keep displayable rare characters.",
+  "live_kaggle_browser_font_delivery_tested": false
+}

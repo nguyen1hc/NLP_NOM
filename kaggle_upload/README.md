@@ -1,6 +1,14 @@
 # Dữ liệu để khôi phục trên Kaggle
 
-Gói có đủ **9 ảnh / 1.940 box**, gồm ba bài bạn cung cấp (17390, 18591, 31962) và bản nháp cho sáu ảnh còn lại. Box, nhãn, trạng thái và crop của ba bài bạn cung cấp được giữ nguyên.
+Gói có đủ **9 ảnh / 1.940 box**, gồm ba bài bạn cung cấp (17390, 18591, 31962) và bản nháp cho sáu ảnh còn lại. Giữ nguyên box, trạng thái và crop bạn cung cấp; nhãn **31962 #91** được sửa theo PDF như mô tả dưới đây.
+
+## Bản cập nhật sau khi rà lỗi font
+
+- **31962, ô #91:** JSON trước ghi `足`, nhưng PDF Tập 4 trang 13 (trang in 526) và ảnh bia đều là `是` trong `是亦酬德報功`. Đã sửa đồng bộ Content, nhãn box, source_text, text_sequence và bản nguồn dùng để khôi phục.
+- Không thay bằng `@` ở vị trí này vì đã xác định được Unicode đúng.
+- Đã kiểm tra đủ bốn font CJK mà tool dùng: NomNaTong, DengXian, PMingLiU, PMingLiU-ExtB. Những chữ hiếm như `𦝧` có font dự phòng hỗ trợ nên giữ nguyên.
+- Bảy trang phiên chép chứa chín mặt bia không có glyph dán bằng ảnh raster. Không tìm thấy vị trí cần bắt buộc đổi sang `@` trong PDF và font đã kiểm tra.
+- Xem [báo cáo font](font_audit.json) và [ảnh đối chiếu](font_audit_evidence.png). Đây là kiểm tra PDF/font đi kèm tool, không phải kiểm tra việc tải font trong trình duyệt Kaggle của bạn.
 
 ## File cần dùng
 
@@ -26,6 +34,15 @@ SOURCE_JSON = ANNOTATION_DIR / '_review/student_114_for_review.json'
 
 Nếu output đã có dữ liệu khác, cell sẽ dừng để không ghi đè. Chọn một thư mục output mới trong lời gọi khôi phục và dùng cùng đường dẫn cho app.
 
+Nếu đã khôi phục gói cũ, hãy dùng Dataset chứa ZIP mới và khôi phục sang thư mục mới, ví dụ:
+
+```python
+ANNOTATION_DIR = restore_student_114(output='/kaggle/working/annotations_font_review')
+SOURCE_JSON = ANNOTATION_DIR / '_review/student_114_for_review.json'
+```
+
+Lệnh mở web phải giữ đúng ANNOTATION_DIR mới; bỏ lệnh gán lại về đường dẫn cũ nếu có. Không gắn đồng thời nhiều Dataset chứa các bản `student_114_kaggle_restore*.zip` vì cell sẽ không tự chọn thay bạn.
+
 ## Các giới hạn cần kiểm tra
 
 Đây là **bản nháp để kiểm tra**, chưa xác nhận sẵn sàng nộp:
@@ -34,8 +51,8 @@ Nếu output đã có dữ liệu khác, cell sẽ dừng để không ghi đè.
 - **18592** có 145 box ghi chú nhỏ/vùng hỏng cần soi kỹ. Theo yêu cầu chỉ bỏ ngoặc ở Hán Nôm, 45 `[]` rỗng không được tự đổi thành `□` tại mục này, nên xuất thành 45 vị trí MISS. Đây là hệ quả của quy tắc chuẩn hóa đã chọn.
 - Sáu ảnh mới cần kiểm tra lại trạng thái hư hại. Ghi chú đầy đủ và báo cáo kiểm tra nằm trong `_review/README.md`, `_review/summary.pdf`, `_review/validation.json` sau khi khôi phục.
 
-Nguyên văn Hán Nôm chỉ bỏ ngoặc. Phiên âm Hán Việt đổi `[]` thành `□` rồi bỏ ngoặc, không tự thay chữ. Phần thuần Việt được sửa theo PDF. Các quy tắc và thay đổi được ghi trong gói.
+Nguyên văn Hán Nôm chỉ bỏ ngoặc, ngoại trừ lỗi font/Unicode được xác minh theo yêu cầu rà soát mới nhất. Phiên âm Hán Việt đổi `[]` thành `□` rồi bỏ ngoặc, không tự thay chữ. Phần thuần Việt được sửa theo PDF. Các quy tắc và thay đổi được ghi trong gói.
 
-Đã kiểm tra checksum gói, schema JSON, nạp lại cả chín ảnh bằng Workflow của tool gốc và giữ nguyên annotation người dùng. Cell khôi phục cũng đã thử với Dataset ZIP, Dataset đã giải nén và tình huống có dữ liệu mới hơn.
+Đã kiểm tra checksum gói, schema JSON, nạp lại cả chín ảnh bằng Workflow của tool gốc, giữ nguyên hình học/trạng thái/crop và chỉ sửa nhãn Unicode nêu trên. Cell khôi phục cũng đã thử với Dataset ZIP, Dataset đã giải nén và tình huống có dữ liệu mới hơn.
 
 Sau khi làm thêm trên Kaggle, bấm **Save Annotation → Download All** và giữ ZIP mới bên ngoài session. Gói trong GitHub không tự cập nhật theo thao tác của bạn trên web.
