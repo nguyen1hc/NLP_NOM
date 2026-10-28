@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "targets": [
+    "55431.png",
+    "46303.png",
+    "46302.png"
+  ],
+  "original_source": "student_114.json",
+  "model_inference_completed_here": false,
+  "replaceable_assistant_drafts": {
+    "55431": [
+      "0f516e973b25d1e564c8903f07fbe151dbb74c99081860f18fd4595ee6c712dd"
+    ],
+    "46303": [
+      "5bf19affdd9b874d82e4b9f50ec9ba3b15c5bf45ee5e1f9c08a5823c39f17196"
+    ],
+    "46302": [
+      "0d06bb7b1f5c7387a19e1a6d06e1bfc1287bc3c06481478347f8a52b62473327"
+    ]
+  },
+  "files": {
+    "README.md": {
+      "sha256": "2ecbe7b18bb804c8479161c1aa03afad2f8f64c50bf5e4deb1183f283e63e99f",
+      "bytes": 4219
+    },
+    "content_base.py": {
+      "sha256": "f49f6f2199411b957d6ba9621d1fe3754a3cfb62b27527b8f288ef75f93d615f",
+      "bytes": 2877
+    },
+    "data/46302.json": {
+      "sha256": "64631919ca9a135877c9b1ffbacb3d1c2bbd218cc13a2684cdc0bd5aa98044dc",
+      "bytes": 103656
+    },
+    "data/46303.json": {
+      "sha256": "ce1fc30714dd3b20f4db59ed18f5e0099e67d0f1c44045cd0cc95e7849f7ed53",
+      "bytes": 52678
+    },
+    "data/55431.json": {
+      "sha256": "76dbc707d1645d9deed8f6b8bbfdd5ede2e9d2f466b337ed6dcf7eca82f43ff9",
+      "bytes": 49036
+    },
+    "existing_user_annotations/18591.json": {
+      "sha256": "1ea830e84b213236e19c98121a2ce811957437bde1659bb13cd4e3e776f6212c",
+      "bytes": 53840
+    },
+    "existing_user_annotations/55432.json": {
+      "sha256": "0a5495546b003c5484f9897ee5e57ec2bf17300576bdae31aa1794f24d2b378d",
+      "bytes": 17128
+    },
+    "existing_user_annotations/source_mismatches/17390.json": {
+      "sha256": "cb228746b7ab3d4ec2b6d8c1dde375f3d43db636fbc75bce094e1f04bf78d356",
+      "bytes": 76225
+    },
+    "existing_user_annotations/source_mismatches/31962.json": {
+      "sha256": "3bebd08120dd440686aae397111099ba3fbcc0b705663b97af7eae05f2fbe683",
+      "bytes": 43104
+    },
+    "geometry_validation.json": {
+      "sha256": "48151e46d1ac3ae53f37458a179ebf77259d3617591ea74d18c77c6664c2a753",
+      "bytes": 1680
+    },
+    "inscription_content.json": {
+      "sha256": "9d8049c7651bad348574323db8bb2ffb0b8eaea57519d3f6d80cadb58b59f6bc",
+      "bytes": 24304
+    },
+    "kaggle_cell.py": {
+      "sha256": "7d3490e0a303fbe7b6362c3a43c6504371d0223d729298cac3345772f980c7f8",
+      "bytes": 1046
+    },
+    "launch_with_original_source.py": {
+      "sha256": "29684b8b0032c702952cb4eabb3301631306a30210a94273be372f8822f1eb8e",
+      "bytes": 6416
+    },
+    "normalization_changes.json": {
+      "sha256": "0af15e4d884fe2a50e6e703e1ef2bb444238c6a57c582e748fa87156d72664d1",
+      "bytes": 31440
+    },
+    "three_images_helper.py": {
+      "sha256": "1617a0805a62f57dcf1325f7484b57e2fbcc0c07e3bed75795200818871cbbc7",
+      "bytes": 17315
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "images_to_annotate": [
+    "55431.png",
+    "46303.png",
+    "46302.png"
+  ],
+  "boxes_by_image": {
+    "55431.png": 197,
+    "46303.png": 212,
+    "46302.png": 421
+  },
+  "total_new_image_boxes": 830,
+  "normalized_content_images": [
+    "17390.jpg",
+    "18591.jpg",
+    "31962.png",
+    "55432.png",
+    "55431.png",
+    "46303.png",
+    "46302.png"
+  ],
+  "empty_square_pairs_replaced": 13,
+  "all_existing_square_placeholders_preserved": true,
+  "original_source_unchanged": true,
+  "four_user_annotation_objects_unchanged": true,
+  "previous_assistant_damage_estimates_excluded": true,
+  "real_model_inference_completed": false,
+  "alignment_counters_pass": true,
+  "mixed_source_case": {
+    "image": "46302.png",
+    "missing_box_ids": [
+      35
+    ],
+    "excluded_characters": [
+      "〇",
+      "1"
+    ]
+  },
+  "ordered_alignment_checks": [
+    {
+      "image": "55431.png",
+      "boxes": 197,
+      "source_characters": 196,
+      "excluded": [],
+      "missing_ids": [
+        131
+      ],
+      "ordered_alignment_pass": true
+    },
+    {
+      "image": "46303.png",
+      "boxes": 212,
+      "source_characters": 213,
+      "excluded": [
+        "〇"
+      ],
+      "missing_ids": [],
+      "ordered_alignment_pass": true
+    },
+    {
+      "image": "46302.png",
+      "boxes": 421,
+      "source_characters": 422,
+      "excluded": [
+        "〇",
+        "1"
+      ],
+      "missing_ids": [
+        35
+      ],
+      "ordered_alignment_pass": true
+    }
+  ],
+  "model_inference_pending": true,
+  "geometry_uses_model_boxes": false,
+  "manual_pixel_geometry_corrections_applied": true,
+  "full_accuracy_of_damaged_glyph_boundaries_certified": false
+}

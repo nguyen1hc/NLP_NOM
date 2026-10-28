@@ -1,0 +1,5968 @@
+{
+  "image": "46302.png",
+  "inscription_code": "46302",
+  "image_sha256": "fc37d62709ad41277110878ad4b43309bb918f0968fad00b14ca826e1b3ad8e0",
+  "source_text": "后族碑記\n寧江府四岐縣河路總河海社阮族耆老、里役、仝族上下諸人等為立\n碑記事。\n聞：積善餘慶\n，古有言也。人同此心，心同此理，孰不欲為善之\n心乎？緣於壬寅年六月日，本族修造奉事〇先祖祭器各物，功用太廣，財\n力未敷。時1有族內人阮公字有晉，婿子何惟善，女子阮氏近念及親母\n生時\n只有生得一女，慮其後日遠代何依？仍此揭出青銭六十貫，交與本族公支。\n再供良田一畝一高，交與本族均分\n族內人丁耕作，以為後日之計。其本族\n共順保伊氏親母\n陶氏號妙祿為后祖一位，搜集謚號名字，著\n之石碑，以貽\n後裔。俾後春常秋祀，目視碑文，察究本原功德，為百世不遷矣。茲本\n族會在先祖祠堂，議立碑記。其后祖忌日，本族具辨禮物各項，並田數\n畝高，東西處所，并例田銭與款待來，俵伊后長男各例具陳于次。因碑\n以自銘。銘曰：\n先后純\n粹天資，濟人之急不吝。\n家貲投桃報李，義本心推。\n計：\n一例后祖忌日，本族具辨猪一頭、𥸷 一盤、酒一盂、具饌一具、\n金銀一千、芙榔十菓，設位在先祖祠堂之側，本族供忌。禮畢之後，款\n待來，俵伊后長男隨儀，以重事体。\n一例忌田本族議定每畝同年一等每畝十一方，二等十方，三等九\n方。□□□后祖忌日，本族會在祠堂，摘取例田栗子買禮供忌。",
+  "annotations": {
+    "1": "后",
+    "2": "族",
+    "3": "碑",
+    "4": "記",
+    "5": "寧",
+    "6": "江",
+    "7": "府",
+    "8": "四",
+    "9": "岐",
+    "10": "縣",
+    "11": "河",
+    "12": "路",
+    "13": "總",
+    "14": "河",
+    "15": "海",
+    "16": "社",
+    "17": "阮",
+    "18": "族",
+    "19": "耆",
+    "20": "老",
+    "21": "里",
+    "22": "役",
+    "23": "仝",
+    "24": "族",
+    "25": "上",
+    "26": "下",
+    "27": "諸",
+    "28": "人",
+    "29": "等",
+    "30": "為",
+    "31": "立",
+    "32": "碑",
+    "33": "記",
+    "34": "事",
+    "35": "MISS",
+    "36": "聞",
+    "37": "積",
+    "38": "善",
+    "39": "餘",
+    "40": "慶",
+    "41": "古",
+    "42": "有",
+    "43": "言",
+    "44": "也",
+    "45": "人",
+    "46": "同",
+    "47": "此",
+    "48": "心",
+    "49": "心",
+    "50": "同",
+    "51": "此",
+    "52": "理",
+    "53": "孰",
+    "54": "不",
+    "55": "欲",
+    "56": "為",
+    "57": "善",
+    "58": "之",
+    "59": "心",
+    "60": "乎",
+    "61": "緣",
+    "62": "於",
+    "63": "壬",
+    "64": "寅",
+    "65": "年",
+    "66": "六",
+    "67": "月",
+    "68": "日",
+    "69": "本",
+    "70": "族",
+    "71": "修",
+    "72": "造",
+    "73": "奉",
+    "74": "事",
+    "75": "先",
+    "76": "祖",
+    "77": "祭",
+    "78": "器",
+    "79": "各",
+    "80": "物",
+    "81": "功",
+    "82": "用",
+    "83": "太",
+    "84": "廣",
+    "85": "財",
+    "86": "力",
+    "87": "未",
+    "88": "敷",
+    "89": "時",
+    "90": "有",
+    "91": "族",
+    "92": "內",
+    "93": "人",
+    "94": "阮",
+    "95": "公",
+    "96": "字",
+    "97": "有",
+    "98": "晉",
+    "99": "婿",
+    "100": "子",
+    "101": "何",
+    "102": "惟",
+    "103": "善",
+    "104": "女",
+    "105": "子",
+    "106": "阮",
+    "107": "氏",
+    "108": "近",
+    "109": "念",
+    "110": "及",
+    "111": "親",
+    "112": "母",
+    "113": "生",
+    "114": "時",
+    "115": "只",
+    "116": "有",
+    "117": "生",
+    "118": "得",
+    "119": "一",
+    "120": "女",
+    "121": "慮",
+    "122": "其",
+    "123": "後",
+    "124": "日",
+    "125": "遠",
+    "126": "代",
+    "127": "何",
+    "128": "依",
+    "129": "仍",
+    "130": "此",
+    "131": "揭",
+    "132": "出",
+    "133": "青",
+    "134": "銭",
+    "135": "六",
+    "136": "十",
+    "137": "貫",
+    "138": "交",
+    "139": "與",
+    "140": "本",
+    "141": "族",
+    "142": "公",
+    "143": "支",
+    "144": "再",
+    "145": "供",
+    "146": "良",
+    "147": "田",
+    "148": "一",
+    "149": "畝",
+    "150": "一",
+    "151": "高",
+    "152": "交",
+    "153": "與",
+    "154": "本",
+    "155": "族",
+    "156": "均",
+    "157": "分",
+    "158": "族",
+    "159": "內",
+    "160": "人",
+    "161": "丁",
+    "162": "耕",
+    "163": "作",
+    "164": "以",
+    "165": "為",
+    "166": "後",
+    "167": "日",
+    "168": "之",
+    "169": "計",
+    "170": "其",
+    "171": "本",
+    "172": "族",
+    "173": "共",
+    "174": "順",
+    "175": "保",
+    "176": "伊",
+    "177": "氏",
+    "178": "親",
+    "179": "母",
+    "180": "陶",
+    "181": "氏",
+    "182": "號",
+    "183": "妙",
+    "184": "祿",
+    "185": "為",
+    "186": "后",
+    "187": "祖",
+    "188": "一",
+    "189": "位",
+    "190": "搜",
+    "191": "集",
+    "192": "謚",
+    "193": "號",
+    "194": "名",
+    "195": "字",
+    "196": "著",
+    "197": "之",
+    "198": "石",
+    "199": "碑",
+    "200": "以",
+    "201": "貽",
+    "202": "後",
+    "203": "裔",
+    "204": "俾",
+    "205": "後",
+    "206": "春",
+    "207": "常",
+    "208": "秋",
+    "209": "祀",
+    "210": "目",
+    "211": "視",
+    "212": "碑",
+    "213": "文",
+    "214": "察",
+    "215": "究",
+    "216": "本",
+    "217": "原",
+    "218": "功",
+    "219": "德",
+    "220": "為",
+    "221": "百",
+    "222": "世",
+    "223": "不",
+    "224": "遷",
+    "225": "矣",
+    "226": "茲",
+    "227": "本",
+    "228": "族",
+    "229": "會",
+    "230": "在",
+    "231": "先",
+    "232": "祖",
+    "233": "祠",
+    "234": "堂",
+    "235": "議",
+    "236": "立",
+    "237": "碑",
+    "238": "記",
+    "239": "其",
+    "240": "后",
+    "241": "祖",
+    "242": "忌",
+    "243": "日",
+    "244": "本",
+    "245": "族",
+    "246": "具",
+    "247": "辨",
+    "248": "禮",
+    "249": "物",
+    "250": "各",
+    "251": "項",
+    "252": "並",
+    "253": "田",
+    "254": "數",
+    "255": "畝",
+    "256": "高",
+    "257": "東",
+    "258": "西",
+    "259": "處",
+    "260": "所",
+    "261": "并",
+    "262": "例",
+    "263": "田",
+    "264": "銭",
+    "265": "與",
+    "266": "款",
+    "267": "待",
+    "268": "來",
+    "269": "俵",
+    "270": "伊",
+    "271": "后",
+    "272": "長",
+    "273": "男",
+    "274": "各",
+    "275": "例",
+    "276": "具",
+    "277": "陳",
+    "278": "于",
+    "279": "次",
+    "280": "因",
+    "281": "碑",
+    "282": "以",
+    "283": "自",
+    "284": "銘",
+    "285": "銘",
+    "286": "曰",
+    "287": "先",
+    "288": "后",
+    "289": "純",
+    "290": "粹",
+    "291": "天",
+    "292": "資",
+    "293": "濟",
+    "294": "人",
+    "295": "之",
+    "296": "急",
+    "297": "不",
+    "298": "吝",
+    "299": "家",
+    "300": "貲",
+    "301": "投",
+    "302": "桃",
+    "303": "報",
+    "304": "李",
+    "305": "義",
+    "306": "本",
+    "307": "心",
+    "308": "推",
+    "309": "計",
+    "310": "一",
+    "311": "例",
+    "312": "后",
+    "313": "祖",
+    "314": "忌",
+    "315": "日",
+    "316": "本",
+    "317": "族",
+    "318": "具",
+    "319": "辨",
+    "320": "猪",
+    "321": "一",
+    "322": "頭",
+    "323": "𥸷",
+    "324": "一",
+    "325": "盤",
+    "326": "酒",
+    "327": "一",
+    "328": "盂",
+    "329": "具",
+    "330": "饌",
+    "331": "一",
+    "332": "具",
+    "333": "金",
+    "334": "銀",
+    "335": "一",
+    "336": "千",
+    "337": "芙",
+    "338": "榔",
+    "339": "十",
+    "340": "菓",
+    "341": "設",
+    "342": "位",
+    "343": "在",
+    "344": "先",
+    "345": "祖",
+    "346": "祠",
+    "347": "堂",
+    "348": "之",
+    "349": "側",
+    "350": "本",
+    "351": "族",
+    "352": "供",
+    "353": "忌",
+    "354": "禮",
+    "355": "畢",
+    "356": "之",
+    "357": "後",
+    "358": "款",
+    "359": "待",
+    "360": "來",
+    "361": "俵",
+    "362": "伊",
+    "363": "后",
+    "364": "長",
+    "365": "男",
+    "366": "隨",
+    "367": "儀",
+    "368": "以",
+    "369": "重",
+    "370": "事",
+    "371": "体",
+    "372": "一",
+    "373": "例",
+    "374": "忌",
+    "375": "田",
+    "376": "本",
+    "377": "族",
+    "378": "議",
+    "379": "定",
+    "380": "每",
+    "381": "畝",
+    "382": "同",
+    "383": "年",
+    "384": "一",
+    "385": "等",
+    "386": "每",
+    "387": "畝",
+    "388": "十",
+    "389": "一",
+    "390": "方",
+    "391": "二",
+    "392": "等",
+    "393": "十",
+    "394": "方",
+    "395": "三",
+    "396": "等",
+    "397": "九",
+    "398": "方",
+    "399": "□",
+    "400": "□",
+    "401": "□",
+    "402": "后",
+    "403": "祖",
+    "404": "忌",
+    "405": "日",
+    "406": "本",
+    "407": "族",
+    "408": "會",
+    "409": "在",
+    "410": "祠",
+    "411": "堂",
+    "412": "摘",
+    "413": "取",
+    "414": "例",
+    "415": "田",
+    "416": "栗",
+    "417": "子",
+    "418": "買",
+    "419": "禮",
+    "420": "供",
+    "421": "忌"
+  },
+  "bounding_boxes": {
+    "1": {
+      "bbox": [
+        499,
+        214,
+        544,
+        259
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "2": {
+      "bbox": [
+        390,
+        215,
+        432,
+        259
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "3": {
+      "bbox": [
+        284,
+        214,
+        328,
+        258
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "4": {
+      "bbox": [
+        171,
+        215,
+        218,
+        259
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "5": {
+      "bbox": [
+        553,
+        297,
+        583,
+        325
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "6": {
+      "bbox": [
+        553,
+        321,
+        583,
+        349
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "7": {
+      "bbox": [
+        553,
+        345,
+        583,
+        369
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "8": {
+      "bbox": [
+        553,
+        365,
+        583,
+        389
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "9": {
+      "bbox": [
+        553,
+        385,
+        583,
+        413
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "10": {
+      "bbox": [
+        553,
+        409,
+        583,
+        439
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "11": {
+      "bbox": [
+        553,
+        435,
+        583,
+        465
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "12": {
+      "bbox": [
+        553,
+        461,
+        583,
+        494
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "13": {
+      "bbox": [
+        553,
+        490,
+        583,
+        517
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "14": {
+      "bbox": [
+        553,
+        513,
+        583,
+        539
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "15": {
+      "bbox": [
+        553,
+        535,
+        583,
+        567
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "16": {
+      "bbox": [
+        553,
+        563,
+        583,
+        588
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "17": {
+      "bbox": [
+        553,
+        584,
+        583,
+        607
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "18": {
+      "bbox": [
+        553,
+        603,
+        583,
+        630
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "19": {
+      "bbox": [
+        553,
+        626,
+        583,
+        655
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "20": {
+      "bbox": [
+        553,
+        651,
+        583,
+        681
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "21": {
+      "bbox": [
+        553,
+        677,
+        583,
+        706
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "22": {
+      "bbox": [
+        553,
+        702,
+        583,
+        732
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "23": {
+      "bbox": [
+        553,
+        728,
+        583,
+        753
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "24": {
+      "bbox": [
+        553,
+        749,
+        583,
+        773
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "25": {
+      "bbox": [
+        553,
+        769,
+        583,
+        798
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "26": {
+      "bbox": [
+        553,
+        794,
+        583,
+        823
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "27": {
+      "bbox": [
+        553,
+        819,
+        583,
+        847
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "28": {
+      "bbox": [
+        553,
+        843,
+        583,
+        868
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "29": {
+      "bbox": [
+        553,
+        864,
+        583,
+        895
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "30": {
+      "bbox": [
+        520,
+        302,
+        550,
+        326
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "31": {
+      "bbox": [
+        520,
+        322,
+        550,
+        347
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "32": {
+      "bbox": [
+        520,
+        343,
+        550,
+        367
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "33": {
+      "bbox": [
+        520,
+        363,
+        550,
+        388
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "34": {
+      "bbox": [
+        520,
+        384,
+        550,
+        423
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "35": {
+      "bbox": [
+        489,
+        298,
+        519,
+        322
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "36": {
+      "bbox": [
+        489,
+        318,
+        519,
+        343
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "37": {
+      "bbox": [
+        489,
+        339,
+        519,
+        367
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "38": {
+      "bbox": [
+        489,
+        363,
+        519,
+        390
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "39": {
+      "bbox": [
+        489,
+        386,
+        519,
+        412
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "40": {
+      "bbox": [
+        489,
+        408,
+        519,
+        436
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "41": {
+      "bbox": [
+        489,
+        432,
+        519,
+        459
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "42": {
+      "bbox": [
+        489,
+        455,
+        519,
+        486
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "43": {
+      "bbox": [
+        489,
+        482,
+        519,
+        513
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "44": {
+      "bbox": [
+        489,
+        509,
+        519,
+        538
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "45": {
+      "bbox": [
+        489,
+        534,
+        519,
+        564
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "46": {
+      "bbox": [
+        489,
+        560,
+        519,
+        587
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "47": {
+      "bbox": [
+        489,
+        583,
+        519,
+        616
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "48": {
+      "bbox": [
+        489,
+        612,
+        519,
+        642
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "49": {
+      "bbox": [
+        489,
+        638,
+        519,
+        663
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "50": {
+      "bbox": [
+        489,
+        659,
+        519,
+        686
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "51": {
+      "bbox": [
+        489,
+        682,
+        519,
+        708
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "52": {
+      "bbox": [
+        489,
+        704,
+        519,
+        730
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "53": {
+      "bbox": [
+        489,
+        726,
+        519,
+        752
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "54": {
+      "bbox": [
+        489,
+        748,
+        519,
+        775
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "55": {
+      "bbox": [
+        489,
+        771,
+        519,
+        797
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "56": {
+      "bbox": [
+        489,
+        793,
+        519,
+        825
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "57": {
+      "bbox": [
+        489,
+        821,
+        519,
+        850
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "58": {
+      "bbox": [
+        489,
+        846,
+        519,
+        873
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "59": {
+      "bbox": [
+        489,
+        869,
+        519,
+        895
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "60": {
+      "bbox": [
+        459,
+        298,
+        489,
+        323
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "61": {
+      "bbox": [
+        459,
+        319,
+        489,
+        345
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "62": {
+      "bbox": [
+        459,
+        341,
+        489,
+        366
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "63": {
+      "bbox": [
+        459,
+        362,
+        489,
+        389
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "64": {
+      "bbox": [
+        459,
+        385,
+        489,
+        413
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "65": {
+      "bbox": [
+        459,
+        409,
+        489,
+        439
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "66": {
+      "bbox": [
+        459,
+        435,
+        489,
+        466
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "67": {
+      "bbox": [
+        459,
+        462,
+        489,
+        487
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "68": {
+      "bbox": [
+        459,
+        483,
+        489,
+        509
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "69": {
+      "bbox": [
+        459,
+        505,
+        489,
+        534
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "70": {
+      "bbox": [
+        459,
+        530,
+        489,
+        555
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "71": {
+      "bbox": [
+        459,
+        551,
+        489,
+        584
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "72": {
+      "bbox": [
+        459,
+        580,
+        489,
+        610
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "73": {
+      "bbox": [
+        459,
+        606,
+        489,
+        638
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "74": {
+      "bbox": [
+        459,
+        634,
+        489,
+        659
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "75": {
+      "bbox": [
+        459,
+        655,
+        489,
+        686
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "76": {
+      "bbox": [
+        459,
+        682,
+        489,
+        706
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "77": {
+      "bbox": [
+        459,
+        702,
+        489,
+        730
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "78": {
+      "bbox": [
+        459,
+        726,
+        489,
+        750
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "79": {
+      "bbox": [
+        459,
+        746,
+        489,
+        773
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "80": {
+      "bbox": [
+        459,
+        769,
+        489,
+        796
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "81": {
+      "bbox": [
+        459,
+        792,
+        489,
+        821
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "82": {
+      "bbox": [
+        459,
+        817,
+        489,
+        845
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "83": {
+      "bbox": [
+        459,
+        841,
+        489,
+        868
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "84": {
+      "bbox": [
+        459,
+        864,
+        489,
+        893
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "85": {
+      "bbox": [
+        430,
+        298,
+        460,
+        322
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "86": {
+      "bbox": [
+        430,
+        318,
+        460,
+        343
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "87": {
+      "bbox": [
+        430,
+        339,
+        460,
+        364
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "88": {
+      "bbox": [
+        430,
+        360,
+        460,
+        385
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "89": {
+      "bbox": [
+        430,
+        381,
+        460,
+        408
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "90": {
+      "bbox": [
+        430,
+        404,
+        460,
+        434
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "91": {
+      "bbox": [
+        430,
+        430,
+        460,
+        458
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "92": {
+      "bbox": [
+        430,
+        454,
+        460,
+        487
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "93": {
+      "bbox": [
+        430,
+        483,
+        460,
+        513
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "94": {
+      "bbox": [
+        430,
+        509,
+        460,
+        534
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "95": {
+      "bbox": [
+        430,
+        530,
+        460,
+        557
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "96": {
+      "bbox": [
+        430,
+        553,
+        460,
+        584
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "97": {
+      "bbox": [
+        430,
+        580,
+        460,
+        609
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "98": {
+      "bbox": [
+        430,
+        605,
+        460,
+        636
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "99": {
+      "bbox": [
+        430,
+        632,
+        460,
+        659
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "100": {
+      "bbox": [
+        430,
+        655,
+        460,
+        682
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "101": {
+      "bbox": [
+        430,
+        678,
+        460,
+        705
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "102": {
+      "bbox": [
+        430,
+        701,
+        460,
+        724
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "103": {
+      "bbox": [
+        430,
+        720,
+        460,
+        737
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "104": {
+      "bbox": [
+        430,
+        733,
+        460,
+        758
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "105": {
+      "bbox": [
+        430,
+        754,
+        460,
+        780
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "106": {
+      "bbox": [
+        430,
+        776,
+        460,
+        802
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "107": {
+      "bbox": [
+        430,
+        798,
+        460,
+        824
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "108": {
+      "bbox": [
+        430,
+        820,
+        460,
+        845
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "109": {
+      "bbox": [
+        430,
+        841,
+        460,
+        869
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "110": {
+      "bbox": [
+        430,
+        865,
+        460,
+        896
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "111": {
+      "bbox": [
+        401,
+        298,
+        431,
+        317
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "112": {
+      "bbox": [
+        401,
+        313,
+        431,
+        338
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "113": {
+      "bbox": [
+        401,
+        334,
+        431,
+        364
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "114": {
+      "bbox": [
+        401,
+        360,
+        431,
+        390
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "115": {
+      "bbox": [
+        401,
+        386,
+        431,
+        415
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "116": {
+      "bbox": [
+        401,
+        411,
+        431,
+        438
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "117": {
+      "bbox": [
+        401,
+        434,
+        431,
+        463
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "118": {
+      "bbox": [
+        401,
+        459,
+        431,
+        487
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "119": {
+      "bbox": [
+        401,
+        483,
+        431,
+        512
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "120": {
+      "bbox": [
+        401,
+        508,
+        431,
+        532
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "121": {
+      "bbox": [
+        401,
+        528,
+        431,
+        556
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "122": {
+      "bbox": [
+        401,
+        552,
+        431,
+        582
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "123": {
+      "bbox": [
+        401,
+        578,
+        431,
+        604
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "124": {
+      "bbox": [
+        401,
+        600,
+        431,
+        617
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "125": {
+      "bbox": [
+        401,
+        613,
+        431,
+        635
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "126": {
+      "bbox": [
+        401,
+        631,
+        431,
+        660
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "127": {
+      "bbox": [
+        401,
+        656,
+        431,
+        684
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "128": {
+      "bbox": [
+        401,
+        680,
+        431,
+        708
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "129": {
+      "bbox": [
+        401,
+        704,
+        431,
+        732
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "130": {
+      "bbox": [
+        401,
+        728,
+        431,
+        757
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "131": {
+      "bbox": [
+        401,
+        753,
+        431,
+        782
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "132": {
+      "bbox": [
+        401,
+        778,
+        431,
+        803
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "133": {
+      "bbox": [
+        401,
+        799,
+        431,
+        826
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "134": {
+      "bbox": [
+        401,
+        822,
+        431,
+        852
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "135": {
+      "bbox": [
+        401,
+        848,
+        431,
+        878
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "136": {
+      "bbox": [
+        401,
+        874,
+        431,
+        898
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "137": {
+      "bbox": [
+        373,
+        298,
+        403,
+        322
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "138": {
+      "bbox": [
+        373,
+        318,
+        403,
+        342
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "139": {
+      "bbox": [
+        373,
+        338,
+        403,
+        364
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "140": {
+      "bbox": [
+        373,
+        360,
+        403,
+        385
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "141": {
+      "bbox": [
+        373,
+        381,
+        403,
+        406
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "142": {
+      "bbox": [
+        373,
+        402,
+        403,
+        431
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "143": {
+      "bbox": [
+        373,
+        427,
+        403,
+        455
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "144": {
+      "bbox": [
+        373,
+        451,
+        403,
+        477
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "145": {
+      "bbox": [
+        373,
+        473,
+        403,
+        502
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "146": {
+      "bbox": [
+        373,
+        498,
+        403,
+        521
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "147": {
+      "bbox": [
+        373,
+        517,
+        403,
+        541
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "148": {
+      "bbox": [
+        373,
+        537,
+        403,
+        562
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "149": {
+      "bbox": [
+        373,
+        558,
+        403,
+        588
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "150": {
+      "bbox": [
+        373,
+        584,
+        403,
+        610
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "151": {
+      "bbox": [
+        373,
+        606,
+        403,
+        632
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "152": {
+      "bbox": [
+        373,
+        628,
+        403,
+        657
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "153": {
+      "bbox": [
+        373,
+        653,
+        403,
+        684
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "154": {
+      "bbox": [
+        373,
+        680,
+        403,
+        707
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "155": {
+      "bbox": [
+        373,
+        703,
+        403,
+        729
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "156": {
+      "bbox": [
+        373,
+        725,
+        403,
+        754
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "157": {
+      "bbox": [
+        373,
+        750,
+        403,
+        774
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "158": {
+      "bbox": [
+        373,
+        770,
+        403,
+        804
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "159": {
+      "bbox": [
+        373,
+        800,
+        403,
+        827
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "160": {
+      "bbox": [
+        373,
+        823,
+        403,
+        850
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "161": {
+      "bbox": [
+        373,
+        846,
+        403,
+        872
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "162": {
+      "bbox": [
+        373,
+        868,
+        403,
+        897
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "163": {
+      "bbox": [
+        344,
+        298,
+        374,
+        321
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "164": {
+      "bbox": [
+        344,
+        317,
+        374,
+        342
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "165": {
+      "bbox": [
+        344,
+        338,
+        374,
+        366
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "166": {
+      "bbox": [
+        344,
+        362,
+        374,
+        385
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "167": {
+      "bbox": [
+        344,
+        381,
+        374,
+        408
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "168": {
+      "bbox": [
+        344,
+        404,
+        374,
+        430
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "169": {
+      "bbox": [
+        344,
+        426,
+        374,
+        455
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "170": {
+      "bbox": [
+        344,
+        451,
+        374,
+        483
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "171": {
+      "bbox": [
+        344,
+        479,
+        374,
+        507
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "172": {
+      "bbox": [
+        344,
+        503,
+        374,
+        534
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "173": {
+      "bbox": [
+        344,
+        530,
+        374,
+        552
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "174": {
+      "bbox": [
+        344,
+        548,
+        374,
+        573
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "175": {
+      "bbox": [
+        344,
+        569,
+        374,
+        588
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "176": {
+      "bbox": [
+        344,
+        584,
+        374,
+        610
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "177": {
+      "bbox": [
+        344,
+        606,
+        374,
+        635
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "178": {
+      "bbox": [
+        344,
+        631,
+        374,
+        657
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "179": {
+      "bbox": [
+        344,
+        653,
+        374,
+        684
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "180": {
+      "bbox": [
+        344,
+        680,
+        374,
+        707
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "181": {
+      "bbox": [
+        344,
+        703,
+        374,
+        731
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "182": {
+      "bbox": [
+        344,
+        727,
+        374,
+        755
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "183": {
+      "bbox": [
+        344,
+        751,
+        374,
+        779
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "184": {
+      "bbox": [
+        344,
+        775,
+        374,
+        803
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "185": {
+      "bbox": [
+        344,
+        799,
+        374,
+        826
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "186": {
+      "bbox": [
+        344,
+        822,
+        374,
+        849
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "187": {
+      "bbox": [
+        344,
+        845,
+        374,
+        872
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "188": {
+      "bbox": [
+        344,
+        868,
+        374,
+        899
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "189": {
+      "bbox": [
+        315,
+        298,
+        345,
+        326
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "190": {
+      "bbox": [
+        315,
+        322,
+        345,
+        344
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "191": {
+      "bbox": [
+        315,
+        340,
+        345,
+        367
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "192": {
+      "bbox": [
+        315,
+        363,
+        345,
+        383
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "193": {
+      "bbox": [
+        315,
+        379,
+        345,
+        409
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "194": {
+      "bbox": [
+        315,
+        405,
+        345,
+        434
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "195": {
+      "bbox": [
+        315,
+        430,
+        345,
+        456
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "196": {
+      "bbox": [
+        315,
+        452,
+        345,
+        479
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "197": {
+      "bbox": [
+        315,
+        475,
+        345,
+        502
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "198": {
+      "bbox": [
+        315,
+        498,
+        345,
+        530
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "199": {
+      "bbox": [
+        315,
+        526,
+        345,
+        562
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "200": {
+      "bbox": [
+        315,
+        558,
+        345,
+        583
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "201": {
+      "bbox": [
+        315,
+        579,
+        345,
+        605
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "202": {
+      "bbox": [
+        315,
+        601,
+        345,
+        627
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "203": {
+      "bbox": [
+        315,
+        623,
+        345,
+        655
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "204": {
+      "bbox": [
+        315,
+        651,
+        345,
+        679
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "205": {
+      "bbox": [
+        315,
+        675,
+        345,
+        703
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "206": {
+      "bbox": [
+        315,
+        699,
+        345,
+        725
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "207": {
+      "bbox": [
+        315,
+        721,
+        345,
+        751
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "208": {
+      "bbox": [
+        315,
+        747,
+        345,
+        774
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "209": {
+      "bbox": [
+        315,
+        770,
+        345,
+        800
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "210": {
+      "bbox": [
+        315,
+        796,
+        345,
+        825
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "211": {
+      "bbox": [
+        315,
+        821,
+        345,
+        849
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "212": {
+      "bbox": [
+        315,
+        845,
+        345,
+        873
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "213": {
+      "bbox": [
+        315,
+        869,
+        345,
+        898
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "214": {
+      "bbox": [
+        287,
+        298,
+        317,
+        324
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "215": {
+      "bbox": [
+        287,
+        320,
+        317,
+        346
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "216": {
+      "bbox": [
+        287,
+        342,
+        317,
+        369
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "217": {
+      "bbox": [
+        287,
+        365,
+        317,
+        389
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "218": {
+      "bbox": [
+        287,
+        385,
+        317,
+        411
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "219": {
+      "bbox": [
+        287,
+        407,
+        317,
+        435
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "220": {
+      "bbox": [
+        287,
+        431,
+        317,
+        460
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "221": {
+      "bbox": [
+        287,
+        456,
+        317,
+        481
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "222": {
+      "bbox": [
+        287,
+        477,
+        317,
+        507
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "223": {
+      "bbox": [
+        287,
+        503,
+        317,
+        531
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "224": {
+      "bbox": [
+        287,
+        527,
+        317,
+        555
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "225": {
+      "bbox": [
+        287,
+        551,
+        317,
+        581
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "226": {
+      "bbox": [
+        287,
+        577,
+        317,
+        607
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "227": {
+      "bbox": [
+        287,
+        603,
+        317,
+        631
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "228": {
+      "bbox": [
+        287,
+        627,
+        317,
+        657
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "229": {
+      "bbox": [
+        287,
+        653,
+        317,
+        678
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "230": {
+      "bbox": [
+        287,
+        674,
+        317,
+        699
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "231": {
+      "bbox": [
+        287,
+        695,
+        317,
+        729
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "232": {
+      "bbox": [
+        287,
+        725,
+        317,
+        749
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "233": {
+      "bbox": [
+        287,
+        745,
+        317,
+        772
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "234": {
+      "bbox": [
+        287,
+        768,
+        317,
+        796
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "235": {
+      "bbox": [
+        287,
+        792,
+        317,
+        821
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "236": {
+      "bbox": [
+        287,
+        817,
+        317,
+        841
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "237": {
+      "bbox": [
+        287,
+        837,
+        317,
+        857
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "238": {
+      "bbox": [
+        287,
+        853,
+        317,
+        879
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "239": {
+      "bbox": [
+        287,
+        875,
+        317,
+        898
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "240": {
+      "bbox": [
+        259,
+        298,
+        289,
+        321
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "241": {
+      "bbox": [
+        259,
+        317,
+        289,
+        342
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "242": {
+      "bbox": [
+        259,
+        338,
+        289,
+        365
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "243": {
+      "bbox": [
+        259,
+        361,
+        289,
+        388
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "244": {
+      "bbox": [
+        259,
+        384,
+        289,
+        410
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "245": {
+      "bbox": [
+        259,
+        406,
+        289,
+        434
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "246": {
+      "bbox": [
+        259,
+        430,
+        289,
+        457
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "247": {
+      "bbox": [
+        259,
+        453,
+        289,
+        479
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "248": {
+      "bbox": [
+        259,
+        475,
+        289,
+        500
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "249": {
+      "bbox": [
+        259,
+        496,
+        289,
+        519
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "250": {
+      "bbox": [
+        259,
+        515,
+        289,
+        542
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "251": {
+      "bbox": [
+        259,
+        538,
+        289,
+        564
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "252": {
+      "bbox": [
+        259,
+        560,
+        289,
+        585
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "253": {
+      "bbox": [
+        259,
+        581,
+        289,
+        606
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "254": {
+      "bbox": [
+        259,
+        602,
+        289,
+        629
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "255": {
+      "bbox": [
+        259,
+        625,
+        289,
+        654
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "256": {
+      "bbox": [
+        259,
+        650,
+        289,
+        676
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "257": {
+      "bbox": [
+        259,
+        672,
+        289,
+        703
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "258": {
+      "bbox": [
+        259,
+        699,
+        289,
+        724
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "259": {
+      "bbox": [
+        259,
+        720,
+        289,
+        750
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "260": {
+      "bbox": [
+        259,
+        746,
+        289,
+        774
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "261": {
+      "bbox": [
+        259,
+        770,
+        289,
+        798
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "262": {
+      "bbox": [
+        259,
+        794,
+        289,
+        819
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "263": {
+      "bbox": [
+        259,
+        815,
+        289,
+        845
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "264": {
+      "bbox": [
+        259,
+        841,
+        289,
+        868
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "265": {
+      "bbox": [
+        259,
+        864,
+        289,
+        895
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "266": {
+      "bbox": [
+        231,
+        298,
+        261,
+        318
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "267": {
+      "bbox": [
+        231,
+        314,
+        261,
+        337
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "268": {
+      "bbox": [
+        231,
+        333,
+        261,
+        362
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "269": {
+      "bbox": [
+        231,
+        358,
+        261,
+        388
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "270": {
+      "bbox": [
+        231,
+        384,
+        261,
+        408
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "271": {
+      "bbox": [
+        231,
+        404,
+        261,
+        432
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "272": {
+      "bbox": [
+        231,
+        428,
+        261,
+        455
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "273": {
+      "bbox": [
+        231,
+        451,
+        261,
+        478
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "274": {
+      "bbox": [
+        231,
+        474,
+        261,
+        504
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "275": {
+      "bbox": [
+        231,
+        500,
+        261,
+        526
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "276": {
+      "bbox": [
+        231,
+        522,
+        261,
+        549
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "277": {
+      "bbox": [
+        231,
+        545,
+        261,
+        578
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "278": {
+      "bbox": [
+        231,
+        574,
+        261,
+        604
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "279": {
+      "bbox": [
+        231,
+        600,
+        261,
+        628
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "280": {
+      "bbox": [
+        231,
+        624,
+        261,
+        649
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "281": {
+      "bbox": [
+        231,
+        645,
+        261,
+        673
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "282": {
+      "bbox": [
+        231,
+        669,
+        261,
+        702
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "283": {
+      "bbox": [
+        231,
+        698,
+        261,
+        725
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "284": {
+      "bbox": [
+        231,
+        721,
+        261,
+        748
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "285": {
+      "bbox": [
+        231,
+        744,
+        261,
+        772
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "286": {
+      "bbox": [
+        231,
+        768,
+        261,
+        793
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "287": {
+      "bbox": [
+        203,
+        298,
+        233,
+        322
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "288": {
+      "bbox": [
+        203,
+        318,
+        233,
+        340
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "289": {
+      "bbox": [
+        203,
+        336,
+        233,
+        366
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "290": {
+      "bbox": [
+        203,
+        362,
+        233,
+        387
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "291": {
+      "bbox": [
+        203,
+        383,
+        233,
+        411
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "292": {
+      "bbox": [
+        203,
+        407,
+        233,
+        434
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "293": {
+      "bbox": [
+        203,
+        430,
+        233,
+        459
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "294": {
+      "bbox": [
+        203,
+        455,
+        233,
+        478
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "295": {
+      "bbox": [
+        203,
+        474,
+        233,
+        500
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "296": {
+      "bbox": [
+        203,
+        496,
+        233,
+        526
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "297": {
+      "bbox": [
+        203,
+        522,
+        233,
+        552
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "298": {
+      "bbox": [
+        203,
+        548,
+        233,
+        573
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "299": {
+      "bbox": [
+        203,
+        569,
+        233,
+        601
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "300": {
+      "bbox": [
+        203,
+        597,
+        233,
+        622
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "301": {
+      "bbox": [
+        203,
+        618,
+        233,
+        647
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "302": {
+      "bbox": [
+        203,
+        643,
+        233,
+        673
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "303": {
+      "bbox": [
+        203,
+        669,
+        233,
+        698
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "304": {
+      "bbox": [
+        203,
+        694,
+        233,
+        724
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "305": {
+      "bbox": [
+        203,
+        720,
+        233,
+        750
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "306": {
+      "bbox": [
+        203,
+        746,
+        233,
+        773
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "307": {
+      "bbox": [
+        203,
+        769,
+        233,
+        797
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "308": {
+      "bbox": [
+        203,
+        793,
+        233,
+        824
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "309": {
+      "bbox": [
+        175,
+        298,
+        205,
+        325
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "310": {
+      "bbox": [
+        175,
+        321,
+        205,
+        343
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "311": {
+      "bbox": [
+        175,
+        339,
+        205,
+        362
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "312": {
+      "bbox": [
+        175,
+        358,
+        205,
+        381
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "313": {
+      "bbox": [
+        175,
+        377,
+        205,
+        407
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "314": {
+      "bbox": [
+        175,
+        403,
+        205,
+        432
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "315": {
+      "bbox": [
+        175,
+        428,
+        205,
+        453
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "316": {
+      "bbox": [
+        175,
+        449,
+        205,
+        474
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "317": {
+      "bbox": [
+        175,
+        470,
+        205,
+        498
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "318": {
+      "bbox": [
+        175,
+        494,
+        205,
+        523
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "319": {
+      "bbox": [
+        175,
+        519,
+        205,
+        551
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "320": {
+      "bbox": [
+        175,
+        547,
+        205,
+        574
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "321": {
+      "bbox": [
+        175,
+        570,
+        205,
+        599
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "322": {
+      "bbox": [
+        175,
+        595,
+        205,
+        622
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "323": {
+      "bbox": [
+        175,
+        618,
+        205,
+        646
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "324": {
+      "bbox": [
+        175,
+        642,
+        205,
+        672
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "325": {
+      "bbox": [
+        175,
+        668,
+        205,
+        694
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "326": {
+      "bbox": [
+        175,
+        690,
+        205,
+        718
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "327": {
+      "bbox": [
+        175,
+        714,
+        205,
+        736
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "328": {
+      "bbox": [
+        175,
+        732,
+        205,
+        753
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "329": {
+      "bbox": [
+        175,
+        749,
+        205,
+        772
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "330": {
+      "bbox": [
+        175,
+        768,
+        205,
+        798
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "331": {
+      "bbox": [
+        175,
+        794,
+        205,
+        824
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "332": {
+      "bbox": [
+        175,
+        820,
+        205,
+        848
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "333": {
+      "bbox": [
+        175,
+        844,
+        205,
+        870
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "334": {
+      "bbox": [
+        175,
+        866,
+        205,
+        895
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "335": {
+      "bbox": [
+        147,
+        298,
+        177,
+        323
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "336": {
+      "bbox": [
+        147,
+        319,
+        177,
+        346
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "337": {
+      "bbox": [
+        147,
+        342,
+        177,
+        366
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "338": {
+      "bbox": [
+        147,
+        362,
+        177,
+        383
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "339": {
+      "bbox": [
+        147,
+        379,
+        177,
+        410
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "340": {
+      "bbox": [
+        147,
+        406,
+        177,
+        433
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "341": {
+      "bbox": [
+        147,
+        429,
+        177,
+        451
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "342": {
+      "bbox": [
+        147,
+        447,
+        177,
+        474
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "343": {
+      "bbox": [
+        147,
+        470,
+        177,
+        499
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "344": {
+      "bbox": [
+        147,
+        495,
+        177,
+        525
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "345": {
+      "bbox": [
+        147,
+        521,
+        177,
+        551
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "346": {
+      "bbox": [
+        147,
+        547,
+        177,
+        572
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "347": {
+      "bbox": [
+        147,
+        568,
+        177,
+        598
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "348": {
+      "bbox": [
+        147,
+        594,
+        177,
+        622
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "349": {
+      "bbox": [
+        147,
+        618,
+        177,
+        647
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "350": {
+      "bbox": [
+        147,
+        643,
+        177,
+        668
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "351": {
+      "bbox": [
+        147,
+        664,
+        177,
+        687
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "352": {
+      "bbox": [
+        147,
+        683,
+        177,
+        709
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "353": {
+      "bbox": [
+        147,
+        705,
+        177,
+        731
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "354": {
+      "bbox": [
+        147,
+        727,
+        177,
+        750
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "355": {
+      "bbox": [
+        147,
+        746,
+        177,
+        773
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "356": {
+      "bbox": [
+        147,
+        769,
+        177,
+        798
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "357": {
+      "bbox": [
+        147,
+        794,
+        177,
+        823
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "358": {
+      "bbox": [
+        147,
+        819,
+        177,
+        844
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "359": {
+      "bbox": [
+        147,
+        840,
+        177,
+        868
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "360": {
+      "bbox": [
+        147,
+        864,
+        177,
+        896
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "361": {
+      "bbox": [
+        120,
+        297,
+        150,
+        319
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "362": {
+      "bbox": [
+        120,
+        315,
+        150,
+        347
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "363": {
+      "bbox": [
+        120,
+        343,
+        150,
+        370
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "364": {
+      "bbox": [
+        120,
+        366,
+        150,
+        396
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "365": {
+      "bbox": [
+        120,
+        392,
+        150,
+        419
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "366": {
+      "bbox": [
+        120,
+        415,
+        150,
+        443
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "367": {
+      "bbox": [
+        120,
+        439,
+        150,
+        469
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "368": {
+      "bbox": [
+        120,
+        465,
+        150,
+        490
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "369": {
+      "bbox": [
+        120,
+        486,
+        150,
+        517
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "370": {
+      "bbox": [
+        120,
+        513,
+        150,
+        544
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "371": {
+      "bbox": [
+        120,
+        540,
+        150,
+        565
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "372": {
+      "bbox": [
+        136,
+        559,
+        156,
+        571
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "373": {
+      "bbox": [
+        136,
+        567,
+        156,
+        585
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "374": {
+      "bbox": [
+        136,
+        581,
+        156,
+        598
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "375": {
+      "bbox": [
+        136,
+        594,
+        156,
+        610
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "376": {
+      "bbox": [
+        136,
+        606,
+        156,
+        622
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "377": {
+      "bbox": [
+        136,
+        618,
+        156,
+        636
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "378": {
+      "bbox": [
+        136,
+        632,
+        156,
+        648
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "379": {
+      "bbox": [
+        136,
+        644,
+        156,
+        660
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "380": {
+      "bbox": [
+        136,
+        656,
+        156,
+        675
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "381": {
+      "bbox": [
+        136,
+        671,
+        156,
+        688
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "382": {
+      "bbox": [
+        136,
+        684,
+        156,
+        698
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "383": {
+      "bbox": [
+        136,
+        694,
+        156,
+        709
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "384": {
+      "bbox": [
+        136,
+        705,
+        156,
+        721
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "385": {
+      "bbox": [
+        136,
+        717,
+        156,
+        732
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "386": {
+      "bbox": [
+        136,
+        728,
+        156,
+        743
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "387": {
+      "bbox": [
+        136,
+        739,
+        156,
+        755
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "388": {
+      "bbox": [
+        136,
+        751,
+        156,
+        764
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "389": {
+      "bbox": [
+        136,
+        760,
+        156,
+        777
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "390": {
+      "bbox": [
+        136,
+        773,
+        156,
+        792
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "391": {
+      "bbox": [
+        136,
+        788,
+        156,
+        803
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "392": {
+      "bbox": [
+        136,
+        799,
+        156,
+        817
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "393": {
+      "bbox": [
+        136,
+        813,
+        156,
+        831
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "394": {
+      "bbox": [
+        136,
+        827,
+        156,
+        843
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "395": {
+      "bbox": [
+        136,
+        839,
+        156,
+        856
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "396": {
+      "bbox": [
+        136,
+        852,
+        156,
+        869
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "397": {
+      "bbox": [
+        136,
+        865,
+        156,
+        881
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "398": {
+      "bbox": [
+        136,
+        877,
+        156,
+        891
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "399": {
+      "bbox": [
+        118,
+        548,
+        140,
+        570
+      ],
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "400": {
+      "bbox": [
+        118,
+        566,
+        140,
+        581
+      ],
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "401": {
+      "bbox": [
+        118,
+        577,
+        140,
+        597
+      ],
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "402": {
+      "bbox": [
+        118,
+        593,
+        140,
+        615
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "403": {
+      "bbox": [
+        118,
+        611,
+        140,
+        629
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "404": {
+      "bbox": [
+        118,
+        625,
+        140,
+        643
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false
+    },
+    "405": {
+      "bbox": [
+        118,
+        639,
+        140,
+        652
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "406": {
+      "bbox": [
+        118,
+        648,
+        140,
+        666
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "407": {
+      "bbox": [
+        118,
+        662,
+        140,
+        681
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "408": {
+      "bbox": [
+        118,
+        677,
+        140,
+        693
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "409": {
+      "bbox": [
+        118,
+        689,
+        140,
+        707
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "410": {
+      "bbox": [
+        118,
+        703,
+        140,
+        721
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "411": {
+      "bbox": [
+        118,
+        717,
+        140,
+        735
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "412": {
+      "bbox": [
+        118,
+        731,
+        140,
+        751
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "413": {
+      "bbox": [
+        118,
+        747,
+        140,
+        768
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "414": {
+      "bbox": [
+        118,
+        764,
+        140,
+        783
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "415": {
+      "bbox": [
+        118,
+        779,
+        140,
+        802
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "416": {
+      "bbox": [
+        118,
+        798,
+        140,
+        816
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "417": {
+      "bbox": [
+        118,
+        812,
+        140,
+        830
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "418": {
+      "bbox": [
+        118,
+        826,
+        140,
+        846
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "419": {
+      "bbox": [
+        118,
+        842,
+        140,
+        861
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "420": {
+      "bbox": [
+        118,
+        857,
+        140,
+        878
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    },
+    "421": {
+      "bbox": [
+        118,
+        874,
+        140,
+        890
+      ],
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false
+    }
+  },
+  "reading_order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421
+  ],
+  "excluded_characters": [
+    "〇",
+    "1"
+  ],
+  "model_status": "pending_real_model_inference",
+  "missing_box_ids": [
+    35
+  ],
+  "geometry_method": "Manually specified columns, pixel whitespace boundaries and visual corrections; no detection-model boxes.",
+  "pdf_reference": {
+    "volume": 4,
+    "page": 4
+  },
+  "source_exclusions": [
+    {
+      "index_0based": 73,
+      "character": "〇"
+    },
+    {
+      "index_0based": 89,
+      "character": "1"
+    }
+  ],
+  "geometry_review_notes": [
+    "Small notes moved from decorative border onto the actual inscription columns.",
+    "Both extra source symbols and a missing source glyph remain; native Other requires a full sidecar."
+  ],
+  "crop": {
+    "top_left": [
+      105,
+      195
+    ],
+    "top_right": [
+      593,
+      195
+    ],
+    "bottom_right": [
+      593,
+      903
+    ],
+    "bottom_left": [
+      105,
+      903
+    ]
+  },
+  "image_resize": {
+    "source_size": [
+      724,
+      996
+    ],
+    "output_size": [
+      724,
+      996
+    ],
+    "scale_x": 1.0,
+    "scale_y": 1.0
+  },
+  "image_size": [
+    724,
+    996
+  ],
+  "image_pixel_sha256": "121e4a5a48f759bc5d37d8e5c916906287c445a214f5c092a9c2e435082873ff"
+}
