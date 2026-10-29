@@ -1,5 +1,7 @@
 """Integration checks against the real app; damage inference is mocked."""
 import io
+import importlib
+from copy import deepcopy
 import json
 import os
 import runpy
@@ -17,6 +19,11 @@ REPO = Path(os.environ.get('SINONOM_REPO_DIR', '/tmp/sinonom-status-inspect'))
 sys.path[:0] = [str(REPO), str(REPO / 'gradio')]
 runpy.run_path(str(PACKAGE / 'annotations/_support/content_base.py'))['enable_saved_content_sections'](REPO)
 Workflow = runpy.run_path(str(PACKAGE / 'annotations/_support/launch_with_original_source.py'))['install_mixed_review'](REPO)
+ui_fix = runpy.run_path(str(PACKAGE / 'annotations/_support/launch_with_original_source.py'))['enable_mixed_labels_ui']
+ui_fix(REPO)
+ui_fix(REPO)  # Idempotent across web restarts.
+from ui import editor
+importlib.reload(editor)
 source = ROOT / 'student_114/student_114.json'
 original_source = source.read_bytes()
 
@@ -67,6 +74,17 @@ with tempfile.TemporaryDirectory() as temp:
         state = engine.apply(state, 'next')
         assert state['current_step'] == 4
         assert state['annotations'] == full['annotations']
+        before_render = deepcopy(state)
+        markup = editor.snapshot(state)['markup']
+        assert markup.count('data-box-order-label="1"') == len(full['annotations'])
+        assert '>1 ' + full['annotations']['1'] + '</text>' in markup
+        assert 'stroke="#ef4444"' in markup  # Model-damaged box is visible.
+        assert state == before_render, 'Rendering must not change labels or mismatch type.'
+        # Other without restored labels retains the app's coordinate-only display.
+        bare = deepcopy(state)
+        bare['annotations'] = {}
+        bare['text_sequence'] = []
+        assert 'data-box-order-label="1"' not in editor.snapshot(bare)['markup']
     engine._preview_cache.cleanup()
     with zipfile.ZipFile(output.parent / 'my_annotations_backup.zip') as z:
         assert z.testzip() is None

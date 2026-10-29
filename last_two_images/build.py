@@ -14,7 +14,8 @@ previous=json.loads((PKG/'last_two_manifest.json').read_text())
 shutil.rmtree(PKG/'annotations')
 for folder in ('_support','.state','model_reviews','source_mismatches'):(PKG/'annotations'/folder).mkdir(parents=True)
 for name in ('content_base.py','launch_with_original_source.py','three_images_helper.py'):
- shutil.copyfile(ROOT/'box_revision_55431_46303/kaggle/annotations/_support'/name,PKG/'annotations/_support'/name)
+ source_support=OUT/name if name=='launch_with_original_source.py' else ROOT/'box_revision_55431_46303/kaggle/annotations/_support'/name
+ shutil.copyfile(source_support,PKG/'annotations/_support'/name)
 backup=OUT/'input/user_seven_annotations.zip'
 with zipfile.ZipFile(backup) as z:
  content=json.loads(z.read('inscription_content.json'))

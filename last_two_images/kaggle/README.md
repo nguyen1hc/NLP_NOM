@@ -60,3 +60,13 @@ Màu xanh chỉ có nghĩa đã xem vị trí; không phải trạng thái Intac
   fallback khi Kaggle bỏ thư mục ẩn, giữ nguyên 7 bài mới nhất, không đổi
   source/box khi đánh giá hỏng, đọc nhãn/thứ tự và chặn ghi đè box mới.
   **Inference trong test là giả lập; chưa chạy model thật tại đây.**
+
+## Sửa lỗi không hiện chữ ở Status & Order
+
+Giao diện gốc ẩn chữ và màu trạng thái khi issue_type là Other, kể cả khi
+launcher đã nạp đủ nhãn từ model_reviews. Launcher mới sửa điều kiện hiển thị
+cho các ảnh đã có đủ nhãn tương ứng box. Không thay nhãn, tọa độ hoặc Content.
+Với session đang chạy, dừng web và dùng `kaggle/fix_labels_cell.py`, rồi mở lại
+web bằng APP_LAUNCHER; không cần chạy lại model hoặc cell nạp dữ liệu.
+Test đã kiểm tra markup có đủ 276 nhãn của 17077, 237 nhãn của 18592, giữ
+nguyên state và vẫn ẩn nhãn với bản Other chưa có mapping.

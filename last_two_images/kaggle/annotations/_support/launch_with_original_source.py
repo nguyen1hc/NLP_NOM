@@ -9,6 +9,31 @@ import runpy
 import sys
 
 
+def enable_mixed_labels_ui(repo):
+    """Show labels/status for Other only when a complete mapping was restored."""
+    path = Path(repo) / 'gradio/ui/editor.py'
+    text = path.read_text(encoding='utf-8')
+    marker = '# sinonom: show restored Other labels'
+    if marker in text:
+        return
+    old = "    other_mismatch=(source_mismatch and s['source_mismatch']['issue_type']=='other')"
+    new = """    # sinonom: show restored Other labels
+    restored_labels = (
+        step in (4, 5, 7)
+        and bool(s.get('annotations'))
+        and set(s['annotations']) == set(s.get('bounding_boxes', {}))
+        and all(isinstance(v, str) and bool(v) for v in s['annotations'].values())
+    )
+    other_mismatch = (source_mismatch
+                      and s['source_mismatch']['issue_type'] == 'other'
+                      and not restored_labels)"""
+    if text.count(old) != 1:
+        raise RuntimeError('Giao diện app đã đổi; chưa thể áp dụng bản sửa hiển thị nhãn Other.')
+    pending = path.with_suffix('.pending.py')
+    pending.write_text(text.replace(old, new), encoding='utf-8')
+    pending.replace(path)
+
+
 def install_mixed_review(repo):
     sys.path.insert(0, str(Path(repo) / 'gradio'))
     from annotation.workflow import Workflow
@@ -112,6 +137,7 @@ def install_mixed_review(repo):
 
 if __name__ == '__main__':
     repo = Path(os.environ.get('SINONOM_REPO_DIR', '/kaggle/working/SinoNom-Annotation'))
+    enable_mixed_labels_ui(repo)
     base = runpy.run_path(str(Path(__file__).with_name('content_base.py')))
     base['enable_saved_content_sections'](repo)
     install_mixed_review(repo)
