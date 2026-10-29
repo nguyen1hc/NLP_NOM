@@ -1,0 +1,62 @@
+{
+  "55431": {
+    "old_boxes": 197,
+    "new_boxes": 196,
+    "changed_geometry": 195,
+    "source_only_for_review": [
+      {
+        "previous_id": 76,
+        "character": "上"
+      }
+    ],
+    "review_required_previous_ids": [],
+    "real_model_rerun": false
+  },
+  "46303": {
+    "old_boxes": 212,
+    "new_boxes": 208,
+    "changed_geometry": 195,
+    "source_only_for_review": [
+      {
+        "previous_id": 60,
+        "character": "□"
+      },
+      {
+        "previous_id": 94,
+        "character": "墳"
+      },
+      {
+        "previous_id": 133,
+        "character": "所"
+      },
+      {
+        "previous_id": 153,
+        "character": "所"
+      }
+    ],
+    "review_required_previous_ids": [
+      77,
+      101,
+      111,
+      132,
+      134,
+      145,
+      150,
+      152,
+      154,
+      166,
+      191,
+      207
+    ],
+    "real_model_rerun": false
+  },
+  "verification": {
+    "native_schemas_valid": true,
+    "source_counter_with_miss_and_exclusions_valid": true,
+    "workflow_reopen_valid": true,
+    "five_other_native_documents_preserved_from_annotations_3": true,
+    "real_model_rerun": false,
+    "inference_in_tests": "mocked",
+    "visual_review_requires_human_confirmation": true
+  }
+}

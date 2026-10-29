@@ -1,0 +1,2914 @@
+[
+  {
+    "id": 1,
+    "previous_id": 1,
+    "character": "成",
+    "bbox": [
+      555,
+      246,
+      586,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 2,
+    "previous_id": 2,
+    "character": "泰",
+    "bbox": [
+      533,
+      246,
+      559,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 3,
+    "previous_id": 3,
+    "character": "十",
+    "bbox": [
+      513,
+      246,
+      538,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 4,
+    "previous_id": 4,
+    "character": "六",
+    "bbox": [
+      485,
+      246,
+      517,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 5,
+    "previous_id": 5,
+    "character": "年",
+    "bbox": [
+      457,
+      246,
+      490,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 6,
+    "previous_id": 6,
+    "character": "五",
+    "bbox": [
+      432,
+      246,
+      461,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 7,
+    "previous_id": 7,
+    "character": "月",
+    "bbox": [
+      406,
+      246,
+      436,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 8,
+    "previous_id": 8,
+    "character": "十",
+    "bbox": [
+      383,
+      246,
+      411,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 9,
+    "previous_id": 9,
+    "character": "三",
+    "bbox": [
+      359,
+      246,
+      388,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 10,
+    "previous_id": 10,
+    "character": "日",
+    "bbox": [
+      334,
+      246,
+      364,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 11,
+    "previous_id": 11,
+    "character": "立",
+    "bbox": [
+      305,
+      246,
+      338,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 12,
+    "previous_id": 12,
+    "character": "碑",
+    "bbox": [
+      274,
+      246,
+      309,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 13,
+    "previous_id": 13,
+    "character": "文",
+    "bbox": [
+      246,
+      246,
+      278,
+      288
+    ],
+    "group": "title",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 14,
+    "previous_id": 14,
+    "character": "其",
+    "bbox": [
+      561,
+      323,
+      593,
+      345
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 15,
+    "previous_id": 15,
+    "character": "這",
+    "bbox": [
+      561,
+      343,
+      593,
+      365
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 16,
+    "previous_id": 16,
+    "character": "田",
+    "bbox": [
+      561,
+      363,
+      593,
+      385
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 17,
+    "previous_id": 17,
+    "character": "均",
+    "bbox": [
+      560,
+      382,
+      592,
+      405
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 18,
+    "previous_id": 18,
+    "character": "分",
+    "bbox": [
+      560,
+      402,
+      592,
+      426
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 19,
+    "previous_id": 19,
+    "character": "族",
+    "bbox": [
+      560,
+      424,
+      592,
+      448
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 20,
+    "previous_id": 20,
+    "character": "內",
+    "bbox": [
+      560,
+      445,
+      592,
+      469
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 21,
+    "previous_id": 21,
+    "character": "人",
+    "bbox": [
+      559,
+      466,
+      591,
+      488
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 22,
+    "previous_id": 22,
+    "character": "丁",
+    "bbox": [
+      559,
+      485,
+      591,
+      507
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 23,
+    "previous_id": 23,
+    "character": "耕",
+    "bbox": [
+      559,
+      505,
+      591,
+      529
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 24,
+    "previous_id": 24,
+    "character": "作",
+    "bbox": [
+      559,
+      527,
+      591,
+      551
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 25,
+    "previous_id": 25,
+    "character": "不",
+    "bbox": [
+      558,
+      549,
+      590,
+      573
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 26,
+    "previous_id": 26,
+    "character": "得",
+    "bbox": [
+      558,
+      571,
+      590,
+      596
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 27,
+    "previous_id": 27,
+    "character": "專",
+    "bbox": [
+      558,
+      594,
+      590,
+      622
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 28,
+    "previous_id": 28,
+    "character": "賣",
+    "bbox": [
+      558,
+      619,
+      590,
+      646
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 29,
+    "previous_id": 29,
+    "character": "典",
+    "bbox": [
+      557,
+      644,
+      589,
+      668
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 30,
+    "previous_id": 30,
+    "character": "執",
+    "bbox": [
+      557,
+      666,
+      589,
+      690
+    ],
+    "group": "physical_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 31,
+    "previous_id": 31,
+    "character": "后",
+    "bbox": [
+      528,
+      313,
+      560,
+      335
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 32,
+    "previous_id": 32,
+    "character": "祖",
+    "bbox": [
+      528,
+      332,
+      560,
+      354
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 33,
+    "previous_id": 33,
+    "character": "陶",
+    "bbox": [
+      528,
+      351,
+      560,
+      374
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 34,
+    "previous_id": 34,
+    "character": "氏",
+    "bbox": [
+      528,
+      372,
+      560,
+      396
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 35,
+    "previous_id": 35,
+    "character": "號",
+    "bbox": [
+      528,
+      394,
+      560,
+      418
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 36,
+    "previous_id": 36,
+    "character": "妙",
+    "bbox": [
+      528,
+      416,
+      560,
+      441
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 37,
+    "previous_id": 37,
+    "character": "祿",
+    "bbox": [
+      528,
+      438,
+      560,
+      468
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 38,
+    "previous_id": 38,
+    "character": "三",
+    "bbox": [
+      528,
+      466,
+      560,
+      495
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 39,
+    "previous_id": 39,
+    "character": "月",
+    "bbox": [
+      528,
+      493,
+      560,
+      517
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 40,
+    "previous_id": 40,
+    "character": "十",
+    "bbox": [
+      528,
+      514,
+      560,
+      533
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 41,
+    "previous_id": 41,
+    "character": "一",
+    "bbox": [
+      528,
+      531,
+      560,
+      545
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 42,
+    "previous_id": 42,
+    "character": "日",
+    "bbox": [
+      528,
+      543,
+      560,
+      560
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 43,
+    "previous_id": 43,
+    "character": "正",
+    "bbox": [
+      528,
+      557,
+      560,
+      579
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 44,
+    "previous_id": 44,
+    "character": "忌",
+    "bbox": [
+      528,
+      576,
+      560,
+      608
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 45,
+    "previous_id": 45,
+    "character": "田",
+    "bbox": [
+      528,
+      608,
+      560,
+      636
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 46,
+    "previous_id": 46,
+    "character": "一",
+    "bbox": [
+      528,
+      633,
+      560,
+      648
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 47,
+    "previous_id": 47,
+    "character": "所",
+    "bbox": [
+      528,
+      645,
+      560,
+      664
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 48,
+    "previous_id": 48,
+    "character": "塘",
+    "bbox": [
+      528,
+      662,
+      560,
+      687
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 49,
+    "previous_id": 49,
+    "character": "核",
+    "bbox": [
+      528,
+      684,
+      560,
+      710
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 50,
+    "previous_id": 50,
+    "character": "處",
+    "bbox": [
+      528,
+      707,
+      560,
+      730
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 51,
+    "previous_id": 51,
+    "character": "二",
+    "bbox": [
+      528,
+      728,
+      560,
+      747
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 52,
+    "previous_id": 52,
+    "character": "高",
+    "bbox": [
+      528,
+      745,
+      560,
+      764
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 53,
+    "previous_id": 53,
+    "character": "九",
+    "bbox": [
+      528,
+      762,
+      560,
+      780
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 54,
+    "previous_id": 54,
+    "character": "口",
+    "bbox": [
+      528,
+      778,
+      560,
+      796
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 55,
+    "previous_id": 55,
+    "character": "東",
+    "bbox": [
+      528,
+      794,
+      560,
+      814
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 56,
+    "previous_id": 56,
+    "character": "段",
+    "bbox": [
+      528,
+      812,
+      560,
+      834
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 57,
+    "previous_id": 57,
+    "character": "韻",
+    "bbox": [
+      528,
+      831,
+      560,
+      854
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 58,
+    "previous_id": 58,
+    "character": "西",
+    "bbox": [
+      528,
+      852,
+      560,
+      872
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 59,
+    "previous_id": 59,
+    "character": "阮",
+    "bbox": [
+      528,
+      870,
+      560,
+      887
+    ],
+    "group": "physical_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 60,
+    "previous_id": 61,
+    "character": "南",
+    "bbox": [
+      495,
+      329,
+      527,
+      345
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 61,
+    "previous_id": 62,
+    "character": "阮",
+    "bbox": [
+      495,
+      343,
+      527,
+      361
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 62,
+    "previous_id": 63,
+    "character": "秦",
+    "bbox": [
+      495,
+      359,
+      527,
+      379
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 63,
+    "previous_id": 64,
+    "character": "北",
+    "bbox": [
+      495,
+      376,
+      527,
+      396
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 64,
+    "previous_id": 65,
+    "character": "德",
+    "bbox": [
+      495,
+      393,
+      527,
+      412
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 65,
+    "previous_id": 66,
+    "character": "者",
+    "bbox": [
+      495,
+      410,
+      527,
+      426
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 66,
+    "previous_id": 67,
+    "character": "一",
+    "bbox": [
+      495,
+      423,
+      527,
+      438
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 67,
+    "previous_id": 68,
+    "character": "所",
+    "bbox": [
+      495,
+      435,
+      527,
+      453
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 68,
+    "previous_id": 69,
+    "character": "同",
+    "bbox": [
+      495,
+      451,
+      527,
+      471
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 69,
+    "previous_id": 70,
+    "character": "𨕭",
+    "bbox": [
+      495,
+      469,
+      527,
+      490
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 70,
+    "previous_id": 71,
+    "character": "處",
+    "bbox": [
+      495,
+      487,
+      527,
+      509
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 71,
+    "previous_id": 72,
+    "character": "六",
+    "bbox": [
+      495,
+      507,
+      527,
+      530
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 72,
+    "previous_id": 73,
+    "character": "高",
+    "bbox": [
+      495,
+      527,
+      527,
+      549
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 73,
+    "previous_id": 74,
+    "character": "七",
+    "bbox": [
+      495,
+      546,
+      527,
+      564
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 74,
+    "previous_id": 75,
+    "character": "口",
+    "bbox": [
+      495,
+      561,
+      527,
+      576
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 75,
+    "previous_id": 76,
+    "character": "二",
+    "bbox": [
+      495,
+      574,
+      527,
+      592
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 76,
+    "previous_id": 77,
+    "character": "婁",
+    "bbox": [
+      495,
+      590,
+      527,
+      613
+    ],
+    "group": "physical_3",
+    "review_required": true,
+    "reason": "Chữ nằm trên nếp gấp; cần kiểm tra biên và trạng thái."
+  },
+  {
+    "id": 77,
+    "previous_id": 78,
+    "character": "五",
+    "bbox": [
+      495,
+      611,
+      527,
+      634
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 78,
+    "previous_id": 79,
+    "character": "尺",
+    "bbox": [
+      495,
+      631,
+      527,
+      651
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 79,
+    "previous_id": 80,
+    "character": "七",
+    "bbox": [
+      495,
+      649,
+      527,
+      668
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 80,
+    "previous_id": 81,
+    "character": "寸",
+    "bbox": [
+      495,
+      665,
+      527,
+      686
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 81,
+    "previous_id": 82,
+    "character": "東",
+    "bbox": [
+      495,
+      684,
+      527,
+      706
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 82,
+    "previous_id": 83,
+    "character": "主",
+    "bbox": [
+      495,
+      703,
+      527,
+      726
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 83,
+    "previous_id": 84,
+    "character": "西",
+    "bbox": [
+      495,
+      723,
+      527,
+      745
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 84,
+    "previous_id": 85,
+    "character": "隊",
+    "bbox": [
+      495,
+      743,
+      527,
+      764
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 85,
+    "previous_id": 86,
+    "character": "南",
+    "bbox": [
+      495,
+      761,
+      527,
+      780
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 86,
+    "previous_id": 87,
+    "character": "何",
+    "bbox": [
+      495,
+      778,
+      527,
+      796
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 87,
+    "previous_id": 88,
+    "character": "廣",
+    "bbox": [
+      495,
+      793,
+      527,
+      813
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 88,
+    "previous_id": 89,
+    "character": "北",
+    "bbox": [
+      495,
+      811,
+      527,
+      830
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 89,
+    "previous_id": 90,
+    "character": "何",
+    "bbox": [
+      495,
+      828,
+      527,
+      847
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 90,
+    "previous_id": 91,
+    "character": "玉",
+    "bbox": [
+      495,
+      844,
+      527,
+      861
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 91,
+    "previous_id": 92,
+    "character": "一",
+    "bbox": [
+      495,
+      859,
+      527,
+      874
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 92,
+    "previous_id": 93,
+    "character": "所",
+    "bbox": [
+      495,
+      872,
+      527,
+      888
+    ],
+    "group": "physical_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 93,
+    "previous_id": 95,
+    "character": "地",
+    "bbox": [
+      462,
+      320,
+      494,
+      342
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 94,
+    "previous_id": 96,
+    "character": "處",
+    "bbox": [
+      461,
+      339,
+      494,
+      359
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 95,
+    "previous_id": 97,
+    "character": "一",
+    "bbox": [
+      461,
+      357,
+      494,
+      375
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 96,
+    "previous_id": 98,
+    "character": "高",
+    "bbox": [
+      461,
+      372,
+      494,
+      392
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 97,
+    "previous_id": 99,
+    "character": "五",
+    "bbox": [
+      460,
+      389,
+      493,
+      408
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 98,
+    "previous_id": 100,
+    "character": "口",
+    "bbox": [
+      460,
+      405,
+      493,
+      421
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 99,
+    "previous_id": 101,
+    "character": "二",
+    "bbox": [
+      460,
+      418,
+      493,
+      435
+    ],
+    "group": "physical_4",
+    "review_required": true,
+    "reason": "Chữ nằm trên nếp gấp; cần kiểm tra biên và trạng thái."
+  },
+  {
+    "id": 100,
+    "previous_id": 102,
+    "character": "娄",
+    "bbox": [
+      460,
+      433,
+      493,
+      450
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 101,
+    "previous_id": 103,
+    "character": "六",
+    "bbox": [
+      460,
+      447,
+      493,
+      467
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 102,
+    "previous_id": 104,
+    "character": "尺",
+    "bbox": [
+      459,
+      465,
+      492,
+      486
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 103,
+    "previous_id": 105,
+    "character": "七",
+    "bbox": [
+      459,
+      483,
+      492,
+      502
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 104,
+    "previous_id": 106,
+    "character": "寸",
+    "bbox": [
+      459,
+      500,
+      492,
+      521
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 105,
+    "previous_id": 107,
+    "character": "東",
+    "bbox": [
+      459,
+      519,
+      492,
+      541
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 106,
+    "previous_id": 108,
+    "character": "何",
+    "bbox": [
+      458,
+      538,
+      491,
+      560
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 107,
+    "previous_id": 109,
+    "character": "新",
+    "bbox": [
+      458,
+      557,
+      491,
+      578
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 108,
+    "previous_id": 110,
+    "character": "西",
+    "bbox": [
+      458,
+      575,
+      491,
+      594
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 109,
+    "previous_id": 111,
+    "character": "阮",
+    "bbox": [
+      457,
+      591,
+      490,
+      611
+    ],
+    "group": "physical_4",
+    "review_required": true,
+    "reason": "Chữ nằm trên nếp gấp; cần kiểm tra biên và trạng thái."
+  },
+  {
+    "id": 110,
+    "previous_id": 112,
+    "character": "追",
+    "bbox": [
+      457,
+      609,
+      490,
+      631
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 111,
+    "previous_id": 113,
+    "character": "南",
+    "bbox": [
+      457,
+      629,
+      490,
+      650
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 112,
+    "previous_id": 114,
+    "character": "阮",
+    "bbox": [
+      457,
+      647,
+      490,
+      668
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 113,
+    "previous_id": 115,
+    "character": "菲",
+    "bbox": [
+      456,
+      665,
+      489,
+      688
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 114,
+    "previous_id": 116,
+    "character": "北",
+    "bbox": [
+      456,
+      686,
+      489,
+      708
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 115,
+    "previous_id": 117,
+    "character": "公",
+    "bbox": [
+      456,
+      706,
+      489,
+      725
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 116,
+    "previous_id": 118,
+    "character": "田",
+    "bbox": [
+      456,
+      722,
+      488,
+      740
+    ],
+    "group": "physical_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 117,
+    "previous_id": 119,
+    "character": "后",
+    "bbox": [
+      434,
+      319,
+      468,
+      347
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 118,
+    "previous_id": 120,
+    "character": "祖",
+    "bbox": [
+      434,
+      345,
+      468,
+      372
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 119,
+    "previous_id": 121,
+    "character": "阮",
+    "bbox": [
+      433,
+      370,
+      467,
+      397
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 120,
+    "previous_id": 122,
+    "character": "公",
+    "bbox": [
+      433,
+      395,
+      467,
+      419
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 121,
+    "previous_id": 123,
+    "character": "字",
+    "bbox": [
+      433,
+      417,
+      467,
+      437
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 122,
+    "previous_id": 124,
+    "character": "法",
+    "bbox": [
+      433,
+      435,
+      467,
+      457
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 123,
+    "previous_id": 125,
+    "character": "謙",
+    "bbox": [
+      432,
+      454,
+      466,
+      480
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 124,
+    "previous_id": 126,
+    "character": "忌",
+    "bbox": [
+      432,
+      477,
+      466,
+      503
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 125,
+    "previous_id": 127,
+    "character": "八",
+    "bbox": [
+      432,
+      500,
+      466,
+      523
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 126,
+    "previous_id": 128,
+    "character": "月",
+    "bbox": [
+      432,
+      520,
+      466,
+      542
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 127,
+    "previous_id": 129,
+    "character": "十",
+    "bbox": [
+      431,
+      540,
+      465,
+      563
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 128,
+    "previous_id": 130,
+    "character": "八",
+    "bbox": [
+      431,
+      560,
+      465,
+      581
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 129,
+    "previous_id": 131,
+    "character": "日",
+    "bbox": [
+      431,
+      578,
+      465,
+      596
+    ],
+    "group": "physical_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 130,
+    "previous_id": 132,
+    "character": "一",
+    "bbox": [
+      401,
+      320,
+      435,
+      332
+    ],
+    "group": "physical_6",
+    "review_required": true,
+    "reason": "Đầu cột bị nếp gấp che; ranh giới các chữ chưa chắc."
+  },
+  {
+    "id": 131,
+    "previous_id": 134,
+    "character": "𣷷",
+    "bbox": [
+      401,
+      330,
+      435,
+      362
+    ],
+    "group": "physical_6",
+    "review_required": true,
+    "reason": "Đầu cột bị nếp gấp che; ranh giới các chữ chưa chắc."
+  },
+  {
+    "id": 132,
+    "previous_id": 135,
+    "character": "汝",
+    "bbox": [
+      401,
+      360,
+      435,
+      391
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 133,
+    "previous_id": 136,
+    "character": "處",
+    "bbox": [
+      401,
+      389,
+      435,
+      424
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 134,
+    "previous_id": 137,
+    "character": "九",
+    "bbox": [
+      401,
+      422,
+      435,
+      455
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 135,
+    "previous_id": 138,
+    "character": "高",
+    "bbox": [
+      401,
+      453,
+      435,
+      482
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 136,
+    "previous_id": 139,
+    "character": "九",
+    "bbox": [
+      401,
+      480,
+      435,
+      506
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 137,
+    "previous_id": 140,
+    "character": "口",
+    "bbox": [
+      401,
+      503,
+      435,
+      528
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 138,
+    "previous_id": 141,
+    "character": "東",
+    "bbox": [
+      401,
+      526,
+      435,
+      553
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 139,
+    "previous_id": 142,
+    "character": "隊",
+    "bbox": [
+      401,
+      550,
+      435,
+      582
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 140,
+    "previous_id": 143,
+    "character": "西",
+    "bbox": [
+      402,
+      579,
+      436,
+      613
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 141,
+    "previous_id": 144,
+    "character": "何",
+    "bbox": [
+      402,
+      610,
+      436,
+      640
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 142,
+    "previous_id": 145,
+    "character": "惟",
+    "bbox": [
+      402,
+      638,
+      436,
+      667
+    ],
+    "group": "physical_6",
+    "review_required": true,
+    "reason": "Chữ nằm trên nếp gấp; cần kiểm tra biên và trạng thái."
+  },
+  {
+    "id": 143,
+    "previous_id": 146,
+    "character": "廣",
+    "bbox": [
+      402,
+      665,
+      436,
+      700
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 144,
+    "previous_id": 147,
+    "character": "南",
+    "bbox": [
+      402,
+      729,
+      436,
+      764
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 145,
+    "previous_id": 148,
+    "character": "渠",
+    "bbox": [
+      402,
+      762,
+      436,
+      790
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 146,
+    "previous_id": 149,
+    "character": "北",
+    "bbox": [
+      402,
+      788,
+      436,
+      814
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 147,
+    "previous_id": 150,
+    "character": "□",
+    "bbox": [
+      402,
+      811,
+      436,
+      838
+    ],
+    "group": "physical_6",
+    "review_required": true,
+    "reason": "Vị trí □ bị mất nét."
+  },
+  {
+    "id": 148,
+    "previous_id": 151,
+    "character": "有",
+    "bbox": [
+      402,
+      836,
+      436,
+      864
+    ],
+    "group": "physical_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 149,
+    "previous_id": 152,
+    "character": "一",
+    "bbox": [
+      374,
+      319,
+      406,
+      333
+    ],
+    "group": "physical_7",
+    "review_required": true,
+    "reason": "Đầu cột bị nếp gấp che; ranh giới các chữ chưa chắc."
+  },
+  {
+    "id": 150,
+    "previous_id": 154,
+    "character": "泑",
+    "bbox": [
+      374,
+      332,
+      406,
+      366
+    ],
+    "group": "physical_7",
+    "review_required": true,
+    "reason": "Đầu cột bị nếp gấp che; ranh giới các chữ chưa chắc."
+  },
+  {
+    "id": 151,
+    "previous_id": 155,
+    "character": "船",
+    "bbox": [
+      374,
+      364,
+      406,
+      390
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 152,
+    "previous_id": 156,
+    "character": "處",
+    "bbox": [
+      374,
+      387,
+      406,
+      411
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 153,
+    "previous_id": 157,
+    "character": "田",
+    "bbox": [
+      374,
+      408,
+      406,
+      432
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 154,
+    "previous_id": 158,
+    "character": "一",
+    "bbox": [
+      374,
+      430,
+      406,
+      453
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 155,
+    "previous_id": 159,
+    "character": "高",
+    "bbox": [
+      374,
+      451,
+      406,
+      471
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 156,
+    "previous_id": 160,
+    "character": "一",
+    "bbox": [
+      374,
+      468,
+      406,
+      485
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 157,
+    "previous_id": 161,
+    "character": "口",
+    "bbox": [
+      374,
+      483,
+      406,
+      499
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 158,
+    "previous_id": 162,
+    "character": "三",
+    "bbox": [
+      374,
+      497,
+      406,
+      517
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 159,
+    "previous_id": 163,
+    "character": "娄",
+    "bbox": [
+      374,
+      514,
+      406,
+      539
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 160,
+    "previous_id": 164,
+    "character": "東",
+    "bbox": [
+      374,
+      536,
+      406,
+      563
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 161,
+    "previous_id": 165,
+    "character": "阮",
+    "bbox": [
+      374,
+      561,
+      406,
+      587
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 162,
+    "previous_id": 166,
+    "character": "結",
+    "bbox": [
+      374,
+      584,
+      406,
+      609
+    ],
+    "group": "physical_7",
+    "review_required": true,
+    "reason": "Chữ nằm trên nếp gấp; cần kiểm tra biên và trạng thái."
+  },
+  {
+    "id": 163,
+    "previous_id": 167,
+    "character": "西",
+    "bbox": [
+      374,
+      607,
+      406,
+      629
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 164,
+    "previous_id": 168,
+    "character": "阮",
+    "bbox": [
+      374,
+      626,
+      406,
+      645
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 165,
+    "previous_id": 169,
+    "character": "有",
+    "bbox": [
+      374,
+      643,
+      406,
+      665
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 166,
+    "previous_id": 170,
+    "character": "演",
+    "bbox": [
+      374,
+      663,
+      406,
+      689
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 167,
+    "previous_id": 171,
+    "character": "南",
+    "bbox": [
+      374,
+      686,
+      406,
+      711
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 168,
+    "previous_id": 172,
+    "character": "阮",
+    "bbox": [
+      374,
+      708,
+      406,
+      731
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 169,
+    "previous_id": 173,
+    "character": "丙",
+    "bbox": [
+      374,
+      728,
+      406,
+      750
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 170,
+    "previous_id": 174,
+    "character": "北",
+    "bbox": [
+      374,
+      748,
+      406,
+      771
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 171,
+    "previous_id": 175,
+    "character": "阮",
+    "bbox": [
+      374,
+      769,
+      406,
+      794
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 172,
+    "previous_id": 176,
+    "character": "結",
+    "bbox": [
+      374,
+      791,
+      406,
+      817
+    ],
+    "group": "physical_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 173,
+    "previous_id": 177,
+    "character": "后",
+    "bbox": [
+      347,
+      317,
+      379,
+      343
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 174,
+    "previous_id": 178,
+    "character": "祖",
+    "bbox": [
+      347,
+      341,
+      379,
+      367
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 175,
+    "previous_id": 179,
+    "character": "何",
+    "bbox": [
+      347,
+      364,
+      379,
+      391
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 176,
+    "previous_id": 180,
+    "character": "氏",
+    "bbox": [
+      347,
+      389,
+      379,
+      417
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 177,
+    "previous_id": 181,
+    "character": "員",
+    "bbox": [
+      347,
+      415,
+      379,
+      442
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 178,
+    "previous_id": 182,
+    "character": "號",
+    "bbox": [
+      347,
+      440,
+      379,
+      465
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 179,
+    "previous_id": 183,
+    "character": "妙",
+    "bbox": [
+      347,
+      463,
+      379,
+      487
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 180,
+    "previous_id": 184,
+    "character": "忠",
+    "bbox": [
+      347,
+      484,
+      379,
+      508
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 181,
+    "previous_id": 185,
+    "character": "忌",
+    "bbox": [
+      347,
+      506,
+      379,
+      529
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 182,
+    "previous_id": 186,
+    "character": "二",
+    "bbox": [
+      347,
+      526,
+      379,
+      547
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 183,
+    "previous_id": 187,
+    "character": "月",
+    "bbox": [
+      347,
+      545,
+      379,
+      565
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 184,
+    "previous_id": 188,
+    "character": "二",
+    "bbox": [
+      347,
+      562,
+      379,
+      582
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 185,
+    "previous_id": 189,
+    "character": "十",
+    "bbox": [
+      347,
+      580,
+      379,
+      601
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 186,
+    "previous_id": 190,
+    "character": "六",
+    "bbox": [
+      347,
+      599,
+      379,
+      621
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 187,
+    "previous_id": 191,
+    "character": "日",
+    "bbox": [
+      347,
+      619,
+      379,
+      639
+    ],
+    "group": "physical_8",
+    "review_required": true,
+    "reason": "Chữ nằm trên nếp gấp; cần kiểm tra biên và trạng thái."
+  },
+  {
+    "id": 188,
+    "previous_id": 192,
+    "character": "一",
+    "bbox": [
+      347,
+      637,
+      379,
+      655
+    ],
+    "group": "physical_8",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 189,
+    "previous_id": 193,
+    "character": "所",
+    "bbox": [
+      318,
+      325,
+      350,
+      351
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 190,
+    "previous_id": 194,
+    "character": "潮",
+    "bbox": [
+      318,
+      348,
+      350,
+      374
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 191,
+    "previous_id": 195,
+    "character": "𣷷",
+    "bbox": [
+      318,
+      372,
+      350,
+      396
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 192,
+    "previous_id": 196,
+    "character": "汝",
+    "bbox": [
+      318,
+      393,
+      350,
+      416
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 193,
+    "previous_id": 197,
+    "character": "處",
+    "bbox": [
+      318,
+      414,
+      350,
+      438
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 194,
+    "previous_id": 198,
+    "character": "田",
+    "bbox": [
+      318,
+      435,
+      350,
+      455
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 195,
+    "previous_id": 199,
+    "character": "一",
+    "bbox": [
+      318,
+      452,
+      350,
+      470
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 196,
+    "previous_id": 200,
+    "character": "畝",
+    "bbox": [
+      318,
+      467,
+      350,
+      485
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 197,
+    "previous_id": 201,
+    "character": "一",
+    "bbox": [
+      318,
+      483,
+      350,
+      501
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 198,
+    "previous_id": 202,
+    "character": "高",
+    "bbox": [
+      318,
+      499,
+      350,
+      523
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 199,
+    "previous_id": 203,
+    "character": "東",
+    "bbox": [
+      318,
+      521,
+      350,
+      550
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 200,
+    "previous_id": 204,
+    "character": "小",
+    "bbox": [
+      318,
+      547,
+      350,
+      571
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 201,
+    "previous_id": 205,
+    "character": "江",
+    "bbox": [
+      318,
+      569,
+      350,
+      589
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 202,
+    "previous_id": 206,
+    "character": "西",
+    "bbox": [
+      318,
+      586,
+      350,
+      609
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 203,
+    "previous_id": 207,
+    "character": "□",
+    "bbox": [
+      318,
+      606,
+      350,
+      630
+    ],
+    "group": "physical_9",
+    "review_required": true,
+    "reason": "Vị trí □ bị mất nét."
+  },
+  {
+    "id": 204,
+    "previous_id": 208,
+    "character": "南",
+    "bbox": [
+      318,
+      628,
+      350,
+      654
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 205,
+    "previous_id": 209,
+    "character": "唐",
+    "bbox": [
+      318,
+      651,
+      350,
+      676
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 206,
+    "previous_id": 210,
+    "character": "北",
+    "bbox": [
+      318,
+      674,
+      350,
+      697
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 207,
+    "previous_id": 211,
+    "character": "阮",
+    "bbox": [
+      318,
+      694,
+      350,
+      718
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 208,
+    "previous_id": 212,
+    "character": "両",
+    "bbox": [
+      318,
+      715,
+      350,
+      739
+    ],
+    "group": "physical_9",
+    "review_required": false,
+    "reason": ""
+  }
+]

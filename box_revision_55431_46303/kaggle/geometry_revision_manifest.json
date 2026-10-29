@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "targets": [
+    "55431",
+    "46303"
+  ],
+  "original_upload": "annotations (3).zip",
+  "review_only_until_model_rerun": true,
+  "allowed_geometry": {
+    "55431": [
+      "5ff7563ae6d8e2cb0f500f80a4ab167101a21508dfd0322983745e21a4d48f25",
+      "a2ac846eda5d66399abcb8502f39c592c0d4171b46bffbea09b97b6daa3c38ed"
+    ],
+    "46303": [
+      "9957a0b434728f19143c2aa53744157d9019fb5c20394c04a9dff6a607f7841e",
+      "f8f19eb933bb8f89fe9a74c3fd44e2e48c4c055e5e873dd71bf18e06f2f6cf2c"
+    ]
+  }
+}

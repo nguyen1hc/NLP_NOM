@@ -1,0 +1,2746 @@
+[
+  {
+    "id": 1,
+    "previous_id": 1,
+    "character": "順",
+    "bbox": [
+      742,
+      453,
+      789,
+      488
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 2,
+    "previous_id": 2,
+    "character": "安",
+    "bbox": [
+      742,
+      482,
+      789,
+      508
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 3,
+    "previous_id": 3,
+    "character": "府",
+    "bbox": [
+      743,
+      502,
+      790,
+      542
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 4,
+    "previous_id": 4,
+    "character": "文",
+    "bbox": [
+      744,
+      536,
+      791,
+      580
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 5,
+    "previous_id": 5,
+    "character": "江",
+    "bbox": [
+      744,
+      574,
+      791,
+      618
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 6,
+    "previous_id": 6,
+    "character": "縣",
+    "bbox": [
+      745,
+      612,
+      792,
+      652
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 7,
+    "previous_id": 7,
+    "character": "⿈",
+    "bbox": [
+      746,
+      646,
+      793,
+      689
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 8,
+    "previous_id": 8,
+    "character": "堆",
+    "bbox": [
+      747,
+      683,
+      794,
+      731
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 9,
+    "previous_id": 9,
+    "character": "社",
+    "bbox": [
+      748,
+      725,
+      795,
+      767
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 10,
+    "previous_id": 10,
+    "character": "支",
+    "bbox": [
+      749,
+      761,
+      796,
+      804
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 11,
+    "previous_id": 11,
+    "character": "龍",
+    "bbox": [
+      750,
+      798,
+      797,
+      841
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 12,
+    "previous_id": 12,
+    "character": "村",
+    "bbox": [
+      751,
+      835,
+      798,
+      881
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 13,
+    "previous_id": 13,
+    "character": "鄉",
+    "bbox": [
+      752,
+      875,
+      799,
+      919
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 14,
+    "previous_id": 14,
+    "character": "老",
+    "bbox": [
+      753,
+      913,
+      800,
+      959
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 15,
+    "previous_id": 15,
+    "character": "練",
+    "bbox": [
+      753,
+      953,
+      800,
+      997
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 16,
+    "previous_id": 16,
+    "character": "庭",
+    "bbox": [
+      754,
+      991,
+      801,
+      1026
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 17,
+    "previous_id": 17,
+    "character": "楼",
+    "bbox": [
+      755,
+      1020,
+      802,
+      1063
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 18,
+    "previous_id": 18,
+    "character": "練",
+    "bbox": [
+      756,
+      1057,
+      803,
+      1097
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 19,
+    "previous_id": 19,
+    "character": "名",
+    "bbox": [
+      757,
+      1091,
+      804,
+      1133
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 20,
+    "previous_id": 20,
+    "character": "普",
+    "bbox": [
+      758,
+      1127,
+      805,
+      1172
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 21,
+    "previous_id": 21,
+    "character": "吳",
+    "bbox": [
+      758,
+      1166,
+      805,
+      1206
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 22,
+    "previous_id": 22,
+    "character": "名",
+    "bbox": [
+      759,
+      1200,
+      806,
+      1240
+    ],
+    "group": "column_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 23,
+    "previous_id": 23,
+    "character": "威",
+    "bbox": [
+      693,
+      456,
+      740,
+      494
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 24,
+    "previous_id": 24,
+    "character": "阮",
+    "bbox": [
+      693,
+      488,
+      740,
+      527
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 25,
+    "previous_id": 25,
+    "character": "伯",
+    "bbox": [
+      694,
+      521,
+      741,
+      561
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 26,
+    "previous_id": 26,
+    "character": "弄",
+    "bbox": [
+      695,
+      555,
+      742,
+      589
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 27,
+    "previous_id": 27,
+    "character": "張",
+    "bbox": [
+      696,
+      583,
+      743,
+      622
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 28,
+    "previous_id": 28,
+    "character": "國",
+    "bbox": [
+      697,
+      616,
+      744,
+      658
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 29,
+    "previous_id": 29,
+    "character": "富",
+    "bbox": [
+      698,
+      652,
+      745,
+      697
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 30,
+    "previous_id": 30,
+    "character": "阮",
+    "bbox": [
+      699,
+      691,
+      746,
+      728
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 31,
+    "previous_id": 31,
+    "character": "名",
+    "bbox": [
+      700,
+      722,
+      747,
+      761
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 32,
+    "previous_id": 32,
+    "character": "二",
+    "bbox": [
+      701,
+      755,
+      748,
+      795
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 33,
+    "previous_id": 33,
+    "character": "練",
+    "bbox": [
+      701,
+      789,
+      748,
+      830
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 34,
+    "previous_id": 34,
+    "character": "名",
+    "bbox": [
+      702,
+      824,
+      749,
+      866
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 35,
+    "previous_id": 35,
+    "character": "雖",
+    "bbox": [
+      703,
+      860,
+      750,
+      901
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 36,
+    "previous_id": 36,
+    "character": "張",
+    "bbox": [
+      704,
+      895,
+      751,
+      934
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 37,
+    "previous_id": 37,
+    "character": "德",
+    "bbox": [
+      705,
+      928,
+      752,
+      967
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 38,
+    "previous_id": 38,
+    "character": "誠",
+    "bbox": [
+      706,
+      961,
+      753,
+      1001
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 39,
+    "previous_id": 39,
+    "character": "張",
+    "bbox": [
+      707,
+      995,
+      754,
+      1034
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 40,
+    "previous_id": 40,
+    "character": "名",
+    "bbox": [
+      708,
+      1028,
+      755,
+      1068
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 41,
+    "previous_id": 41,
+    "character": "酒",
+    "bbox": [
+      709,
+      1062,
+      756,
+      1102
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 42,
+    "previous_id": 42,
+    "character": "鄉",
+    "bbox": [
+      709,
+      1096,
+      756,
+      1133
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 43,
+    "previous_id": 43,
+    "character": "長",
+    "bbox": [
+      710,
+      1127,
+      757,
+      1168
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 44,
+    "previous_id": 44,
+    "character": "練",
+    "bbox": [
+      711,
+      1162,
+      758,
+      1199
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 45,
+    "previous_id": 45,
+    "character": "名",
+    "bbox": [
+      712,
+      1193,
+      759,
+      1244
+    ],
+    "group": "column_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 46,
+    "previous_id": 46,
+    "character": "頁",
+    "bbox": [
+      649,
+      456,
+      696,
+      495
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 47,
+    "previous_id": 47,
+    "character": "阮",
+    "bbox": [
+      649,
+      489,
+      696,
+      525
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 48,
+    "previous_id": 48,
+    "character": "國",
+    "bbox": [
+      650,
+      519,
+      697,
+      555
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 49,
+    "previous_id": 49,
+    "character": "振",
+    "bbox": [
+      651,
+      549,
+      698,
+      587
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 50,
+    "previous_id": 50,
+    "character": "阮",
+    "bbox": [
+      652,
+      581,
+      699,
+      615
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 51,
+    "previous_id": 51,
+    "character": "名",
+    "bbox": [
+      652,
+      609,
+      699,
+      646
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 52,
+    "previous_id": 52,
+    "character": "騰",
+    "bbox": [
+      653,
+      640,
+      700,
+      680
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 53,
+    "previous_id": 53,
+    "character": "張",
+    "bbox": [
+      654,
+      674,
+      701,
+      713
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 54,
+    "previous_id": 54,
+    "character": "名",
+    "bbox": [
+      655,
+      707,
+      702,
+      747
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 55,
+    "previous_id": 55,
+    "character": "濟",
+    "bbox": [
+      655,
+      741,
+      702,
+      783
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 56,
+    "previous_id": 56,
+    "character": "練",
+    "bbox": [
+      656,
+      777,
+      703,
+      816
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 57,
+    "previous_id": 57,
+    "character": "廷",
+    "bbox": [
+      657,
+      810,
+      704,
+      847
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 58,
+    "previous_id": 58,
+    "character": "給",
+    "bbox": [
+      658,
+      841,
+      705,
+      880
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 59,
+    "previous_id": 59,
+    "character": "練",
+    "bbox": [
+      659,
+      874,
+      706,
+      917
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 60,
+    "previous_id": 60,
+    "character": "德",
+    "bbox": [
+      659,
+      911,
+      706,
+      956
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 61,
+    "previous_id": 61,
+    "character": "鄰",
+    "bbox": [
+      660,
+      950,
+      707,
+      995
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 62,
+    "previous_id": 62,
+    "character": "仝",
+    "bbox": [
+      661,
+      989,
+      708,
+      1026
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 63,
+    "previous_id": 63,
+    "character": "斯",
+    "bbox": [
+      662,
+      1020,
+      709,
+      1060
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 64,
+    "previous_id": 64,
+    "character": "文",
+    "bbox": [
+      663,
+      1054,
+      710,
+      1092
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 65,
+    "previous_id": 65,
+    "character": "會",
+    "bbox": [
+      664,
+      1086,
+      711,
+      1131
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 66,
+    "previous_id": 66,
+    "character": "為",
+    "bbox": [
+      665,
+      1130,
+      712,
+      1174
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 67,
+    "previous_id": 67,
+    "character": "立",
+    "bbox": [
+      665,
+      1172,
+      712,
+      1201
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 68,
+    "previous_id": 68,
+    "character": "碑",
+    "bbox": [
+      666,
+      1199,
+      713,
+      1230
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 69,
+    "previous_id": 69,
+    "character": "事",
+    "bbox": [
+      667,
+      1228,
+      713,
+      1258
+    ],
+    "group": "column_3",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 70,
+    "previous_id": 70,
+    "character": "夫",
+    "bbox": [
+      604,
+      456,
+      653,
+      495
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 71,
+    "previous_id": 71,
+    "character": "碑",
+    "bbox": [
+      604,
+      495,
+      653,
+      530
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 72,
+    "previous_id": 72,
+    "character": "之",
+    "bbox": [
+      605,
+      530,
+      654,
+      559
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 73,
+    "previous_id": 73,
+    "character": "設",
+    "bbox": [
+      605,
+      560,
+      654,
+      597
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 74,
+    "previous_id": 74,
+    "character": "所",
+    "bbox": [
+      606,
+      598,
+      655,
+      631
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 75,
+    "previous_id": 75,
+    "character": "以",
+    "bbox": [
+      606,
+      632,
+      655,
+      654
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 76,
+    "previous_id": 77,
+    "character": "表",
+    "bbox": [
+      607,
+      653,
+      656,
+      697
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 77,
+    "previous_id": 78,
+    "character": "其",
+    "bbox": [
+      608,
+      696,
+      657,
+      719
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 78,
+    "previous_id": 79,
+    "character": "預",
+    "bbox": [
+      609,
+      720,
+      658,
+      756
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 79,
+    "previous_id": 80,
+    "character": "於",
+    "bbox": [
+      609,
+      756,
+      658,
+      792
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 80,
+    "previous_id": 81,
+    "character": "斯",
+    "bbox": [
+      610,
+      791,
+      659,
+      826
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 81,
+    "previous_id": 82,
+    "character": "文",
+    "bbox": [
+      611,
+      825,
+      660,
+      853
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 82,
+    "previous_id": 83,
+    "character": "也",
+    "bbox": [
+      611,
+      853,
+      660,
+      879
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 83,
+    "previous_id": 84,
+    "character": "惟",
+    "bbox": [
+      612,
+      879,
+      661,
+      907
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 84,
+    "previous_id": 85,
+    "character": "本",
+    "bbox": [
+      612,
+      908,
+      661,
+      931
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 85,
+    "previous_id": 86,
+    "character": "村",
+    "bbox": [
+      613,
+      932,
+      662,
+      958
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 86,
+    "previous_id": 87,
+    "character": "人",
+    "bbox": [
+      613,
+      961,
+      662,
+      990
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 87,
+    "previous_id": 88,
+    "character": "好",
+    "bbox": [
+      614,
+      988,
+      663,
+      1024
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 88,
+    "previous_id": 89,
+    "character": "友",
+    "bbox": [
+      615,
+      1021,
+      664,
+      1053
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 89,
+    "previous_id": 90,
+    "character": "著",
+    "bbox": [
+      615,
+      1052,
+      664,
+      1091
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 90,
+    "previous_id": 91,
+    "character": "於",
+    "bbox": [
+      616,
+      1091,
+      665,
+      1123
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 91,
+    "previous_id": 92,
+    "character": "家",
+    "bbox": [
+      617,
+      1125,
+      666,
+      1157
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 92,
+    "previous_id": 93,
+    "character": "吳",
+    "bbox": [
+      617,
+      1157,
+      666,
+      1184
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 93,
+    "previous_id": 94,
+    "character": "貴",
+    "bbox": [
+      618,
+      1186,
+      667,
+      1225
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 94,
+    "previous_id": 95,
+    "character": "公",
+    "bbox": [
+      619,
+      1224,
+      667,
+      1254
+    ],
+    "group": "column_4",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 95,
+    "previous_id": 96,
+    "character": "字",
+    "bbox": [
+      556,
+      461,
+      609,
+      502
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 96,
+    "previous_id": 97,
+    "character": "名",
+    "bbox": [
+      556,
+      496,
+      609,
+      532
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 97,
+    "previous_id": 98,
+    "character": "朴",
+    "bbox": [
+      557,
+      526,
+      610,
+      562
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 98,
+    "previous_id": 99,
+    "character": "練",
+    "bbox": [
+      557,
+      556,
+      610,
+      598
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 99,
+    "previous_id": 100,
+    "character": "貴",
+    "bbox": [
+      558,
+      592,
+      611,
+      629
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 100,
+    "previous_id": 101,
+    "character": "公",
+    "bbox": [
+      558,
+      623,
+      611,
+      666
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 101,
+    "previous_id": 102,
+    "character": "字",
+    "bbox": [
+      559,
+      660,
+      612,
+      704
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 102,
+    "previous_id": 103,
+    "character": "廷",
+    "bbox": [
+      560,
+      698,
+      613,
+      737
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 103,
+    "previous_id": 104,
+    "character": "嚴",
+    "bbox": [
+      560,
+      731,
+      613,
+      769
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 104,
+    "previous_id": 105,
+    "character": "行",
+    "bbox": [
+      561,
+      763,
+      614,
+      802
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 105,
+    "previous_id": 106,
+    "character": "誼",
+    "bbox": [
+      561,
+      796,
+      614,
+      831
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 106,
+    "previous_id": 107,
+    "character": "隆",
+    "bbox": [
+      562,
+      825,
+      615,
+      867
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 107,
+    "previous_id": 108,
+    "character": "於",
+    "bbox": [
+      563,
+      861,
+      616,
+      904
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 108,
+    "previous_id": 109,
+    "character": "鄉",
+    "bbox": [
+      563,
+      898,
+      616,
+      936
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 109,
+    "previous_id": 110,
+    "character": "曲",
+    "bbox": [
+      564,
+      930,
+      617,
+      963
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 110,
+    "previous_id": 111,
+    "character": "誠",
+    "bbox": [
+      564,
+      957,
+      617,
+      993
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 111,
+    "previous_id": 112,
+    "character": "足",
+    "bbox": [
+      565,
+      987,
+      618,
+      1022
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 112,
+    "previous_id": 113,
+    "character": "使",
+    "bbox": [
+      565,
+      1016,
+      618,
+      1051
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 113,
+    "previous_id": 114,
+    "character": "後",
+    "bbox": [
+      566,
+      1045,
+      619,
+      1084
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 114,
+    "previous_id": 115,
+    "character": "人",
+    "bbox": [
+      566,
+      1078,
+      619,
+      1110
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 115,
+    "previous_id": 116,
+    "character": "賢",
+    "bbox": [
+      567,
+      1104,
+      620,
+      1145
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 116,
+    "previous_id": 117,
+    "character": "其",
+    "bbox": [
+      567,
+      1139,
+      620,
+      1180
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 117,
+    "previous_id": 118,
+    "character": "賢",
+    "bbox": [
+      568,
+      1174,
+      621,
+      1216
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 118,
+    "previous_id": 119,
+    "character": "而",
+    "bbox": [
+      568,
+      1210,
+      621,
+      1247
+    ],
+    "group": "column_5",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 119,
+    "previous_id": 120,
+    "character": "親",
+    "bbox": [
+      511,
+      464,
+      562,
+      504
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 120,
+    "previous_id": 121,
+    "character": "其",
+    "bbox": [
+      511,
+      498,
+      562,
+      540
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 121,
+    "previous_id": 122,
+    "character": "親",
+    "bbox": [
+      512,
+      534,
+      563,
+      574
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 122,
+    "previous_id": 123,
+    "character": "且",
+    "bbox": [
+      512,
+      568,
+      563,
+      604
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 123,
+    "previous_id": 124,
+    "character": "各",
+    "bbox": [
+      513,
+      598,
+      564,
+      636
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 124,
+    "previous_id": 125,
+    "character": "置",
+    "bbox": [
+      514,
+      630,
+      565,
+      673
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 125,
+    "previous_id": 126,
+    "character": "肥",
+    "bbox": [
+      514,
+      667,
+      565,
+      702
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 126,
+    "previous_id": 127,
+    "character": "田",
+    "bbox": [
+      515,
+      696,
+      566,
+      730
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 127,
+    "previous_id": 128,
+    "character": "以",
+    "bbox": [
+      515,
+      724,
+      566,
+      757
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 128,
+    "previous_id": 129,
+    "character": "供",
+    "bbox": [
+      516,
+      751,
+      567,
+      787
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 129,
+    "previous_id": 130,
+    "character": "丁",
+    "bbox": [
+      516,
+      781,
+      567,
+      816
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 130,
+    "previous_id": 131,
+    "character": "MISS",
+    "bbox": [
+      517,
+      810,
+      568,
+      849
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 131,
+    "previous_id": 132,
+    "character": "之",
+    "bbox": [
+      517,
+      843,
+      568,
+      878
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 132,
+    "previous_id": 133,
+    "character": "需",
+    "bbox": [
+      518,
+      872,
+      569,
+      914
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 133,
+    "previous_id": 134,
+    "character": "為",
+    "bbox": [
+      518,
+      908,
+      569,
+      950
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 134,
+    "previous_id": 135,
+    "character": "此",
+    "bbox": [
+      519,
+      944,
+      570,
+      976
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 135,
+    "previous_id": 136,
+    "character": "仝",
+    "bbox": [
+      519,
+      970,
+      570,
+      1003
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 136,
+    "previous_id": 137,
+    "character": "斯",
+    "bbox": [
+      520,
+      997,
+      571,
+      1031
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 137,
+    "previous_id": 138,
+    "character": "文",
+    "bbox": [
+      520,
+      1025,
+      571,
+      1058
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 138,
+    "previous_id": 139,
+    "character": "會",
+    "bbox": [
+      521,
+      1052,
+      572,
+      1094
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 139,
+    "previous_id": 140,
+    "character": "協",
+    "bbox": [
+      521,
+      1088,
+      572,
+      1118
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 140,
+    "previous_id": 141,
+    "character": "順",
+    "bbox": [
+      522,
+      1112,
+      573,
+      1149
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 141,
+    "previous_id": 142,
+    "character": "保",
+    "bbox": [
+      522,
+      1143,
+      573,
+      1180
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 142,
+    "previous_id": 143,
+    "character": "為",
+    "bbox": [
+      523,
+      1174,
+      574,
+      1217
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 143,
+    "previous_id": 144,
+    "character": "后",
+    "bbox": [
+      523,
+      1211,
+      574,
+      1248
+    ],
+    "group": "column_6",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 144,
+    "previous_id": 145,
+    "character": "賢",
+    "bbox": [
+      464,
+      465,
+      515,
+      508
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 145,
+    "previous_id": 146,
+    "character": "遞",
+    "bbox": [
+      465,
+      502,
+      516,
+      540
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 146,
+    "previous_id": 147,
+    "character": "年",
+    "bbox": [
+      465,
+      534,
+      516,
+      574
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 147,
+    "previous_id": 148,
+    "character": "春",
+    "bbox": [
+      466,
+      568,
+      517,
+      608
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 148,
+    "previous_id": 149,
+    "character": "秋",
+    "bbox": [
+      466,
+      602,
+      517,
+      638
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 149,
+    "previous_id": 150,
+    "character": "丁",
+    "bbox": [
+      467,
+      632,
+      518,
+      667
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 150,
+    "previous_id": 151,
+    "character": "祭",
+    "bbox": [
+      468,
+      661,
+      519,
+      701
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 151,
+    "previous_id": 152,
+    "character": "列",
+    "bbox": [
+      468,
+      695,
+      519,
+      730
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 152,
+    "previous_id": 153,
+    "character": "在",
+    "bbox": [
+      469,
+      724,
+      520,
+      758
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 153,
+    "previous_id": 154,
+    "character": "後",
+    "bbox": [
+      469,
+      752,
+      520,
+      791
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 154,
+    "previous_id": 155,
+    "character": "文",
+    "bbox": [
+      470,
+      785,
+      521,
+      821
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 155,
+    "previous_id": 156,
+    "character": "並",
+    "bbox": [
+      471,
+      815,
+      522,
+      850
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 156,
+    "previous_id": 157,
+    "character": "同",
+    "bbox": [
+      471,
+      844,
+      522,
+      878
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 157,
+    "previous_id": 158,
+    "character": "配",
+    "bbox": [
+      472,
+      872,
+      523,
+      906
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 158,
+    "previous_id": 159,
+    "character": "享",
+    "bbox": [
+      472,
+      900,
+      523,
+      942
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 159,
+    "previous_id": 160,
+    "character": "爰",
+    "bbox": [
+      473,
+      936,
+      524,
+      977
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 160,
+    "previous_id": 161,
+    "character": "刻",
+    "bbox": [
+      474,
+      971,
+      525,
+      1008
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 161,
+    "previous_id": 162,
+    "character": "于",
+    "bbox": [
+      474,
+      1001,
+      525,
+      1031
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 162,
+    "previous_id": 163,
+    "character": "碑",
+    "bbox": [
+      475,
+      1029,
+      526,
+      1064
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 163,
+    "previous_id": 164,
+    "character": "以",
+    "bbox": [
+      475,
+      1062,
+      526,
+      1088
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 164,
+    "previous_id": 165,
+    "character": "示",
+    "bbox": [
+      476,
+      1086,
+      527,
+      1120
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 165,
+    "previous_id": 166,
+    "character": "其",
+    "bbox": [
+      477,
+      1118,
+      528,
+      1151
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 166,
+    "previous_id": 167,
+    "character": "傳",
+    "bbox": [
+      477,
+      1149,
+      528,
+      1185
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 167,
+    "previous_id": 168,
+    "character": "云",
+    "bbox": [
+      478,
+      1183,
+      529,
+      1213
+    ],
+    "group": "column_7",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 168,
+    "previous_id": 169,
+    "character": "明",
+    "bbox": [
+      333,
+      464,
+      383,
+      500
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 169,
+    "previous_id": 170,
+    "character": "命",
+    "bbox": [
+      334,
+      494,
+      384,
+      536
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 170,
+    "previous_id": 171,
+    "character": "貳",
+    "bbox": [
+      335,
+      530,
+      385,
+      571
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 171,
+    "previous_id": 172,
+    "character": "拾",
+    "bbox": [
+      336,
+      565,
+      386,
+      600
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 172,
+    "previous_id": 173,
+    "character": "壹",
+    "bbox": [
+      337,
+      594,
+      387,
+      639
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 173,
+    "previous_id": 174,
+    "character": "年",
+    "bbox": [
+      338,
+      633,
+      388,
+      673
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 174,
+    "previous_id": 175,
+    "character": "參",
+    "bbox": [
+      340,
+      667,
+      390,
+      706
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 175,
+    "previous_id": 176,
+    "character": "月",
+    "bbox": [
+      341,
+      700,
+      391,
+      736
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 176,
+    "previous_id": 177,
+    "character": "初",
+    "bbox": [
+      342,
+      730,
+      392,
+      765
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 177,
+    "previous_id": 178,
+    "character": "拾",
+    "bbox": [
+      343,
+      759,
+      393,
+      797
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 178,
+    "previous_id": 179,
+    "character": "日",
+    "bbox": [
+      344,
+      791,
+      394,
+      827
+    ],
+    "group": "date",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 179,
+    "previous_id": 180,
+    "character": "田",
+    "bbox": [
+      307,
+      899,
+      350,
+      941
+    ],
+    "group": "field_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 180,
+    "previous_id": 181,
+    "character": "壹",
+    "bbox": [
+      308,
+      935,
+      351,
+      972
+    ],
+    "group": "field_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 181,
+    "previous_id": 182,
+    "character": "所",
+    "bbox": [
+      308,
+      966,
+      351,
+      1000
+    ],
+    "group": "field_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 182,
+    "previous_id": 183,
+    "character": "園",
+    "bbox": [
+      309,
+      994,
+      352,
+      1032
+    ],
+    "group": "field_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 183,
+    "previous_id": 184,
+    "character": "充",
+    "bbox": [
+      310,
+      1026,
+      353,
+      1064
+    ],
+    "group": "field_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 184,
+    "previous_id": 185,
+    "character": "處",
+    "bbox": [
+      311,
+      1058,
+      354,
+      1095
+    ],
+    "group": "field_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 185,
+    "previous_id": 186,
+    "character": "西",
+    "bbox": [
+      312,
+      1089,
+      355,
+      1121
+    ],
+    "group": "field_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 186,
+    "previous_id": 187,
+    "character": "近",
+    "bbox": [
+      313,
+      1115,
+      356,
+      1149
+    ],
+    "group": "field_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 187,
+    "previous_id": 188,
+    "character": "路",
+    "bbox": [
+      313,
+      1143,
+      356,
+      1185
+    ],
+    "group": "field_1",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 188,
+    "previous_id": 189,
+    "character": "田",
+    "bbox": [
+      268,
+      900,
+      308,
+      932
+    ],
+    "group": "field_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 189,
+    "previous_id": 190,
+    "character": "壹",
+    "bbox": [
+      268,
+      926,
+      308,
+      966
+    ],
+    "group": "field_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 190,
+    "previous_id": 191,
+    "character": "所",
+    "bbox": [
+      268,
+      960,
+      308,
+      995
+    ],
+    "group": "field_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 191,
+    "previous_id": 192,
+    "character": "祿",
+    "bbox": [
+      268,
+      989,
+      308,
+      1028
+    ],
+    "group": "field_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 192,
+    "previous_id": 193,
+    "character": "處",
+    "bbox": [
+      267,
+      1022,
+      307,
+      1060
+    ],
+    "group": "field_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 193,
+    "previous_id": 194,
+    "character": "東",
+    "bbox": [
+      267,
+      1054,
+      307,
+      1092
+    ],
+    "group": "field_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 194,
+    "previous_id": 195,
+    "character": "近",
+    "bbox": [
+      267,
+      1086,
+      307,
+      1119
+    ],
+    "group": "field_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 195,
+    "previous_id": 196,
+    "character": "氏",
+    "bbox": [
+      267,
+      1113,
+      307,
+      1153
+    ],
+    "group": "field_2",
+    "review_required": false,
+    "reason": ""
+  },
+  {
+    "id": 196,
+    "previous_id": 197,
+    "character": "監",
+    "bbox": [
+      267,
+      1147,
+      307,
+      1183
+    ],
+    "group": "field_2",
+    "review_required": false,
+    "reason": ""
+  }
+]
