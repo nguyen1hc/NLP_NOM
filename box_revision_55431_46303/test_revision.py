@@ -2,7 +2,7 @@ from pathlib import Path
 from contextlib import redirect_stdout
 from types import SimpleNamespace
 from collections import Counter
-import json,runpy,sys,tempfile,zipfile,io,os
+import json,runpy,sys,tempfile,zipfile,io,os,shutil
 repo=Path(os.environ.get('SINONOM_REPO_DIR','/tmp/sinonom-status-inspect'));root=Path(__file__).resolve().parents[1];package=Path(__file__).resolve().parent/'kaggle';sys.path[:0]=[str(repo),str(repo/'gradio')]
 job=runpy.run_path(str(package/'apply_revision.py'))
 runpy.run_path(str(package/'annotations/_support/content_base.py'))['enable_saved_content_sections'](repo)
@@ -10,6 +10,9 @@ Workflow=runpy.run_path(str(package/'annotations/_support/launch_with_original_s
 source=root/'student_114/student_114.json';before=source.read_bytes()
 with tempfile.TemporaryDirectory() as temporary:
  output=Path(temporary)/'annotations'
+ staged=Path(temporary)/'input';shutil.copytree(package,staged)
+ (staged/'annotations/.state/content.json').unlink()
+ job=runpy.run_path(str(staged/'apply_revision.py'))
  with redirect_stdout(io.StringIO()):job['apply'](repo,root/'student_114',output,predict=lambda r,ims:{p.stem:[] for p in ims})
  opts=SimpleNamespace(output_dir=output,source_json=source,content_titles=('Nguyên văn chữ Hán Nôm','Phiên âm Hán Việt','Toát yếu'),annotation_title='Nguyên văn chữ Hán Nôm',skip_detection=True,metadata_fields=(('Tên bia','ten_bia'),('Địa điểm','dia_diem'),('Niên đại','nien_dai')))
  engine=Workflow(opts)

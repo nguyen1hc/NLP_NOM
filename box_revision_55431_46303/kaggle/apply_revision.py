@@ -30,7 +30,9 @@ def apply(repo,images,output,predict=None):
             if hashlib.sha256(im.convert('RGB').tobytes()).hexdigest()!=fulls[code]['image_pixel_sha256']:
                 raise ValueError('Ảnh khác bản dùng để vẽ box: '+code)
     registry=output/'.state/content.json';remember(registry)
-    records={r['image']:r for r in json.loads((ROOT/'annotations/.state/content.json').read_text())}
+    content_path=ROOT/'annotations/.state/content.json'
+    if not content_path.is_file():content_path=ROOT/'inscription_content.json'
+    records={r['image']:r for r in json.loads(content_path.read_text())}
     if registry.is_file():records.update({r['image']:r for r in json.loads(registry.read_text())})
     for code,full in fulls.items():
         if full['source_text']!=records[full['image']]['content']['Nguyên văn chữ Hán Nôm']:
