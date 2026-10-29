@@ -1,0 +1,8570 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "source_index": 0,
+      "label": "后",
+      "observed_candidate": "后",
+      "group": "title",
+      "group_index": 1,
+      "bbox": [
+        2530,
+        800,
+        2815,
+        1095
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 1,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 2,
+      "source_index": 1,
+      "label": "碑",
+      "observed_candidate": "碑",
+      "group": "title",
+      "group_index": 2,
+      "bbox": [
+        1840,
+        827,
+        2135,
+        1100
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 2,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 3,
+      "source_index": 2,
+      "label": "誌",
+      "observed_candidate": "誌",
+      "group": "title",
+      "group_index": 3,
+      "bbox": [
+        1140,
+        829,
+        1455,
+        1120
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 3,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 4,
+      "source_index": 3,
+      "label": "河",
+      "observed_candidate": "河",
+      "group": "column_01",
+      "group_index": 1,
+      "bbox": [
+        2912,
+        1332,
+        3048,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 4,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 5,
+      "source_index": 4,
+      "label": "城",
+      "observed_candidate": "城",
+      "group": "column_01",
+      "group_index": 2,
+      "bbox": [
+        2914,
+        1485,
+        3073,
+        1641
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 5,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 6,
+      "source_index": 5,
+      "label": "第",
+      "observed_candidate": "第",
+      "group": "column_01",
+      "group_index": 3,
+      "bbox": [
+        2912,
+        1643,
+        3088,
+        1796
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 6,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 7,
+      "source_index": 6,
+      "label": "三",
+      "observed_candidate": "三",
+      "group": "column_01",
+      "group_index": 4,
+      "bbox": [
+        2913,
+        1804,
+        3048,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 7,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 8,
+      "source_index": 7,
+      "label": "户",
+      "observed_candidate": "戶",
+      "group": "column_01",
+      "group_index": 5,
+      "bbox": [
+        2912,
+        1959,
+        3055,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 8,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 9,
+      "source_index": 8,
+      "label": "香",
+      "observed_candidate": "香",
+      "group": "column_01",
+      "group_index": 6,
+      "bbox": [
+        2912,
+        2117,
+        3048,
+        2273
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 9,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 10,
+      "source_index": 9,
+      "label": "義",
+      "observed_candidate": "義",
+      "group": "column_01",
+      "group_index": 7,
+      "bbox": [
+        2912,
+        2275,
+        3057,
+        2431
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 10,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 11,
+      "source_index": 10,
+      "label": "村",
+      "observed_candidate": "村",
+      "group": "column_01",
+      "group_index": 8,
+      "bbox": [
+        2912,
+        2433,
+        3075,
+        2589
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 11,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 12,
+      "source_index": 11,
+      "label": "為",
+      "observed_candidate": "為",
+      "group": "column_01",
+      "group_index": 9,
+      "bbox": [
+        2912,
+        2591,
+        3085,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 12,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 13,
+      "source_index": 12,
+      "label": "立",
+      "observed_candidate": "立",
+      "group": "column_01",
+      "group_index": 10,
+      "bbox": [
+        2912,
+        2749,
+        3088,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 13,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 14,
+      "source_index": 13,
+      "label": "碑",
+      "observed_candidate": "碑",
+      "group": "column_01",
+      "group_index": 11,
+      "bbox": [
+        2912,
+        2907,
+        3066,
+        3063
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 14,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 15,
+      "source_index": 14,
+      "label": "誌",
+      "observed_candidate": "誌",
+      "group": "column_01",
+      "group_index": 12,
+      "bbox": [
+        2915,
+        3065,
+        3067,
+        3221
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 15,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 16,
+      "source_index": 15,
+      "label": "事",
+      "observed_candidate": "事",
+      "group": "column_01",
+      "group_index": 13,
+      "bbox": [
+        2913,
+        3223,
+        3072,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 16,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 17,
+      "source_index": 16,
+      "label": "盖",
+      "observed_candidate": "蓋",
+      "group": "column_01",
+      "group_index": 14,
+      "bbox": [
+        2916,
+        3381,
+        3057,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 17,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 18,
+      "source_index": 17,
+      "label": "聞",
+      "observed_candidate": "聞",
+      "group": "column_01",
+      "group_index": 15,
+      "bbox": [
+        2912,
+        3539,
+        3088,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 18,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 19,
+      "source_index": 18,
+      "label": "孝",
+      "observed_candidate": "孝",
+      "group": "column_02",
+      "group_index": 1,
+      "bbox": [
+        2743,
+        1332,
+        2919,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 19,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 20,
+      "source_index": 19,
+      "label": "者",
+      "observed_candidate": "者",
+      "group": "column_02",
+      "group_index": 2,
+      "bbox": [
+        2743,
+        1485,
+        2910,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 20,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 21,
+      "source_index": 20,
+      "label": "人",
+      "observed_candidate": "人",
+      "group": "column_02",
+      "group_index": 3,
+      "bbox": [
+        2743,
+        1643,
+        2919,
+        1799
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 21,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 22,
+      "source_index": 21,
+      "label": "之",
+      "observed_candidate": "之",
+      "group": "column_02",
+      "group_index": 4,
+      "bbox": [
+        2743,
+        1810,
+        2912,
+        1957
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 22,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 23,
+      "source_index": 22,
+      "label": "本",
+      "observed_candidate": "本",
+      "group": "column_02",
+      "group_index": 5,
+      "bbox": [
+        2743,
+        1959,
+        2919,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 23,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 24,
+      "source_index": 23,
+      "label": "善",
+      "observed_candidate": "善",
+      "group": "column_02",
+      "group_index": 6,
+      "bbox": [
+        2761,
+        2117,
+        2919,
+        2273
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 24,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 25,
+      "source_index": 24,
+      "label": "者",
+      "observed_candidate": "者",
+      "group": "column_02",
+      "group_index": 7,
+      "bbox": [
+        2743,
+        2275,
+        2919,
+        2431
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 25,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 26,
+      "source_index": 25,
+      "label": "人",
+      "observed_candidate": "人",
+      "group": "column_02",
+      "group_index": 8,
+      "bbox": [
+        2743,
+        2433,
+        2919,
+        2589
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 26,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 27,
+      "source_index": 26,
+      "label": "之",
+      "observed_candidate": "之",
+      "group": "column_02",
+      "group_index": 9,
+      "bbox": [
+        2749,
+        2591,
+        2919,
+        2714
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 27,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 28,
+      "source_index": 27,
+      "label": "根",
+      "observed_candidate": "根",
+      "group": "column_02",
+      "group_index": 10,
+      "bbox": [
+        2743,
+        2749,
+        2919,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 28,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 29,
+      "source_index": 28,
+      "label": "敬",
+      "observed_candidate": "敬",
+      "group": "column_02",
+      "group_index": 11,
+      "bbox": [
+        2743,
+        2907,
+        2919,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 29,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 30,
+      "source_index": 29,
+      "label": "其",
+      "observed_candidate": "其",
+      "group": "column_02",
+      "group_index": 12,
+      "bbox": [
+        2743,
+        3065,
+        2917,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 30,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 31,
+      "source_index": 30,
+      "label": "所",
+      "observed_candidate": "所",
+      "group": "column_02",
+      "group_index": 13,
+      "bbox": [
+        2743,
+        3223,
+        2914,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 31,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 32,
+      "source_index": 31,
+      "label": "尊",
+      "observed_candidate": "尊",
+      "group": "column_02",
+      "group_index": 14,
+      "bbox": [
+        2743,
+        3381,
+        2917,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 32,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 33,
+      "source_index": 32,
+      "label": "爱",
+      "observed_candidate": "愛",
+      "group": "column_02",
+      "group_index": 15,
+      "bbox": [
+        2743,
+        3539,
+        2915,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 33,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 34,
+      "source_index": 33,
+      "label": "其",
+      "observed_candidate": "其",
+      "group": "column_02",
+      "group_index": 16,
+      "bbox": [
+        2744,
+        3697,
+        2919,
+        3853
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 34,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 35,
+      "source_index": 34,
+      "label": "所",
+      "observed_candidate": "所",
+      "group": "column_02",
+      "group_index": 17,
+      "bbox": [
+        2743,
+        3855,
+        2912,
+        3999
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 35,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 36,
+      "source_index": 35,
+      "label": "親",
+      "observed_candidate": "親",
+      "group": "column_02",
+      "group_index": 18,
+      "bbox": [
+        2743,
+        4016,
+        2919,
+        4169
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 36,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 37,
+      "source_index": 36,
+      "label": "古",
+      "observed_candidate": "古",
+      "group": "column_02",
+      "group_index": 19,
+      "bbox": [
+        2743,
+        4171,
+        2919,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 37,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 38,
+      "source_index": 37,
+      "label": "今",
+      "observed_candidate": "今",
+      "group": "column_03",
+      "group_index": 1,
+      "bbox": [
+        2608,
+        1327,
+        2781,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 38,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 39,
+      "source_index": 38,
+      "label": "同",
+      "observed_candidate": "同",
+      "group": "column_03",
+      "group_index": 2,
+      "bbox": [
+        2605,
+        1485,
+        2781,
+        1641
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 39,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 40,
+      "source_index": 39,
+      "label": "一",
+      "observed_candidate": "一",
+      "group": "column_03",
+      "group_index": 3,
+      "bbox": [
+        2605,
+        1643,
+        2781,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 40,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 41,
+      "source_index": 40,
+      "label": "揆",
+      "observed_candidate": "揆",
+      "group": "column_03",
+      "group_index": 4,
+      "bbox": [
+        2605,
+        1801,
+        2781,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 41,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 42,
+      "source_index": 41,
+      "label": "也",
+      "observed_candidate": "也",
+      "group": "column_03",
+      "group_index": 5,
+      "bbox": [
+        2605,
+        1959,
+        2781,
+        2115
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 42,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 43,
+      "source_index": 42,
+      "label": "兹",
+      "observed_candidate": "茲",
+      "group": "column_03",
+      "group_index": 6,
+      "bbox": [
+        2605,
+        2117,
+        2781,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 43,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 44,
+      "source_index": 43,
+      "label": "因",
+      "observed_candidate": "因",
+      "group": "column_03",
+      "group_index": 7,
+      "bbox": [
+        2605,
+        2275,
+        2781,
+        2431
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 44,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 45,
+      "source_index": 44,
+      "label": "有",
+      "observed_candidate": "有",
+      "group": "column_03",
+      "group_index": 8,
+      "bbox": [
+        2605,
+        2433,
+        2781,
+        2568
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 45,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 46,
+      "source_index": 45,
+      "label": "河",
+      "observed_candidate": "河",
+      "group": "column_03",
+      "group_index": 9,
+      "bbox": [
+        2605,
+        2596,
+        2763,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 46,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 47,
+      "source_index": 46,
+      "label": "東",
+      "observed_candidate": "東",
+      "group": "column_03",
+      "group_index": 10,
+      "bbox": [
+        2605,
+        2749,
+        2781,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 47,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 48,
+      "source_index": 47,
+      "label": "省",
+      "observed_candidate": "省",
+      "group": "column_03",
+      "group_index": 11,
+      "bbox": [
+        2605,
+        2907,
+        2781,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 48,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 49,
+      "source_index": 48,
+      "label": "懷",
+      "observed_candidate": "懷",
+      "group": "column_03",
+      "group_index": 12,
+      "bbox": [
+        2607,
+        3065,
+        2781,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 49,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 50,
+      "source_index": 49,
+      "label": "德",
+      "observed_candidate": "德",
+      "group": "column_03",
+      "group_index": 13,
+      "bbox": [
+        2605,
+        3223,
+        2781,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 50,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 51,
+      "source_index": 50,
+      "label": "府",
+      "observed_candidate": "府",
+      "group": "column_03",
+      "group_index": 14,
+      "bbox": [
+        2605,
+        3381,
+        2781,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 51,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 52,
+      "source_index": 51,
+      "label": "慈",
+      "observed_candidate": "慈",
+      "group": "column_03",
+      "group_index": 15,
+      "bbox": [
+        2605,
+        3539,
+        2771,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 52,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 53,
+      "source_index": 52,
+      "label": "廉",
+      "observed_candidate": "廉",
+      "group": "column_03",
+      "group_index": 16,
+      "bbox": [
+        2605,
+        3697,
+        2781,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 53,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 54,
+      "source_index": 53,
+      "label": "縣",
+      "observed_candidate": "縣",
+      "group": "column_03",
+      "group_index": 17,
+      "bbox": [
+        2605,
+        3855,
+        2775,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 54,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 55,
+      "source_index": 54,
+      "label": "雲",
+      "observed_candidate": "雲",
+      "group": "column_03",
+      "group_index": 18,
+      "bbox": [
+        2606,
+        4013,
+        2781,
+        4169
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 55,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 56,
+      "source_index": 55,
+      "label": "耕",
+      "observed_candidate": "耕",
+      "group": "column_03",
+      "group_index": 19,
+      "bbox": [
+        2605,
+        4171,
+        2781,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 56,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 57,
+      "source_index": 56,
+      "label": "縂",
+      "observed_candidate": "總",
+      "group": "column_04",
+      "group_index": 1,
+      "bbox": [
+        2466,
+        1345,
+        2642,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 57,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 58,
+      "source_index": 57,
+      "label": "雲",
+      "observed_candidate": "雲",
+      "group": "column_04",
+      "group_index": 2,
+      "bbox": [
+        2466,
+        1485,
+        2623,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 58,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 59,
+      "source_index": 58,
+      "label": "耕",
+      "observed_candidate": "耕",
+      "group": "column_04",
+      "group_index": 3,
+      "bbox": [
+        2472,
+        1643,
+        2642,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 59,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 60,
+      "source_index": 59,
+      "label": "社",
+      "observed_candidate": "社",
+      "group": "column_04",
+      "group_index": 4,
+      "bbox": [
+        2466,
+        1801,
+        2642,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 60,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 61,
+      "source_index": 60,
+      "label": "金",
+      "observed_candidate": "金",
+      "group": "column_04",
+      "group_index": 5,
+      "bbox": [
+        2467,
+        1959,
+        2642,
+        2100
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 61,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 62,
+      "source_index": 61,
+      "label": "黄",
+      "observed_candidate": "黃",
+      "group": "column_04",
+      "group_index": 6,
+      "bbox": [
+        2466,
+        2117,
+        2642,
+        2273
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 62,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 63,
+      "source_index": 62,
+      "label": "村",
+      "observed_candidate": "村",
+      "group": "column_04",
+      "group_index": 7,
+      "bbox": [
+        2466,
+        2275,
+        2642,
+        2431
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 63,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 64,
+      "source_index": 63,
+      "label": "人",
+      "observed_candidate": "人",
+      "group": "column_04",
+      "group_index": 8,
+      "bbox": [
+        2466,
+        2439,
+        2642,
+        2589
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 64,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 65,
+      "source_index": 64,
+      "label": "陳",
+      "observed_candidate": "陳",
+      "group": "column_04",
+      "group_index": 9,
+      "bbox": [
+        2475,
+        2591,
+        2642,
+        2747
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 65,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 66,
+      "source_index": 65,
+      "label": "氏",
+      "observed_candidate": "氏",
+      "group": "column_04",
+      "group_index": 10,
+      "bbox": [
+        2470,
+        2755,
+        2642,
+        2905
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 66,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 67,
+      "source_index": 66,
+      "label": "富",
+      "observed_candidate": "富",
+      "group": "column_04",
+      "group_index": 11,
+      "bbox": [
+        2466,
+        2907,
+        2642,
+        3062
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 67,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 68,
+      "source_index": 67,
+      "label": "適",
+      "observed_candidate": "適",
+      "group": "column_04",
+      "group_index": 12,
+      "bbox": [
+        2470,
+        3065,
+        2640,
+        3219
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 68,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 69,
+      "source_index": 68,
+      "label": "見",
+      "observed_candidate": "見",
+      "group": "column_04",
+      "group_index": 13,
+      "bbox": [
+        2466,
+        3226,
+        2632,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 69,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 70,
+      "source_index": 69,
+      "label": "民",
+      "observed_candidate": "民",
+      "group": "column_04",
+      "group_index": 14,
+      "bbox": [
+        2466,
+        3381,
+        2642,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 70,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 71,
+      "source_index": 70,
+      "label": "村",
+      "observed_candidate": "村",
+      "group": "column_04",
+      "group_index": 15,
+      "bbox": [
+        2477,
+        3539,
+        2642,
+        3688
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 71,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 72,
+      "source_index": 71,
+      "label": "亭",
+      "observed_candidate": "亭",
+      "group": "column_04",
+      "group_index": 16,
+      "bbox": [
+        2466,
+        3701,
+        2642,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 72,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 73,
+      "source_index": 72,
+      "label": "宇",
+      "observed_candidate": "宇",
+      "group": "column_04",
+      "group_index": 17,
+      "bbox": [
+        2466,
+        3855,
+        2642,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 73,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 74,
+      "source_index": 73,
+      "label": "重",
+      "observed_candidate": "重",
+      "group": "column_04",
+      "group_index": 18,
+      "bbox": [
+        2466,
+        4013,
+        2642,
+        4169
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 74,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 75,
+      "source_index": 74,
+      "label": "新",
+      "observed_candidate": "新",
+      "group": "column_04",
+      "group_index": 19,
+      "bbox": [
+        2466,
+        4171,
+        2642,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 75,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 76,
+      "source_index": 75,
+      "label": "规",
+      "observed_candidate": "規",
+      "group": "column_05",
+      "group_index": 1,
+      "bbox": [
+        2308,
+        1327,
+        2484,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 76,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 77,
+      "source_index": 76,
+      "label": "模",
+      "observed_candidate": "模",
+      "group": "column_05",
+      "group_index": 2,
+      "bbox": [
+        2308,
+        1485,
+        2484,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 77,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 78,
+      "source_index": 77,
+      "label": "再",
+      "observed_candidate": "再",
+      "group": "column_05",
+      "group_index": 3,
+      "bbox": [
+        2308,
+        1643,
+        2484,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 78,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 79,
+      "source_index": 78,
+      "label": "造",
+      "observed_candidate": "造",
+      "group": "column_05",
+      "group_index": 4,
+      "bbox": [
+        2308,
+        1801,
+        2484,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 79,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 80,
+      "source_index": 79,
+      "label": "風",
+      "observed_candidate": "風",
+      "group": "column_05",
+      "group_index": 5,
+      "bbox": [
+        2308,
+        1959,
+        2484,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 80,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 81,
+      "source_index": 80,
+      "label": "淳",
+      "observed_candidate": "淳",
+      "group": "column_05",
+      "group_index": 6,
+      "bbox": [
+        2308,
+        2117,
+        2484,
+        2261
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 81,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 82,
+      "source_index": 81,
+      "label": "俗",
+      "observed_candidate": "俗",
+      "group": "column_05",
+      "group_index": 7,
+      "bbox": [
+        2308,
+        2275,
+        2484,
+        2431
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 82,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 83,
+      "source_index": 82,
+      "label": "美",
+      "observed_candidate": "美",
+      "group": "column_05",
+      "group_index": 8,
+      "bbox": [
+        2315,
+        2433,
+        2484,
+        2562
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 83,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 84,
+      "source_index": 83,
+      "label": "祀",
+      "observed_candidate": "祀",
+      "group": "column_05",
+      "group_index": 9,
+      "bbox": [
+        2308,
+        2600,
+        2484,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 84,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 85,
+      "source_index": 84,
+      "label": "事",
+      "observed_candidate": "事",
+      "group": "column_05",
+      "group_index": 10,
+      "bbox": [
+        2316,
+        2749,
+        2484,
+        2905
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 85,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 86,
+      "source_index": 85,
+      "label": "風",
+      "observed_candidate": "風",
+      "group": "column_05",
+      "group_index": 11,
+      "bbox": [
+        2308,
+        2907,
+        2483,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 86,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 87,
+      "source_index": 86,
+      "label": "光",
+      "observed_candidate": "光",
+      "group": "column_05",
+      "group_index": 12,
+      "bbox": [
+        2308,
+        3065,
+        2483,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 87,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 88,
+      "source_index": 87,
+      "label": "為",
+      "observed_candidate": "為",
+      "group": "column_05",
+      "group_index": 13,
+      "bbox": [
+        2317,
+        3223,
+        2484,
+        3379
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 88,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 89,
+      "source_index": 88,
+      "label": "此",
+      "observed_candidate": "此",
+      "group": "column_05",
+      "group_index": 14,
+      "bbox": [
+        2315,
+        3381,
+        2484,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 89,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 90,
+      "source_index": 89,
+      "label": "情",
+      "observed_candidate": "情",
+      "group": "column_05",
+      "group_index": 15,
+      "bbox": [
+        2308,
+        3539,
+        2484,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 90,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 91,
+      "source_index": 90,
+      "label": "願",
+      "observed_candidate": "願",
+      "group": "column_05",
+      "group_index": 16,
+      "bbox": [
+        2308,
+        3697,
+        2484,
+        3851
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 91,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 92,
+      "source_index": 91,
+      "label": "出",
+      "observed_candidate": "出",
+      "group": "column_05",
+      "group_index": 17,
+      "bbox": [
+        2308,
+        3855,
+        2484,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 92,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 93,
+      "source_index": 92,
+      "label": "銀",
+      "observed_candidate": "銀",
+      "group": "column_05",
+      "group_index": 18,
+      "bbox": [
+        2325,
+        4020,
+        2475,
+        4175
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 93,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 94,
+      "source_index": 93,
+      "label": "一",
+      "observed_candidate": "壹",
+      "group": "column_05",
+      "group_index": 19,
+      "bbox": [
+        2325,
+        4180,
+        2490,
+        4335
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 94,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 95,
+      "source_index": 94,
+      "label": "百",
+      "observed_candidate": "佰",
+      "group": "column_06",
+      "group_index": 1,
+      "bbox": [
+        2161,
+        1327,
+        2322,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 95,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 96,
+      "source_index": 95,
+      "label": "伍",
+      "observed_candidate": "伍",
+      "group": "column_06",
+      "group_index": 2,
+      "bbox": [
+        2146,
+        1485,
+        2322,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 96,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 97,
+      "source_index": 96,
+      "label": "十",
+      "observed_candidate": "拾",
+      "group": "column_06",
+      "group_index": 3,
+      "bbox": [
+        2147,
+        1643,
+        2322,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 97,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 98,
+      "source_index": 97,
+      "label": "元",
+      "observed_candidate": "元",
+      "group": "column_06",
+      "group_index": 4,
+      "bbox": [
+        2155,
+        1801,
+        2322,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 98,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 99,
+      "source_index": 98,
+      "label": "以",
+      "observed_candidate": "以",
+      "group": "column_06",
+      "group_index": 5,
+      "bbox": [
+        2146,
+        1959,
+        2322,
+        2113
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 99,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 100,
+      "source_index": 99,
+      "label": "助",
+      "observed_candidate": "助",
+      "group": "column_06",
+      "group_index": 6,
+      "bbox": [
+        2146,
+        2117,
+        2322,
+        2257
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 100,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 101,
+      "source_index": 100,
+      "label": "民",
+      "observed_candidate": "民",
+      "group": "column_06",
+      "group_index": 7,
+      "bbox": [
+        2146,
+        2275,
+        2322,
+        2428
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 101,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 102,
+      "source_index": 101,
+      "label": "力",
+      "observed_candidate": "力",
+      "group": "column_06",
+      "group_index": 8,
+      "bbox": [
+        2157,
+        2440,
+        2314,
+        2589
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 102,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 103,
+      "source_index": 102,
+      "label": "以",
+      "observed_candidate": "以",
+      "group": "column_06",
+      "group_index": 9,
+      "bbox": [
+        2146,
+        2595,
+        2322,
+        2733
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 103,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 104,
+      "source_index": 103,
+      "label": "廣",
+      "observed_candidate": "廣",
+      "group": "column_06",
+      "group_index": 10,
+      "bbox": [
+        2146,
+        2750,
+        2299,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 104,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 105,
+      "source_index": 104,
+      "label": "民",
+      "observed_candidate": "民",
+      "group": "column_06",
+      "group_index": 11,
+      "bbox": [
+        2178,
+        2910,
+        2318,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 105,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 106,
+      "source_index": 105,
+      "label": "财",
+      "observed_candidate": "財",
+      "group": "column_06",
+      "group_index": 12,
+      "bbox": [
+        2146,
+        3065,
+        2322,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 106,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 107,
+      "source_index": 106,
+      "label": "仍",
+      "observed_candidate": "仍",
+      "group": "column_06",
+      "group_index": 13,
+      "bbox": [
+        2146,
+        3223,
+        2312,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 107,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 108,
+      "source_index": 107,
+      "label": "請",
+      "observed_candidate": "請",
+      "group": "column_06",
+      "group_index": 14,
+      "bbox": [
+        2160,
+        3381,
+        2310,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 108,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 109,
+      "source_index": 108,
+      "label": "寄",
+      "observed_candidate": "寄",
+      "group": "column_06",
+      "group_index": 15,
+      "bbox": [
+        2146,
+        3539,
+        2322,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 109,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 110,
+      "source_index": 109,
+      "label": "后",
+      "observed_candidate": "后",
+      "group": "column_06",
+      "group_index": 16,
+      "bbox": [
+        2146,
+        3697,
+        2322,
+        3851
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 110,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 111,
+      "source_index": 110,
+      "label": "者",
+      "observed_candidate": "者",
+      "group": "column_06",
+      "group_index": 17,
+      "bbox": [
+        2146,
+        3855,
+        2322,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 111,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 112,
+      "source_index": 111,
+      "label": "三",
+      "observed_candidate": "三",
+      "group": "column_06",
+      "group_index": 18,
+      "bbox": [
+        2166,
+        4010,
+        2290,
+        4130
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 112,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 113,
+      "source_index": 112,
+      "label": "由",
+      "observed_candidate": "由",
+      "group": "small_note_A",
+      "group_index": 1,
+      "bbox": [
+        2270,
+        4110,
+        2370,
+        4200
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 113,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 114,
+      "source_index": 113,
+      "label": "考",
+      "observed_candidate": "考",
+      "group": "small_note_A",
+      "group_index": 2,
+      "bbox": [
+        2270,
+        4200,
+        2370,
+        4280
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 114,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 115,
+      "source_index": 114,
+      "label": "妣",
+      "observed_candidate": "妣",
+      "group": "small_note_A",
+      "group_index": 3,
+      "bbox": [
+        2270,
+        4280,
+        2370,
+        4350
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 115,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 116,
+      "source_index": 115,
+      "label": "舆",
+      "observed_candidate": "與",
+      "group": "small_note_A",
+      "group_index": 4,
+      "bbox": [
+        2170,
+        4110,
+        2260,
+        4200
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 116,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 117,
+      "source_index": 116,
+      "label": "本",
+      "observed_candidate": "本",
+      "group": "small_note_A",
+      "group_index": 5,
+      "bbox": [
+        2170,
+        4200,
+        2260,
+        4280
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 117,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 118,
+      "source_index": 117,
+      "label": "身",
+      "observed_candidate": "身",
+      "group": "small_note_A",
+      "group_index": 6,
+      "bbox": [
+        2170,
+        4280,
+        2260,
+        4350
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 118,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 119,
+      "source_index": 118,
+      "label": "以",
+      "observed_candidate": "以",
+      "group": "column_07",
+      "group_index": 1,
+      "bbox": [
+        2006,
+        1352,
+        2182,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 119,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 120,
+      "source_index": 119,
+      "label": "傳",
+      "observed_candidate": "傳",
+      "group": "column_07",
+      "group_index": 2,
+      "bbox": [
+        2006,
+        1485,
+        2182,
+        1640
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 120,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 121,
+      "source_index": 120,
+      "label": "不",
+      "observed_candidate": "不",
+      "group": "column_07",
+      "group_index": 3,
+      "bbox": [
+        2006,
+        1643,
+        2182,
+        1765
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 121,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 122,
+      "source_index": 121,
+      "label": "朽",
+      "observed_candidate": "朽",
+      "group": "column_07",
+      "group_index": 4,
+      "bbox": [
+        2006,
+        1818,
+        2182,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 122,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 123,
+      "source_index": 122,
+      "label": "民",
+      "observed_candidate": "民",
+      "group": "column_07",
+      "group_index": 5,
+      "bbox": [
+        2006,
+        1964,
+        2172,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 123,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 124,
+      "source_index": 123,
+      "label": "村",
+      "observed_candidate": "村",
+      "group": "column_07",
+      "group_index": 6,
+      "bbox": [
+        2006,
+        2117,
+        2182,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 124,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 125,
+      "source_index": 124,
+      "label": "商",
+      "observed_candidate": "商",
+      "group": "column_07",
+      "group_index": 7,
+      "bbox": [
+        2006,
+        2275,
+        2182,
+        2416
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 125,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 126,
+      "source_index": 125,
+      "label": "同",
+      "observed_candidate": "同",
+      "group": "column_07",
+      "group_index": 8,
+      "bbox": [
+        2006,
+        2440,
+        2182,
+        2589
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 126,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 127,
+      "source_index": 126,
+      "label": "妥",
+      "observed_candidate": "妥",
+      "group": "column_07",
+      "group_index": 9,
+      "bbox": [
+        2006,
+        2591,
+        2177,
+        2733
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 127,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 128,
+      "source_index": 127,
+      "label": "順",
+      "observed_candidate": "順",
+      "group": "column_07",
+      "group_index": 10,
+      "bbox": [
+        2006,
+        2749,
+        2156,
+        2905
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 128,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 129,
+      "source_index": 128,
+      "label": "玉",
+      "observed_candidate": "玉",
+      "group": "column_07",
+      "group_index": 11,
+      "bbox": [
+        2006,
+        2907,
+        2150,
+        3062
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 129,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 130,
+      "source_index": 129,
+      "label": "成",
+      "observed_candidate": "成",
+      "group": "column_07",
+      "group_index": 12,
+      "bbox": [
+        2026,
+        3065,
+        2161,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 130,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 131,
+      "source_index": 130,
+      "label": "其",
+      "observed_candidate": "其",
+      "group": "column_07",
+      "group_index": 13,
+      "bbox": [
+        2007,
+        3223,
+        2182,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 131,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 132,
+      "source_index": 131,
+      "label": "事",
+      "observed_candidate": "事",
+      "group": "column_07",
+      "group_index": 14,
+      "bbox": [
+        2017,
+        3381,
+        2182,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 132,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 133,
+      "source_index": 132,
+      "label": "凡",
+      "observed_candidate": "凡",
+      "group": "column_07",
+      "group_index": 15,
+      "bbox": [
+        2022,
+        3539,
+        2182,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 133,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 134,
+      "source_index": 133,
+      "label": "至",
+      "observed_candidate": "至",
+      "group": "column_07",
+      "group_index": 16,
+      "bbox": [
+        2017,
+        3697,
+        2182,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 134,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 135,
+      "source_index": 134,
+      "label": "忌",
+      "observed_candidate": "忌",
+      "group": "column_07",
+      "group_index": 17,
+      "bbox": [
+        2006,
+        3855,
+        2182,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 135,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 136,
+      "source_index": 135,
+      "label": "日",
+      "observed_candidate": "日",
+      "group": "column_07",
+      "group_index": 18,
+      "bbox": [
+        2038,
+        4013,
+        2182,
+        4167
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 136,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 137,
+      "source_index": 136,
+      "label": "炤",
+      "observed_candidate": "炤",
+      "group": "column_07",
+      "group_index": 19,
+      "bbox": [
+        2006,
+        4171,
+        2182,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 137,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 138,
+      "source_index": 137,
+      "label": "禮",
+      "observed_candidate": "禮",
+      "group": "column_08",
+      "group_index": 1,
+      "bbox": [
+        1858,
+        1327,
+        2034,
+        1483
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 138,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 139,
+      "source_index": 138,
+      "label": "而",
+      "observed_candidate": "而",
+      "group": "column_08",
+      "group_index": 2,
+      "bbox": [
+        1875,
+        1485,
+        2034,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 139,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 140,
+      "source_index": 139,
+      "label": "行",
+      "observed_candidate": "行",
+      "group": "column_08",
+      "group_index": 3,
+      "bbox": [
+        1863,
+        1643,
+        2034,
+        1798
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 140,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 141,
+      "source_index": 140,
+      "label": "與",
+      "observed_candidate": "與",
+      "group": "column_08",
+      "group_index": 4,
+      "bbox": [
+        1858,
+        1801,
+        2034,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 141,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 142,
+      "source_index": 141,
+      "label": "春",
+      "observed_candidate": "春",
+      "group": "column_08",
+      "group_index": 5,
+      "bbox": [
+        1858,
+        1960,
+        2034,
+        2111
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 142,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 143,
+      "source_index": 142,
+      "label": "秋",
+      "observed_candidate": "秋",
+      "group": "column_08",
+      "group_index": 6,
+      "bbox": [
+        1858,
+        2117,
+        2034,
+        2273
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 143,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 144,
+      "source_index": 143,
+      "label": "從",
+      "observed_candidate": "從",
+      "group": "column_08",
+      "group_index": 7,
+      "bbox": [
+        1858,
+        2276,
+        2034,
+        2431
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 144,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 145,
+      "source_index": 144,
+      "label": "祀",
+      "observed_candidate": "祀",
+      "group": "column_08",
+      "group_index": 8,
+      "bbox": [
+        1858,
+        2433,
+        2015,
+        2589
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 145,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 146,
+      "source_index": 145,
+      "label": "配",
+      "observed_candidate": "配",
+      "group": "column_08",
+      "group_index": 9,
+      "bbox": [
+        1869,
+        2596,
+        2034,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 146,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 147,
+      "source_index": 146,
+      "label": "饗",
+      "observed_candidate": "饗",
+      "group": "column_08",
+      "group_index": 10,
+      "bbox": [
+        1858,
+        2749,
+        2034,
+        2905
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 147,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 148,
+      "source_index": 147,
+      "label": "人",
+      "observed_candidate": "人",
+      "group": "column_08",
+      "group_index": 11,
+      "bbox": [
+        1858,
+        2907,
+        2034,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 148,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 149,
+      "source_index": 148,
+      "label": "有",
+      "observed_candidate": "有",
+      "group": "column_08",
+      "group_index": 12,
+      "bbox": [
+        1861,
+        3065,
+        2034,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 149,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 150,
+      "source_index": 149,
+      "label": "心",
+      "observed_candidate": "心",
+      "group": "column_08",
+      "group_index": 13,
+      "bbox": [
+        1874,
+        3223,
+        2034,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 150,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 151,
+      "source_index": 150,
+      "label": "也",
+      "observed_candidate": "也",
+      "group": "column_08",
+      "group_index": 14,
+      "bbox": [
+        1858,
+        3383,
+        2034,
+        3537
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 151,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 152,
+      "source_index": 151,
+      "label": "精",
+      "observed_candidate": "精",
+      "group": "column_08",
+      "group_index": 15,
+      "bbox": [
+        1858,
+        3539,
+        2034,
+        3695
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 152,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 153,
+      "source_index": 152,
+      "label": "誠",
+      "observed_candidate": "誠",
+      "group": "column_08",
+      "group_index": 16,
+      "bbox": [
+        1864,
+        3699,
+        2034,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 153,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 154,
+      "source_index": 153,
+      "label": "必",
+      "observed_candidate": "必",
+      "group": "column_08",
+      "group_index": 17,
+      "bbox": [
+        1858,
+        3855,
+        2031,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 154,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 155,
+      "source_index": 154,
+      "label": "達",
+      "observed_candidate": "達",
+      "group": "column_08",
+      "group_index": 18,
+      "bbox": [
+        1875,
+        4013,
+        2013,
+        4164
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 155,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 156,
+      "source_index": 155,
+      "label": "于",
+      "observed_candidate": "于",
+      "group": "column_08",
+      "group_index": 19,
+      "bbox": [
+        1858,
+        4222,
+        2034,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 156,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 157,
+      "source_index": 156,
+      "label": "鬼",
+      "observed_candidate": "鬼",
+      "group": "column_09",
+      "group_index": 1,
+      "bbox": [
+        1690,
+        1327,
+        1866,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 157,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 158,
+      "source_index": 157,
+      "label": "神",
+      "observed_candidate": "神",
+      "group": "column_09",
+      "group_index": 2,
+      "bbox": [
+        1690,
+        1485,
+        1862,
+        1641
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 158,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 159,
+      "source_index": 158,
+      "label": "德",
+      "observed_candidate": "德",
+      "group": "column_09",
+      "group_index": 3,
+      "bbox": [
+        1690,
+        1643,
+        1862,
+        1799
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 159,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 160,
+      "source_index": 159,
+      "label": "能",
+      "observed_candidate": "能",
+      "group": "column_09",
+      "group_index": 4,
+      "bbox": [
+        1701,
+        1801,
+        1866,
+        1957
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 160,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 161,
+      "source_index": 160,
+      "label": "忘",
+      "observed_candidate": "忘",
+      "group": "column_09",
+      "group_index": 5,
+      "bbox": [
+        1690,
+        1959,
+        1866,
+        2115
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 161,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 162,
+      "source_index": 161,
+      "label": "乎",
+      "observed_candidate": "乎",
+      "group": "column_09",
+      "group_index": 6,
+      "bbox": [
+        1690,
+        2117,
+        1866,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 162,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 163,
+      "source_index": 162,
+      "label": "名",
+      "observed_candidate": "名",
+      "group": "column_09",
+      "group_index": 7,
+      "bbox": [
+        1701,
+        2275,
+        1866,
+        2431
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 163,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 164,
+      "source_index": 163,
+      "label": "姓",
+      "observed_candidate": "姓",
+      "group": "column_09",
+      "group_index": 8,
+      "bbox": [
+        1690,
+        2433,
+        1866,
+        2559
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 164,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 165,
+      "source_index": 164,
+      "label": "宜",
+      "observed_candidate": "宜",
+      "group": "column_09",
+      "group_index": 9,
+      "bbox": [
+        1690,
+        2591,
+        1848,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 165,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 166,
+      "source_index": 165,
+      "label": "垂",
+      "observed_candidate": "垂",
+      "group": "column_09",
+      "group_index": 10,
+      "bbox": [
+        1693,
+        2749,
+        1866,
+        2871
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 166,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 167,
+      "source_index": 166,
+      "label": "於",
+      "observed_candidate": "於",
+      "group": "column_09",
+      "group_index": 11,
+      "bbox": [
+        1701,
+        2907,
+        1866,
+        3032
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 167,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 168,
+      "source_index": 167,
+      "label": "永",
+      "observed_candidate": "永",
+      "group": "column_09",
+      "group_index": 12,
+      "bbox": [
+        1690,
+        3065,
+        1860,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 168,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 169,
+      "source_index": 168,
+      "label": "久",
+      "observed_candidate": "久",
+      "group": "column_09",
+      "group_index": 13,
+      "bbox": [
+        1724,
+        3223,
+        1855,
+        3372
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 169,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 170,
+      "source_index": 169,
+      "label": "其",
+      "observed_candidate": "其",
+      "group": "column_09",
+      "group_index": 14,
+      "bbox": [
+        1695,
+        3381,
+        1866,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 170,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 171,
+      "source_index": 170,
+      "label": "贵",
+      "observed_candidate": "貴",
+      "group": "column_09",
+      "group_index": 15,
+      "bbox": [
+        1690,
+        3539,
+        1866,
+        3673
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 171,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 172,
+      "source_index": 171,
+      "label": "位",
+      "observed_candidate": "位",
+      "group": "column_09",
+      "group_index": 16,
+      "bbox": [
+        1692,
+        3697,
+        1864,
+        3853
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 172,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 173,
+      "source_index": 172,
+      "label": "號",
+      "observed_candidate": "號",
+      "group": "column_09",
+      "group_index": 17,
+      "bbox": [
+        1713,
+        3855,
+        1866,
+        4011
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 173,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 174,
+      "source_index": 173,
+      "label": "舆",
+      "observed_candidate": "與",
+      "group": "column_09",
+      "group_index": 18,
+      "bbox": [
+        1710,
+        4013,
+        1854,
+        4169
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 174,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 175,
+      "source_index": 174,
+      "label": "忌",
+      "observed_candidate": "忌",
+      "group": "column_09",
+      "group_index": 19,
+      "bbox": [
+        1690,
+        4171,
+        1866,
+        4355
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 175,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 176,
+      "source_index": 175,
+      "label": "日",
+      "observed_candidate": "日",
+      "group": "column_10",
+      "group_index": 1,
+      "bbox": [
+        1549,
+        1328,
+        1725,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 176,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 177,
+      "source_index": 176,
+      "label": "並",
+      "observed_candidate": "並",
+      "group": "column_10",
+      "group_index": 2,
+      "bbox": [
+        1550,
+        1485,
+        1725,
+        1641
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 177,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 178,
+      "source_index": 177,
+      "label": "禮",
+      "observed_candidate": "禮",
+      "group": "column_10",
+      "group_index": 3,
+      "bbox": [
+        1549,
+        1643,
+        1725,
+        1799
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 178,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 179,
+      "source_index": 178,
+      "label": "品",
+      "observed_candidate": "品",
+      "group": "column_10",
+      "group_index": 4,
+      "bbox": [
+        1549,
+        1801,
+        1725,
+        1957
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 179,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 180,
+      "source_index": 179,
+      "label": "詳",
+      "observed_candidate": "詳",
+      "group": "column_10",
+      "group_index": 5,
+      "bbox": [
+        1549,
+        1959,
+        1715,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 180,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 181,
+      "source_index": 180,
+      "label": "誌",
+      "observed_candidate": "誌",
+      "group": "column_10",
+      "group_index": 6,
+      "bbox": [
+        1549,
+        2117,
+        1700,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 181,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 182,
+      "source_index": 181,
+      "label": "于",
+      "observed_candidate": "于",
+      "group": "column_10",
+      "group_index": 7,
+      "bbox": [
+        1549,
+        2275,
+        1715,
+        2420
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 182,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 183,
+      "source_index": 182,
+      "label": "石",
+      "observed_candidate": "石",
+      "group": "column_10",
+      "group_index": 8,
+      "bbox": [
+        1555,
+        2433,
+        1725,
+        2551
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 183,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 184,
+      "source_index": 183,
+      "label": "以",
+      "observed_candidate": "以",
+      "group": "column_10",
+      "group_index": 9,
+      "bbox": [
+        1549,
+        2594,
+        1725,
+        2746
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 184,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 185,
+      "source_index": 184,
+      "label": "廣",
+      "observed_candidate": "廣",
+      "group": "column_10",
+      "group_index": 10,
+      "bbox": [
+        1562,
+        2749,
+        1725,
+        2881
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 185,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 186,
+      "source_index": null,
+      "label": "MISS",
+      "observed_candidate": "其",
+      "group": "column_10",
+      "group_index": 11,
+      "bbox": [
+        1550,
+        2907,
+        1722,
+        3049
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 186,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 187,
+      "source_index": 185,
+      "label": "傳",
+      "observed_candidate": "傳",
+      "group": "column_10",
+      "group_index": 12,
+      "bbox": [
+        1549,
+        3065,
+        1725,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 187,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 188,
+      "source_index": 186,
+      "label": "云",
+      "observed_candidate": "云",
+      "group": "column_10",
+      "group_index": 13,
+      "bbox": [
+        1570,
+        3223,
+        1683,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 188,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 189,
+      "source_index": 187,
+      "label": "耳",
+      "observed_candidate": "耳",
+      "group": "column_10",
+      "group_index": 14,
+      "bbox": [
+        1562,
+        3392,
+        1725,
+        3537
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 189,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 190,
+      "source_index": 189,
+      "label": "顯",
+      "observed_candidate": "顯",
+      "group": "father_name",
+      "group_index": 1,
+      "bbox": [
+        1399,
+        1147,
+        1575,
+        1303
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 190,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 191,
+      "source_index": 190,
+      "label": "考",
+      "observed_candidate": "考",
+      "group": "father_name",
+      "group_index": 2,
+      "bbox": [
+        1399,
+        1305,
+        1575,
+        1461
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 191,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 192,
+      "source_index": 191,
+      "label": "陳",
+      "observed_candidate": "陳",
+      "group": "father_name",
+      "group_index": 3,
+      "bbox": [
+        1413,
+        1463,
+        1575,
+        1619
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 192,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 193,
+      "source_index": 192,
+      "label": "贵",
+      "observed_candidate": "貴",
+      "group": "father_name",
+      "group_index": 4,
+      "bbox": [
+        1405,
+        1623,
+        1575,
+        1766
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 193,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 194,
+      "source_index": 193,
+      "label": "公",
+      "observed_candidate": "公",
+      "group": "father_name",
+      "group_index": 5,
+      "bbox": [
+        1404,
+        1791,
+        1568,
+        1935
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 194,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 195,
+      "source_index": 194,
+      "label": "諱",
+      "observed_candidate": "諱",
+      "group": "father_name",
+      "group_index": 6,
+      "bbox": [
+        1401,
+        1937,
+        1575,
+        2093
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 195,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 196,
+      "source_index": 195,
+      "label": "德",
+      "observed_candidate": "德",
+      "group": "father_name",
+      "group_index": 7,
+      "bbox": [
+        1408,
+        2095,
+        1575,
+        2251
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 196,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 197,
+      "source_index": 196,
+      "label": "歸",
+      "observed_candidate": "歸",
+      "group": "father_name",
+      "group_index": 8,
+      "bbox": [
+        1403,
+        2265,
+        1570,
+        2409
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 197,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 198,
+      "source_index": 197,
+      "label": "字",
+      "observed_candidate": "字",
+      "group": "father_name",
+      "group_index": 9,
+      "bbox": [
+        1417,
+        2411,
+        1575,
+        2563
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 198,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 199,
+      "source_index": 198,
+      "label": "福",
+      "observed_candidate": "福",
+      "group": "father_name",
+      "group_index": 10,
+      "bbox": [
+        1405,
+        2575,
+        1560,
+        2725
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 199,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 200,
+      "source_index": 199,
+      "label": "慎",
+      "observed_candidate": "慎",
+      "group": "father_name",
+      "group_index": 11,
+      "bbox": [
+        1399,
+        2745,
+        1575,
+        2883
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 200,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 201,
+      "source_index": 200,
+      "label": "府",
+      "observed_candidate": "府",
+      "group": "father_name",
+      "group_index": 12,
+      "bbox": [
+        1399,
+        2885,
+        1575,
+        3032
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 201,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 202,
+      "source_index": 201,
+      "label": "君",
+      "observed_candidate": "君",
+      "group": "father_name",
+      "group_index": 13,
+      "bbox": [
+        1399,
+        3043,
+        1575,
+        3199
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 202,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 203,
+      "source_index": 202,
+      "label": "十",
+      "observed_candidate": "十",
+      "group": "father_memorial_date",
+      "group_index": 1,
+      "bbox": [
+        1461,
+        3223,
+        1548,
+        3305
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 203,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 204,
+      "source_index": 203,
+      "label": "月",
+      "observed_candidate": "月",
+      "group": "father_memorial_date",
+      "group_index": 2,
+      "bbox": [
+        1460,
+        3320,
+        1555,
+        3410
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 204,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 205,
+      "source_index": 204,
+      "label": "三",
+      "observed_candidate": "三",
+      "group": "father_memorial_date",
+      "group_index": 3,
+      "bbox": [
+        1460,
+        3420,
+        1553,
+        3510
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 205,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 206,
+      "source_index": 205,
+      "label": "十",
+      "observed_candidate": "十",
+      "group": "father_memorial_date",
+      "group_index": 4,
+      "bbox": [
+        1460,
+        3515,
+        1570,
+        3605
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 206,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 207,
+      "source_index": 206,
+      "label": "日",
+      "observed_candidate": "日",
+      "group": "father_memorial_date",
+      "group_index": 5,
+      "bbox": [
+        1460,
+        3610,
+        1545,
+        3700
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 207,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 208,
+      "source_index": 207,
+      "label": "忌",
+      "observed_candidate": "忌",
+      "group": "father_memorial_date",
+      "group_index": 6,
+      "bbox": [
+        1460,
+        3715,
+        1565,
+        3805
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 208,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 209,
+      "source_index": 209,
+      "label": "顯",
+      "observed_candidate": "顯",
+      "group": "mother_name",
+      "group_index": 1,
+      "bbox": [
+        1245,
+        1172,
+        1421,
+        1328
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 209,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 210,
+      "source_index": 210,
+      "label": "妣",
+      "observed_candidate": "妣",
+      "group": "mother_name",
+      "group_index": 2,
+      "bbox": [
+        1245,
+        1330,
+        1421,
+        1486
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 210,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 211,
+      "source_index": 211,
+      "label": "陳",
+      "observed_candidate": "陳",
+      "group": "mother_name",
+      "group_index": 3,
+      "bbox": [
+        1254,
+        1488,
+        1421,
+        1609
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 211,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 212,
+      "source_index": 212,
+      "label": "公",
+      "observed_candidate": "公",
+      "group": "mother_name",
+      "group_index": 4,
+      "bbox": [
+        1248,
+        1661,
+        1419,
+        1801
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 212,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 213,
+      "source_index": 213,
+      "label": "正",
+      "observed_candidate": "正",
+      "group": "mother_name",
+      "group_index": 5,
+      "bbox": [
+        1245,
+        1819,
+        1420,
+        1956
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 213,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 214,
+      "source_index": 214,
+      "label": "室",
+      "observed_candidate": "室",
+      "group": "mother_name",
+      "group_index": 6,
+      "bbox": [
+        1262,
+        1962,
+        1421,
+        2093
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 214,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 215,
+      "source_index": 215,
+      "label": "阮",
+      "observed_candidate": "阮",
+      "group": "mother_name",
+      "group_index": 7,
+      "bbox": [
+        1245,
+        2133,
+        1421,
+        2276
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 215,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 216,
+      "source_index": 216,
+      "label": "贵",
+      "observed_candidate": "貴",
+      "group": "mother_name",
+      "group_index": 8,
+      "bbox": [
+        1245,
+        2278,
+        1421,
+        2434
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 216,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 217,
+      "source_index": 217,
+      "label": "氏",
+      "observed_candidate": "氏",
+      "group": "mother_name",
+      "group_index": 9,
+      "bbox": [
+        1245,
+        2436,
+        1374,
+        2592
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 217,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 218,
+      "source_index": 218,
+      "label": "諱",
+      "observed_candidate": "諱",
+      "group": "mother_name",
+      "group_index": 10,
+      "bbox": [
+        1245,
+        2594,
+        1421,
+        2750
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 218,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 219,
+      "source_index": 219,
+      "label": "汝",
+      "observed_candidate": "汝",
+      "group": "mother_name",
+      "group_index": 11,
+      "bbox": [
+        1245,
+        2752,
+        1421,
+        2908
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 219,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 220,
+      "source_index": 220,
+      "label": "號",
+      "observed_candidate": "號",
+      "group": "mother_name",
+      "group_index": 12,
+      "bbox": [
+        1245,
+        2910,
+        1421,
+        3057
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 220,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 221,
+      "source_index": 221,
+      "label": "妙",
+      "observed_candidate": "妙",
+      "group": "mother_name",
+      "group_index": 13,
+      "bbox": [
+        1245,
+        3072,
+        1421,
+        3224
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 221,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 222,
+      "source_index": 222,
+      "label": "清",
+      "observed_candidate": "清",
+      "group": "mother_name",
+      "group_index": 14,
+      "bbox": [
+        1265,
+        3226,
+        1421,
+        3382
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 222,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 223,
+      "source_index": 223,
+      "label": "孺",
+      "observed_candidate": "孺",
+      "group": "mother_name",
+      "group_index": 15,
+      "bbox": [
+        1251,
+        3370,
+        1425,
+        3510
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 223,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 224,
+      "source_index": 224,
+      "label": "人",
+      "observed_candidate": "人",
+      "group": "mother_name",
+      "group_index": 16,
+      "bbox": [
+        1268,
+        3505,
+        1430,
+        3620
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 224,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 225,
+      "source_index": 225,
+      "label": "四",
+      "observed_candidate": "四",
+      "group": "mother_memorial_date",
+      "group_index": 1,
+      "bbox": [
+        1310,
+        3651,
+        1453,
+        3736
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 225,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 226,
+      "source_index": 226,
+      "label": "月",
+      "observed_candidate": "月",
+      "group": "mother_memorial_date",
+      "group_index": 2,
+      "bbox": [
+        1312,
+        3727,
+        1455,
+        3823
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 226,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 227,
+      "source_index": 227,
+      "label": "二",
+      "observed_candidate": "二",
+      "group": "mother_memorial_date",
+      "group_index": 3,
+      "bbox": [
+        1311,
+        3805,
+        1455,
+        3898
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 227,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 228,
+      "source_index": 228,
+      "label": "十",
+      "observed_candidate": "十",
+      "group": "mother_memorial_date",
+      "group_index": 4,
+      "bbox": [
+        1317,
+        3897,
+        1415,
+        3993
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 228,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 229,
+      "source_index": 229,
+      "label": "六",
+      "observed_candidate": "六",
+      "group": "mother_memorial_date",
+      "group_index": 5,
+      "bbox": [
+        1310,
+        3985,
+        1417,
+        4081
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 229,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 230,
+      "source_index": 230,
+      "label": "日",
+      "observed_candidate": "日",
+      "group": "mother_memorial_date",
+      "group_index": 6,
+      "bbox": [
+        1320,
+        4070,
+        1399,
+        4166
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 230,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 231,
+      "source_index": 231,
+      "label": "忌",
+      "observed_candidate": "忌",
+      "group": "mother_memorial_date",
+      "group_index": 7,
+      "bbox": [
+        1315,
+        4152,
+        1416,
+        4227
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 231,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 232,
+      "source_index": 233,
+      "label": "陳",
+      "observed_candidate": "陳",
+      "group": "benefactor_name",
+      "group_index": 1,
+      "bbox": [
+        1087,
+        1154,
+        1263,
+        1303
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 232,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 233,
+      "source_index": 234,
+      "label": "氏",
+      "observed_candidate": "氏",
+      "group": "benefactor_name",
+      "group_index": 2,
+      "bbox": [
+        1087,
+        1305,
+        1263,
+        1461
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 233,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 234,
+      "source_index": 235,
+      "label": "富",
+      "observed_candidate": "富",
+      "group": "benefactor_name",
+      "group_index": 3,
+      "bbox": [
+        1087,
+        1463,
+        1263,
+        1619
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 234,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 235,
+      "source_index": 236,
+      "label": "號",
+      "observed_candidate": "號",
+      "group": "benefactor_name",
+      "group_index": 4,
+      "bbox": [
+        1087,
+        1621,
+        1263,
+        1777
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 235,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 236,
+      "source_index": 237,
+      "label": "妙",
+      "observed_candidate": "妙",
+      "group": "benefactor_name",
+      "group_index": 5,
+      "bbox": [
+        1087,
+        1779,
+        1263,
+        1935
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 236,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 237,
+      "source_index": 238,
+      "label": "贵",
+      "observed_candidate": "貴",
+      "group": "benefactor_name",
+      "group_index": 6,
+      "bbox": [
+        1087,
+        1937,
+        1256,
+        2093
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 237,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 238,
+      "source_index": 239,
+      "label": "月",
+      "observed_candidate": "月",
+      "group": "benefactor_date_blank",
+      "group_index": 1,
+      "bbox": [
+        1100,
+        3655,
+        1260,
+        3790
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 238,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 239,
+      "source_index": 240,
+      "label": "日",
+      "observed_candidate": "日",
+      "group": "benefactor_date_blank",
+      "group_index": 2,
+      "bbox": [
+        1114,
+        3950,
+        1257,
+        4100
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 239,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 240,
+      "source_index": 241,
+      "label": "忌",
+      "observed_candidate": "忌",
+      "group": "benefactor_date_blank",
+      "group_index": 3,
+      "bbox": [
+        1100,
+        4115,
+        1260,
+        4290
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 240,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 241,
+      "source_index": 242,
+      "label": "忌",
+      "observed_candidate": "忌",
+      "group": "offerings",
+      "group_index": 1,
+      "bbox": [
+        931,
+        1327,
+        1107,
+        1483
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 241,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 242,
+      "source_index": 243,
+      "label": "日",
+      "observed_candidate": "日",
+      "group": "offerings",
+      "group_index": 2,
+      "bbox": [
+        931,
+        1485,
+        1107,
+        1641
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 242,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 243,
+      "source_index": 244,
+      "label": "禮",
+      "observed_candidate": "禮",
+      "group": "offerings",
+      "group_index": 3,
+      "bbox": [
+        931,
+        1643,
+        1107,
+        1792
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 243,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 244,
+      "source_index": 245,
+      "label": "用",
+      "observed_candidate": "用",
+      "group": "offerings",
+      "group_index": 4,
+      "bbox": [
+        932,
+        1817,
+        1107,
+        1957
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 244,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 245,
+      "source_index": 246,
+      "label": "翰",
+      "observed_candidate": "翰",
+      "group": "offerings",
+      "group_index": 5,
+      "bbox": [
+        931,
+        1959,
+        1107,
+        2115
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 245,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 246,
+      "source_index": 247,
+      "label": "歆",
+      "observed_candidate": "歆",
+      "group": "offerings",
+      "group_index": 6,
+      "bbox": [
+        931,
+        2117,
+        1103,
+        2273
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 246,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 247,
+      "source_index": 248,
+      "label": "粢",
+      "observed_candidate": "粢",
+      "group": "offerings",
+      "group_index": 7,
+      "bbox": [
+        931,
+        2275,
+        1107,
+        2422
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 247,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 248,
+      "source_index": 249,
+      "label": "盛",
+      "observed_candidate": "盛",
+      "group": "offerings",
+      "group_index": 8,
+      "bbox": [
+        944,
+        2438,
+        1102,
+        2583
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 248,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 249,
+      "source_index": 250,
+      "label": "金",
+      "observed_candidate": "金",
+      "group": "offerings",
+      "group_index": 9,
+      "bbox": [
+        931,
+        2591,
+        1094,
+        2747
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 249,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 250,
+      "source_index": 251,
+      "label": "銀",
+      "observed_candidate": "銀",
+      "group": "offerings",
+      "group_index": 10,
+      "bbox": [
+        936,
+        2749,
+        1106,
+        2905
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 250,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 251,
+      "source_index": 252,
+      "label": "芙",
+      "observed_candidate": "芙",
+      "group": "offerings",
+      "group_index": 11,
+      "bbox": [
+        931,
+        2907,
+        1107,
+        3063
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 251,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 252,
+      "source_index": 253,
+      "label": "酒",
+      "observed_candidate": "酒",
+      "group": "offerings",
+      "group_index": 12,
+      "bbox": [
+        931,
+        3065,
+        1107,
+        3221
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 252,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 253,
+      "source_index": 254,
+      "label": "具",
+      "observed_candidate": "具",
+      "group": "offerings",
+      "group_index": 13,
+      "bbox": [
+        931,
+        3223,
+        1107,
+        3379
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 253,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 254,
+      "source_index": 255,
+      "label": "足",
+      "observed_candidate": "足",
+      "group": "offerings",
+      "group_index": 14,
+      "bbox": [
+        931,
+        3381,
+        1102,
+        3530
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 254,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 255,
+      "source_index": 256,
+      "label": "三",
+      "observed_candidate": "三",
+      "group": "small_note_B",
+      "group_index": 1,
+      "bbox": [
+        1025,
+        3534,
+        1110,
+        3638
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 255,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 256,
+      "source_index": 257,
+      "label": "忌",
+      "observed_candidate": "忌",
+      "group": "small_note_B",
+      "group_index": 2,
+      "bbox": [
+        1025,
+        3625,
+        1130,
+        3735
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 256,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 257,
+      "source_index": 258,
+      "label": "亦",
+      "observed_candidate": "亦",
+      "group": "small_note_B",
+      "group_index": 3,
+      "bbox": [
+        1025,
+        3725,
+        1130,
+        3835
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 257,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 258,
+      "source_index": 259,
+      "label": "周",
+      "observed_candidate": "周",
+      "group": "small_note_B",
+      "group_index": 4,
+      "bbox": [
+        1025,
+        3825,
+        1125,
+        3935
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 258,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 259,
+      "source_index": 260,
+      "label": "由",
+      "observed_candidate": "扣",
+      "group": "small_note_B",
+      "group_index": 5,
+      "bbox": [
+        915,
+        3522,
+        1030,
+        3618
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": true,
+      "condition_review": "provisional_visual_estimate",
+      "order": 259,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 260,
+      "source_index": 261,
+      "label": "每",
+      "observed_candidate": "每",
+      "group": "small_note_B",
+      "group_index": 6,
+      "bbox": [
+        915,
+        3622,
+        1030,
+        3718
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 260,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 261,
+      "source_index": 262,
+      "label": "忌",
+      "observed_candidate": "忌",
+      "group": "small_note_B",
+      "group_index": 7,
+      "bbox": [
+        917,
+        3717,
+        1030,
+        3813
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 261,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 262,
+      "source_index": 263,
+      "label": "準",
+      "observed_candidate": "準",
+      "group": "small_note_B",
+      "group_index": 8,
+      "bbox": [
+        915,
+        3812,
+        1030,
+        3908
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 262,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 263,
+      "source_index": 264,
+      "label": "銀",
+      "observed_candidate": "銀",
+      "group": "small_note_B",
+      "group_index": 9,
+      "bbox": [
+        915,
+        3922,
+        1011,
+        4018
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 263,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 264,
+      "source_index": 265,
+      "label": "二",
+      "observed_candidate": "二",
+      "group": "small_note_B",
+      "group_index": 10,
+      "bbox": [
+        915,
+        4017,
+        1003,
+        4113
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 264,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 265,
+      "source_index": 266,
+      "label": "元",
+      "observed_candidate": "元",
+      "group": "small_note_B",
+      "group_index": 11,
+      "bbox": [
+        915,
+        4112,
+        1017,
+        4208
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 265,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 266,
+      "source_index": 268,
+      "label": "保",
+      "observed_candidate": "保",
+      "group": "date_inscription",
+      "group_index": 1,
+      "bbox": [
+        790,
+        1197,
+        963,
+        1353
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 266,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 267,
+      "source_index": 269,
+      "label": "大",
+      "observed_candidate": "大",
+      "group": "date_inscription",
+      "group_index": 2,
+      "bbox": [
+        787,
+        1355,
+        932,
+        1511
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 267,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 268,
+      "source_index": 270,
+      "label": "七",
+      "observed_candidate": "七",
+      "group": "date_inscription",
+      "group_index": 3,
+      "bbox": [
+        787,
+        1513,
+        963,
+        1669
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 268,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 269,
+      "source_index": 271,
+      "label": "年",
+      "observed_candidate": "年",
+      "group": "date_inscription",
+      "group_index": 4,
+      "bbox": [
+        787,
+        1671,
+        963,
+        1827
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 269,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 270,
+      "source_index": 272,
+      "label": "歲",
+      "observed_candidate": "歲",
+      "group": "date_inscription",
+      "group_index": 5,
+      "bbox": [
+        787,
+        1829,
+        963,
+        1985
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 270,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 271,
+      "source_index": 273,
+      "label": "在",
+      "observed_candidate": "在",
+      "group": "date_inscription",
+      "group_index": 6,
+      "bbox": [
+        787,
+        1987,
+        963,
+        2143
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 271,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 272,
+      "source_index": 274,
+      "label": "壬",
+      "observed_candidate": "壬",
+      "group": "date_inscription",
+      "group_index": 7,
+      "bbox": [
+        792,
+        2145,
+        963,
+        2301
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 272,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 273,
+      "source_index": 275,
+      "label": "申",
+      "observed_candidate": "申",
+      "group": "date_inscription",
+      "group_index": 8,
+      "bbox": [
+        798,
+        2303,
+        963,
+        2459
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 273,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 274,
+      "source_index": 276,
+      "label": "吉",
+      "observed_candidate": "吉",
+      "group": "date_inscription",
+      "group_index": 9,
+      "bbox": [
+        799,
+        2461,
+        963,
+        2617
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 274,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 275,
+      "source_index": 277,
+      "label": "日",
+      "observed_candidate": "日",
+      "group": "date_inscription",
+      "group_index": 10,
+      "bbox": [
+        797,
+        2619,
+        963,
+        2775
+      ],
+      "status": "damaged",
+      "damage_level": 2,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 275,
+      "geometry_review": "previous_manual_column_review"
+    },
+    {
+      "id": 276,
+      "source_index": 278,
+      "label": "立",
+      "observed_candidate": "立",
+      "group": "date_inscription",
+      "group_index": 11,
+      "bbox": [
+        789,
+        2777,
+        963,
+        2933
+      ],
+      "status": "damaged",
+      "damage_level": 1,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "condition_review": "provisional_visual_estimate",
+      "order": 276,
+      "geometry_review": "previous_manual_column_review"
+    }
+  ],
+  "original": {
+    "image": "17077.jpg",
+    "inscription_code": "17077",
+    "issue_type": [
+      "other"
+    ],
+    "note": "Nguồn được giữ nguyên chữ theo yêu cầu; chỉ bỏ ngoặc. Đồng thời có nhãn nguồn dư (['〇', '〇', '〇', '〇']) và 1 nhãn thiếu trên ảnh. Tool gốc chỉ hỗ trợ một loại mismatch và không biểu diễn đủ cả hai bằng Missing/Extra. Dùng Other cho trường hợp hỗn hợp; toàn bộ ánh xạ nhãn, trạng thái và crop nằm trong review_details và trang review.html. Không coi các chữ dự đoán trên ảnh là chữ đã được xác minh độc lập.",
+    "bounding_boxes": {
+      "1": {
+        "bbox": [
+          2530,
+          800,
+          2815,
+          1095
+        ]
+      },
+      "2": {
+        "bbox": [
+          1840,
+          827,
+          2135,
+          1100
+        ]
+      },
+      "3": {
+        "bbox": [
+          1140,
+          829,
+          1455,
+          1120
+        ]
+      },
+      "4": {
+        "bbox": [
+          2912,
+          1332,
+          3048,
+          1483
+        ]
+      },
+      "5": {
+        "bbox": [
+          2914,
+          1485,
+          3073,
+          1641
+        ]
+      },
+      "6": {
+        "bbox": [
+          2912,
+          1643,
+          3088,
+          1796
+        ]
+      },
+      "7": {
+        "bbox": [
+          2913,
+          1804,
+          3048,
+          1957
+        ]
+      },
+      "8": {
+        "bbox": [
+          2912,
+          1959,
+          3055,
+          2115
+        ]
+      },
+      "9": {
+        "bbox": [
+          2912,
+          2117,
+          3048,
+          2273
+        ]
+      },
+      "10": {
+        "bbox": [
+          2912,
+          2275,
+          3057,
+          2431
+        ]
+      },
+      "11": {
+        "bbox": [
+          2912,
+          2433,
+          3075,
+          2589
+        ]
+      },
+      "12": {
+        "bbox": [
+          2912,
+          2591,
+          3085,
+          2747
+        ]
+      },
+      "13": {
+        "bbox": [
+          2912,
+          2749,
+          3088,
+          2905
+        ]
+      },
+      "14": {
+        "bbox": [
+          2912,
+          2907,
+          3066,
+          3063
+        ]
+      },
+      "15": {
+        "bbox": [
+          2915,
+          3065,
+          3067,
+          3221
+        ]
+      },
+      "16": {
+        "bbox": [
+          2913,
+          3223,
+          3072,
+          3379
+        ]
+      },
+      "17": {
+        "bbox": [
+          2916,
+          3381,
+          3057,
+          3537
+        ]
+      },
+      "18": {
+        "bbox": [
+          2912,
+          3539,
+          3088,
+          3695
+        ]
+      },
+      "19": {
+        "bbox": [
+          2743,
+          1332,
+          2919,
+          1483
+        ]
+      },
+      "20": {
+        "bbox": [
+          2743,
+          1485,
+          2910,
+          1641
+        ]
+      },
+      "21": {
+        "bbox": [
+          2743,
+          1643,
+          2919,
+          1799
+        ]
+      },
+      "22": {
+        "bbox": [
+          2743,
+          1810,
+          2912,
+          1957
+        ]
+      },
+      "23": {
+        "bbox": [
+          2743,
+          1959,
+          2919,
+          2115
+        ]
+      },
+      "24": {
+        "bbox": [
+          2761,
+          2117,
+          2919,
+          2273
+        ]
+      },
+      "25": {
+        "bbox": [
+          2743,
+          2275,
+          2919,
+          2431
+        ]
+      },
+      "26": {
+        "bbox": [
+          2743,
+          2433,
+          2919,
+          2589
+        ]
+      },
+      "27": {
+        "bbox": [
+          2749,
+          2591,
+          2919,
+          2714
+        ]
+      },
+      "28": {
+        "bbox": [
+          2743,
+          2749,
+          2919,
+          2905
+        ]
+      },
+      "29": {
+        "bbox": [
+          2743,
+          2907,
+          2919,
+          3063
+        ]
+      },
+      "30": {
+        "bbox": [
+          2743,
+          3065,
+          2917,
+          3221
+        ]
+      },
+      "31": {
+        "bbox": [
+          2743,
+          3223,
+          2914,
+          3379
+        ]
+      },
+      "32": {
+        "bbox": [
+          2743,
+          3381,
+          2917,
+          3537
+        ]
+      },
+      "33": {
+        "bbox": [
+          2743,
+          3539,
+          2915,
+          3695
+        ]
+      },
+      "34": {
+        "bbox": [
+          2744,
+          3697,
+          2919,
+          3853
+        ]
+      },
+      "35": {
+        "bbox": [
+          2743,
+          3855,
+          2912,
+          3999
+        ]
+      },
+      "36": {
+        "bbox": [
+          2743,
+          4016,
+          2919,
+          4169
+        ]
+      },
+      "37": {
+        "bbox": [
+          2743,
+          4171,
+          2919,
+          4355
+        ]
+      },
+      "38": {
+        "bbox": [
+          2608,
+          1327,
+          2781,
+          1483
+        ]
+      },
+      "39": {
+        "bbox": [
+          2605,
+          1485,
+          2781,
+          1641
+        ]
+      },
+      "40": {
+        "bbox": [
+          2605,
+          1643,
+          2781,
+          1799
+        ]
+      },
+      "41": {
+        "bbox": [
+          2605,
+          1801,
+          2781,
+          1957
+        ]
+      },
+      "42": {
+        "bbox": [
+          2605,
+          1959,
+          2781,
+          2115
+        ]
+      },
+      "43": {
+        "bbox": [
+          2605,
+          2117,
+          2781,
+          2273
+        ]
+      },
+      "44": {
+        "bbox": [
+          2605,
+          2275,
+          2781,
+          2431
+        ]
+      },
+      "45": {
+        "bbox": [
+          2605,
+          2433,
+          2781,
+          2568
+        ]
+      },
+      "46": {
+        "bbox": [
+          2605,
+          2596,
+          2763,
+          2747
+        ]
+      },
+      "47": {
+        "bbox": [
+          2605,
+          2749,
+          2781,
+          2905
+        ]
+      },
+      "48": {
+        "bbox": [
+          2605,
+          2907,
+          2781,
+          3063
+        ]
+      },
+      "49": {
+        "bbox": [
+          2607,
+          3065,
+          2781,
+          3221
+        ]
+      },
+      "50": {
+        "bbox": [
+          2605,
+          3223,
+          2781,
+          3379
+        ]
+      },
+      "51": {
+        "bbox": [
+          2605,
+          3381,
+          2781,
+          3537
+        ]
+      },
+      "52": {
+        "bbox": [
+          2605,
+          3539,
+          2771,
+          3695
+        ]
+      },
+      "53": {
+        "bbox": [
+          2605,
+          3697,
+          2781,
+          3853
+        ]
+      },
+      "54": {
+        "bbox": [
+          2605,
+          3855,
+          2775,
+          4011
+        ]
+      },
+      "55": {
+        "bbox": [
+          2606,
+          4013,
+          2781,
+          4169
+        ]
+      },
+      "56": {
+        "bbox": [
+          2605,
+          4171,
+          2781,
+          4355
+        ]
+      },
+      "57": {
+        "bbox": [
+          2466,
+          1345,
+          2642,
+          1483
+        ]
+      },
+      "58": {
+        "bbox": [
+          2466,
+          1485,
+          2623,
+          1641
+        ]
+      },
+      "59": {
+        "bbox": [
+          2472,
+          1643,
+          2642,
+          1799
+        ]
+      },
+      "60": {
+        "bbox": [
+          2466,
+          1801,
+          2642,
+          1957
+        ]
+      },
+      "61": {
+        "bbox": [
+          2467,
+          1959,
+          2642,
+          2100
+        ]
+      },
+      "62": {
+        "bbox": [
+          2466,
+          2117,
+          2642,
+          2273
+        ]
+      },
+      "63": {
+        "bbox": [
+          2466,
+          2275,
+          2642,
+          2431
+        ]
+      },
+      "64": {
+        "bbox": [
+          2466,
+          2439,
+          2642,
+          2589
+        ]
+      },
+      "65": {
+        "bbox": [
+          2475,
+          2591,
+          2642,
+          2747
+        ]
+      },
+      "66": {
+        "bbox": [
+          2470,
+          2755,
+          2642,
+          2905
+        ]
+      },
+      "67": {
+        "bbox": [
+          2466,
+          2907,
+          2642,
+          3062
+        ]
+      },
+      "68": {
+        "bbox": [
+          2470,
+          3065,
+          2640,
+          3219
+        ]
+      },
+      "69": {
+        "bbox": [
+          2466,
+          3226,
+          2632,
+          3379
+        ]
+      },
+      "70": {
+        "bbox": [
+          2466,
+          3381,
+          2642,
+          3537
+        ]
+      },
+      "71": {
+        "bbox": [
+          2477,
+          3539,
+          2642,
+          3688
+        ]
+      },
+      "72": {
+        "bbox": [
+          2466,
+          3701,
+          2642,
+          3853
+        ]
+      },
+      "73": {
+        "bbox": [
+          2466,
+          3855,
+          2642,
+          4011
+        ]
+      },
+      "74": {
+        "bbox": [
+          2466,
+          4013,
+          2642,
+          4169
+        ]
+      },
+      "75": {
+        "bbox": [
+          2466,
+          4171,
+          2642,
+          4355
+        ]
+      },
+      "76": {
+        "bbox": [
+          2308,
+          1327,
+          2484,
+          1483
+        ]
+      },
+      "77": {
+        "bbox": [
+          2308,
+          1485,
+          2484,
+          1641
+        ]
+      },
+      "78": {
+        "bbox": [
+          2308,
+          1643,
+          2484,
+          1799
+        ]
+      },
+      "79": {
+        "bbox": [
+          2308,
+          1801,
+          2484,
+          1957
+        ]
+      },
+      "80": {
+        "bbox": [
+          2308,
+          1959,
+          2484,
+          2115
+        ]
+      },
+      "81": {
+        "bbox": [
+          2308,
+          2117,
+          2484,
+          2261
+        ]
+      },
+      "82": {
+        "bbox": [
+          2308,
+          2275,
+          2484,
+          2431
+        ]
+      },
+      "83": {
+        "bbox": [
+          2315,
+          2433,
+          2484,
+          2562
+        ]
+      },
+      "84": {
+        "bbox": [
+          2308,
+          2600,
+          2484,
+          2747
+        ]
+      },
+      "85": {
+        "bbox": [
+          2316,
+          2749,
+          2484,
+          2905
+        ]
+      },
+      "86": {
+        "bbox": [
+          2308,
+          2907,
+          2483,
+          3063
+        ]
+      },
+      "87": {
+        "bbox": [
+          2308,
+          3065,
+          2483,
+          3221
+        ]
+      },
+      "88": {
+        "bbox": [
+          2317,
+          3223,
+          2484,
+          3379
+        ]
+      },
+      "89": {
+        "bbox": [
+          2315,
+          3381,
+          2484,
+          3537
+        ]
+      },
+      "90": {
+        "bbox": [
+          2308,
+          3539,
+          2484,
+          3695
+        ]
+      },
+      "91": {
+        "bbox": [
+          2308,
+          3697,
+          2484,
+          3851
+        ]
+      },
+      "92": {
+        "bbox": [
+          2308,
+          3855,
+          2484,
+          4011
+        ]
+      },
+      "93": {
+        "bbox": [
+          2325,
+          4020,
+          2475,
+          4175
+        ]
+      },
+      "94": {
+        "bbox": [
+          2325,
+          4180,
+          2490,
+          4335
+        ]
+      },
+      "95": {
+        "bbox": [
+          2161,
+          1327,
+          2322,
+          1483
+        ]
+      },
+      "96": {
+        "bbox": [
+          2146,
+          1485,
+          2322,
+          1641
+        ]
+      },
+      "97": {
+        "bbox": [
+          2147,
+          1643,
+          2322,
+          1799
+        ]
+      },
+      "98": {
+        "bbox": [
+          2155,
+          1801,
+          2322,
+          1957
+        ]
+      },
+      "99": {
+        "bbox": [
+          2146,
+          1959,
+          2322,
+          2113
+        ]
+      },
+      "100": {
+        "bbox": [
+          2146,
+          2117,
+          2322,
+          2257
+        ]
+      },
+      "101": {
+        "bbox": [
+          2146,
+          2275,
+          2322,
+          2428
+        ]
+      },
+      "102": {
+        "bbox": [
+          2157,
+          2440,
+          2314,
+          2589
+        ]
+      },
+      "103": {
+        "bbox": [
+          2146,
+          2595,
+          2322,
+          2733
+        ]
+      },
+      "104": {
+        "bbox": [
+          2146,
+          2750,
+          2299,
+          2905
+        ]
+      },
+      "105": {
+        "bbox": [
+          2178,
+          2910,
+          2318,
+          3063
+        ]
+      },
+      "106": {
+        "bbox": [
+          2146,
+          3065,
+          2322,
+          3221
+        ]
+      },
+      "107": {
+        "bbox": [
+          2146,
+          3223,
+          2312,
+          3379
+        ]
+      },
+      "108": {
+        "bbox": [
+          2160,
+          3381,
+          2310,
+          3537
+        ]
+      },
+      "109": {
+        "bbox": [
+          2146,
+          3539,
+          2322,
+          3695
+        ]
+      },
+      "110": {
+        "bbox": [
+          2146,
+          3697,
+          2322,
+          3851
+        ]
+      },
+      "111": {
+        "bbox": [
+          2146,
+          3855,
+          2322,
+          4011
+        ]
+      },
+      "112": {
+        "bbox": [
+          2166,
+          4010,
+          2290,
+          4130
+        ]
+      },
+      "113": {
+        "bbox": [
+          2270,
+          4110,
+          2370,
+          4200
+        ]
+      },
+      "114": {
+        "bbox": [
+          2270,
+          4200,
+          2370,
+          4280
+        ]
+      },
+      "115": {
+        "bbox": [
+          2270,
+          4280,
+          2370,
+          4350
+        ]
+      },
+      "116": {
+        "bbox": [
+          2170,
+          4110,
+          2260,
+          4200
+        ]
+      },
+      "117": {
+        "bbox": [
+          2170,
+          4200,
+          2260,
+          4280
+        ]
+      },
+      "118": {
+        "bbox": [
+          2170,
+          4280,
+          2260,
+          4350
+        ]
+      },
+      "119": {
+        "bbox": [
+          2006,
+          1352,
+          2182,
+          1483
+        ]
+      },
+      "120": {
+        "bbox": [
+          2006,
+          1485,
+          2182,
+          1640
+        ]
+      },
+      "121": {
+        "bbox": [
+          2006,
+          1643,
+          2182,
+          1765
+        ]
+      },
+      "122": {
+        "bbox": [
+          2006,
+          1818,
+          2182,
+          1957
+        ]
+      },
+      "123": {
+        "bbox": [
+          2006,
+          1964,
+          2172,
+          2115
+        ]
+      },
+      "124": {
+        "bbox": [
+          2006,
+          2117,
+          2182,
+          2273
+        ]
+      },
+      "125": {
+        "bbox": [
+          2006,
+          2275,
+          2182,
+          2416
+        ]
+      },
+      "126": {
+        "bbox": [
+          2006,
+          2440,
+          2182,
+          2589
+        ]
+      },
+      "127": {
+        "bbox": [
+          2006,
+          2591,
+          2177,
+          2733
+        ]
+      },
+      "128": {
+        "bbox": [
+          2006,
+          2749,
+          2156,
+          2905
+        ]
+      },
+      "129": {
+        "bbox": [
+          2006,
+          2907,
+          2150,
+          3062
+        ]
+      },
+      "130": {
+        "bbox": [
+          2026,
+          3065,
+          2161,
+          3221
+        ]
+      },
+      "131": {
+        "bbox": [
+          2007,
+          3223,
+          2182,
+          3379
+        ]
+      },
+      "132": {
+        "bbox": [
+          2017,
+          3381,
+          2182,
+          3537
+        ]
+      },
+      "133": {
+        "bbox": [
+          2022,
+          3539,
+          2182,
+          3695
+        ]
+      },
+      "134": {
+        "bbox": [
+          2017,
+          3697,
+          2182,
+          3853
+        ]
+      },
+      "135": {
+        "bbox": [
+          2006,
+          3855,
+          2182,
+          4011
+        ]
+      },
+      "136": {
+        "bbox": [
+          2038,
+          4013,
+          2182,
+          4167
+        ]
+      },
+      "137": {
+        "bbox": [
+          2006,
+          4171,
+          2182,
+          4355
+        ]
+      },
+      "138": {
+        "bbox": [
+          1858,
+          1327,
+          2034,
+          1483
+        ]
+      },
+      "139": {
+        "bbox": [
+          1875,
+          1485,
+          2034,
+          1641
+        ]
+      },
+      "140": {
+        "bbox": [
+          1863,
+          1643,
+          2034,
+          1798
+        ]
+      },
+      "141": {
+        "bbox": [
+          1858,
+          1801,
+          2034,
+          1957
+        ]
+      },
+      "142": {
+        "bbox": [
+          1858,
+          1960,
+          2034,
+          2111
+        ]
+      },
+      "143": {
+        "bbox": [
+          1858,
+          2117,
+          2034,
+          2273
+        ]
+      },
+      "144": {
+        "bbox": [
+          1858,
+          2276,
+          2034,
+          2431
+        ]
+      },
+      "145": {
+        "bbox": [
+          1858,
+          2433,
+          2015,
+          2589
+        ]
+      },
+      "146": {
+        "bbox": [
+          1869,
+          2596,
+          2034,
+          2747
+        ]
+      },
+      "147": {
+        "bbox": [
+          1858,
+          2749,
+          2034,
+          2905
+        ]
+      },
+      "148": {
+        "bbox": [
+          1858,
+          2907,
+          2034,
+          3063
+        ]
+      },
+      "149": {
+        "bbox": [
+          1861,
+          3065,
+          2034,
+          3221
+        ]
+      },
+      "150": {
+        "bbox": [
+          1874,
+          3223,
+          2034,
+          3379
+        ]
+      },
+      "151": {
+        "bbox": [
+          1858,
+          3383,
+          2034,
+          3537
+        ]
+      },
+      "152": {
+        "bbox": [
+          1858,
+          3539,
+          2034,
+          3695
+        ]
+      },
+      "153": {
+        "bbox": [
+          1864,
+          3699,
+          2034,
+          3853
+        ]
+      },
+      "154": {
+        "bbox": [
+          1858,
+          3855,
+          2031,
+          4011
+        ]
+      },
+      "155": {
+        "bbox": [
+          1875,
+          4013,
+          2013,
+          4164
+        ]
+      },
+      "156": {
+        "bbox": [
+          1858,
+          4222,
+          2034,
+          4355
+        ]
+      },
+      "157": {
+        "bbox": [
+          1690,
+          1327,
+          1866,
+          1483
+        ]
+      },
+      "158": {
+        "bbox": [
+          1690,
+          1485,
+          1862,
+          1641
+        ]
+      },
+      "159": {
+        "bbox": [
+          1690,
+          1643,
+          1862,
+          1799
+        ]
+      },
+      "160": {
+        "bbox": [
+          1701,
+          1801,
+          1866,
+          1957
+        ]
+      },
+      "161": {
+        "bbox": [
+          1690,
+          1959,
+          1866,
+          2115
+        ]
+      },
+      "162": {
+        "bbox": [
+          1690,
+          2117,
+          1866,
+          2273
+        ]
+      },
+      "163": {
+        "bbox": [
+          1701,
+          2275,
+          1866,
+          2431
+        ]
+      },
+      "164": {
+        "bbox": [
+          1690,
+          2433,
+          1866,
+          2559
+        ]
+      },
+      "165": {
+        "bbox": [
+          1690,
+          2591,
+          1848,
+          2747
+        ]
+      },
+      "166": {
+        "bbox": [
+          1693,
+          2749,
+          1866,
+          2871
+        ]
+      },
+      "167": {
+        "bbox": [
+          1701,
+          2907,
+          1866,
+          3032
+        ]
+      },
+      "168": {
+        "bbox": [
+          1690,
+          3065,
+          1860,
+          3221
+        ]
+      },
+      "169": {
+        "bbox": [
+          1724,
+          3223,
+          1855,
+          3372
+        ]
+      },
+      "170": {
+        "bbox": [
+          1695,
+          3381,
+          1866,
+          3537
+        ]
+      },
+      "171": {
+        "bbox": [
+          1690,
+          3539,
+          1866,
+          3673
+        ]
+      },
+      "172": {
+        "bbox": [
+          1692,
+          3697,
+          1864,
+          3853
+        ]
+      },
+      "173": {
+        "bbox": [
+          1713,
+          3855,
+          1866,
+          4011
+        ]
+      },
+      "174": {
+        "bbox": [
+          1710,
+          4013,
+          1854,
+          4169
+        ]
+      },
+      "175": {
+        "bbox": [
+          1690,
+          4171,
+          1866,
+          4355
+        ]
+      },
+      "176": {
+        "bbox": [
+          1549,
+          1328,
+          1725,
+          1483
+        ]
+      },
+      "177": {
+        "bbox": [
+          1550,
+          1485,
+          1725,
+          1641
+        ]
+      },
+      "178": {
+        "bbox": [
+          1549,
+          1643,
+          1725,
+          1799
+        ]
+      },
+      "179": {
+        "bbox": [
+          1549,
+          1801,
+          1725,
+          1957
+        ]
+      },
+      "180": {
+        "bbox": [
+          1549,
+          1959,
+          1715,
+          2115
+        ]
+      },
+      "181": {
+        "bbox": [
+          1549,
+          2117,
+          1700,
+          2273
+        ]
+      },
+      "182": {
+        "bbox": [
+          1549,
+          2275,
+          1715,
+          2420
+        ]
+      },
+      "183": {
+        "bbox": [
+          1555,
+          2433,
+          1725,
+          2551
+        ]
+      },
+      "184": {
+        "bbox": [
+          1549,
+          2594,
+          1725,
+          2746
+        ]
+      },
+      "185": {
+        "bbox": [
+          1562,
+          2749,
+          1725,
+          2881
+        ]
+      },
+      "186": {
+        "bbox": [
+          1550,
+          2907,
+          1722,
+          3049
+        ]
+      },
+      "187": {
+        "bbox": [
+          1549,
+          3065,
+          1725,
+          3221
+        ]
+      },
+      "188": {
+        "bbox": [
+          1570,
+          3223,
+          1683,
+          3379
+        ]
+      },
+      "189": {
+        "bbox": [
+          1562,
+          3392,
+          1725,
+          3537
+        ]
+      },
+      "190": {
+        "bbox": [
+          1399,
+          1147,
+          1575,
+          1303
+        ]
+      },
+      "191": {
+        "bbox": [
+          1399,
+          1305,
+          1575,
+          1461
+        ]
+      },
+      "192": {
+        "bbox": [
+          1413,
+          1463,
+          1575,
+          1619
+        ]
+      },
+      "193": {
+        "bbox": [
+          1405,
+          1623,
+          1575,
+          1766
+        ]
+      },
+      "194": {
+        "bbox": [
+          1404,
+          1791,
+          1568,
+          1935
+        ]
+      },
+      "195": {
+        "bbox": [
+          1401,
+          1937,
+          1575,
+          2093
+        ]
+      },
+      "196": {
+        "bbox": [
+          1408,
+          2095,
+          1575,
+          2251
+        ]
+      },
+      "197": {
+        "bbox": [
+          1403,
+          2265,
+          1570,
+          2409
+        ]
+      },
+      "198": {
+        "bbox": [
+          1417,
+          2411,
+          1575,
+          2563
+        ]
+      },
+      "199": {
+        "bbox": [
+          1405,
+          2575,
+          1560,
+          2725
+        ]
+      },
+      "200": {
+        "bbox": [
+          1399,
+          2745,
+          1575,
+          2883
+        ]
+      },
+      "201": {
+        "bbox": [
+          1399,
+          2885,
+          1575,
+          3032
+        ]
+      },
+      "202": {
+        "bbox": [
+          1399,
+          3043,
+          1575,
+          3199
+        ]
+      },
+      "203": {
+        "bbox": [
+          1461,
+          3223,
+          1548,
+          3305
+        ]
+      },
+      "204": {
+        "bbox": [
+          1460,
+          3320,
+          1555,
+          3410
+        ]
+      },
+      "205": {
+        "bbox": [
+          1460,
+          3420,
+          1553,
+          3510
+        ]
+      },
+      "206": {
+        "bbox": [
+          1460,
+          3515,
+          1570,
+          3605
+        ]
+      },
+      "207": {
+        "bbox": [
+          1460,
+          3610,
+          1545,
+          3700
+        ]
+      },
+      "208": {
+        "bbox": [
+          1460,
+          3715,
+          1565,
+          3805
+        ]
+      },
+      "209": {
+        "bbox": [
+          1245,
+          1172,
+          1421,
+          1328
+        ]
+      },
+      "210": {
+        "bbox": [
+          1245,
+          1330,
+          1421,
+          1486
+        ]
+      },
+      "211": {
+        "bbox": [
+          1254,
+          1488,
+          1421,
+          1609
+        ]
+      },
+      "212": {
+        "bbox": [
+          1248,
+          1661,
+          1419,
+          1801
+        ]
+      },
+      "213": {
+        "bbox": [
+          1245,
+          1819,
+          1420,
+          1956
+        ]
+      },
+      "214": {
+        "bbox": [
+          1262,
+          1962,
+          1421,
+          2093
+        ]
+      },
+      "215": {
+        "bbox": [
+          1245,
+          2133,
+          1421,
+          2276
+        ]
+      },
+      "216": {
+        "bbox": [
+          1245,
+          2278,
+          1421,
+          2434
+        ]
+      },
+      "217": {
+        "bbox": [
+          1245,
+          2436,
+          1374,
+          2592
+        ]
+      },
+      "218": {
+        "bbox": [
+          1245,
+          2594,
+          1421,
+          2750
+        ]
+      },
+      "219": {
+        "bbox": [
+          1245,
+          2752,
+          1421,
+          2908
+        ]
+      },
+      "220": {
+        "bbox": [
+          1245,
+          2910,
+          1421,
+          3057
+        ]
+      },
+      "221": {
+        "bbox": [
+          1245,
+          3072,
+          1421,
+          3224
+        ]
+      },
+      "222": {
+        "bbox": [
+          1265,
+          3226,
+          1421,
+          3382
+        ]
+      },
+      "223": {
+        "bbox": [
+          1251,
+          3370,
+          1425,
+          3510
+        ]
+      },
+      "224": {
+        "bbox": [
+          1268,
+          3505,
+          1430,
+          3620
+        ]
+      },
+      "225": {
+        "bbox": [
+          1310,
+          3651,
+          1453,
+          3736
+        ]
+      },
+      "226": {
+        "bbox": [
+          1312,
+          3727,
+          1455,
+          3823
+        ]
+      },
+      "227": {
+        "bbox": [
+          1311,
+          3805,
+          1455,
+          3898
+        ]
+      },
+      "228": {
+        "bbox": [
+          1317,
+          3897,
+          1415,
+          3993
+        ]
+      },
+      "229": {
+        "bbox": [
+          1310,
+          3985,
+          1417,
+          4081
+        ]
+      },
+      "230": {
+        "bbox": [
+          1320,
+          4070,
+          1399,
+          4166
+        ]
+      },
+      "231": {
+        "bbox": [
+          1315,
+          4152,
+          1416,
+          4227
+        ]
+      },
+      "232": {
+        "bbox": [
+          1087,
+          1154,
+          1263,
+          1303
+        ]
+      },
+      "233": {
+        "bbox": [
+          1087,
+          1305,
+          1263,
+          1461
+        ]
+      },
+      "234": {
+        "bbox": [
+          1087,
+          1463,
+          1263,
+          1619
+        ]
+      },
+      "235": {
+        "bbox": [
+          1087,
+          1621,
+          1263,
+          1777
+        ]
+      },
+      "236": {
+        "bbox": [
+          1087,
+          1779,
+          1263,
+          1935
+        ]
+      },
+      "237": {
+        "bbox": [
+          1087,
+          1937,
+          1256,
+          2093
+        ]
+      },
+      "238": {
+        "bbox": [
+          1100,
+          3655,
+          1260,
+          3790
+        ]
+      },
+      "239": {
+        "bbox": [
+          1114,
+          3950,
+          1257,
+          4100
+        ]
+      },
+      "240": {
+        "bbox": [
+          1100,
+          4115,
+          1260,
+          4290
+        ]
+      },
+      "241": {
+        "bbox": [
+          931,
+          1327,
+          1107,
+          1483
+        ]
+      },
+      "242": {
+        "bbox": [
+          931,
+          1485,
+          1107,
+          1641
+        ]
+      },
+      "243": {
+        "bbox": [
+          931,
+          1643,
+          1107,
+          1792
+        ]
+      },
+      "244": {
+        "bbox": [
+          932,
+          1817,
+          1107,
+          1957
+        ]
+      },
+      "245": {
+        "bbox": [
+          931,
+          1959,
+          1107,
+          2115
+        ]
+      },
+      "246": {
+        "bbox": [
+          931,
+          2117,
+          1103,
+          2273
+        ]
+      },
+      "247": {
+        "bbox": [
+          931,
+          2275,
+          1107,
+          2422
+        ]
+      },
+      "248": {
+        "bbox": [
+          944,
+          2438,
+          1102,
+          2583
+        ]
+      },
+      "249": {
+        "bbox": [
+          931,
+          2591,
+          1094,
+          2747
+        ]
+      },
+      "250": {
+        "bbox": [
+          936,
+          2749,
+          1106,
+          2905
+        ]
+      },
+      "251": {
+        "bbox": [
+          931,
+          2907,
+          1107,
+          3063
+        ]
+      },
+      "252": {
+        "bbox": [
+          931,
+          3065,
+          1107,
+          3221
+        ]
+      },
+      "253": {
+        "bbox": [
+          931,
+          3223,
+          1107,
+          3379
+        ]
+      },
+      "254": {
+        "bbox": [
+          931,
+          3381,
+          1102,
+          3530
+        ]
+      },
+      "255": {
+        "bbox": [
+          1025,
+          3534,
+          1110,
+          3638
+        ]
+      },
+      "256": {
+        "bbox": [
+          1025,
+          3625,
+          1130,
+          3735
+        ]
+      },
+      "257": {
+        "bbox": [
+          1025,
+          3725,
+          1130,
+          3835
+        ]
+      },
+      "258": {
+        "bbox": [
+          1025,
+          3825,
+          1125,
+          3935
+        ]
+      },
+      "259": {
+        "bbox": [
+          915,
+          3522,
+          1030,
+          3618
+        ]
+      },
+      "260": {
+        "bbox": [
+          915,
+          3622,
+          1030,
+          3718
+        ]
+      },
+      "261": {
+        "bbox": [
+          917,
+          3717,
+          1030,
+          3813
+        ]
+      },
+      "262": {
+        "bbox": [
+          915,
+          3812,
+          1030,
+          3908
+        ]
+      },
+      "263": {
+        "bbox": [
+          915,
+          3922,
+          1011,
+          4018
+        ]
+      },
+      "264": {
+        "bbox": [
+          915,
+          4017,
+          1003,
+          4113
+        ]
+      },
+      "265": {
+        "bbox": [
+          915,
+          4112,
+          1017,
+          4208
+        ]
+      },
+      "266": {
+        "bbox": [
+          790,
+          1197,
+          963,
+          1353
+        ]
+      },
+      "267": {
+        "bbox": [
+          787,
+          1355,
+          932,
+          1511
+        ]
+      },
+      "268": {
+        "bbox": [
+          787,
+          1513,
+          963,
+          1669
+        ]
+      },
+      "269": {
+        "bbox": [
+          787,
+          1671,
+          963,
+          1827
+        ]
+      },
+      "270": {
+        "bbox": [
+          787,
+          1829,
+          963,
+          1985
+        ]
+      },
+      "271": {
+        "bbox": [
+          787,
+          1987,
+          963,
+          2143
+        ]
+      },
+      "272": {
+        "bbox": [
+          792,
+          2145,
+          963,
+          2301
+        ]
+      },
+      "273": {
+        "bbox": [
+          798,
+          2303,
+          963,
+          2459
+        ]
+      },
+      "274": {
+        "bbox": [
+          799,
+          2461,
+          963,
+          2617
+        ]
+      },
+      "275": {
+        "bbox": [
+          797,
+          2619,
+          963,
+          2775
+        ]
+      },
+      "276": {
+        "bbox": [
+          789,
+          2777,
+          963,
+          2933
+        ]
+      }
+    }
+  }
+}

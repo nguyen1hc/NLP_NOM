@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "targets": [
     "17077",
     "18592"
@@ -8,11 +8,28 @@
   "allowed_geometry": {
     "17077": [
       "0312e4e6057bba8da9fd9341cadb4dfddd38f4e3d7a953f75e90cf8e39ae9d3f",
-      "96e9469270f198c6c65990899635b920598b482e6f8320bf883799c329c62363"
+      "96e9469270f198c6c65990899635b920598b482e6f8320bf883799c329c62363",
+      "12cae81047fb397196f19639e627fce3acd97524003936a16cdd528e820570d9"
     ],
     "18592": [
       "1353f18d352ef6b8e654f31e4546eb7d8a2031fa7cc6a0710f73f12725a6ce3f",
-      "ebb176dfdcb810aa9865a81e55a1af18539fdfe69f1fd1e51acbe524217d71db"
+      "ebb176dfdcb810aa9865a81e55a1af18539fdfe69f1fd1e51acbe524217d71db",
+      "2c27c7f1a164bfc59090c09bc8432d570263a36fd3b952183f02896d01f0f48d",
+      "6baf7a9807f29305a3565ac5cfc46f7fefaf2a4188df47606ec0c114ace29313"
     ]
-  }
+  },
+  "preserved_user_images": [
+    "17390",
+    "18591",
+    "31962",
+    "46302",
+    "46303",
+    "55431",
+    "55432"
+  ],
+  "user_backup_sha256": "80d85489df7dd85442715185c419e8300dd223ae69baec98e11873f219e6e5ee",
+  "limitations": [
+    "55431: user ZIP has only coordinates in Other; no recovered status/labels.",
+    "18592: uncertain geometry and proposed alignment still require review."
+  ]
 }

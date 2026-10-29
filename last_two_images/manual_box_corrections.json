@@ -1,0 +1,839 @@
+{
+  "17077": {
+    "225": {
+      "bbox": [
+        1328,
+        3650,
+        1440,
+        3713
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "226": {
+      "bbox": [
+        1318,
+        3716,
+        1422,
+        3798
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "227": {
+      "bbox": [
+        1315,
+        3804,
+        1430,
+        3878
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "228": {
+      "bbox": [
+        1325,
+        3883,
+        1425,
+        3958
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "229": {
+      "bbox": [
+        1314,
+        3962,
+        1432,
+        4043
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "230": {
+      "bbox": [
+        1316,
+        4044,
+        1412,
+        4116
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "231": {
+      "bbox": [
+        1315,
+        4130,
+        1430,
+        4230
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "113": {
+      "bbox": [
+        2264,
+        4125,
+        2382,
+        4213
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "114": {
+      "bbox": [
+        2264,
+        4207,
+        2382,
+        4290
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "115": {
+      "bbox": [
+        2260,
+        4280,
+        2388,
+        4362
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "116": {
+      "bbox": [
+        2160,
+        4135,
+        2268,
+        4230
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "117": {
+      "bbox": [
+        2160,
+        4220,
+        2268,
+        4300
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "118": {
+      "bbox": [
+        2160,
+        4290,
+        2268,
+        4365
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "259": {
+      "bbox": [
+        903,
+        3520,
+        1040,
+        3623
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "260": {
+      "bbox": [
+        903,
+        3620,
+        1040,
+        3734
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "261": {
+      "bbox": [
+        903,
+        3730,
+        1040,
+        3823
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "262": {
+      "bbox": [
+        903,
+        3820,
+        1040,
+        3935
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "263": {
+      "bbox": [
+        903,
+        3938,
+        1027,
+        4035
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "264": {
+      "bbox": [
+        900,
+        4037,
+        1025,
+        4123
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    },
+    "265": {
+      "bbox": [
+        900,
+        4118,
+        1033,
+        4225
+      ],
+      "review_required": false,
+      "reason": "Rà trên ảnh phóng to; điều chỉnh biên để không cắt nét chữ."
+    }
+  },
+  "18592": {
+    "180": {
+      "bbox": [
+        1205,
+        2620,
+        1350,
+        2710
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "181": {
+      "bbox": [
+        1205,
+        2715,
+        1350,
+        2808
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "182": {
+      "bbox": [
+        1205,
+        2808,
+        1350,
+        2895
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "183": {
+      "bbox": [
+        1205,
+        2898,
+        1350,
+        2977
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "184": {
+      "bbox": [
+        1205,
+        2978,
+        1350,
+        3050
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "185": {
+      "bbox": [
+        1205,
+        3053,
+        1350,
+        3145
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "186": {
+      "bbox": [
+        1205,
+        3148,
+        1350,
+        3245
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "187": {
+      "bbox": [
+        1205,
+        3250,
+        1350,
+        3338
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "188": {
+      "bbox": [
+        1205,
+        3339,
+        1350,
+        3435
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "189": {
+      "bbox": [
+        1205,
+        3438,
+        1350,
+        3543
+      ],
+      "review_required": false,
+      "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
+    },
+    "190": {
+      "bbox": [
+        1205,
+        3545,
+        1350,
+        3635
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "191": {
+      "bbox": [
+        1205,
+        3638,
+        1350,
+        3740
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "192": {
+      "bbox": [
+        1205,
+        3742,
+        1350,
+        3840
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "193": {
+      "bbox": [
+        1205,
+        3842,
+        1350,
+        3940
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "194": {
+      "bbox": [
+        1205,
+        3940,
+        1350,
+        4030
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "195": {
+      "bbox": [
+        1205,
+        4035,
+        1350,
+        4130
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "196": {
+      "bbox": [
+        1205,
+        4130,
+        1350,
+        4240
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "197": {
+      "bbox": [
+        1205,
+        4240,
+        1350,
+        4310
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "198": {
+      "bbox": [
+        1205,
+        4315,
+        1350,
+        4410
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "199": {
+      "bbox": [
+        1205,
+        4410,
+        1350,
+        4515
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "200": {
+      "bbox": [
+        1205,
+        4515,
+        1350,
+        4610
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "201": {
+      "bbox": [
+        1205,
+        4610,
+        1350,
+        4670
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "202": {
+      "bbox": [
+        1205,
+        4670,
+        1350,
+        4730
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "203": {
+      "bbox": [
+        1205,
+        4730,
+        1350,
+        4800
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
+    },
+    "204": {
+      "bbox": [
+        1090,
+        2875,
+        1225,
+        3035
+      ],
+      "review_required": false,
+      "reason": "Rà riêng cụm 壽八十二: 壽 là một chữ cao; 八 nhỏ nằm phía trên 十, không chia 壽 thành hai box."
+    },
+    "205": {
+      "bbox": [
+        1090,
+        3035,
+        1270,
+        3085
+      ],
+      "review_required": false,
+      "reason": "Rà riêng cụm 壽八十二: 壽 là một chữ cao; 八 nhỏ nằm phía trên 十, không chia 壽 thành hai box."
+    },
+    "206": {
+      "bbox": [
+        1090,
+        3070,
+        1270,
+        3150
+      ],
+      "review_required": false,
+      "reason": "Rà riêng cụm 壽八十二: 壽 là một chữ cao; 八 nhỏ nằm phía trên 十, không chia 壽 thành hai box."
+    },
+    "207": {
+      "bbox": [
+        1085,
+        3155,
+        1225,
+        3230
+      ],
+      "review_required": false,
+      "reason": "Rà riêng cụm 壽八十二: 壽 là một chữ cao; 八 nhỏ nằm phía trên 十, không chia 壽 thành hai box."
+    },
+    "208": {
+      "bbox": [
+        1060,
+        3260,
+        1240,
+        3390
+      ],
+      "review_required": false,
+      "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
+    },
+    "209": {
+      "bbox": [
+        1060,
+        3393,
+        1240,
+        3475
+      ],
+      "review_required": false,
+      "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
+    },
+    "210": {
+      "bbox": [
+        1060,
+        3477,
+        1240,
+        3580
+      ],
+      "review_required": false,
+      "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
+    },
+    "211": {
+      "bbox": [
+        1060,
+        3590,
+        1240,
+        3710
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
+    },
+    "212": {
+      "bbox": [
+        1060,
+        3712,
+        1240,
+        3765
+      ],
+      "review_required": true,
+      "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
+    },
+    "213": {
+      "bbox": [
+        1060,
+        3767,
+        1240,
+        3840
+      ],
+      "review_required": true,
+      "reason": "Nguồn ghi 月; ảnh có dạng 日. Giữ nguyên Content, tạm ghép MISS và loại một 月; cần người dùng xác nhận.",
+      "observed_character": "日",
+      "source_character": "月",
+      "annotation": "MISS"
+    },
+    "91": {
+      "bbox": [
+        1900,
+        2585,
+        2045,
+        2695
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "92": {
+      "bbox": [
+        1900,
+        2700,
+        2045,
+        2805
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "93": {
+      "bbox": [
+        1900,
+        2810,
+        2045,
+        2910
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "94": {
+      "bbox": [
+        1900,
+        2915,
+        2045,
+        3030
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "95": {
+      "bbox": [
+        1900,
+        3035,
+        2045,
+        3170
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "96": {
+      "bbox": [
+        1900,
+        3175,
+        2045,
+        3290
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "97": {
+      "bbox": [
+        1900,
+        3295,
+        2045,
+        3420
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "98": {
+      "bbox": [
+        1900,
+        3425,
+        2045,
+        3540
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "99": {
+      "bbox": [
+        1900,
+        3545,
+        2045,
+        3660
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "100": {
+      "bbox": [
+        1900,
+        3665,
+        2045,
+        3785
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "101": {
+      "bbox": [
+        1900,
+        3790,
+        2045,
+        3900
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "102": {
+      "bbox": [
+        1900,
+        3905,
+        2045,
+        4020
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "103": {
+      "bbox": [
+        1900,
+        4025,
+        2045,
+        4140
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "104": {
+      "bbox": [
+        1900,
+        4145,
+        2045,
+        4260
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "105": {
+      "bbox": [
+        1900,
+        4265,
+        2045,
+        4380
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "106": {
+      "bbox": [
+        1900,
+        4385,
+        2045,
+        4490
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "107": {
+      "bbox": [
+        1900,
+        4495,
+        2045,
+        4605
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "108": {
+      "bbox": [
+        1900,
+        4610,
+        2045,
+        4670
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "109": {
+      "bbox": [
+        1900,
+        4670,
+        2045,
+        4735
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "110": {
+      "bbox": [
+        1900,
+        4735,
+        2045,
+        4800
+      ],
+      "review_required": true,
+      "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
+    },
+    "111": {
+      "bbox": [
+        1778,
+        2490,
+        1910,
+        2770
+      ],
+      "review_required": true,
+      "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
+    },
+    "112": {
+      "bbox": [
+        1778,
+        2780,
+        1910,
+        2925
+      ],
+      "review_required": true,
+      "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
+    },
+    "113": {
+      "bbox": [
+        1778,
+        2930,
+        1910,
+        3050
+      ],
+      "review_required": true,
+      "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
+    },
+    "114": {
+      "bbox": [
+        1778,
+        3055,
+        1910,
+        3170
+      ],
+      "review_required": true,
+      "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
+    },
+    "115": {
+      "bbox": [
+        1778,
+        3175,
+        1910,
+        3275
+      ],
+      "review_required": true,
+      "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
+    },
+    "116": {
+      "bbox": [
+        1778,
+        3280,
+        1910,
+        3370
+      ],
+      "review_required": true,
+      "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
+    },
+    "117": {
+      "bbox": [
+        1778,
+        3380,
+        1910,
+        3525
+      ],
+      "review_required": true,
+      "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
+    },
+    "118": {
+      "bbox": [
+        1778,
+        3530,
+        1910,
+        3670
+      ],
+      "review_required": true,
+      "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
+    },
+    "119": {
+      "bbox": [
+        1778,
+        3670,
+        1910,
+        3800
+      ],
+      "review_required": true,
+      "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
+    }
+  }
+}

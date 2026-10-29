@@ -1,4 +1,4 @@
-"""Apply reviewed geometry to two images and rerun the app's damage model."""
+"""Merge latest seven saved images, stage two review drafts, run damage model."""
 import argparse,copy,hashlib,json,runpy,sys
 from pathlib import Path
 
@@ -18,9 +18,6 @@ def apply(repo,images,output,predict=None):
     support=ROOT/'annotations/_support'
     helper=runpy.run_path(str(support/'three_images_helper.py'))
     manifest=json.loads((ROOT/'last_two_manifest.json').read_text())
-    required=('17390','18591','31962','55432','46302','55431','46303')
-    missing=[c for c in required if not (output/(c+'.json')).is_file() and not (output/'source_mismatches'/(c+'.json')).is_file()]
-    if missing:raise ValueError('Chạy cell nạp 7 bài trước; còn thiếu: '+', '.join(missing))
     old={};fulls={};payload={}
     def remember(p):old[p]=p.read_bytes() if p.is_file() else None
     for code in TARGETS:
@@ -58,13 +55,15 @@ def apply(repo,images,output,predict=None):
                 box.update(unavailable_font=False,expert_prediction=False,suspicious=False)
             if full['annotations'][key]=='MISS':
                 box.update(unknown=False,unavailable_font=False,expert_prediction=False,suspicious=False)
-        if code=='17077':
+        full['model_status']='completed_on_kaggle'
+        if full.get('issue_type')==['other']:
             native={k:full[k] for k in ('image','inscription_code','issue_type','note')}
             native['bounding_boxes']={k:{'bbox':b['bbox']} for k,b in full['bounding_boxes'].items()}
         else:
             native={k:full[k] for k in ('image','bounding_boxes','annotations','crop','image_resize')}
-        with Image.open(images/full['image']) as im:(validate_source_mismatch_document if code=='17077' else validate_document)(native,full['image'],list(im.size))
-        payload[('source_mismatches/' if code=='17077' else '')+code+'.json']=helper['encoded'](native)
+        mismatch=full.get('issue_type')==['other']
+        with Image.open(images/full['image']) as im:(validate_source_mismatch_document if mismatch else validate_document)(native,full['image'],list(im.size))
+        payload[('source_mismatches/' if mismatch else '')+code+'.json']=helper['encoded'](native)
         payload['model_reviews/'+code+'.json']=helper['encoded'](full)
     if any((p.read_bytes() if p.is_file() else None)!=data for p,data in old.items()):
         raise ValueError('Bài đã đổi trong lúc model chạy; không ghi đè.')
@@ -73,12 +72,14 @@ def apply(repo,images,output,predict=None):
     for name in ('content_base.py','launch_with_original_source.py','three_images_helper.py'):
         payload['_support/'+name]=(support/name).read_bytes()
     payload['.state/last_two.json']=helper['encoded']({'images':list(TARGETS),'model_rerun':True})
-    stale=[output/'.state/source_mismatches'/(c+'.json') for c in TARGETS]+[output/'17077.json',output/'source_mismatches/18592.json']+[output/'.state'/(c+'.json') for c in TARGETS]
+    stale=[output/'.state/source_mismatches'/(c+'.json') for c in TARGETS]+[output/(c+'.json') for c in TARGETS]+[output/'.state'/(c+'.json') for c in TARGETS]
     with helper['transaction']([output/name for name in payload]+stale):
         for name,data in payload.items():helper['atomic'](output/name,data)
         for p in stale:p.unlink(missing_ok=True)
     helper['backup_my_work'](output)
-    print('Đã nạp box mới và chạy lại model cho 17077, 18592. Kiểm tra các ô vàng trong bản xem và chọn mức hỏng trên web.')
+    print('Đã giữ/nạp 7 bài từ backup mới nhất và thêm 17077, 18592. Model chỉ đánh giá hỏng, không vẽ lại box. 18592 còn là bản nháp cần rà.')
+    if not (output/'model_reviews/55431.json').is_file():
+        print('Lưu ý: ZIP gốc của 55431 ở dạng Other chỉ có tọa độ; không chứa nhãn/trạng thái để khôi phục.')
     return output
 
 if __name__=='__main__':
