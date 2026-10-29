@@ -1,0 +1,7193 @@
+{
+  "image": "46302.png",
+  "inscription_code": "46302",
+  "source_text": "后族碑記\n寧江府四岐縣河路總河海社阮族耆老、里役、仝族上下諸人等為立\n碑記事。\n聞：積善餘慶\n，古有言也。人同此心，心同此理，孰不欲為善之\n心乎？緣於壬寅年六月日，本族修造奉事〇先祖祭器各物，功用太廣，財\n力未敷。時1有族內人阮公字有晉，婿子何惟善，女子阮氏近念及親母\n生時\n只有生得一女，慮其後日遠代何依？仍此揭出青銭六十貫，交與本族公支。\n再供良田一畝一高，交與本族均分\n族內人丁耕作，以為後日之計。其本族\n共順保伊氏親母\n陶氏號妙祿為后祖一位，搜集謚號名字，著\n之石碑，以貽\n後裔。俾後春常秋祀，目視碑文，察究本原功德，為百世不遷矣。茲本\n族會在先祖祠堂，議立碑記。其后祖忌日，本族具辨禮物各項，並田數\n畝高，東西處所，并例田銭與款待來，俵伊后長男各例具陳于次。因碑\n以自銘。銘曰：\n先后純\n粹天資，濟人之急不吝。\n家貲投桃報李，義本心推。\n計：\n一例后祖忌日，本族具辨猪一頭、𥸷 一盤、酒一盂、具饌一具、\n金銀一千、芙榔十菓，設位在先祖祠堂之側，本族供忌。禮畢之後，款\n待來，俵伊后長男隨儀，以重事体。\n一例忌田本族議定每畝同年一等每畝十一方，二等十方，三等九\n方。□□□后祖忌日，本族會在祠堂，摘取例田栗子買禮供忌。",
+  "source_character_count": 422,
+  "bounding_box_count": 420,
+  "issue_type": [
+    "extra_text"
+  ],
+  "note": "Dư O Miss 3",
+  "bounding_boxes": {
+    "1": {
+      "bbox": [
+        493.79132080078125,
+        211.76773071289062,
+        549.9526977539062,
+        257.51182556152344
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 1,
+      "damage_level": null
+    },
+    "2": {
+      "bbox": [
+        379.5827331542969,
+        195.6536407470703,
+        432,
+        259
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 2,
+      "damage_level": null
+    },
+    "3": {
+      "bbox": [
+        269.1181945800781,
+        195.3977508544922,
+        328,
+        258.7440948486328
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 3,
+      "damage_level": null
+    },
+    "4": {
+      "bbox": [
+        163.55908203125,
+        197.88592529296875,
+        218,
+        259
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 4,
+      "damage_level": null
+    },
+    "5": {
+      "bbox": [
+        562.3495178222656,
+        293.15020751953125,
+        592.3495178222656,
+        321.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 5,
+      "damage_level": null
+    },
+    "6": {
+      "bbox": [
+        562.3495178222656,
+        317.15020751953125,
+        592.3495178222656,
+        345.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 6,
+      "damage_level": null
+    },
+    "7": {
+      "bbox": [
+        562.3495178222656,
+        341.15020751953125,
+        592.3495178222656,
+        365.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 7,
+      "damage_level": null
+    },
+    "8": {
+      "bbox": [
+        562.3495178222656,
+        361.15020751953125,
+        592.3495178222656,
+        385.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 8,
+      "damage_level": null
+    },
+    "9": {
+      "bbox": [
+        562.3495178222656,
+        381.15020751953125,
+        592.3495178222656,
+        409.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 9,
+      "damage_level": null
+    },
+    "10": {
+      "bbox": [
+        562.3495178222656,
+        405.15020751953125,
+        592.3495178222656,
+        435.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 10,
+      "damage_level": null
+    },
+    "11": {
+      "bbox": [
+        562.3495178222656,
+        431.15020751953125,
+        592.3495178222656,
+        461.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 11,
+      "damage_level": null
+    },
+    "12": {
+      "bbox": [
+        562.3495178222656,
+        457.15020751953125,
+        592.3495178222656,
+        490.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 12,
+      "damage_level": null
+    },
+    "13": {
+      "bbox": [
+        562.3495178222656,
+        486.15020751953125,
+        592.3495178222656,
+        513.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 13,
+      "damage_level": null
+    },
+    "14": {
+      "bbox": [
+        562.3495178222656,
+        509.15020751953125,
+        592.3495178222656,
+        535.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 14,
+      "damage_level": null
+    },
+    "15": {
+      "bbox": [
+        562.3495178222656,
+        531.1502075195312,
+        592.3495178222656,
+        563.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 15,
+      "damage_level": null
+    },
+    "16": {
+      "bbox": [
+        562.3495178222656,
+        559.1502075195312,
+        592.3495178222656,
+        584.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 16,
+      "damage_level": null
+    },
+    "17": {
+      "bbox": [
+        562.3495178222656,
+        580.1502075195312,
+        592.3495178222656,
+        603.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 17,
+      "damage_level": null
+    },
+    "18": {
+      "bbox": [
+        562.3495178222656,
+        599.1502075195312,
+        592.3495178222656,
+        626.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 18,
+      "damage_level": null
+    },
+    "19": {
+      "bbox": [
+        562.3495178222656,
+        622.1502075195312,
+        592.3495178222656,
+        651.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 19,
+      "damage_level": null
+    },
+    "20": {
+      "bbox": [
+        562.3495178222656,
+        647.1502075195312,
+        592.3495178222656,
+        677.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 20,
+      "damage_level": null
+    },
+    "21": {
+      "bbox": [
+        562.3495178222656,
+        673.1502075195312,
+        592.3495178222656,
+        702.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 21,
+      "damage_level": null
+    },
+    "22": {
+      "bbox": [
+        562.3495178222656,
+        698.1502075195312,
+        592.3495178222656,
+        728.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 22,
+      "damage_level": null
+    },
+    "23": {
+      "bbox": [
+        562.3495178222656,
+        724.1502075195312,
+        592.3495178222656,
+        749.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 23,
+      "damage_level": null
+    },
+    "24": {
+      "bbox": [
+        562.3495178222656,
+        745.1502075195312,
+        592.3495178222656,
+        769.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 24,
+      "damage_level": null
+    },
+    "25": {
+      "bbox": [
+        562.3495178222656,
+        765.1502075195312,
+        592.3495178222656,
+        794.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 25,
+      "damage_level": null
+    },
+    "26": {
+      "bbox": [
+        562.3495178222656,
+        790.1502075195312,
+        592.3495178222656,
+        819.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 26,
+      "damage_level": null
+    },
+    "27": {
+      "bbox": [
+        562.3495178222656,
+        815.1502075195312,
+        592.3495178222656,
+        843.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 27,
+      "damage_level": null
+    },
+    "28": {
+      "bbox": [
+        562.3495178222656,
+        839.1502075195312,
+        592.3495178222656,
+        864.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 28,
+      "damage_level": null
+    },
+    "29": {
+      "bbox": [
+        562.3495178222656,
+        860.1502075195312,
+        592.3495178222656,
+        891.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 29,
+      "damage_level": null
+    },
+    "30": {
+      "bbox": [
+        529.3495178222656,
+        298.15020751953125,
+        559.3495178222656,
+        322.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 30,
+      "damage_level": null
+    },
+    "31": {
+      "bbox": [
+        529.3495178222656,
+        318.15020751953125,
+        559.3495178222656,
+        343.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 31,
+      "damage_level": null
+    },
+    "32": {
+      "bbox": [
+        529.3495178222656,
+        339.15020751953125,
+        559.3495178222656,
+        363.15020751953125
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 32,
+      "damage_level": 2
+    },
+    "33": {
+      "bbox": [
+        529.3495178222656,
+        359.15020751953125,
+        559.3495178222656,
+        384.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 33,
+      "damage_level": null
+    },
+    "34": {
+      "bbox": [
+        529.3495178222656,
+        380.15020751953125,
+        559.3495178222656,
+        413.37054443359375
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 34,
+      "damage_level": 2
+    },
+    "35": {
+      "bbox": [
+        499.2729187011719,
+        296.6148681640625,
+        529.2729187011719,
+        320.6148681640625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 35,
+      "damage_level": null
+    },
+    "36": {
+      "bbox": [
+        498.7348327636719,
+        316.4620666503906,
+        528.7348327636719,
+        341.4620666503906
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 36,
+      "damage_level": null
+    },
+    "37": {
+      "bbox": [
+        498.3495178222656,
+        335.15020751953125,
+        528.3495178222656,
+        363.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 37,
+      "damage_level": null
+    },
+    "38": {
+      "bbox": [
+        498.3495178222656,
+        358.88116455078125,
+        528.6185607910156,
+        386.68829345703125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 38,
+      "damage_level": null
+    },
+    "39": {
+      "bbox": [
+        498.3495178222656,
+        382.15020751953125,
+        528.3495178222656,
+        408.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 39,
+      "damage_level": null
+    },
+    "40": {
+      "bbox": [
+        498.3495178222656,
+        404.15020751953125,
+        528.3495178222656,
+        432.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 40,
+      "damage_level": null
+    },
+    "41": {
+      "bbox": [
+        498.3495178222656,
+        428.15020751953125,
+        528.3495178222656,
+        455.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 41,
+      "damage_level": null
+    },
+    "42": {
+      "bbox": [
+        498.57537841796875,
+        450.9243469238281,
+        528.5753784179688,
+        481.9243469238281
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 42,
+      "damage_level": null
+    },
+    "43": {
+      "bbox": [
+        498.3495178222656,
+        478.15020751953125,
+        528.3495178222656,
+        509.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 43,
+      "damage_level": null
+    },
+    "44": {
+      "bbox": [
+        498.3495178222656,
+        505.15020751953125,
+        528.3495178222656,
+        534.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 44,
+      "damage_level": null
+    },
+    "45": {
+      "bbox": [
+        498.3495178222656,
+        530.1502075195312,
+        528.3495178222656,
+        560.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 45,
+      "damage_level": null
+    },
+    "46": {
+      "bbox": [
+        498.3495178222656,
+        556.1502075195312,
+        528.3495178222656,
+        583.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 46,
+      "damage_level": null
+    },
+    "47": {
+      "bbox": [
+        498.3495178222656,
+        579.1502075195312,
+        528.3495178222656,
+        612.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 47,
+      "damage_level": null
+    },
+    "48": {
+      "bbox": [
+        498.3495178222656,
+        608.1502075195312,
+        528.3495178222656,
+        638.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 48,
+      "damage_level": null
+    },
+    "49": {
+      "bbox": [
+        498.3495178222656,
+        634.1502075195312,
+        528.3495178222656,
+        659.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 49,
+      "damage_level": null
+    },
+    "50": {
+      "bbox": [
+        498.3495178222656,
+        655.1502075195312,
+        528.3495178222656,
+        682.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 50,
+      "damage_level": null
+    },
+    "51": {
+      "bbox": [
+        498.3495178222656,
+        678.1502075195312,
+        528.3495178222656,
+        704.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 51,
+      "damage_level": null
+    },
+    "52": {
+      "bbox": [
+        498.3495178222656,
+        700.1502075195312,
+        528.3495178222656,
+        726.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 52,
+      "damage_level": null
+    },
+    "53": {
+      "bbox": [
+        498.3495178222656,
+        722.1502075195312,
+        528.3495178222656,
+        748.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 53,
+      "damage_level": null
+    },
+    "54": {
+      "bbox": [
+        498.3495178222656,
+        744.1502075195312,
+        528.3495178222656,
+        771.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 54,
+      "damage_level": null
+    },
+    "55": {
+      "bbox": [
+        498.3495178222656,
+        767.1502075195312,
+        528.3495178222656,
+        793.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 55,
+      "damage_level": null
+    },
+    "56": {
+      "bbox": [
+        498.3495178222656,
+        789.1502075195312,
+        528.3495178222656,
+        821.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 56,
+      "damage_level": null
+    },
+    "57": {
+      "bbox": [
+        498.3495178222656,
+        817.1502075195312,
+        528.3495178222656,
+        846.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 57,
+      "damage_level": null
+    },
+    "58": {
+      "bbox": [
+        498.3495178222656,
+        842.1502075195312,
+        528.3495178222656,
+        869.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 58,
+      "damage_level": null
+    },
+    "59": {
+      "bbox": [
+        498.3495178222656,
+        865.1502075195312,
+        528.3495178222656,
+        891.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 59,
+      "damage_level": null
+    },
+    "60": {
+      "bbox": [
+        501.63433837890625,
+        885.4835815429688,
+        526.655517578125,
+        901.0881958007812
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 60
+    },
+    "61": {
+      "bbox": [
+        468.0804748535156,
+        294.15020751953125,
+        498.0804748535156,
+        319.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 61,
+      "damage_level": null
+    },
+    "62": {
+      "bbox": [
+        468.3495178222656,
+        315.15020751953125,
+        498.3495178222656,
+        341.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 62,
+      "damage_level": null
+    },
+    "63": {
+      "bbox": [
+        468.3495178222656,
+        337.15020751953125,
+        498.3495178222656,
+        362.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 63,
+      "damage_level": null
+    },
+    "64": {
+      "bbox": [
+        468.3495178222656,
+        358.15020751953125,
+        498.3495178222656,
+        385.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 64,
+      "damage_level": null
+    },
+    "65": {
+      "bbox": [
+        468.3495178222656,
+        381.15020751953125,
+        498.3495178222656,
+        409.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 65,
+      "damage_level": null
+    },
+    "66": {
+      "bbox": [
+        468.3495178222656,
+        405.15020751953125,
+        498.3495178222656,
+        435.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 66,
+      "damage_level": null
+    },
+    "67": {
+      "bbox": [
+        468.3495178222656,
+        431.15020751953125,
+        498.3495178222656,
+        462.15020751953125
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 67,
+      "damage_level": 2
+    },
+    "68": {
+      "bbox": [
+        468.3495178222656,
+        458.15020751953125,
+        498.3495178222656,
+        483.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 68,
+      "damage_level": null
+    },
+    "69": {
+      "bbox": [
+        468.3495178222656,
+        479.15020751953125,
+        498.3495178222656,
+        505.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 69,
+      "damage_level": null
+    },
+    "70": {
+      "bbox": [
+        469.6947326660156,
+        503.8406982421875,
+        499.6947326660156,
+        532.8406982421875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 70,
+      "damage_level": null
+    },
+    "71": {
+      "bbox": [
+        468.0804748535156,
+        532.6072998046875,
+        497.8114318847656,
+        553.8406982421875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 71,
+      "damage_level": null
+    },
+    "72": {
+      "bbox": [
+        468.8876037597656,
+        557.9120483398438,
+        498.3494873046875,
+        579.3430786132812
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 72,
+      "damage_level": null
+    },
+    "73": {
+      "bbox": [
+        471.84710693359375,
+        583.4144287109375,
+        497.8114318847656,
+        606.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 73,
+      "damage_level": null
+    },
+    "74": {
+      "bbox": [
+        468.3495178222656,
+        602.1502075195312,
+        498.3495178222656,
+        634.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 74,
+      "damage_level": null
+    },
+    "75": {
+      "bbox": [
+        469.96380615234375,
+        651.1502075195312,
+        499.96380615234375,
+        682.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 75,
+      "damage_level": null
+    },
+    "76": {
+      "bbox": [
+        469.6947326660156,
+        677.8811645507812,
+        499.6947326660156,
+        701.8811645507812
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 76,
+      "damage_level": null
+    },
+    "77": {
+      "bbox": [
+        469.6947326660156,
+        698.4192504882812,
+        499.6947326660156,
+        726.4192504882812
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 77,
+      "damage_level": null
+    },
+    "78": {
+      "bbox": [
+        469.481689453125,
+        724.5661010742188,
+        499.481689453125,
+        748.5661010742188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 78,
+      "damage_level": null
+    },
+    "79": {
+      "bbox": [
+        468.8876037597656,
+        748.170166015625,
+        498.8876037597656,
+        775.170166015625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 79,
+      "damage_level": null
+    },
+    "80": {
+      "bbox": [
+        469.2071838378906,
+        769.39892578125,
+        499.2071838378906,
+        796.39892578125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 80,
+      "damage_level": null
+    },
+    "81": {
+      "bbox": [
+        468.3495178222656,
+        793.363037109375,
+        498.3495178222656,
+        822.363037109375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 81,
+      "damage_level": null
+    },
+    "82": {
+      "bbox": [
+        468.8876037597656,
+        819.614013671875,
+        498.8876037597656,
+        847.614013671875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 82,
+      "damage_level": null
+    },
+    "83": {
+      "bbox": [
+        468.6185607910156,
+        840.3787841796875,
+        498.6185607910156,
+        867.3787841796875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 83,
+      "damage_level": null
+    },
+    "84": {
+      "bbox": [
+        468.8876037597656,
+        864.1858520507812,
+        500.5018615722656,
+        892.1096801757812
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 84,
+      "damage_level": 2
+    },
+    "85": {
+      "bbox": [
+        438.97393798828125,
+        293.7746276855469,
+        468.97393798828125,
+        317.7746276855469
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 85,
+      "damage_level": null
+    },
+    "86": {
+      "bbox": [
+        439.3495178222656,
+        314.15020751953125,
+        469.3495178222656,
+        339.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 86,
+      "damage_level": null
+    },
+    "87": {
+      "bbox": [
+        440.10064697265625,
+        337.7791748046875,
+        470.10064697265625,
+        362.7791748046875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 87,
+      "damage_level": null
+    },
+    "88": {
+      "bbox": [
+        438.22283935546875,
+        364.41265869140625,
+        470.4762268066406,
+        385.28143310546875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 88,
+      "damage_level": null
+    },
+    "89": {
+      "bbox": [
+        440.8517761230469,
+        383.53485107421875,
+        467.09613037109375,
+        407.9058837890625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 89,
+      "damage_level": null
+    },
+    "90": {
+      "bbox": [
+        439.3495178222656,
+        400.15020751953125,
+        469.3495178222656,
+        430.15020751953125
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 90,
+      "damage_level": 2
+    },
+    "91": {
+      "bbox": [
+        439.72509765625,
+        429.5303039550781,
+        469.72509765625,
+        457.5303039550781
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 91,
+      "damage_level": null
+    },
+    "92": {
+      "bbox": [
+        438.97393798828125,
+        459.5393371582031,
+        470.10064697265625,
+        480.521240234375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 92,
+      "damage_level": null
+    },
+    "93": {
+      "bbox": [
+        439.3495178222656,
+        479.15020751953125,
+        469.3495178222656,
+        509.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 93,
+      "damage_level": null
+    },
+    "94": {
+      "bbox": [
+        439.3495178222656,
+        505.15020751953125,
+        469.3495178222656,
+        530.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 94,
+      "damage_level": null
+    },
+    "95": {
+      "bbox": [
+        440.10064697265625,
+        528.4036254882812,
+        470.10064697265625,
+        555.4036254882812
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 95,
+      "damage_level": null
+    },
+    "96": {
+      "bbox": [
+        439.3495178222656,
+        557.41259765625,
+        469.3495178222656,
+        582.403564453125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 96,
+      "damage_level": null
+    },
+    "97": {
+      "bbox": [
+        439.7250671386719,
+        584.037109375,
+        469.7250671386719,
+        607.7791748046875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 97,
+      "damage_level": null
+    },
+    "98": {
+      "bbox": [
+        439.3495178222656,
+        601.1502075195312,
+        469.3495178222656,
+        632.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 98,
+      "damage_level": null
+    },
+    "99": {
+      "bbox": [
+        439.3495178222656,
+        628.1502075195312,
+        469.3495178222656,
+        655.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 99,
+      "damage_level": null
+    },
+    "100": {
+      "bbox": [
+        439.3495178222656,
+        651.1502075195312,
+        469.3495178222656,
+        678.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 100,
+      "damage_level": null
+    },
+    "101": {
+      "bbox": [
+        439.3495178222656,
+        674.1502075195312,
+        469.3495178222656,
+        701.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 101,
+      "damage_level": null
+    },
+    "102": {
+      "bbox": [
+        441.22735595703125,
+        704.8832397460938,
+        470.4762268066406,
+        725.6388549804688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 102,
+      "damage_level": null
+    },
+    "103": {
+      "bbox": [
+        439.3495178222656,
+        729.1502075195312,
+        469.3495178222656,
+        754.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 103,
+      "damage_level": null
+    },
+    "104": {
+      "bbox": [
+        439.3495178222656,
+        750.1502075195312,
+        469.3495178222656,
+        776.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 104,
+      "damage_level": null
+    },
+    "105": {
+      "bbox": [
+        439.3495178222656,
+        772.1502075195312,
+        469.3495178222656,
+        798.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 105,
+      "damage_level": null
+    },
+    "106": {
+      "bbox": [
+        439.3495178222656,
+        796.028076171875,
+        469.3495178222656,
+        822.028076171875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 106,
+      "damage_level": null
+    },
+    "107": {
+      "bbox": [
+        439.3495178222656,
+        824.4126586914062,
+        469.72509765625,
+        847.910400390625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 107,
+      "damage_level": null
+    },
+    "108": {
+      "bbox": [
+        440.851806640625,
+        847.666015625,
+        467.09613037109375,
+        868.5302734375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 108,
+      "damage_level": null
+    },
+    "109": {
+      "bbox": [
+        439.3495178222656,
+        861.1502075195312,
+        469.3495178222656,
+        892.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 109,
+      "damage_level": null
+    },
+    "110": {
+      "bbox": [
+        444.5968017578125,
+        885.7526245117188,
+        468.54180908203125,
+        903.2406005859375
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 110
+    },
+    "111": {
+      "bbox": [
+        410.7250671386719,
+        293.3990783691406,
+        440.72509765625,
+        320.6615295410156
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 111,
+      "damage_level": null
+    },
+    "112": {
+      "bbox": [
+        417.2081298828125,
+        323.2563781738281,
+        437.8642578125,
+        343.1613464355469
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 112
+    },
+    "113": {
+      "bbox": [
+        410.3495178222656,
+        344.046142578125,
+        440.3495178222656,
+        360.5257873535156
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 113,
+      "damage_level": null
+    },
+    "114": {
+      "bbox": [
+        410.3495178222656,
+        356.15020751953125,
+        440.3495178222656,
+        386.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 114,
+      "damage_level": null
+    },
+    "115": {
+      "bbox": [
+        414.10516357421875,
+        384.02801513671875,
+        439.97393798828125,
+        410.02349853515625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 115,
+      "damage_level": null
+    },
+    "116": {
+      "bbox": [
+        412.22735595703125,
+        408.27691650390625,
+        442.22735595703125,
+        435.27691650390625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 116,
+      "damage_level": null
+    },
+    "117": {
+      "bbox": [
+        417.4852600097656,
+        431.27691650390625,
+        439.2228088378906,
+        455.7701416015625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 117,
+      "damage_level": null
+    },
+    "118": {
+      "bbox": [
+        411.1006774902344,
+        454.7746276855469,
+        441.1006774902344,
+        482.7746276855469
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 118,
+      "damage_level": null
+    },
+    "119": {
+      "bbox": [
+        414.105224609375,
+        482.5302734375,
+        441.851806640625,
+        505.5212097167969
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 119,
+      "damage_level": null
+    },
+    "120": {
+      "bbox": [
+        412.97845458984375,
+        509.0325012207031,
+        439.2228088378906,
+        531.1546630859375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 120,
+      "damage_level": null
+    },
+    "121": {
+      "bbox": [
+        410.3495178222656,
+        524.1502075195312,
+        440.3495178222656,
+        552.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 121,
+      "damage_level": null
+    },
+    "122": {
+      "bbox": [
+        416.734130859375,
+        559.792724609375,
+        440.3495178222656,
+        581.5302734375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 122,
+      "damage_level": null
+    },
+    "123": {
+      "bbox": [
+        415.60748291015625,
+        583.9148559570312,
+        441.1006774902344,
+        603.1547241210938
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 123,
+      "damage_level": null
+    },
+    "124": {
+      "bbox": [
+        410.3495178222656,
+        609.1502075195312,
+        440.3495178222656,
+        631.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 124,
+      "damage_level": null
+    },
+    "125": {
+      "bbox": [
+        410.3495178222656,
+        627.1502075195312,
+        440.3495178222656,
+        656.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 125,
+      "damage_level": null
+    },
+    "126": {
+      "bbox": [
+        410.3495178222656,
+        652.1502075195312,
+        440.3495178222656,
+        680.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 126,
+      "damage_level": null
+    },
+    "127": {
+      "bbox": [
+        410.3495178222656,
+        676.1502075195312,
+        440.3495178222656,
+        704.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 127,
+      "damage_level": null
+    },
+    "128": {
+      "bbox": [
+        410.3495178222656,
+        700.1502075195312,
+        440.3495178222656,
+        728.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 128,
+      "damage_level": null
+    },
+    "129": {
+      "bbox": [
+        410.3495178222656,
+        724.1502075195312,
+        440.3495178222656,
+        753.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 129,
+      "damage_level": null
+    },
+    "130": {
+      "bbox": [
+        410.3495178222656,
+        749.1502075195312,
+        440.3495178222656,
+        778.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 130,
+      "damage_level": null
+    },
+    "131": {
+      "bbox": [
+        417.1097106933594,
+        774.5257568359375,
+        440.3495178222656,
+        799.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 131,
+      "damage_level": null
+    },
+    "132": {
+      "bbox": [
+        415.607421875,
+        799.6570434570312,
+        440.3495178222656,
+        822.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 132,
+      "damage_level": null
+    },
+    "133": {
+      "bbox": [
+        416.734130859375,
+        822.656982421875,
+        440.3495178222656,
+        848.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 133,
+      "damage_level": null
+    },
+    "134": {
+      "bbox": [
+        418.9875183105469,
+        849.7835693359375,
+        437.7205810546875,
+        870.0189208984375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 134,
+      "damage_level": null
+    },
+    "135": {
+      "bbox": [
+        410.0299987792969,
+        865.8510131835938,
+        443.4101257324219,
+        892.698486328125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 135,
+      "damage_level": null
+    },
+    "136": {
+      "bbox": [
+        415.8089904785156,
+        884.9454956054688,
+        438.1397399902344,
+        901.3572387695312
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 136
+    },
+    "137": {
+      "bbox": [
+        385.7295837402344,
+        296.7791748046875,
+        410.4716796875,
+        321.9058532714844
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 137,
+      "damage_level": null
+    },
+    "138": {
+      "bbox": [
+        387.607421875,
+        315.6524963378906,
+        411.598388671875,
+        338.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 138,
+      "damage_level": null
+    },
+    "139": {
+      "bbox": [
+        389.10968017578125,
+        340.15924072265625,
+        410.0960998535156,
+        363.15472412109375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 139,
+      "damage_level": null
+    },
+    "140": {
+      "bbox": [
+        387.9830017089844,
+        362.5348205566406,
+        411.97393798828125,
+        384.15472412109375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 140,
+      "damage_level": null
+    },
+    "141": {
+      "bbox": [
+        389.86083984375,
+        387.666015625,
+        410.09613037109375,
+        408.910400390625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 141,
+      "damage_level": null
+    },
+    "142": {
+      "bbox": [
+        388.3585510253906,
+        410.1683044433594,
+        413.8517761230469,
+        432.78369140625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 142,
+      "damage_level": null
+    },
+    "143": {
+      "bbox": [
+        387.98297119140625,
+        431.0370788574219,
+        412.72503662109375,
+        456.0325622558594
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 143,
+      "damage_level": null
+    },
+    "144": {
+      "bbox": [
+        383.10064697265625,
+        452.40814208984375,
+        413.10064697265625,
+        478.40814208984375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 144,
+      "damage_level": null
+    },
+    "145": {
+      "bbox": [
+        388.35858154296875,
+        479.29046630859375,
+        414.6029052734375,
+        504.15924072265625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 145,
+      "damage_level": null
+    },
+    "146": {
+      "bbox": [
+        384.2273864746094,
+        505.4171142578125,
+        414.9785461425781,
+        529.1682739257812
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 146,
+      "damage_level": null
+    },
+    "147": {
+      "bbox": [
+        382.3495178222656,
+        533.1502075195312,
+        412.3495178222656,
+        558.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 147,
+      "damage_level": null
+    },
+    "148": {
+      "bbox": [
+        384.9784851074219,
+        560.5347900390625,
+        411.598388671875,
+        583.0234985351562
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 148,
+      "damage_level": null
+    },
+    "149": {
+      "bbox": [
+        382.72509765625,
+        581.2769165039062,
+        412.72509765625,
+        607.2769165039062
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 149,
+      "damage_level": null
+    },
+    "150": {
+      "bbox": [
+        382.3495178222656,
+        602.1502075195312,
+        412.3495178222656,
+        628.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 150,
+      "damage_level": null
+    },
+    "151": {
+      "bbox": [
+        382.3495178222656,
+        624.1502075195312,
+        412.3495178222656,
+        653.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 151,
+      "damage_level": null
+    },
+    "152": {
+      "bbox": [
+        382.3495178222656,
+        649.1502075195312,
+        412.3495178222656,
+        680.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 152,
+      "damage_level": null
+    },
+    "153": {
+      "bbox": [
+        382.3495178222656,
+        679.1547241210938,
+        412.3495178222656,
+        706.1547241210938
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 153,
+      "damage_level": null
+    },
+    "154": {
+      "bbox": [
+        382.3495178222656,
+        704.4080810546875,
+        411.598388671875,
+        725.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 154,
+      "damage_level": null
+    },
+    "155": {
+      "bbox": [
+        382.3495178222656,
+        727.1593017578125,
+        411.2228088378906,
+        749.774658203125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 155,
+      "damage_level": null
+    },
+    "156": {
+      "bbox": [
+        386.480712890625,
+        751.0325317382812,
+        410.0960998535156,
+        773.1547241210938
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 156,
+      "damage_level": null
+    },
+    "157": {
+      "bbox": [
+        385.3540344238281,
+        772.910400390625,
+        412.7250671386719,
+        800.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 157,
+      "damage_level": null
+    },
+    "158": {
+      "bbox": [
+        382.3495178222656,
+        796.1502075195312,
+        412.3495178222656,
+        823.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 158,
+      "damage_level": null
+    },
+    "159": {
+      "bbox": [
+        382.3495178222656,
+        819.1502075195312,
+        412.3495178222656,
+        846.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 159,
+      "damage_level": null
+    },
+    "160": {
+      "bbox": [
+        382.3495178222656,
+        848.0846557617188,
+        413.5550537109375,
+        867.5092163085938
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 160,
+      "damage_level": null
+    },
+    "161": {
+      "bbox": [
+        385.66064453125,
+        864.8219604492188,
+        409.69683837890625,
+        885.1024780273438
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 161
+    },
+    "162": {
+      "bbox": [
+        383.23968505859375,
+        881.6566772460938,
+        412.05279541015625,
+        904.1287841796875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 162,
+      "damage_level": null
+    },
+    "163": {
+      "bbox": [
+        354.10064697265625,
+        296.7791442871094,
+        384.10064697265625,
+        319.7791442871094
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 163,
+      "damage_level": null
+    },
+    "164": {
+      "bbox": [
+        355.6029052734375,
+        322.539306640625,
+        384.4761962890625,
+        340.7791442871094
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 164,
+      "damage_level": null
+    },
+    "165": {
+      "bbox": [
+        355.9784851074219,
+        336.4035949707031,
+        385.9784851074219,
+        364.4035949707031
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 165,
+      "damage_level": null
+    },
+    "166": {
+      "bbox": [
+        355.9784851074219,
+        361.15472412109375,
+        385.9784851074219,
+        384.5302734375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 166,
+      "damage_level": null
+    },
+    "167": {
+      "bbox": [
+        360.1097106933594,
+        386.5393371582031,
+        384.4762268066406,
+        404.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 167,
+      "damage_level": null
+    },
+    "168": {
+      "bbox": [
+        355.6029052734375,
+        402.7791748046875,
+        385.6029052734375,
+        428.7791748046875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 168,
+      "damage_level": null
+    },
+    "169": {
+      "bbox": [
+        355.6029052734375,
+        431.9149169921875,
+        384.10064697265625,
+        455.28143310546875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 169,
+      "damage_level": null
+    },
+    "170": {
+      "bbox": [
+        356.7296142578125,
+        458.4171447753906,
+        383.72509765625,
+        482.9058532714844
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 170,
+      "damage_level": null
+    },
+    "171": {
+      "bbox": [
+        355.6029052734375,
+        476.27691650390625,
+        385.6029052734375,
+        504.27691650390625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 171,
+      "damage_level": null
+    },
+    "172": {
+      "bbox": [
+        353.3495178222656,
+        499.15020751953125,
+        383.3495178222656,
+        530.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 172,
+      "damage_level": null
+    },
+    "173": {
+      "bbox": [
+        356.7427978515625,
+        534.2789306640625,
+        385.81732177734375,
+        562.05517578125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 173,
+      "damage_level": null
+    },
+    "174": {
+      "bbox": [
+        353.3495178222656,
+        565.1502075195312,
+        383.3495178222656,
+        584.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 174,
+      "damage_level": null
+    },
+    "175": {
+      "bbox": [
+        353.3495178222656,
+        580.9013671875,
+        383.3495178222656,
+        606.9013671875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 175,
+      "damage_level": null
+    },
+    "176": {
+      "bbox": [
+        353.3495178222656,
+        602.1502075195312,
+        383.3495178222656,
+        631.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 176,
+      "damage_level": null
+    },
+    "177": {
+      "bbox": [
+        353.3495178222656,
+        627.1502075195312,
+        383.3495178222656,
+        653.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 177,
+      "damage_level": null
+    },
+    "178": {
+      "bbox": [
+        357.1051940917969,
+        649.5258178710938,
+        387.1051940917969,
+        680.5258178710938
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 178,
+      "damage_level": null
+    },
+    "179": {
+      "bbox": [
+        356.35406494140625,
+        678.028076171875,
+        386.35406494140625,
+        705.028076171875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 179,
+      "damage_level": null
+    },
+    "180": {
+      "bbox": [
+        355.22735595703125,
+        700.2769165039062,
+        385.22735595703125,
+        728.2769165039062
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 180,
+      "damage_level": null
+    },
+    "181": {
+      "bbox": [
+        355.9784851074219,
+        723.5257568359375,
+        385.9784851074219,
+        751.5257568359375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 181,
+      "damage_level": null
+    },
+    "182": {
+      "bbox": [
+        358.607421875,
+        748.2769165039062,
+        385.6029052734375,
+        772.8968505859375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 182,
+      "damage_level": null
+    },
+    "183": {
+      "bbox": [
+        353.72509765625,
+        774.1547241210938,
+        383.3495178222656,
+        799.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 183,
+      "damage_level": null
+    },
+    "184": {
+      "bbox": [
+        354.4762268066406,
+        798.5302734375,
+        384.4762268066406,
+        825.5302734375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 184,
+      "damage_level": null
+    },
+    "185": {
+      "bbox": [
+        355.6029357910156,
+        819.6525268554688,
+        383.34954833984375,
+        847.028076171875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 185,
+      "damage_level": null
+    },
+    "186": {
+      "bbox": [
+        354.10064697265625,
+        844.1547241210938,
+        384.10064697265625,
+        868.1502075195312
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 186,
+      "damage_level": 2
+    },
+    "187": {
+      "bbox": [
+        354.10064697265625,
+        867.5303344726562,
+        383.7250671386719,
+        890.6434326171875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 187,
+      "damage_level": null
+    },
+    "188": {
+      "bbox": [
+        355.23980712890625,
+        890.3604736328125,
+        381.90496826171875,
+        899.3740234375
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 188
+    },
+    "189": {
+      "bbox": [
+        326.6029052734375,
+        294.15020751953125,
+        356.6029052734375,
+        322.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 189,
+      "damage_level": null
+    },
+    "190": {
+      "bbox": [
+        327.7296142578125,
+        319.6524658203125,
+        357.7296142578125,
+        341.6524658203125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 190,
+      "damage_level": null
+    },
+    "191": {
+      "bbox": [
+        327.3540344238281,
+        336.9013366699219,
+        357.3540344238281,
+        363.9013366699219
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 191,
+      "damage_level": null
+    },
+    "192": {
+      "bbox": [
+        329.23187255859375,
+        364.40814208984375,
+        359.23187255859375,
+        384.40814208984375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 192,
+      "damage_level": null
+    },
+    "193": {
+      "bbox": [
+        329.607421875,
+        386.79278564453125,
+        354.72509765625,
+        408.5303039550781
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 193,
+      "damage_level": null
+    },
+    "194": {
+      "bbox": [
+        327.7296447753906,
+        407.15924072265625,
+        354.7251281738281,
+        431.6524963378906
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 194,
+      "damage_level": null
+    },
+    "195": {
+      "bbox": [
+        324.3495178222656,
+        426.15020751953125,
+        354.3495178222656,
+        452.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 195,
+      "damage_level": null
+    },
+    "196": {
+      "bbox": [
+        327.67156982421875,
+        451.4529113769531,
+        357.67156982421875,
+        478.4529113769531
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 196,
+      "damage_level": null
+    },
+    "197": {
+      "bbox": [
+        329.7082214355469,
+        476.8844299316406,
+        355.201416015625,
+        499.7532043457031
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 197,
+      "damage_level": null
+    },
+    "198": {
+      "bbox": [
+        327.8883972167969,
+        504.0543212890625,
+        356.0105285644531,
+        527.040771484375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 198,
+      "damage_level": null
+    },
+    "199": {
+      "bbox": [
+        327.7295837402344,
+        527.78369140625,
+        352.8472595214844,
+        552.1411743164062
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 199,
+      "damage_level": null
+    },
+    "200": {
+      "bbox": [
+        328.10516357421875,
+        558.656982421875,
+        354.72509765625,
+        579.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 200,
+      "damage_level": null
+    },
+    "201": {
+      "bbox": [
+        329.607421875,
+        582.2859497070312,
+        353.22283935546875,
+        604.5302734375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 201,
+      "damage_level": null
+    },
+    "202": {
+      "bbox": [
+        325.8517761230469,
+        599.7791748046875,
+        355.8517761230469,
+        625.7791748046875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 202,
+      "damage_level": null
+    },
+    "203": {
+      "bbox": [
+        326.22735595703125,
+        619.9013671875,
+        356.22735595703125,
+        651.9013671875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 203,
+      "damage_level": null
+    },
+    "204": {
+      "bbox": [
+        325.8517761230469,
+        650.5303344726562,
+        355.8517761230469,
+        678.5303344726562
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 204,
+      "damage_level": null
+    },
+    "205": {
+      "bbox": [
+        326.22735595703125,
+        672.6524658203125,
+        356.22735595703125,
+        700.6524658203125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 205,
+      "damage_level": null
+    },
+    "206": {
+      "bbox": [
+        326.97845458984375,
+        699.2814331054688,
+        356.97845458984375,
+        725.2814331054688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 206,
+      "damage_level": null
+    },
+    "207": {
+      "bbox": [
+        326.22735595703125,
+        719.0280151367188,
+        356.22735595703125,
+        749.0280151367188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 207,
+      "damage_level": null
+    },
+    "208": {
+      "bbox": [
+        326.6029357910156,
+        751.7882080078125,
+        357.35406494140625,
+        772.0280151367188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 208,
+      "damage_level": null
+    },
+    "209": {
+      "bbox": [
+        325.8517761230469,
+        777.0415649414062,
+        354.72509765625,
+        801.4080810546875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 209,
+      "damage_level": null
+    },
+    "210": {
+      "bbox": [
+        324.3495178222656,
+        792.1502075195312,
+        354.3495178222656,
+        821.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 210,
+      "damage_level": null
+    },
+    "211": {
+      "bbox": [
+        324.3495178222656,
+        817.1502075195312,
+        354.3495178222656,
+        845.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 211,
+      "damage_level": null
+    },
+    "212": {
+      "bbox": [
+        324.3495178222656,
+        841.1502075195312,
+        354.3495178222656,
+        869.1502075195312
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 212,
+      "damage_level": 2
+    },
+    "213": {
+      "bbox": [
+        324.3495178222656,
+        865.1502075195312,
+        355.851806640625,
+        886.6388549804688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 213,
+      "damage_level": null
+    },
+    "214": {
+      "bbox": [
+        327.0724182128906,
+        887.3558959960938,
+        353.7375793457031,
+        905.0075073242188
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 214
+    },
+    "215": {
+      "bbox": [
+        298.6029052734375,
+        296.02801513671875,
+        328.6029052734375,
+        322.02801513671875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false,
+      "order": 215,
+      "damage_level": null
+    },
+    "216": {
+      "bbox": [
+        298.7932434082031,
+        318.2448425292969,
+        328.7932434082031,
+        344.2448425292969
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 216,
+      "damage_level": null
+    },
+    "217": {
+      "bbox": [
+        298.79327392578125,
+        338.15020751953125,
+        328.79327392578125,
+        365.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 217,
+      "damage_level": null
+    },
+    "218": {
+      "bbox": [
+        299.4914855957031,
+        361.4992980957031,
+        329.4914855957031,
+        385.4992980957031
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 218,
+      "damage_level": null
+    },
+    "219": {
+      "bbox": [
+        300.1896667480469,
+        383.2448425292969,
+        330.1896667480469,
+        409.2448425292969
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 219,
+      "damage_level": null
+    },
+    "220": {
+      "bbox": [
+        301.2370300292969,
+        407.6885681152344,
+        331.2370300292969,
+        435.6885681152344
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 220,
+      "damage_level": null
+    },
+    "221": {
+      "bbox": [
+        304.7280578613281,
+        429.94305419921875,
+        326.6986389160156,
+        457.546630859375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 221,
+      "damage_level": null
+    },
+    "222": {
+      "bbox": [
+        302.6334533691406,
+        452.15020751953125,
+        329.1423645019531,
+        477.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 222,
+      "damage_level": null
+    },
+    "223": {
+      "bbox": [
+        303.3316345214844,
+        479.08502197265625,
+        327.7459411621094,
+        503.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 223,
+      "damage_level": null
+    },
+    "224": {
+      "bbox": [
+        296.3495178222656,
+        499.15020751953125,
+        326.3495178222656,
+        527.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 224,
+      "damage_level": null
+    },
+    "225": {
+      "bbox": [
+        296.3495178222656,
+        523.1502075195312,
+        326.3495178222656,
+        551.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 225,
+      "damage_level": null
+    },
+    "226": {
+      "bbox": [
+        296.3495178222656,
+        547.1502075195312,
+        326.3495178222656,
+        577.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false,
+      "order": 226,
+      "damage_level": null
+    },
+    "227": {
+      "bbox": [
+        298.9784851074219,
+        573.1502075195312,
+        328.9784851074219,
+        603.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 227,
+      "damage_level": null
+    },
+    "228": {
+      "bbox": [
+        296.3495178222656,
+        599.1502075195312,
+        326.3495178222656,
+        627.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 228,
+      "damage_level": null
+    },
+    "229": {
+      "bbox": [
+        296.3495178222656,
+        623.1502075195312,
+        326.3495178222656,
+        653.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 229,
+      "damage_level": null
+    },
+    "230": {
+      "bbox": [
+        296.3495178222656,
+        649.1502075195312,
+        326.3495178222656,
+        674.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 230,
+      "damage_level": null
+    },
+    "231": {
+      "bbox": [
+        296.3495178222656,
+        670.1502075195312,
+        326.3495178222656,
+        695.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 231,
+      "damage_level": null
+    },
+    "232": {
+      "bbox": [
+        300.88787841796875,
+        698.8305053710938,
+        325.30218505859375,
+        725.4993286132812
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 232,
+      "damage_level": null
+    },
+    "233": {
+      "bbox": [
+        296.3495178222656,
+        721.1502075195312,
+        326.3495178222656,
+        745.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 233,
+      "damage_level": null
+    },
+    "234": {
+      "bbox": [
+        301.5861511230469,
+        749.1796264648438,
+        326.3495178222656,
+        771.9904174804688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 234,
+      "damage_level": null
+    },
+    "235": {
+      "bbox": [
+        298.44415283203125,
+        774.2742919921875,
+        324.60400390625,
+        795.9904174804688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 235,
+      "damage_level": null
+    },
+    "236": {
+      "bbox": [
+        296.3495178222656,
+        788.1502075195312,
+        326.3495178222656,
+        817.1502075195312
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 236,
+      "damage_level": 2
+    },
+    "237": {
+      "bbox": [
+        300.5387878417969,
+        821.5287475585938,
+        323.5566711425781,
+        843.0850219726562
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 237,
+      "damage_level": null
+    },
+    "238": {
+      "bbox": [
+        296.3495178222656,
+        846.00830078125,
+        326.3495178222656,
+        872.00830078125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 238,
+      "damage_level": null
+    },
+    "239": {
+      "bbox": [
+        296.3495178222656,
+        868.3573608398438,
+        327.0477294921875,
+        888.2153930664062
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 239,
+      "damage_level": null
+    },
+    "240": {
+      "bbox": [
+        300.5572509765625,
+        890.1226196289062,
+        322.5509948730469,
+        903.73779296875
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 240
+    },
+    "241": {
+      "bbox": [
+        271.840576171875,
+        297.2921447753906,
+        301.840576171875,
+        320.2921447753906
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false,
+      "order": 241,
+      "damage_level": null
+    },
+    "242": {
+      "bbox": [
+        278.12451171875,
+        319.783203125,
+        296.6040344238281,
+        339.8957214355469
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 242,
+      "damage_level": null
+    },
+    "243": {
+      "bbox": [
+        280.5682678222656,
+        340.0849609375,
+        296.2548828125,
+        364.2921447753906
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 243,
+      "damage_level": null
+    },
+    "244": {
+      "bbox": [
+        274.9825439453125,
+        361.3394775390625,
+        298.3495178222656,
+        384.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 244,
+      "damage_level": null
+    },
+    "245": {
+      "bbox": [
+        273.58612060546875,
+        381.1975402832031,
+        298.3495178222656,
+        406.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 245,
+      "damage_level": null
+    },
+    "246": {
+      "bbox": [
+        278.12451171875,
+        407.38677978515625,
+        298.3495178222656,
+        430.4992980957031
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 246,
+      "damage_level": null
+    },
+    "247": {
+      "bbox": [
+        277.42626953125,
+        431.0377197265625,
+        298.0003967285156,
+        453.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 247,
+      "damage_level": null
+    },
+    "248": {
+      "bbox": [
+        274.9825439453125,
+        455.4341125488281,
+        300.44415283203125,
+        479.3394775390625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 248,
+      "damage_level": null
+    },
+    "249": {
+      "bbox": [
+        276.2347717285156,
+        475.9552001953125,
+        298.6160888671875,
+        501.89910888671875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 249,
+      "damage_level": null
+    },
+    "250": {
+      "bbox": [
+        275.3316650390625,
+        503.12078857421875,
+        298.0003967285156,
+        524.1859741210938
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 250,
+      "damage_level": null
+    },
+    "251": {
+      "bbox": [
+        274.6334228515625,
+        529.61181640625,
+        298.6986083984375,
+        555.61181640625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 251,
+      "damage_level": null
+    },
+    "252": {
+      "bbox": [
+        270.7932434082031,
+        554.0555419921875,
+        300.7932434082031,
+        579.0555419921875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 252,
+      "damage_level": null
+    },
+    "253": {
+      "bbox": [
+        276.02984619140625,
+        581.3394775390625,
+        295.9057922363281,
+        602.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 253,
+      "damage_level": null
+    },
+    "254": {
+      "bbox": [
+        269.7459411621094,
+        598.1502075195312,
+        299.7459411621094,
+        625.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 254,
+      "damage_level": null
+    },
+    "255": {
+      "bbox": [
+        268.3495178222656,
+        621.1502075195312,
+        298.3495178222656,
+        650.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 255,
+      "damage_level": null
+    },
+    "256": {
+      "bbox": [
+        274.9825744628906,
+        651.3868408203125,
+        296.2549133300781,
+        674.5939331054688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 256,
+      "damage_level": null
+    },
+    "257": {
+      "bbox": [
+        273.93524169921875,
+        673.3867797851562,
+        298.3495178222656,
+        699.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 257,
+      "damage_level": null
+    },
+    "258": {
+      "bbox": [
+        271.4914855957031,
+        698.2921142578125,
+        301.4914855957031,
+        723.2921142578125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 258,
+      "damage_level": null
+    },
+    "259": {
+      "bbox": [
+        273.9352111816406,
+        721.7359008789062,
+        298.3495178222656,
+        746.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 259,
+      "damage_level": null
+    },
+    "260": {
+      "bbox": [
+        271.8406066894531,
+        746.3395385742188,
+        298.3495178222656,
+        770.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 260,
+      "damage_level": null
+    },
+    "261": {
+      "bbox": [
+        271.8406066894531,
+        773.13232421875,
+        298.00042724609375,
+        795.546630859375
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 261,
+      "damage_level": 2
+    },
+    "262": {
+      "bbox": [
+        270.44415283203125,
+        793.6412963867188,
+        295.9057922363281,
+        822.4814453125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 262,
+      "damage_level": null
+    },
+    "263": {
+      "bbox": [
+        270.79327392578125,
+        821.2742919921875,
+        298.0003967285156,
+        845.6885986328125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 263,
+      "damage_level": null
+    },
+    "264": {
+      "bbox": [
+        268.3495178222656,
+        837.1502075195312,
+        298.3495178222656,
+        864.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 264,
+      "damage_level": null
+    },
+    "265": {
+      "bbox": [
+        271.1423645019531,
+        862.244873046875,
+        295.20758056640625,
+        882.4225463867188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 265,
+      "damage_level": null
+    },
+    "266": {
+      "bbox": [
+        273.5770568847656,
+        881.132080078125,
+        295.23773193359375,
+        896.8582763671875
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 266
+    },
+    "267": {
+      "bbox": [
+        246.9825439453125,
+        294.4992980957031,
+        271.7459411621094,
+        317.2921447753906
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false,
+      "order": 267,
+      "damage_level": null
+    },
+    "268": {
+      "bbox": [
+        248.0298614501953,
+        317.13232421875,
+        272.4441223144531,
+        340.4814453125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 268,
+      "damage_level": null
+    },
+    "269": {
+      "bbox": [
+        249.42630004882812,
+        339.2742919921875,
+        271.7459716796875,
+        360.5939636230469
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 269,
+      "damage_level": null
+    },
+    "270": {
+      "bbox": [
+        248.02984619140625,
+        364.2742919921875,
+        272.4441223144531,
+        385.197509765625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 270,
+      "damage_level": null
+    },
+    "271": {
+      "bbox": [
+        249.77537536621094,
+        385.3868408203125,
+        271.0477294921875,
+        406.5939636230469
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 271,
+      "damage_level": null
+    },
+    "272": {
+      "bbox": [
+        248.7280731201172,
+        406.7832336425781,
+        270.0003967285156,
+        428.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 272,
+      "damage_level": null
+    },
+    "273": {
+      "bbox": [
+        249.07716369628906,
+        427.9903564453125,
+        270.3495178222656,
+        451.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 273,
+      "damage_level": null
+    },
+    "274": {
+      "bbox": [
+        247.33163452148438,
+        453.4341125488281,
+        270.3495178222656,
+        474.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 274,
+      "damage_level": null
+    },
+    "275": {
+      "bbox": [
+        246.63343811035156,
+        475.3868103027344,
+        270.3495178222656,
+        500.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 275,
+      "damage_level": null
+    },
+    "276": {
+      "bbox": [
+        247.33168029785156,
+        502.4341125488281,
+        270.3495330810547,
+        525.6412353515625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 276,
+      "damage_level": null
+    },
+    "277": {
+      "bbox": [
+        244.88787841796875,
+        523.7358703613281,
+        275.9351806640625,
+        549.3394775390625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 277,
+      "damage_level": null
+    },
+    "278": {
+      "bbox": [
+        245.5861053466797,
+        553.718017578125,
+        273.1423645019531,
+        579.3867797851562
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 278,
+      "damage_level": null
+    },
+    "279": {
+      "bbox": [
+        243.14236450195312,
+        580.9725341796875,
+        272.0950622558594,
+        602.5939331054688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 279,
+      "damage_level": null
+    },
+    "280": {
+      "bbox": [
+        244.53878784179688,
+        602.4341430664062,
+        270.3495178222656,
+        623.4519653320312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 280,
+      "damage_level": null
+    },
+    "281": {
+      "bbox": [
+        243.491455078125,
+        624.6885375976562,
+        273.491455078125,
+        649.6885375976562
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 281,
+      "damage_level": null
+    },
+    "282": {
+      "bbox": [
+        241.74595642089844,
+        649.1796875,
+        268.60401916503906,
+        671.244873046875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 282,
+      "damage_level": null
+    },
+    "283": {
+      "bbox": [
+        240.69863891601562,
+        672.8305053710938,
+        268.60400390625,
+        697.1029052734375
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 283,
+      "damage_level": 3
+    },
+    "284": {
+      "bbox": [
+        241.0477294921875,
+        696.5939331054688,
+        271.0477294921875,
+        723.5939331054688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 284,
+      "damage_level": null
+    },
+    "285": {
+      "bbox": [
+        240.34951782226562,
+        746.0849609375,
+        270.6986541748047,
+        770.9430541992188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 285,
+      "damage_level": null
+    },
+    "286": {
+      "bbox": [
+        241.2749481201172,
+        770.0112915039062,
+        271.2749481201172,
+        795.0112915039062
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 286,
+      "damage_level": null
+    },
+    "287": {
+      "bbox": [
+        218.28431701660156,
+        293.4519958496094,
+        248.28431701660156,
+        317.4519958496094
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 287,
+      "damage_level": null
+    },
+    "288": {
+      "bbox": [
+        216.8878936767578,
+        315.197509765625,
+        246.8878936767578,
+        337.197509765625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 288,
+      "damage_level": null
+    },
+    "289": {
+      "bbox": [
+        217.93521118164062,
+        332.1501770019531,
+        248.98252868652344,
+        359.0082092285156
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 289,
+      "damage_level": null
+    },
+    "290": {
+      "bbox": [
+        218.63343811035156,
+        358.848388671875,
+        248.63343811035156,
+        383.848388671875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 290,
+      "damage_level": null
+    },
+    "291": {
+      "bbox": [
+        221.07717895507812,
+        382.9903564453125,
+        244.4441680908203,
+        405.4046630859375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 291,
+      "damage_level": null
+    },
+    "292": {
+      "bbox": [
+        222.12449645996094,
+        405.2448425292969,
+        243.74594116210938,
+        429.80108642578125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 292,
+      "damage_level": null
+    },
+    "293": {
+      "bbox": [
+        220.0298614501953,
+        429.6412658691406,
+        243.74594116210938,
+        455.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 293,
+      "damage_level": null
+    },
+    "294": {
+      "bbox": [
+        218.6334228515625,
+        453.2448425292969,
+        245.840576171875,
+        474.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 294,
+      "damage_level": null
+    },
+    "295": {
+      "bbox": [
+        217.93521118164062,
+        476.0849914550781,
+        244.44415283203125,
+        500.6885681152344
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 295,
+      "damage_level": null
+    },
+    "296": {
+      "bbox": [
+        217.9352264404297,
+        499.8305358886719,
+        243.04774475097656,
+        526.6885986328125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 296,
+      "damage_level": null
+    },
+    "297": {
+      "bbox": [
+        218.28431701660156,
+        523.3867797851562,
+        243.74594116210938,
+        550.9429931640625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 297,
+      "damage_level": null
+    },
+    "298": {
+      "bbox": [
+        216.18968200683594,
+        549.3867797851562,
+        244.44415283203125,
+        572.2921142578125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 298,
+      "damage_level": null
+    },
+    "299": {
+      "bbox": [
+        213.74594116210938,
+        572.8305053710938,
+        244.0950469970703,
+        601.3394775390625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 299,
+      "damage_level": null
+    },
+    "300": {
+      "bbox": [
+        216.53878784179688,
+        597.6885375976562,
+        243.39683532714844,
+        620.9429931640625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 300,
+      "damage_level": null
+    },
+    "301": {
+      "bbox": [
+        215.840576171875,
+        621.8305053710938,
+        243.74594116210938,
+        645.2448120117188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 301,
+      "damage_level": null
+    },
+    "302": {
+      "bbox": [
+        215.840576171875,
+        649.9725341796875,
+        244.44415283203125,
+        670.5465698242188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 302,
+      "damage_level": null
+    },
+    "303": {
+      "bbox": [
+        217.23699951171875,
+        671.43408203125,
+        244.0950469970703,
+        696.2448120117188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 303,
+      "damage_level": null
+    },
+    "304": {
+      "bbox": [
+        216.18968200683594,
+        694.3394775390625,
+        242.69862365722656,
+        719.8010864257812
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 304,
+      "damage_level": null
+    },
+    "305": {
+      "bbox": [
+        213.74594116210938,
+        715.8010864257812,
+        243.74594116210938,
+        745.8010864257812
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 305,
+      "damage_level": null
+    },
+    "306": {
+      "bbox": [
+        215.49147033691406,
+        744.2448120117188,
+        245.49147033691406,
+        771.2448120117188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 306,
+      "damage_level": null
+    },
+    "307": {
+      "bbox": [
+        215.14236450195312,
+        765.848388671875,
+        245.14236450195312,
+        793.848388671875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 307,
+      "damage_level": null
+    },
+    "308": {
+      "bbox": [
+        214.44415283203125,
+        789.499267578125,
+        244.44415283203125,
+        820.499267578125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 308,
+      "damage_level": null
+    },
+    "309": {
+      "bbox": [
+        216.0736083984375,
+        841.247802734375,
+        244.7003173828125,
+        867.7798461914062
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 309
+    },
+    "310": {
+      "bbox": [
+        186.24365234375,
+        296.0443420410156,
+        217.1907196044922,
+        315.7834777832031
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 310,
+      "damage_level": null
+    },
+    "311": {
+      "bbox": [
+        187.39122009277344,
+        318.5800476074219,
+        217.39122009277344,
+        340.5800476074219
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 311,
+      "damage_level": null
+    },
+    "312": {
+      "bbox": [
+        185.74595642089844,
+        336.895751953125,
+        215.74595642089844,
+        359.895751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 312,
+      "damage_level": null
+    },
+    "313": {
+      "bbox": [
+        192.37896728515625,
+        356.94305419921875,
+        214.69862365722656,
+        378.1975402832031
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 313,
+      "damage_level": null
+    },
+    "314": {
+      "bbox": [
+        191.33164978027344,
+        379.08502197265625,
+        214.69862365722656,
+        403.8484191894531
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 314,
+      "damage_level": null
+    },
+    "315": {
+      "bbox": [
+        194.47360229492188,
+        404.73590087890625,
+        214.34951782226562,
+        428.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 315,
+      "damage_level": null
+    },
+    "316": {
+      "bbox": [
+        184.34951782226562,
+        424.15020751953125,
+        214.34951782226562,
+        449.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 316,
+      "damage_level": null
+    },
+    "317": {
+      "bbox": [
+        186.44415283203125,
+        448.29217529296875,
+        216.44415283203125,
+        473.29217529296875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 317,
+      "damage_level": null
+    },
+    "318": {
+      "bbox": [
+        186.7932586669922,
+        469.29217529296875,
+        216.7932586669922,
+        497.29217529296875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 318,
+      "damage_level": null
+    },
+    "319": {
+      "bbox": [
+        185.74594116210938,
+        491.197509765625,
+        215.74594116210938,
+        520.197509765625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 319,
+      "damage_level": null
+    },
+    "320": {
+      "bbox": [
+        184.34951782226562,
+        521.783203125,
+        217.14236450195312,
+        549.5939331054688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 320,
+      "damage_level": null
+    },
+    "321": {
+      "bbox": [
+        186.7932586669922,
+        548.7359619140625,
+        215.74594116210938,
+        567.00830078125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 321,
+      "damage_level": null
+    },
+    "322": {
+      "bbox": [
+        189.93521118164062,
+        573.4814453125,
+        211.20755004882812,
+        600.0376586914062
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false,
+      "order": 322,
+      "damage_level": null
+    },
+    "323": {
+      "bbox": [
+        184.34951782226562,
+        593.244873046875,
+        214.34951782226562,
+        620.244873046875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 323,
+      "damage_level": null
+    },
+    "324": {
+      "bbox": [
+        185.0477294921875,
+        624.2742919921875,
+        214.0004119873047,
+        644.5939331054688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 324,
+      "damage_level": null
+    },
+    "325": {
+      "bbox": [
+        186.0950469970703,
+        640.244873046875,
+        216.0950469970703,
+        670.244873046875
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 325,
+      "damage_level": 3
+    },
+    "326": {
+      "bbox": [
+        185.04774475097656,
+        667.9903564453125,
+        215.04774475097656,
+        693.9903564453125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 326,
+      "damage_level": null
+    },
+    "327": {
+      "bbox": [
+        185.0477294921875,
+        689.2921752929688,
+        215.0477294921875,
+        717.2921752929688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 327,
+      "damage_level": null
+    },
+    "328": {
+      "bbox": [
+        184.34951782226562,
+        719.422607421875,
+        214.69862365722656,
+        749.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 328,
+      "damage_level": null
+    },
+    "329": {
+      "bbox": [
+        184.34951782226562,
+        745.1502075195312,
+        215.39683532714844,
+        770.5939331054688
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 329,
+      "damage_level": 3
+    },
+    "330": {
+      "bbox": [
+        184.34951782226562,
+        764.1502075195312,
+        214.69862365722656,
+        796.244873046875
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 330,
+      "damage_level": 3
+    },
+    "331": {
+      "bbox": [
+        184.0004119873047,
+        796.43408203125,
+        213.65130615234375,
+        821.197509765625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 331,
+      "damage_level": null
+    },
+    "332": {
+      "bbox": [
+        183.6512908935547,
+        818.5939331054688,
+        213.6512908935547,
+        846.5939331054688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 332,
+      "damage_level": null
+    },
+    "333": {
+      "bbox": [
+        184.0004119873047,
+        841.895751953125,
+        214.0004119873047,
+        867.895751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 333,
+      "damage_level": null
+    },
+    "334": {
+      "bbox": [
+        182.2548828125,
+        858.6591796875,
+        212.2548828125,
+        887.6591796875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 334,
+      "damage_level": null
+    },
+    "335": {
+      "bbox": [
+        185.7013702392578,
+        888.0280151367188,
+        209.78970336914062,
+        898.501220703125
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 335
+    },
+    "336": {
+      "bbox": [
+        159.49147033691406,
+        295.895751953125,
+        189.49147033691406,
+        320.895751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false,
+      "order": 336,
+      "damage_level": null
+    },
+    "337": {
+      "bbox": [
+        159.49147033691406,
+        315.15020751953125,
+        189.49147033691406,
+        342.15020751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 337,
+      "damage_level": null
+    },
+    "338": {
+      "bbox": [
+        159.14236450195312,
+        339.546630859375,
+        189.14236450195312,
+        363.546630859375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 338,
+      "damage_level": null
+    },
+    "339": {
+      "bbox": [
+        159.84059143066406,
+        359.895751953125,
+        189.84059143066406,
+        381.59393310546875
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 339,
+      "damage_level": null
+    },
+    "340": {
+      "bbox": [
+        159.14236450195312,
+        382.83056640625,
+        189.14236450195312,
+        408.5939636230469
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 340,
+      "damage_level": null
+    },
+    "341": {
+      "bbox": [
+        161.58612060546875,
+        404.9430847167969,
+        189.1423797607422,
+        431.5939636230469
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 341,
+      "damage_level": null
+    },
+    "342": {
+      "bbox": [
+        161.5861053466797,
+        426.546630859375,
+        191.5861053466797,
+        448.546630859375
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 342,
+      "damage_level": null
+    },
+    "343": {
+      "bbox": [
+        160.189697265625,
+        446.2921447753906,
+        190.189697265625,
+        473.2921447753906
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 343,
+      "damage_level": null
+    },
+    "344": {
+      "bbox": [
+        160.88790893554688,
+        473.1323547363281,
+        187.04774475097656,
+        495.8484191894531
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 344,
+      "damage_level": null
+    },
+    "345": {
+      "bbox": [
+        162.9825439453125,
+        495.6885681152344,
+        187.3968505859375,
+        524.2921447753906
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 345,
+      "damage_level": null
+    },
+    "346": {
+      "bbox": [
+        162.28431701660156,
+        522.7359008789062,
+        187.74594116210938,
+        549.5939331054688
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 346,
+      "damage_level": null
+    },
+    "347": {
+      "bbox": [
+        159.84059143066406,
+        545.2448120117188,
+        188.4441680908203,
+        570.2448120117188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 347,
+      "damage_level": null
+    },
+    "348": {
+      "bbox": [
+        158.7932586669922,
+        569.3867797851562,
+        186.69862365722656,
+        594.8484497070312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 348,
+      "damage_level": null
+    },
+    "349": {
+      "bbox": [
+        156.34951782226562,
+        591.197509765625,
+        186.34951782226562,
+        619.197509765625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 349,
+      "damage_level": null
+    },
+    "350": {
+      "bbox": [
+        156.34951782226562,
+        614.1502075195312,
+        186.34951782226562,
+        643.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 350,
+      "damage_level": null
+    },
+    "351": {
+      "bbox": [
+        157.39683532714844,
+        642.9903564453125,
+        187.39683532714844,
+        667.9903564453125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 351,
+      "damage_level": null
+    },
+    "352": {
+      "bbox": [
+        156.34951782226562,
+        670.6234130859375,
+        187.39683532714844,
+        697.4635620117188
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 352,
+      "damage_level": null
+    },
+    "353": {
+      "bbox": [
+        156.34951782226562,
+        695.2154541015625,
+        186.34951782226562,
+        721.2154541015625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 353,
+      "damage_level": null
+    },
+    "354": {
+      "bbox": [
+        156.34951782226562,
+        723.1502075195312,
+        186.34951782226562,
+        746.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 354,
+      "damage_level": null
+    },
+    "355": {
+      "bbox": [
+        156.34951782226562,
+        744.2448120117188,
+        186.34951782226562,
+        771.2448120117188
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 355,
+      "damage_level": 3
+    },
+    "356": {
+      "bbox": [
+        157.0477294921875,
+        771.783203125,
+        185.65130615234375,
+        796.2448120117188
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 356,
+      "damage_level": 3
+    },
+    "357": {
+      "bbox": [
+        155.3022003173828,
+        791.546630859375,
+        185.3022003173828,
+        820.546630859375
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 357,
+      "damage_level": 3
+    },
+    "358": {
+      "bbox": [
+        156.34951782226562,
+        815.1502075195312,
+        186.34951782226562,
+        840.1502075195312
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 358,
+      "damage_level": null
+    },
+    "359": {
+      "bbox": [
+        156.34951782226562,
+        836.1502075195312,
+        186.34951782226562,
+        864.1502075195312
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 359,
+      "damage_level": 3
+    },
+    "360": {
+      "bbox": [
+        154.60398864746094,
+        859.4519653320312,
+        183.2075653076172,
+        886.91357421875
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 360,
+      "damage_level": 3
+    },
+    "361": {
+      "bbox": [
+        159.16929626464844,
+        880.69677734375,
+        177.32281494140625,
+        901.6431274414062
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 361
+    },
+    "362": {
+      "bbox": [
+        129.34951782226562,
+        295.2448425292969,
+        159.34951782226562,
+        317.2448425292969
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": true,
+      "suspicious": false,
+      "order": 362,
+      "damage_level": null
+    },
+    "363": {
+      "bbox": [
+        129.69862365722656,
+        316.0377197265625,
+        157.60398864746094,
+        343.49932861328125
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 363,
+      "damage_level": 3
+    },
+    "364": {
+      "bbox": [
+        129.0004119873047,
+        338.4519958496094,
+        159.34951782226562,
+        360.21539306640625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 364,
+      "damage_level": null
+    },
+    "365": {
+      "bbox": [
+        129.00040435791016,
+        360.05560302734375,
+        158.65130615234375,
+        384.4698791503906
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 365,
+      "damage_level": null
+    },
+    "366": {
+      "bbox": [
+        129.69862365722656,
+        383.2627258300781,
+        156.90577697753906,
+        402.5823669433594
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 366,
+      "damage_level": null
+    },
+    "367": {
+      "bbox": [
+        130.0477294921875,
+        403.8189697265625,
+        160.0477294921875,
+        431.8189697265625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 367,
+      "damage_level": null
+    },
+    "368": {
+      "bbox": [
+        129.34951782226562,
+        425.7243347167969,
+        156.55667114257812,
+        449.09130859375
+      ],
+      "status": "damaged",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 368,
+      "damage_level": 3
+    },
+    "369": {
+      "bbox": [
+        129.34951782226562,
+        450.677001953125,
+        158.3022003173828,
+        473.93145751953125
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 369,
+      "damage_level": null
+    },
+    "370": {
+      "bbox": [
+        128.65130615234375,
+        469.9314880371094,
+        157.2548828125,
+        494.2984619140625
+      ],
+      "status": "intact",
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 370,
+      "damage_level": null
+    },
+    "371": {
+      "bbox": [
+        126.40326690673828,
+        498.0649108886719,
+        156.66883850097656,
+        517.0550231933594
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 371
+    },
+    "372": {
+      "bbox": [
+        126.00420379638672,
+        522.1646728515625,
+        159.16929626464844,
+        535.0816040039062
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 372
+    },
+    "373": {
+      "bbox": [
+        142.12953186035156,
+        531.0010375976562,
+        159.93276977539062,
+        544.3533325195312
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 373
+    },
+    "374": {
+      "bbox": [
+        142.4262237548828,
+        545.2435913085938,
+        158.7458953857422,
+        557.7058715820312
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 374
+    },
+    "375": {
+      "bbox": [
+        142.7229461669922,
+        558.5960693359375,
+        155.7786865234375,
+        571.058349609375
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 375
+    },
+    "376": {
+      "bbox": [
+        140.64590454101562,
+        570.168212890625,
+        156.37213134765625,
+        585.5977172851562
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 376
+    },
+    "377": {
+      "bbox": [
+        140.64590454101562,
+        585.3009643554688,
+        156.37213134765625,
+        597.1697998046875
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 377
+    },
+    "378": {
+      "bbox": [
+        140.942626953125,
+        599.2468872070312,
+        156.66885375976562,
+        614.9730834960938
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 378
+    },
+    "379": {
+      "bbox": [
+        142.12950134277344,
+        616.1599731445312,
+        156.37213134765625,
+        630.402587890625
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 379
+    },
+    "380": {
+      "bbox": [
+        142.12950134277344,
+        631.2927856445312,
+        156.66885375976562,
+        647.3157348632812
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 380
+    },
+    "381": {
+      "bbox": [
+        142.7229461669922,
+        645.535400390625,
+        156.07540893554688,
+        660.0747680664062
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 381
+    },
+    "382": {
+      "bbox": [
+        141.83279418945312,
+        661.8550415039062,
+        157.55902099609375,
+        674.9108276367188
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 382
+    },
+    "383": {
+      "bbox": [
+        142.72293090820312,
+        675.8009643554688,
+        156.37213134765625,
+        688.856689453125
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 383
+    },
+    "384": {
+      "bbox": [
+        141.53607177734375,
+        690.0435791015625,
+        156.37213134765625,
+        695.6812744140625
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 384
+    },
+    "385": {
+      "bbox": [
+        141.83279418945312,
+        695.6812744140625,
+        155.48196411132812,
+        713.1878662109375
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 385
+    },
+    "386": {
+      "bbox": [
+        140.942626953125,
+        713.4845581054688,
+        156.37213134765625,
+        729.2108154296875
+      ],
+      "status": "damaged",
+      "damage_level": 3,
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 386
+    },
+    "387": {
+      "bbox": [
+        139.45901489257812,
+        730.397705078125,
+        154.88851928710938,
+        742.8599853515625
+      ],
+      "status": "damaged",
+      "damage_level": 3,
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 387
+    },
+    "388": {
+      "bbox": [
+        140.34918212890625,
+        740.1895141601562,
+        153.40492248535156,
+        752.948486328125
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 388
+    },
+    "389": {
+      "bbox": [
+        140.05245971679688,
+        752.3550415039062,
+        154.29507446289062,
+        760.3665771484375
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 389
+    },
+    "390": {
+      "bbox": [
+        138.56884765625,
+        760.3665771484375,
+        152.8114776611328,
+        775.20263671875
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 390
+    },
+    "391": {
+      "bbox": [
+        136.49180603027344,
+        775.20263671875,
+        153.1082000732422,
+        784.4009399414062
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 391
+    },
+    "392": {
+      "bbox": [
+        136.7885284423828,
+        783.214111328125,
+        151.9213104248047,
+        800.7206420898438
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 392
+    },
+    "393": {
+      "bbox": [
+        136.7885284423828,
+        801.9075317382812,
+        152.21803283691406,
+        814.6665649414062
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 393
+    },
+    "394": {
+      "bbox": [
+        134.4147491455078,
+        815.260009765625,
+        151.6245880126953,
+        827.7222900390625
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 394
+    },
+    "395": {
+      "bbox": [
+        132.93115234375,
+        829.5026245117188,
+        152.51475524902344,
+        842.558349609375
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 395
+    },
+    "396": {
+      "bbox": [
+        136.19508361816406,
+        839.8878784179688,
+        151.32786560058594,
+        860.0648803710938
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 396
+    },
+    "397": {
+      "bbox": [
+        132.93115234375,
+        859.471435546875,
+        152.51475524902344,
+        871.9337768554688
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 397
+    },
+    "398": {
+      "bbox": [
+        133.52459716796875,
+        873.4173583984375,
+        150.4376983642578,
+        886.7698364257812
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 398
+    },
+    "399": {
+      "bbox": [
+        135.48341369628906,
+        889.4618530273438,
+        146.8015899658203,
+        897.1093139648438
+      ],
+      "status": "damaged",
+      "damage_level": 3,
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 399
+    },
+    "400": {
+      "bbox": [
+        123.43606567382812,
+        538.4190063476562,
+        139.7557373046875,
+        556.2222290039062
+      ],
+      "status": "damaged",
+      "damage_level": 3,
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 400
+    },
+    "401": {
+      "bbox": [
+        126.10655975341797,
+        558.29931640625,
+        137.67869567871094,
+        568.3878784179688
+      ],
+      "status": "damaged",
+      "damage_level": 3,
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 401
+    },
+    "402": {
+      "bbox": [
+        124.91967010498047,
+        571.058349609375,
+        137.38197326660156,
+        584.70751953125
+      ],
+      "status": "damaged",
+      "damage_level": 3,
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 402
+    },
+    "403": {
+      "bbox": [
+        124.6229476928711,
+        585.0042724609375,
+        137.67868041992188,
+        598.9501342773438
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 403
+    },
+    "404": {
+      "bbox": [
+        124.02951049804688,
+        595.0927734375,
+        137.97540283203125,
+        609.0386962890625
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 404
+    },
+    "405": {
+      "bbox": [
+        121.35900115966797,
+        604.5878295898438,
+        141.83279418945312,
+        620.3140869140625
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 405
+    },
+    "406": {
+      "bbox": [
+        121.95246124267578,
+        622.39111328125,
+        139.7557373046875,
+        639.897705078125
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 406
+    },
+    "407": {
+      "bbox": [
+        121.6557388305664,
+        638.4140625,
+        139.75572204589844,
+        655.920654296875
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 407
+    },
+    "408": {
+      "bbox": [
+        121.6557388305664,
+        652.9534301757812,
+        138.27212524414062,
+        669.8665771484375
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 408
+    },
+    "409": {
+      "bbox": [
+        120.17213439941406,
+        669.2731323242188,
+        140.34918212890625,
+        682.9222412109375
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 409
+    },
+    "410": {
+      "bbox": [
+        122.54590606689453,
+        683.2190551757812,
+        138.56884765625,
+        701.319091796875
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 410
+    },
+    "411": {
+      "bbox": [
+        123.13933563232422,
+        700.7255859375,
+        140.64588928222656,
+        714.6715087890625
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 411
+    },
+    "412": {
+      "bbox": [
+        121.06229400634766,
+        712.89111328125,
+        138.56884765625,
+        726.2435913085938
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 412
+    },
+    "413": {
+      "bbox": [
+        120.17213439941406,
+        723.2763671875,
+        138.86557006835938,
+        739.8927612304688
+      ],
+      "status": "damaged",
+      "damage_level": 3,
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 413
+    },
+    "414": {
+      "bbox": [
+        119.87540435791016,
+        739.8927612304688,
+        136.7885284423828,
+        752.058349609375
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 414
+    },
+    "415": {
+      "bbox": [
+        120.4688491821289,
+        751.4649047851562,
+        136.7885284423828,
+        767.4878540039062
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 415
+    },
+    "416": {
+      "bbox": [
+        119.57868957519531,
+        766.3009643554688,
+        134.4147491455078,
+        781.73046875
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 416
+    },
+    "417": {
+      "bbox": [
+        117.79837036132812,
+        778.1697998046875,
+        134.71148681640625,
+        801.0173950195312
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 417
+    },
+    "418": {
+      "bbox": [
+        118.98524475097656,
+        801.61083984375,
+        136.7885284423828,
+        817.6337890625
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 418
+    },
+    "419": {
+      "bbox": [
+        116.90819549560547,
+        814.9632568359375,
+        135.30491638183594,
+        828.9091796875
+      ],
+      "status": "intact",
+      "damage_level": null,
+      "unknown": false,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 419
+    },
+    "420": {
+      "bbox": [
+        116.6114730834961,
+        827.7222900390625,
+        132.63442993164062,
+        846.1190185546875
+      ],
+      "status": "damaged",
+      "damage_level": 3,
+      "unknown": true,
+      "unavailable_font": false,
+      "expert_prediction": false,
+      "suspicious": false,
+      "order": 420
+    }
+  },
+  "annotations": {
+    "1": "后",
+    "2": "族",
+    "3": "碑",
+    "4": "記",
+    "5": "寧",
+    "6": "江",
+    "7": "府",
+    "8": "四",
+    "9": "岐",
+    "10": "縣",
+    "11": "河",
+    "12": "路",
+    "13": "總",
+    "14": "河",
+    "15": "海",
+    "16": "社",
+    "17": "阮",
+    "18": "族",
+    "19": "耆",
+    "20": "老",
+    "21": "里",
+    "22": "役",
+    "23": "仝",
+    "24": "族",
+    "25": "上",
+    "26": "下",
+    "27": "諸",
+    "28": "人",
+    "29": "等",
+    "30": "為",
+    "31": "立",
+    "32": "碑",
+    "33": "記",
+    "34": "事",
+    "35": "聞",
+    "36": "積",
+    "37": "善",
+    "38": "餘",
+    "39": "慶",
+    "40": "古",
+    "41": "有",
+    "42": "言",
+    "43": "也",
+    "44": "人",
+    "45": "同",
+    "46": "此",
+    "47": "心",
+    "48": "心",
+    "49": "同",
+    "50": "此",
+    "51": "理",
+    "52": "孰",
+    "53": "不",
+    "54": "欲",
+    "55": "為",
+    "56": "善",
+    "57": "之",
+    "58": "心",
+    "59": "乎",
+    "60": "緣",
+    "61": "於",
+    "62": "壬",
+    "63": "寅",
+    "64": "年",
+    "65": "六",
+    "66": "月",
+    "67": "日",
+    "68": "本",
+    "69": "族",
+    "70": "修",
+    "71": "造",
+    "72": "奉",
+    "73": "事",
+    "74": "先",
+    "75": "祖",
+    "76": "祭",
+    "77": "器",
+    "78": "各",
+    "79": "物",
+    "80": "功",
+    "81": "用",
+    "82": "太",
+    "83": "廣",
+    "84": "財",
+    "85": "力",
+    "86": "未",
+    "87": "敷",
+    "88": "時",
+    "89": "1",
+    "90": "有",
+    "91": "族",
+    "92": "內",
+    "93": "人",
+    "94": "阮",
+    "95": "公",
+    "96": "字",
+    "97": "有",
+    "98": "晉",
+    "99": "婿",
+    "100": "子",
+    "101": "何",
+    "102": "惟",
+    "103": "善",
+    "104": "女",
+    "105": "子",
+    "106": "阮",
+    "107": "氏",
+    "108": "近",
+    "109": "念",
+    "110": "及",
+    "111": "親",
+    "112": "母",
+    "113": "生",
+    "114": "時",
+    "115": "只",
+    "116": "有",
+    "117": "生",
+    "118": "得",
+    "119": "一",
+    "120": "女",
+    "121": "慮",
+    "122": "其",
+    "123": "後",
+    "124": "日",
+    "125": "遠",
+    "126": "代",
+    "127": "何",
+    "128": "依",
+    "129": "仍",
+    "130": "此",
+    "131": "揭",
+    "132": "出",
+    "133": "青",
+    "134": "銭",
+    "135": "六",
+    "136": "十",
+    "137": "貫",
+    "138": "交",
+    "139": "與",
+    "140": "本",
+    "141": "族",
+    "142": "公",
+    "143": "支",
+    "144": "再",
+    "145": "供",
+    "146": "良",
+    "147": "田",
+    "148": "一",
+    "149": "畝",
+    "150": "一",
+    "151": "高",
+    "152": "交",
+    "153": "與",
+    "154": "本",
+    "155": "族",
+    "156": "均",
+    "157": "分",
+    "158": "族",
+    "159": "內",
+    "160": "人",
+    "161": "丁",
+    "162": "耕",
+    "163": "作",
+    "164": "以",
+    "165": "為",
+    "166": "後",
+    "167": "日",
+    "168": "之",
+    "169": "計",
+    "170": "其",
+    "171": "本",
+    "172": "族",
+    "173": "共",
+    "174": "順",
+    "175": "保",
+    "176": "伊",
+    "177": "氏",
+    "178": "親",
+    "179": "母",
+    "180": "陶",
+    "181": "氏",
+    "182": "號",
+    "183": "妙",
+    "184": "祿",
+    "185": "為",
+    "186": "后",
+    "187": "祖",
+    "188": "一",
+    "189": "位",
+    "190": "搜",
+    "191": "集",
+    "192": "謚",
+    "193": "號",
+    "194": "名",
+    "195": "字",
+    "196": "著",
+    "197": "之",
+    "198": "石",
+    "199": "碑",
+    "200": "以",
+    "201": "貽",
+    "202": "後",
+    "203": "裔",
+    "204": "俾",
+    "205": "後",
+    "206": "春",
+    "207": "常",
+    "208": "秋",
+    "209": "祀",
+    "210": "目",
+    "211": "視",
+    "212": "碑",
+    "213": "文",
+    "214": "察",
+    "215": "究",
+    "216": "本",
+    "217": "原",
+    "218": "功",
+    "219": "德",
+    "220": "為",
+    "221": "百",
+    "222": "世",
+    "223": "不",
+    "224": "遷",
+    "225": "矣",
+    "226": "茲",
+    "227": "本",
+    "228": "族",
+    "229": "會",
+    "230": "在",
+    "231": "先",
+    "232": "祖",
+    "233": "祠",
+    "234": "堂",
+    "235": "議",
+    "236": "立",
+    "237": "碑",
+    "238": "記",
+    "239": "其",
+    "240": "后",
+    "241": "祖",
+    "242": "忌",
+    "243": "日",
+    "244": "本",
+    "245": "族",
+    "246": "具",
+    "247": "辨",
+    "248": "禮",
+    "249": "物",
+    "250": "各",
+    "251": "項",
+    "252": "並",
+    "253": "田",
+    "254": "數",
+    "255": "畝",
+    "256": "高",
+    "257": "東",
+    "258": "西",
+    "259": "處",
+    "260": "所",
+    "261": "并",
+    "262": "例",
+    "263": "田",
+    "264": "銭",
+    "265": "與",
+    "266": "款",
+    "267": "待",
+    "268": "來",
+    "269": "俵",
+    "270": "伊",
+    "271": "后",
+    "272": "長",
+    "273": "男",
+    "274": "各",
+    "275": "例",
+    "276": "具",
+    "277": "陳",
+    "278": "于",
+    "279": "次",
+    "280": "因",
+    "281": "碑",
+    "282": "以",
+    "283": "自",
+    "284": "銘",
+    "285": "銘",
+    "286": "曰",
+    "287": "先",
+    "288": "后",
+    "289": "純",
+    "290": "粹",
+    "291": "天",
+    "292": "資",
+    "293": "濟",
+    "294": "人",
+    "295": "之",
+    "296": "急",
+    "297": "不",
+    "298": "吝",
+    "299": "家",
+    "300": "貲",
+    "301": "投",
+    "302": "桃",
+    "303": "報",
+    "304": "李",
+    "305": "義",
+    "306": "本",
+    "307": "心",
+    "308": "推",
+    "309": "計",
+    "310": "一",
+    "311": "例",
+    "312": "后",
+    "313": "祖",
+    "314": "忌",
+    "315": "日",
+    "316": "本",
+    "317": "族",
+    "318": "具",
+    "319": "辨",
+    "320": "猪",
+    "321": "一",
+    "322": "頭",
+    "323": "𥸷",
+    "324": "一",
+    "325": "盤",
+    "326": "酒",
+    "327": "一",
+    "328": "盂",
+    "329": "具",
+    "330": "饌",
+    "331": "一",
+    "332": "具",
+    "333": "金",
+    "334": "銀",
+    "335": "一",
+    "336": "千",
+    "337": "芙",
+    "338": "榔",
+    "339": "十",
+    "340": "菓",
+    "341": "設",
+    "342": "位",
+    "343": "在",
+    "344": "先",
+    "345": "祖",
+    "346": "祠",
+    "347": "堂",
+    "348": "之",
+    "349": "側",
+    "350": "本",
+    "351": "族",
+    "352": "供",
+    "353": "忌",
+    "354": "禮",
+    "355": "畢",
+    "356": "之",
+    "357": "後",
+    "358": "款",
+    "359": "待",
+    "360": "來",
+    "361": "俵",
+    "362": "伊",
+    "363": "后",
+    "364": "長",
+    "365": "男",
+    "366": "隨",
+    "367": "儀",
+    "368": "以",
+    "369": "重",
+    "370": "事",
+    "371": "体",
+    "372": "一",
+    "373": "例",
+    "374": "忌",
+    "375": "田",
+    "376": "本",
+    "377": "族",
+    "378": "議",
+    "379": "定",
+    "380": "每",
+    "381": "畝",
+    "382": "同",
+    "383": "年",
+    "384": "一",
+    "385": "等",
+    "386": "每",
+    "387": "畝",
+    "388": "十",
+    "389": "一",
+    "390": "方",
+    "391": "二",
+    "392": "等",
+    "393": "十",
+    "394": "方",
+    "395": "三",
+    "396": "等",
+    "397": "九",
+    "398": "方",
+    "399": "□",
+    "400": "□",
+    "401": "后",
+    "402": "祖",
+    "403": "忌",
+    "404": "日",
+    "405": "本",
+    "406": "族",
+    "407": "會",
+    "408": "在",
+    "409": "祠",
+    "410": "堂",
+    "411": "摘",
+    "412": "取",
+    "413": "例",
+    "414": "田",
+    "415": "栗",
+    "416": "子",
+    "417": "買",
+    "418": "禮",
+    "419": "供",
+    "420": "忌"
+  },
+  "text_sequence": [
+    "后",
+    "族",
+    "碑",
+    "記",
+    "寧",
+    "江",
+    "府",
+    "四",
+    "岐",
+    "縣",
+    "河",
+    "路",
+    "總",
+    "河",
+    "海",
+    "社",
+    "阮",
+    "族",
+    "耆",
+    "老",
+    "里",
+    "役",
+    "仝",
+    "族",
+    "上",
+    "下",
+    "諸",
+    "人",
+    "等",
+    "為",
+    "立",
+    "碑",
+    "記",
+    "事",
+    "聞",
+    "積",
+    "善",
+    "餘",
+    "慶",
+    "古",
+    "有",
+    "言",
+    "也",
+    "人",
+    "同",
+    "此",
+    "心",
+    "心",
+    "同",
+    "此",
+    "理",
+    "孰",
+    "不",
+    "欲",
+    "為",
+    "善",
+    "之",
+    "心",
+    "乎",
+    "緣",
+    "於",
+    "壬",
+    "寅",
+    "年",
+    "六",
+    "月",
+    "日",
+    "本",
+    "族",
+    "修",
+    "造",
+    "奉",
+    "事",
+    "先",
+    "祖",
+    "祭",
+    "器",
+    "各",
+    "物",
+    "功",
+    "用",
+    "太",
+    "廣",
+    "財",
+    "力",
+    "未",
+    "敷",
+    "時",
+    "1",
+    "有",
+    "族",
+    "內",
+    "人",
+    "阮",
+    "公",
+    "字",
+    "有",
+    "晉",
+    "婿",
+    "子",
+    "何",
+    "惟",
+    "善",
+    "女",
+    "子",
+    "阮",
+    "氏",
+    "近",
+    "念",
+    "及",
+    "親",
+    "母",
+    "生",
+    "時",
+    "只",
+    "有",
+    "生",
+    "得",
+    "一",
+    "女",
+    "慮",
+    "其",
+    "後",
+    "日",
+    "遠",
+    "代",
+    "何",
+    "依",
+    "仍",
+    "此",
+    "揭",
+    "出",
+    "青",
+    "銭",
+    "六",
+    "十",
+    "貫",
+    "交",
+    "與",
+    "本",
+    "族",
+    "公",
+    "支",
+    "再",
+    "供",
+    "良",
+    "田",
+    "一",
+    "畝",
+    "一",
+    "高",
+    "交",
+    "與",
+    "本",
+    "族",
+    "均",
+    "分",
+    "族",
+    "內",
+    "人",
+    "丁",
+    "耕",
+    "作",
+    "以",
+    "為",
+    "後",
+    "日",
+    "之",
+    "計",
+    "其",
+    "本",
+    "族",
+    "共",
+    "順",
+    "保",
+    "伊",
+    "氏",
+    "親",
+    "母",
+    "陶",
+    "氏",
+    "號",
+    "妙",
+    "祿",
+    "為",
+    "后",
+    "祖",
+    "一",
+    "位",
+    "搜",
+    "集",
+    "謚",
+    "號",
+    "名",
+    "字",
+    "著",
+    "之",
+    "石",
+    "碑",
+    "以",
+    "貽",
+    "後",
+    "裔",
+    "俾",
+    "後",
+    "春",
+    "常",
+    "秋",
+    "祀",
+    "目",
+    "視",
+    "碑",
+    "文",
+    "察",
+    "究",
+    "本",
+    "原",
+    "功",
+    "德",
+    "為",
+    "百",
+    "世",
+    "不",
+    "遷",
+    "矣",
+    "茲",
+    "本",
+    "族",
+    "會",
+    "在",
+    "先",
+    "祖",
+    "祠",
+    "堂",
+    "議",
+    "立",
+    "碑",
+    "記",
+    "其",
+    "后",
+    "祖",
+    "忌",
+    "日",
+    "本",
+    "族",
+    "具",
+    "辨",
+    "禮",
+    "物",
+    "各",
+    "項",
+    "並",
+    "田",
+    "數",
+    "畝",
+    "高",
+    "東",
+    "西",
+    "處",
+    "所",
+    "并",
+    "例",
+    "田",
+    "銭",
+    "與",
+    "款",
+    "待",
+    "來",
+    "俵",
+    "伊",
+    "后",
+    "長",
+    "男",
+    "各",
+    "例",
+    "具",
+    "陳",
+    "于",
+    "次",
+    "因",
+    "碑",
+    "以",
+    "自",
+    "銘",
+    "銘",
+    "曰",
+    "先",
+    "后",
+    "純",
+    "粹",
+    "天",
+    "資",
+    "濟",
+    "人",
+    "之",
+    "急",
+    "不",
+    "吝",
+    "家",
+    "貲",
+    "投",
+    "桃",
+    "報",
+    "李",
+    "義",
+    "本",
+    "心",
+    "推",
+    "計",
+    "一",
+    "例",
+    "后",
+    "祖",
+    "忌",
+    "日",
+    "本",
+    "族",
+    "具",
+    "辨",
+    "猪",
+    "一",
+    "頭",
+    "𥸷",
+    "一",
+    "盤",
+    "酒",
+    "一",
+    "盂",
+    "具",
+    "饌",
+    "一",
+    "具",
+    "金",
+    "銀",
+    "一",
+    "千",
+    "芙",
+    "榔",
+    "十",
+    "菓",
+    "設",
+    "位",
+    "在",
+    "先",
+    "祖",
+    "祠",
+    "堂",
+    "之",
+    "側",
+    "本",
+    "族",
+    "供",
+    "忌",
+    "禮",
+    "畢",
+    "之",
+    "後",
+    "款",
+    "待",
+    "來",
+    "俵",
+    "伊",
+    "后",
+    "長",
+    "男",
+    "隨",
+    "儀",
+    "以",
+    "重",
+    "事",
+    "体",
+    "一",
+    "例",
+    "忌",
+    "田",
+    "本",
+    "族",
+    "議",
+    "定",
+    "每",
+    "畝",
+    "同",
+    "年",
+    "一",
+    "等",
+    "每",
+    "畝",
+    "十",
+    "一",
+    "方",
+    "二",
+    "等",
+    "十",
+    "方",
+    "三",
+    "等",
+    "九",
+    "方",
+    "□",
+    "□",
+    "后",
+    "祖",
+    "忌",
+    "日",
+    "本",
+    "族",
+    "會",
+    "在",
+    "祠",
+    "堂",
+    "摘",
+    "取",
+    "例",
+    "田",
+    "栗",
+    "子",
+    "買",
+    "禮",
+    "供",
+    "忌",
+    "□",
+    "〇"
+  ],
+  "excluded_characters": [
+    "□",
+    "〇"
+  ],
+  "image_resize": {
+    "source_size": [
+      724,
+      996
+    ],
+    "output_size": [
+      724,
+      996
+    ],
+    "scale_x": 1.0,
+    "scale_y": 1.0
+  },
+  "crop": {
+    "top_left": [
+      102,
+      189
+    ],
+    "top_right": [
+      606,
+      189
+    ],
+    "bottom_right": [
+      606,
+      917
+    ],
+    "bottom_left": [
+      102,
+      917
+    ]
+  }
+}

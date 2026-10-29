@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "targets": [
+    "17077",
+    "18592"
+  ],
+  "review_only_until_model_rerun": true,
+  "allowed_geometry": {
+    "17077": [
+      "0312e4e6057bba8da9fd9341cadb4dfddd38f4e3d7a953f75e90cf8e39ae9d3f",
+      "96e9469270f198c6c65990899635b920598b482e6f8320bf883799c329c62363"
+    ],
+    "18592": [
+      "1353f18d352ef6b8e654f31e4546eb7d8a2031fa7cc6a0710f73f12725a6ce3f",
+      "ebb176dfdcb810aa9865a81e55a1af18539fdfe69f1fd1e51acbe524217d71db"
+    ]
+  }
+}

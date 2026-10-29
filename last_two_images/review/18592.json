@@ -1,0 +1,3320 @@
+[
+  {
+    "id": 1,
+    "previous_id": 1,
+    "character": "后",
+    "bbox": [
+      2380,
+      1105,
+      2630,
+      1445
+    ],
+    "group": "title",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 2,
+    "previous_id": 2,
+    "character": "佛",
+    "bbox": [
+      1910,
+      1110,
+      2165,
+      1455
+    ],
+    "group": "title",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 3,
+    "previous_id": 3,
+    "character": "三",
+    "bbox": [
+      1430,
+      1110,
+      1680,
+      1450
+    ],
+    "group": "title",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 4,
+    "previous_id": 4,
+    "character": "位",
+    "bbox": [
+      900,
+      1130,
+      1220,
+      1460
+    ],
+    "group": "title",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 5,
+    "previous_id": 5,
+    "character": "計",
+    "bbox": [
+      2765,
+      1704,
+      2945,
+      1956
+    ],
+    "group": "heading",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 6,
+    "previous_id": 6,
+    "character": "開",
+    "bbox": [
+      2765,
+      1939,
+      2945,
+      2191
+    ],
+    "group": "heading",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 7,
+    "previous_id": 7,
+    "character": "陶",
+    "bbox": [
+      2490,
+      1499,
+      2730,
+      1680
+    ],
+    "group": "A_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 8,
+    "previous_id": 8,
+    "character": "氏",
+    "bbox": [
+      2490,
+      1660,
+      2730,
+      1863
+    ],
+    "group": "A_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 9,
+    "previous_id": 9,
+    "character": "號",
+    "bbox": [
+      2490,
+      1843,
+      2730,
+      2042
+    ],
+    "group": "A_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 10,
+    "previous_id": 10,
+    "character": "妙",
+    "bbox": [
+      2490,
+      2029,
+      2730,
+      2219
+    ],
+    "group": "A_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 11,
+    "previous_id": 11,
+    "character": "金",
+    "bbox": [
+      2513,
+      2199,
+      2730,
+      2352
+    ],
+    "group": "A_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 12,
+    "previous_id": 12,
+    "character": "孺",
+    "bbox": [
+      2490,
+      2335,
+      2730,
+      2564
+    ],
+    "group": "A_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 13,
+    "previous_id": 13,
+    "character": "人",
+    "bbox": [
+      2490,
+      2544,
+      2730,
+      2771
+    ],
+    "group": "A_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 14,
+    "previous_id": 14,
+    "character": "由",
+    "bbox": [
+      2642,
+      2724,
+      2758,
+      2866
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 15,
+    "previous_id": 15,
+    "character": "本",
+    "bbox": [
+      2642,
+      2832,
+      2758,
+      2984
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 16,
+    "previous_id": 16,
+    "character": "社",
+    "bbox": [
+      2642,
+      2940,
+      2758,
+      3092
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 17,
+    "previous_id": 17,
+    "character": "前",
+    "bbox": [
+      2642,
+      3062,
+      2758,
+      3201
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 18,
+    "previous_id": 18,
+    "character": "里",
+    "bbox": [
+      2642,
+      3157,
+      2758,
+      3309
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 19,
+    "previous_id": 19,
+    "character": "長",
+    "bbox": [
+      2642,
+      3265,
+      2758,
+      3417
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 20,
+    "previous_id": 20,
+    "character": "里",
+    "bbox": [
+      2642,
+      3373,
+      2758,
+      3525
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 21,
+    "previous_id": 21,
+    "character": "長",
+    "bbox": [
+      2642,
+      3482,
+      2758,
+      3634
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 22,
+    "previous_id": 22,
+    "character": "給",
+    "bbox": [
+      2642,
+      3590,
+      2758,
+      3742
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 23,
+    "previous_id": 23,
+    "character": "憑",
+    "bbox": [
+      2642,
+      3698,
+      2758,
+      3850
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 24,
+    "previous_id": 24,
+    "character": "本",
+    "bbox": [
+      2642,
+      3806,
+      2758,
+      3958
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 25,
+    "previous_id": 25,
+    "character": "總",
+    "bbox": [
+      2642,
+      3915,
+      2758,
+      4067
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 26,
+    "previous_id": 26,
+    "character": "□",
+    "bbox": [
+      2642,
+      4023,
+      2758,
+      4175
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 27,
+    "previous_id": 27,
+    "character": "□",
+    "bbox": [
+      2642,
+      4131,
+      2758,
+      4283
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 28,
+    "previous_id": 28,
+    "character": "總",
+    "bbox": [
+      2642,
+      4239,
+      2758,
+      4391
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 29,
+    "previous_id": 29,
+    "character": "務",
+    "bbox": [
+      2642,
+      4348,
+      2758,
+      4500
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 30,
+    "previous_id": 30,
+    "character": "幹",
+    "bbox": [
+      2642,
+      4456,
+      2758,
+      4608
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 31,
+    "previous_id": 31,
+    "character": "□",
+    "bbox": [
+      2642,
+      4564,
+      2758,
+      4716
+    ],
+    "group": "A_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 32,
+    "previous_id": 32,
+    "character": "□",
+    "bbox": [
+      2488,
+      2724,
+      2602,
+      2876
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 33,
+    "previous_id": 33,
+    "character": "□",
+    "bbox": [
+      2488,
+      2832,
+      2602,
+      2984
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 34,
+    "previous_id": 34,
+    "character": "□",
+    "bbox": [
+      2488,
+      2940,
+      2602,
+      3092
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 35,
+    "previous_id": 35,
+    "character": "□",
+    "bbox": [
+      2488,
+      3049,
+      2602,
+      3201
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 36,
+    "previous_id": 36,
+    "character": "□",
+    "bbox": [
+      2488,
+      3157,
+      2602,
+      3309
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 37,
+    "previous_id": 37,
+    "character": "安",
+    "bbox": [
+      2488,
+      3265,
+      2602,
+      3417
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 38,
+    "previous_id": 38,
+    "character": "□",
+    "bbox": [
+      2488,
+      3373,
+      2602,
+      3525
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 39,
+    "previous_id": 39,
+    "character": "□",
+    "bbox": [
+      2488,
+      3482,
+      2602,
+      3634
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 40,
+    "previous_id": 40,
+    "character": "□",
+    "bbox": [
+      2488,
+      3590,
+      2602,
+      3742
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 41,
+    "previous_id": 41,
+    "character": "□",
+    "bbox": [
+      2488,
+      3698,
+      2602,
+      3850
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 42,
+    "previous_id": 42,
+    "character": "□",
+    "bbox": [
+      2488,
+      3806,
+      2602,
+      3958
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 43,
+    "previous_id": 43,
+    "character": "生",
+    "bbox": [
+      2488,
+      3915,
+      2602,
+      4067
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 44,
+    "previous_id": 44,
+    "character": "於",
+    "bbox": [
+      2488,
+      4034,
+      2602,
+      4175
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 45,
+    "previous_id": 45,
+    "character": "□",
+    "bbox": [
+      2488,
+      4131,
+      2602,
+      4283
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 46,
+    "previous_id": 46,
+    "character": "□",
+    "bbox": [
+      2488,
+      4239,
+      2602,
+      4391
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 47,
+    "previous_id": 47,
+    "character": "□",
+    "bbox": [
+      2488,
+      4348,
+      2602,
+      4500
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 48,
+    "previous_id": 48,
+    "character": "□",
+    "bbox": [
+      2488,
+      4456,
+      2602,
+      4608
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 49,
+    "previous_id": 49,
+    "character": "□",
+    "bbox": [
+      2488,
+      4564,
+      2602,
+      4716
+    ],
+    "group": "A_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 50,
+    "previous_id": 50,
+    "character": "一",
+    "bbox": [
+      2265,
+      1435,
+      2475,
+      1625
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 51,
+    "previous_id": 51,
+    "character": "捐",
+    "bbox": [
+      2265,
+      1645,
+      2473,
+      1835
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 52,
+    "previous_id": 52,
+    "character": "錢",
+    "bbox": [
+      2265,
+      1815,
+      2475,
+      2005
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 53,
+    "previous_id": 53,
+    "character": "叄",
+    "bbox": [
+      2265,
+      1945,
+      2475,
+      2135
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 54,
+    "previous_id": 54,
+    "character": "拾",
+    "bbox": [
+      2265,
+      2070,
+      2475,
+      2260
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 55,
+    "previous_id": 55,
+    "character": "貫",
+    "bbox": [
+      2265,
+      2205,
+      2475,
+      2395
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 56,
+    "previous_id": 56,
+    "character": "供",
+    "bbox": [
+      2265,
+      2415,
+      2475,
+      2605
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 57,
+    "previous_id": 57,
+    "character": "田",
+    "bbox": [
+      2265,
+      2645,
+      2475,
+      2835
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 58,
+    "previous_id": 58,
+    "character": "壹",
+    "bbox": [
+      2265,
+      2845,
+      2475,
+      3035
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 59,
+    "previous_id": 59,
+    "character": "皐",
+    "bbox": [
+      2265,
+      3010,
+      2475,
+      3200
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 60,
+    "previous_id": 60,
+    "character": "在",
+    "bbox": [
+      2265,
+      3290,
+      2475,
+      3480
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 61,
+    "previous_id": 61,
+    "character": "園",
+    "bbox": [
+      2265,
+      3470,
+      2475,
+      3655
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 62,
+    "previous_id": 62,
+    "character": "𡧲",
+    "bbox": [
+      2270,
+      3647,
+      2475,
+      3832
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 63,
+    "previous_id": 63,
+    "character": "處",
+    "bbox": [
+      2265,
+      3830,
+      2475,
+      4020
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 64,
+    "previous_id": 64,
+    "character": "東",
+    "bbox": [
+      2265,
+      4035,
+      2475,
+      4225
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 65,
+    "previous_id": 65,
+    "character": "近",
+    "bbox": [
+      2265,
+      4195,
+      2475,
+      4381
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 66,
+    "previous_id": 66,
+    "character": "阮",
+    "bbox": [
+      2276,
+      4365,
+      2475,
+      4555
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 67,
+    "previous_id": 67,
+    "character": "富",
+    "bbox": [
+      2265,
+      4500,
+      2475,
+      4690
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 68,
+    "previous_id": 68,
+    "character": "金",
+    "bbox": [
+      2265,
+      4650,
+      2475,
+      4840
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 69,
+    "previous_id": 69,
+    "character": "西",
+    "bbox": [
+      2190,
+      3968,
+      2310,
+      4132
+    ],
+    "group": "A_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 70,
+    "previous_id": 70,
+    "character": "近",
+    "bbox": [
+      2190,
+      4138,
+      2310,
+      4302
+    ],
+    "group": "A_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 71,
+    "previous_id": 71,
+    "character": "裴",
+    "bbox": [
+      2190,
+      4308,
+      2310,
+      4472
+    ],
+    "group": "A_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 72,
+    "previous_id": 72,
+    "character": "文",
+    "bbox": [
+      2190,
+      4478,
+      2310,
+      4642
+    ],
+    "group": "A_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 73,
+    "previous_id": 73,
+    "character": "彭",
+    "bbox": [
+      2190,
+      4648,
+      2310,
+      4812
+    ],
+    "group": "A_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 74,
+    "previous_id": 74,
+    "character": "原",
+    "bbox": [
+      2028,
+      1531,
+      2232,
+      1740
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 75,
+    "previous_id": 75,
+    "character": "供",
+    "bbox": [
+      2028,
+      1720,
+      2232,
+      1889
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 76,
+    "previous_id": 76,
+    "character": "前",
+    "bbox": [
+      2046,
+      1884,
+      2232,
+      2040
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 77,
+    "previous_id": 77,
+    "character": "堂",
+    "bbox": [
+      2028,
+      2036,
+      2232,
+      2213
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 78,
+    "previous_id": 78,
+    "character": "大",
+    "bbox": [
+      2028,
+      2196,
+      2232,
+      2369
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 79,
+    "previous_id": 79,
+    "character": "柱",
+    "bbox": [
+      2028,
+      2353,
+      2232,
+      2606
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 80,
+    "previous_id": 80,
+    "character": "壹",
+    "bbox": [
+      2028,
+      2586,
+      2232,
+      2842
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 81,
+    "previous_id": 81,
+    "character": "株",
+    "bbox": [
+      2028,
+      2823,
+      2232,
+      3030
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 82,
+    "previous_id": 82,
+    "character": "對",
+    "bbox": [
+      2028,
+      3010,
+      2231,
+      3165
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 83,
+    "previous_id": 83,
+    "character": "聯",
+    "bbox": [
+      2028,
+      3145,
+      2232,
+      3370
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 84,
+    "previous_id": 84,
+    "character": "壹",
+    "bbox": [
+      2028,
+      3350,
+      2232,
+      3566
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 85,
+    "previous_id": 85,
+    "character": "雙",
+    "bbox": [
+      2028,
+      3549,
+      2232,
+      3779
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 86,
+    "previous_id": 86,
+    "character": "阮",
+    "bbox": [
+      1825,
+      1508,
+      2055,
+      1703
+    ],
+    "group": "B_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 87,
+    "previous_id": 87,
+    "character": "氏",
+    "bbox": [
+      1825,
+      1683,
+      2055,
+      1904
+    ],
+    "group": "B_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 88,
+    "previous_id": 88,
+    "character": "號",
+    "bbox": [
+      1830,
+      1830,
+      2070,
+      1995
+    ],
+    "group": "B_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 89,
+    "previous_id": 89,
+    "character": "妙",
+    "bbox": [
+      1840,
+      1985,
+      2060,
+      2160
+    ],
+    "group": "B_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 90,
+    "previous_id": 90,
+    "character": "科",
+    "bbox": [
+      1840,
+      2145,
+      2075,
+      2320
+    ],
+    "group": "B_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 91,
+    "previous_id": 91,
+    "character": "由",
+    "bbox": [
+      1982,
+      2381,
+      2098,
+      2539
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 92,
+    "previous_id": 92,
+    "character": "本",
+    "bbox": [
+      1982,
+      2533,
+      2098,
+      2691
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 93,
+    "previous_id": 93,
+    "character": "村",
+    "bbox": [
+      1982,
+      2685,
+      2098,
+      2843
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 94,
+    "previous_id": 94,
+    "character": "老",
+    "bbox": [
+      1982,
+      2838,
+      2098,
+      2995
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 95,
+    "previous_id": 95,
+    "character": "饒",
+    "bbox": [
+      1982,
+      2993,
+      2098,
+      3147
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 96,
+    "previous_id": 96,
+    "character": "武",
+    "bbox": [
+      1982,
+      3142,
+      2098,
+      3300
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 97,
+    "previous_id": 97,
+    "character": "德",
+    "bbox": [
+      1982,
+      3294,
+      2098,
+      3452
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 98,
+    "previous_id": 98,
+    "character": "□",
+    "bbox": [
+      1982,
+      3446,
+      2098,
+      3604
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 99,
+    "previous_id": 99,
+    "character": "□",
+    "bbox": [
+      1982,
+      3598,
+      2098,
+      3756
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 100,
+    "previous_id": 100,
+    "character": "□",
+    "bbox": [
+      1982,
+      3750,
+      2098,
+      3908
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 101,
+    "previous_id": 101,
+    "character": "生",
+    "bbox": [
+      1982,
+      3903,
+      2098,
+      4060
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 102,
+    "previous_id": 102,
+    "character": "於",
+    "bbox": [
+      1982,
+      4055,
+      2098,
+      4212
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 103,
+    "previous_id": 103,
+    "character": "乙",
+    "bbox": [
+      1982,
+      4207,
+      2098,
+      4365
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 104,
+    "previous_id": 104,
+    "character": "丑",
+    "bbox": [
+      1982,
+      4359,
+      2098,
+      4517
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 105,
+    "previous_id": 105,
+    "character": "年",
+    "bbox": [
+      1982,
+      4511,
+      2098,
+      4669
+    ],
+    "group": "B_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 106,
+    "previous_id": 106,
+    "character": "行",
+    "bbox": [
+      1832,
+      2381,
+      1948,
+      2539
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 107,
+    "previous_id": 107,
+    "character": "庚",
+    "bbox": [
+      1832,
+      2545,
+      1948,
+      2703
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 108,
+    "previous_id": 108,
+    "character": "□",
+    "bbox": [
+      1832,
+      2709,
+      1948,
+      2867
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 109,
+    "previous_id": 109,
+    "character": "□",
+    "bbox": [
+      1832,
+      2873,
+      1948,
+      3030
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 110,
+    "previous_id": 110,
+    "character": "□",
+    "bbox": [
+      1832,
+      3037,
+      1948,
+      3194
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 111,
+    "previous_id": 111,
+    "character": "卒",
+    "bbox": [
+      1832,
+      3200,
+      1948,
+      3358
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 112,
+    "previous_id": 112,
+    "character": "於",
+    "bbox": [
+      1832,
+      3377,
+      1948,
+      3522
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 113,
+    "previous_id": 113,
+    "character": "甲",
+    "bbox": [
+      1832,
+      3528,
+      1946,
+      3686
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 114,
+    "previous_id": 114,
+    "character": "戌",
+    "bbox": [
+      1836,
+      3692,
+      1948,
+      3850
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 115,
+    "previous_id": 115,
+    "character": "年",
+    "bbox": [
+      1832,
+      3856,
+      1948,
+      4013
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 116,
+    "previous_id": 116,
+    "character": "七",
+    "bbox": [
+      1832,
+      4020,
+      1948,
+      4177
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 117,
+    "previous_id": 117,
+    "character": "月",
+    "bbox": [
+      1832,
+      4183,
+      1948,
+      4341
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 118,
+    "previous_id": 118,
+    "character": "□",
+    "bbox": [
+      1832,
+      4347,
+      1948,
+      4505
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 119,
+    "previous_id": 119,
+    "character": "□",
+    "bbox": [
+      1832,
+      4511,
+      1948,
+      4669
+    ],
+    "group": "B_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 120,
+    "previous_id": 120,
+    "character": "一",
+    "bbox": [
+      1670,
+      1497,
+      1880,
+      1662
+    ],
+    "group": "B_offering_large",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 121,
+    "previous_id": 121,
+    "character": "捐",
+    "bbox": [
+      1670,
+      1642,
+      1880,
+      1824
+    ],
+    "group": "B_offering_large",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 122,
+    "previous_id": 122,
+    "character": "錢",
+    "bbox": [
+      1670,
+      1806,
+      1880,
+      1945
+    ],
+    "group": "B_offering_large",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 123,
+    "previous_id": 123,
+    "character": "叄",
+    "bbox": [
+      1670,
+      1925,
+      1880,
+      2112
+    ],
+    "group": "B_offering_large",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 124,
+    "previous_id": 124,
+    "character": "拾",
+    "bbox": [
+      1670,
+      2092,
+      1880,
+      2268
+    ],
+    "group": "B_offering_large",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 125,
+    "previous_id": 125,
+    "character": "貫",
+    "bbox": [
+      1670,
+      2248,
+      1880,
+      2423
+    ],
+    "group": "B_offering_large",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 126,
+    "previous_id": 126,
+    "character": "供",
+    "bbox": [
+      1755,
+      2448,
+      1875,
+      2612
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 127,
+    "previous_id": 127,
+    "character": "田",
+    "bbox": [
+      1755,
+      2569,
+      1875,
+      2734
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 128,
+    "previous_id": 128,
+    "character": "貮",
+    "bbox": [
+      1755,
+      2690,
+      1875,
+      2855
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 129,
+    "previous_id": 129,
+    "character": "皐",
+    "bbox": [
+      1755,
+      2819,
+      1875,
+      2976
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 130,
+    "previous_id": 130,
+    "character": "內",
+    "bbox": [
+      1755,
+      2932,
+      1874,
+      3097
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 131,
+    "previous_id": 131,
+    "character": "壹",
+    "bbox": [
+      1755,
+      3053,
+      1875,
+      3218
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 132,
+    "previous_id": 132,
+    "character": "皐",
+    "bbox": [
+      1755,
+      3174,
+      1875,
+      3339
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 133,
+    "previous_id": 133,
+    "character": "在",
+    "bbox": [
+      1755,
+      3295,
+      1875,
+      3460
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 134,
+    "previous_id": 134,
+    "character": "池",
+    "bbox": [
+      1755,
+      3416,
+      1875,
+      3581
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 135,
+    "previous_id": 135,
+    "character": "□",
+    "bbox": [
+      1755,
+      3538,
+      1875,
+      3702
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 136,
+    "previous_id": 136,
+    "character": "東",
+    "bbox": [
+      1755,
+      3659,
+      1873,
+      3824
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 137,
+    "previous_id": 137,
+    "character": "近",
+    "bbox": [
+      1755,
+      3781,
+      1875,
+      3945
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 138,
+    "previous_id": 138,
+    "character": "武",
+    "bbox": [
+      1755,
+      3901,
+      1875,
+      4066
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 139,
+    "previous_id": 139,
+    "character": "□",
+    "bbox": [
+      1755,
+      4022,
+      1875,
+      4187
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 140,
+    "previous_id": 140,
+    "character": "□",
+    "bbox": [
+      1755,
+      4143,
+      1875,
+      4308
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 141,
+    "previous_id": 141,
+    "character": "□",
+    "bbox": [
+      1755,
+      4264,
+      1875,
+      4429
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 142,
+    "previous_id": 142,
+    "character": "西",
+    "bbox": [
+      1755,
+      4385,
+      1875,
+      4550
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 143,
+    "previous_id": 143,
+    "character": "近",
+    "bbox": [
+      1755,
+      4506,
+      1875,
+      4671
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 144,
+    "previous_id": 144,
+    "character": "□",
+    "bbox": [
+      1755,
+      4628,
+      1875,
+      4792
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 145,
+    "previous_id": 145,
+    "character": "□",
+    "bbox": [
+      1625,
+      2448,
+      1745,
+      2612
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 146,
+    "previous_id": 146,
+    "character": "□",
+    "bbox": [
+      1625,
+      2593,
+      1745,
+      2758
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 147,
+    "previous_id": 147,
+    "character": "內",
+    "bbox": [
+      1625,
+      2746,
+      1745,
+      2903
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 148,
+    "previous_id": 148,
+    "character": "壹",
+    "bbox": [
+      1625,
+      2884,
+      1745,
+      3048
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 149,
+    "previous_id": 149,
+    "character": "皋",
+    "bbox": [
+      1625,
+      3029,
+      1745,
+      3194
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 150,
+    "previous_id": 150,
+    "character": "在",
+    "bbox": [
+      1625,
+      3174,
+      1745,
+      3339
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 151,
+    "previous_id": 151,
+    "character": "海",
+    "bbox": [
+      1625,
+      3320,
+      1745,
+      3484
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 152,
+    "previous_id": 152,
+    "character": "□",
+    "bbox": [
+      1625,
+      3465,
+      1745,
+      3630
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 153,
+    "previous_id": 153,
+    "character": "社",
+    "bbox": [
+      1625,
+      3610,
+      1745,
+      3767
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 154,
+    "previous_id": 154,
+    "character": "地",
+    "bbox": [
+      1625,
+      3756,
+      1745,
+      3920
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 155,
+    "previous_id": 155,
+    "character": "分",
+    "bbox": [
+      1625,
+      3901,
+      1745,
+      4066
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 156,
+    "previous_id": 156,
+    "character": "□",
+    "bbox": [
+      1625,
+      4046,
+      1745,
+      4211
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 157,
+    "previous_id": 157,
+    "character": "□",
+    "bbox": [
+      1625,
+      4192,
+      1745,
+      4356
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 158,
+    "previous_id": 158,
+    "character": "本",
+    "bbox": [
+      1625,
+      4337,
+      1745,
+      4502
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 159,
+    "previous_id": 159,
+    "character": "村",
+    "bbox": [
+      1625,
+      4482,
+      1745,
+      4647
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 160,
+    "previous_id": 160,
+    "character": "□",
+    "bbox": [
+      1625,
+      4628,
+      1745,
+      4792
+    ],
+    "group": "B_offering_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 161,
+    "previous_id": 161,
+    "character": "原",
+    "bbox": [
+      1405,
+      1534,
+      1605,
+      1810
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 162,
+    "previous_id": 162,
+    "character": "供",
+    "bbox": [
+      1405,
+      1799,
+      1605,
+      2063
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 163,
+    "previous_id": 163,
+    "character": "對",
+    "bbox": [
+      1405,
+      2043,
+      1605,
+      2278
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 164,
+    "previous_id": 164,
+    "character": "聯",
+    "bbox": [
+      1405,
+      2268,
+      1605,
+      2476
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 165,
+    "previous_id": 165,
+    "character": "壹",
+    "bbox": [
+      1405,
+      2456,
+      1605,
+      2634
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 166,
+    "previous_id": 166,
+    "character": "雙",
+    "bbox": [
+      1405,
+      2614,
+      1605,
+      2837
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 167,
+    "previous_id": 167,
+    "character": "橫",
+    "bbox": [
+      1405,
+      2817,
+      1605,
+      2967
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 168,
+    "previous_id": 168,
+    "character": "飛",
+    "bbox": [
+      1405,
+      2956,
+      1605,
+      3156
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 169,
+    "previous_id": 169,
+    "character": "大",
+    "bbox": [
+      1405,
+      3136,
+      1605,
+      3364
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 170,
+    "previous_id": 170,
+    "character": "字",
+    "bbox": [
+      1405,
+      3344,
+      1605,
+      3590
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 171,
+    "previous_id": 171,
+    "character": "壹",
+    "bbox": [
+      1405,
+      3570,
+      1605,
+      3788
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 172,
+    "previous_id": 172,
+    "character": "片",
+    "bbox": [
+      1405,
+      3768,
+      1605,
+      3936
+    ],
+    "group": "B_original_offering",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 173,
+    "previous_id": 173,
+    "character": "梅",
+    "bbox": [
+      1085,
+      1571,
+      1315,
+      1745
+    ],
+    "group": "C_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 174,
+    "previous_id": 174,
+    "character": "氏",
+    "bbox": [
+      1085,
+      1725,
+      1315,
+      1942
+    ],
+    "group": "C_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 175,
+    "previous_id": 175,
+    "character": "號",
+    "bbox": [
+      1085,
+      1922,
+      1315,
+      2091
+    ],
+    "group": "C_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 176,
+    "previous_id": 176,
+    "character": "妙",
+    "bbox": [
+      1085,
+      2071,
+      1315,
+      2234
+    ],
+    "group": "C_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 177,
+    "previous_id": 177,
+    "character": "竹",
+    "bbox": [
+      1085,
+      2214,
+      1315,
+      2356
+    ],
+    "group": "C_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 178,
+    "previous_id": 178,
+    "character": "孺",
+    "bbox": [
+      1085,
+      2336,
+      1315,
+      2501
+    ],
+    "group": "C_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 179,
+    "previous_id": 179,
+    "character": "人",
+    "bbox": [
+      1085,
+      2481,
+      1313,
+      2687
+    ],
+    "group": "C_name",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 180,
+    "previous_id": 180,
+    "character": "由",
+    "bbox": [
+      1352,
+      2631,
+      1468,
+      2789
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 181,
+    "previous_id": 181,
+    "character": "本",
+    "bbox": [
+      1352,
+      2752,
+      1468,
+      2910
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 182,
+    "previous_id": 182,
+    "character": "村",
+    "bbox": [
+      1352,
+      2872,
+      1468,
+      3030
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 183,
+    "previous_id": 183,
+    "character": "阮",
+    "bbox": [
+      1352,
+      2993,
+      1468,
+      3151
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 184,
+    "previous_id": 184,
+    "character": "㞢",
+    "bbox": [
+      1352,
+      3114,
+      1468,
+      3271
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 185,
+    "previous_id": 185,
+    "character": "繼",
+    "bbox": [
+      1352,
+      3234,
+      1468,
+      3392
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 186,
+    "previous_id": 186,
+    "character": "室",
+    "bbox": [
+      1352,
+      3355,
+      1468,
+      3512
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 187,
+    "previous_id": 187,
+    "character": "貫",
+    "bbox": [
+      1352,
+      3476,
+      1468,
+      3633
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 188,
+    "previous_id": 188,
+    "character": "金",
+    "bbox": [
+      1352,
+      3597,
+      1468,
+      3754
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 189,
+    "previous_id": 189,
+    "character": "洞",
+    "bbox": [
+      1352,
+      3717,
+      1468,
+      3874
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 190,
+    "previous_id": 190,
+    "character": "縣",
+    "bbox": [
+      1352,
+      3837,
+      1468,
+      3995
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 191,
+    "previous_id": 191,
+    "character": "凍",
+    "bbox": [
+      1352,
+      3958,
+      1468,
+      4116
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 192,
+    "previous_id": 192,
+    "character": "魯",
+    "bbox": [
+      1352,
+      4079,
+      1468,
+      4236
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 193,
+    "previous_id": 193,
+    "character": "社",
+    "bbox": [
+      1352,
+      4199,
+      1468,
+      4357
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 194,
+    "previous_id": 194,
+    "character": "生",
+    "bbox": [
+      1352,
+      4321,
+      1468,
+      4478
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 195,
+    "previous_id": 195,
+    "character": "於",
+    "bbox": [
+      1352,
+      4440,
+      1468,
+      4598
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 196,
+    "previous_id": 196,
+    "character": "戊",
+    "bbox": [
+      1352,
+      4561,
+      1468,
+      4719
+    ],
+    "group": "C_note_right",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 197,
+    "previous_id": 197,
+    "character": "□",
+    "bbox": [
+      1200,
+      2628,
+      1320,
+      2792
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 198,
+    "previous_id": 198,
+    "character": "年",
+    "bbox": [
+      1200,
+      2748,
+      1320,
+      2909
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 199,
+    "previous_id": 199,
+    "character": "行",
+    "bbox": [
+      1200,
+      2869,
+      1320,
+      3034
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 200,
+    "previous_id": 200,
+    "character": "更",
+    "bbox": [
+      1200,
+      2989,
+      1320,
+      3152
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 201,
+    "previous_id": 201,
+    "character": "□",
+    "bbox": [
+      1200,
+      3110,
+      1320,
+      3275
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 202,
+    "previous_id": 202,
+    "character": "□",
+    "bbox": [
+      1200,
+      3231,
+      1320,
+      3396
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 203,
+    "previous_id": 203,
+    "character": "□",
+    "bbox": [
+      1200,
+      3351,
+      1320,
+      3516
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 204,
+    "previous_id": 204,
+    "character": "壽",
+    "bbox": [
+      1200,
+      3472,
+      1320,
+      3637
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 205,
+    "previous_id": 205,
+    "character": "八",
+    "bbox": [
+      1200,
+      3592,
+      1320,
+      3758
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 206,
+    "previous_id": 206,
+    "character": "十",
+    "bbox": [
+      1200,
+      3713,
+      1320,
+      3878
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 207,
+    "previous_id": 207,
+    "character": "二",
+    "bbox": [
+      1200,
+      3850,
+      1320,
+      3999
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 208,
+    "previous_id": 208,
+    "character": "忌",
+    "bbox": [
+      1200,
+      3954,
+      1320,
+      4119
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 209,
+    "previous_id": 209,
+    "character": "四",
+    "bbox": [
+      1200,
+      4075,
+      1320,
+      4237
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 210,
+    "previous_id": 210,
+    "character": "月",
+    "bbox": [
+      1200,
+      4196,
+      1320,
+      4361
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 211,
+    "previous_id": 211,
+    "character": "十",
+    "bbox": [
+      1200,
+      4316,
+      1320,
+      4481
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 212,
+    "previous_id": 212,
+    "character": "二",
+    "bbox": [
+      1200,
+      4437,
+      1320,
+      4602
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 213,
+    "previous_id": 213,
+    "character": "月",
+    "bbox": [
+      1200,
+      4558,
+      1320,
+      4722
+    ],
+    "group": "C_note_left",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 214,
+    "previous_id": 214,
+    "character": "一",
+    "bbox": [
+      840,
+      1572,
+      1040,
+      1728
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 215,
+    "previous_id": 215,
+    "character": "捐",
+    "bbox": [
+      840,
+      1722,
+      1040,
+      1878
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 216,
+    "previous_id": 216,
+    "character": "錢",
+    "bbox": [
+      840,
+      1862,
+      1040,
+      2018
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 217,
+    "previous_id": 217,
+    "character": "叄",
+    "bbox": [
+      840,
+      2002,
+      1040,
+      2158
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 218,
+    "previous_id": 218,
+    "character": "拾",
+    "bbox": [
+      840,
+      2142,
+      1040,
+      2298
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 219,
+    "previous_id": 219,
+    "character": "貫",
+    "bbox": [
+      840,
+      2292,
+      1040,
+      2448
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 220,
+    "previous_id": 220,
+    "character": "供",
+    "bbox": [
+      840,
+      2527,
+      1040,
+      2705
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 221,
+    "previous_id": 221,
+    "character": "田",
+    "bbox": [
+      840,
+      2685,
+      1040,
+      2875
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 222,
+    "previous_id": 222,
+    "character": "壹",
+    "bbox": [
+      840,
+      2865,
+      1040,
+      3055
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 223,
+    "previous_id": 223,
+    "character": "皐",
+    "bbox": [
+      840,
+      3045,
+      1040,
+      3235
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 224,
+    "previous_id": 224,
+    "character": "在",
+    "bbox": [
+      840,
+      3225,
+      1040,
+      3415
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 225,
+    "previous_id": 225,
+    "character": "池",
+    "bbox": [
+      840,
+      3405,
+      1040,
+      3595
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 226,
+    "previous_id": 226,
+    "character": "戶",
+    "bbox": [
+      840,
+      3575,
+      1040,
+      3765
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 227,
+    "previous_id": 227,
+    "character": "處",
+    "bbox": [
+      840,
+      3735,
+      1040,
+      3925
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 228,
+    "previous_id": 228,
+    "character": "東",
+    "bbox": [
+      840,
+      3935,
+      1040,
+      4125
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 229,
+    "previous_id": 229,
+    "character": "近",
+    "bbox": [
+      840,
+      4095,
+      1040,
+      4285
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 230,
+    "previous_id": 230,
+    "character": "武",
+    "bbox": [
+      840,
+      4275,
+      1040,
+      4465
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 231,
+    "previous_id": 231,
+    "character": "□",
+    "bbox": [
+      840,
+      4435,
+      1040,
+      4625
+    ],
+    "group": "C_offering_main",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 232,
+    "previous_id": 232,
+    "character": "□",
+    "bbox": [
+      823,
+      3871,
+      937,
+      4029
+    ],
+    "group": "C_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 233,
+    "previous_id": 233,
+    "character": "南",
+    "bbox": [
+      823,
+      4025,
+      937,
+      4183
+    ],
+    "group": "C_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 234,
+    "previous_id": 234,
+    "character": "近",
+    "bbox": [
+      823,
+      4179,
+      937,
+      4337
+    ],
+    "group": "C_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 235,
+    "previous_id": 235,
+    "character": "武",
+    "bbox": [
+      823,
+      4333,
+      937,
+      4491
+    ],
+    "group": "C_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 236,
+    "previous_id": 236,
+    "character": "□",
+    "bbox": [
+      823,
+      4487,
+      937,
+      4645
+    ],
+    "group": "C_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  },
+  {
+    "id": 237,
+    "previous_id": 237,
+    "character": "□",
+    "bbox": [
+      823,
+      4641,
+      937,
+      4799
+    ],
+    "group": "C_offering_small",
+    "review_required": true,
+    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+  }
+]

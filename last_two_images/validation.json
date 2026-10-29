@@ -1,0 +1,29 @@
+[
+  {
+    "image": "17077.jpg",
+    "boxes": 276,
+    "source_chars": 279,
+    "unknown_placeholders": 0,
+    "excluded": [
+      "〇",
+      "〇",
+      "〇",
+      "〇"
+    ],
+    "missing_ids": [
+      "186"
+    ],
+    "needs_visual_review": 27,
+    "real_model_run": false
+  },
+  {
+    "image": "18592.jpg",
+    "boxes": 237,
+    "source_chars": 237,
+    "unknown_placeholders": 45,
+    "excluded": [],
+    "missing_ids": [],
+    "needs_visual_review": 237,
+    "real_model_run": false
+  }
+]
