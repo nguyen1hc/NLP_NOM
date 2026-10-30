@@ -4,7 +4,7 @@
   "issue_type": [
     "other"
   ],
-  "note": "Vẽ lại theo glyph. Bỏ 36 box không xác định được vị trí; các ký tự này giữ trong Content, đưa vào Excluded để rà, không khẳng định chúng không có trên bia. Vị trí nguồn 213 (月) có dạng 日 trên ảnh: đề xuất MISS. Xem review/18592.json để đối chiếu số box mới. Nhãn đầy đủ lưu trong model_reviews/18592.json.",
+  "note": "Extra: chưa xác định. Missed: chưa xác định. Suspicious: 月/日.",
   "bounding_boxes": {
     "1": {
       "bbox": [

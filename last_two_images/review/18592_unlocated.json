@@ -1,189 +1,184 @@
 {
-  "excluded_source_positions": [
+  "unassigned_source_positions": [
     {
       "source_index": 31,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 32,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 33,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 34,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 35,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 36,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 37,
       "character": "安",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 38,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 39,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 40,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 41,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 42,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 43,
       "character": "生",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 44,
       "character": "於",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 45,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 46,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 47,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 48,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 49,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 108,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 109,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 110,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 144,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 145,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 146,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 160,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 201,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 202,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 203,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
-    },
-    {
-      "source_index": 213,
-      "character": "月",
-      "reason": "Đề xuất đối chiếu 月 trong nguồn với dạng 日 trên ảnh; cần xác nhận."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 231,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 232,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 233,
       "character": "南",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 234,
       "character": "近",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 235,
       "character": "武",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 236,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     },
     {
       "source_index": 237,
       "character": "□",
-      "reason": "Không xác định được ranh giới/vị trí từng chữ từ vùng mờ; bỏ box ước lượng theo số ký tự, giữ chữ trong Content và đưa vào Excluded để rà."
+      "reason": "Chưa định vị; không gán Extra/Missed."
     }
   ],
   "unresolved_image_regions": [

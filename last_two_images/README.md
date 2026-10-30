@@ -1,4 +1,4 @@
-# Làm lại 17077 và 18592 — gói v3
+# Làm lại 17077 và 18592 — gói v4
 
 Bản này thay box của hai ảnh 17077, 18592. Giữ nguyên dữ liệu 7 bài từ ZIP
 người dùng gửi gần nhất: 17390, 18591, 31962, 55432, 46302, 55431, 46303.
@@ -17,9 +17,11 @@ Nếu Kaggle đang có bản mới hơn của 7 bài, cell giữ bản đang có
   ứng vẫn giữ trong Content và được liệt kê trong
   `review/18592_unlocated.json` với chỉ số nguồn (đếm từ 1, gồm tiêu đề).
   Đây là các vị trí chưa ghép được, **không phải kết luận chữ không có trên bia**.
-- Box **184 mới** (213 cũ, vị trí nguồn 213) đề xuất MISS: nguồn 月, ảnh có
-  dạng 日. Giữ 月 trong Content và ghi Excluded để người dùng xác nhận.
-  Tổng Excluded 18592 là 37: 36 vị trí chưa định vị + một 月 đề xuất khác chữ.
+- Box **184 mới** (213 cũ, vị trí nguồn 213): giữ nhãn **月**, bật
+  **Suspicious** vì ảnh có dạng 日. Không gán MISS và không loại 月.
+- Không ghi các vị trí chưa định vị là Extra. `excluded_characters` rỗng;
+  36 ký tự chưa ghép nằm riêng trong `unassigned_source_characters`.
+- Note: **Extra: chưa xác định. Missed: chưa xác định. Suspicious: 月/日.**
 - 18592 còn **95 box cần rà** và các vùng chưa định vị. Gói là bản làm lại
   để kiểm tra, **chưa phải hai bài đã chốt đúng toàn bộ**. Không sử dụng số
   lượng khớp nguồn làm bằng chứng box đúng.
@@ -32,12 +34,12 @@ thành □; 18592 vẫn đủ 45 □ trong nguồn, trong đó 15 đã ghép và
 
 Các trạng thái trong dữ liệu đóng gói chưa phải kết quả model mới. Cell Kaggle
 chạy model hỏng của app trên **box cố định**, không detect lại box. Mức hỏng
-và các chữ mờ vẫn cần kiểm tra. Không tự gán Expert Prediction hoặc Suspicious.
+và các chữ mờ vẫn cần kiểm tra. Không tự gán Expert Prediction. Suspicious được bật tại 月/日 theo đối chiếu ảnh.
 
 Hai ảnh dùng Other, với nhãn đầy đủ tại `annotations/model_reviews/*.json`.
 Native `source_mismatches/*.json` chỉ chứa tọa độ theo schema của app.
-Excluded trong sidecar và bản rà là danh sách đối chiếu; không phải chức năng
-Excluded gốc của app cho loại Extra Content. Giữ nguyên cả thư mục output
+Các vị trí chưa ghép được lưu riêng, không phải Excluded. Other vẫn chỉ là
+trạng thái nháp cho bài chưa hoàn tất, chưa chốt phân loại mismatch. Giữ nguyên cả thư mục output
 hoặc dùng `my_annotations_backup.zip` để không mất các thông tin bổ sung này.
 
 Launcher đã sửa lỗi Other có nhãn nhưng không hiện chữ/màu ở Status & Order.
@@ -47,7 +49,7 @@ Gói có thêm bản code hỗ trợ ở thư mục gốc, để khôi phục đ
 ## Nạp vào Kaggle
 
 1. Tải ZIP mới `last_two_kaggle.zip`, cập nhật Dataset và phiên bản Input của
-   notebook. Chỉ gắn một Dataset có `last_two_manifest.json`; bản mới là v3.
+   notebook. Chỉ gắn một Dataset có `last_two_manifest.json`; bản mới là v4.
 2. Lưu bài và dừng web. Sau các cell cài app/model và đường dẫn, chạy
    `kaggle/kaggle_cell.py`. Giữ SOURCE_JSON trỏ tới student_114.json gốc.
 3. Cell phục hồi 7 bài nếu output trống, giữ 7 bài nếu đã có. Model chỉ chạy
@@ -76,3 +78,10 @@ app; SINONOM_REPO_DIR chỉ đến clone SinoNom-Annotation. `test_apply.py` dù
 Workflow thật kiểm tra nạp, Save/reopen, đủ nhãn trong markup Status & Order,
 backup, giữ 7 bài và chặn ghi đè box mới. Test dùng inference giả lập; model
 thật chưa chạy trong môi trường soạn gói. Hình học không thay khi model chạy.
+
+## Cập nhật riêng 18592 đang làm trên Kaggle
+
+Sau khi gắn Dataset v4, dừng web và gọi `fix_18592` trong `fix_18592.py`.
+Script giữ nguyên box, trạng thái model, Content và các bài khác; chỉ sửa nhãn
+月/Suspicious, danh sách chưa ghép và Note. Có backup trước và sau cập nhật.
+Nếu vị trí, nhãn hoặc Excluded đã được người dùng đổi khác, script dừng.

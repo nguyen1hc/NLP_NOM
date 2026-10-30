@@ -2748,7 +2748,7 @@
     "id": 184,
     "previous_id": 213,
     "source_index": 213,
-    "character": "MISS",
+    "character": "月",
     "bbox": [
       1060,
       3767,
@@ -2757,7 +2757,7 @@
     ],
     "group": "C_note_left",
     "review_required": true,
-    "reason": "Nguồn ghi 月; ảnh có dạng 日. Giữ nguyên Content, tạm ghép MISS và loại một 月; cần người dùng xác nhận.",
+    "reason": "Nguồn 月, ảnh dạng 日: giữ nhãn nguồn và bật Suspicious.",
     "source_character": "月",
     "observed_character": "日"
   },

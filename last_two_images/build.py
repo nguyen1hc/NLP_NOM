@@ -30,7 +30,7 @@ raw=json.loads((ROOT/'student_114/student_114.json').read_text())
 corrections=json.loads((OUT/'manual_box_corrections.json').read_text())
 redo=json.loads((OUT/'redo_geometry.json').read_text())
 for code in ('17077','18592'):corrections[code].update(redo[code])
-manifest={'version':3,'targets':['17077','18592'],'review_only_until_model_rerun':True,'allowed_geometry':{},'allowed_box_sets':{},
+manifest={'version':4,'targets':['17077','18592'],'review_only_until_model_rerun':True,'allowed_geometry':{},'allowed_box_sets':{},
  'preserved_user_images':sorted(preserved),'user_backup_sha256':hashlib.sha256(backup.read_bytes()).hexdigest(),
  'limitations':['55431: user ZIP has only coordinates in Other; no recovered status/labels.', '18592: uncertain geometry and proposed alignment still require review.']}
 reports=[]
@@ -59,7 +59,7 @@ for code in ('17077','18592'):
   # are only a placeholder for app loading until the Kaggle model is run.
   boxes[key]={'bbox':bbox,'status':'damaged' if label=='□' else 'intact','damage_level':3 if label=='□' else None,
               'unknown':label=='□','unavailable_font':label=='@','expert_prediction':False,
-              'suspicious':False,'order':int(key)}
+              'suspicious':bool(correction.get('suspicious',False)),'order':int(key)}
   labels[key]=label
   uncertain=correction.get('review_required',code=='18592')
   review.append({'id':int(key),'previous_id':r['id'],'source_index':r['id'] if code=='18592' else None,'character':label,'bbox':bbox,'group':r['group'],'review_required':uncertain,
@@ -67,13 +67,16 @@ for code in ('17077','18592'):
     **{k:correction[k] for k in ('source_character','observed_character') if k in correction}})
  excluded=list((Counter(characters(source))-Counter(v for v in labels.values() if v!='MISS')).elements())
  assert Counter(v for v in labels.values() if v!='MISS')+Counter(excluded)==Counter(characters(source)),code
+ unassigned=excluded if code=='18592' else []
+ if code=='18592':excluded=[]
  crop=original.get('crop') or crop_document(image,[700,750,size[0]-650,size[1]-1000],size)['crop']
  full={'image':image,'inscription_code':code,'source_text':source,'source_character_count':len(characters(source)), 'bounding_box_count':len(boxes),
        'bounding_boxes':boxes,'annotations':labels,'reading_order':list(range(1,len(boxes)+1)), 'excluded_characters':excluded,
        'crop':crop,'image_resize':original.get('image_resize') or image_resize(size,size),'image_pixel_sha256':hashlib.sha256(im.tobytes()).hexdigest(),
        'model_status':'pending_real_inference','geometry_review_complete':False,'visual_review_complete':False}
- note=('Nguồn dư bốn 〇; ảnh có 其 tại 以廣其傳 nhưng nguồn thiếu.' if code=='17077' else 'Vẽ lại theo glyph. Bỏ 36 box không xác định được vị trí; các ký tự này giữ trong Content, đưa vào Excluded để rà, không khẳng định chúng không có trên bia. Vị trí nguồn 213 (月) có dạng 日 trên ảnh: đề xuất MISS. Xem review/18592.json để đối chiếu số box mới.')
- full.update(issue_type=['other'],note=note+' Nhãn đầy đủ lưu trong model_reviews/'+code+'.json.')
+ note=('Nguồn dư bốn 〇; ảnh có 其 tại 以廣其傳 nhưng nguồn thiếu. Nhãn đầy đủ lưu trong model_reviews/17077.json.' if code=='17077' else 'Extra: chưa xác định. Missed: chưa xác định. Suspicious: 月/日.')
+ full.update(issue_type=['other'],note=note)
+ if code=='18592':full.update(unassigned_source_characters=unassigned,mismatch_classification_verified=False)
  native={k:full[k] for k in ('image','inscription_code','issue_type','note')};native['bounding_boxes']={k:{'bbox':b['bbox']} for k,b in boxes.items()}
  dest='source_mismatches/'+code+'.json';validate_source_mismatch_document(native,image,size)
  for folder in ('data','review'): (OUT/folder).mkdir(exist_ok=True)
@@ -88,12 +91,11 @@ for code in ('17077','18592'):
  paint=im.copy();d=ImageDraw.Draw(paint)
  for row in review:d.rectangle(row['bbox'],outline='#ffb000' if row['review_required'] else '#00ddff',width=4)
  paint.thumbnail((1400,2100));paint.save(OUT/f'{code}_review.png')
- reports.append({'image':image,'boxes':len(boxes),'source_chars':len(characters(source)),'unknown_placeholders':sum(v=='□' for v in labels.values()),'excluded':excluded,'missing_ids':[k for k,v in labels.items() if v=='MISS'],'needs_visual_review':sum(r['review_required'] for r in review),'real_model_run':False,'removed_unlocated_source_indices':list(map(int,redo['omit_18592'])) if code=='18592' else []})
+ reports.append({'image':image,'boxes':len(boxes),'source_chars':len(characters(source)),'unknown_placeholders':sum(v=='□' for v in labels.values()),'excluded':excluded,'unassigned_source_count':len(unassigned),'missing_ids':[k for k,v in labels.items() if v=='MISS'],'suspicious_ids':[k for k,b in boxes.items() if b['suspicious']],'needs_visual_review':sum(r['review_required'] for r in review),'real_model_run':False,'removed_unlocated_source_indices':list(map(int,redo['omit_18592'])) if code=='18592' else []})
  if code=='18592':
   tokens=characters(source)
   details=[{'source_index':int(k),'character':tokens[int(k)-1],'reason':v} for k,v in redo['omit_18592'].items()]
-  details.append({'source_index':213,'character':tokens[212],'reason':'Đề xuất đối chiếu 月 trong nguồn với dạng 日 trên ảnh; cần xác nhận.'})
-  (OUT/'review/18592_unlocated.json').write_text(json.dumps({'excluded_source_positions':sorted(details,key=lambda x:x['source_index']),'unresolved_image_regions':redo['unresolved_regions_18592']},ensure_ascii=False,indent=2)+'\n')
+  (OUT/'review/18592_unlocated.json').write_text(json.dumps({'unassigned_source_positions':sorted(details,key=lambda x:x['source_index']),'unresolved_image_regions':redo['unresolved_regions_18592']},ensure_ascii=False,indent=2)+'\n')
 (PKG/'annotations/.state/content.json').write_text(json.dumps(content,ensure_ascii=False,indent=2)+'\n');shutil.copyfile(PKG/'annotations/.state/content.json',PKG/'inscription_content.json')
 (PKG/'last_two_manifest.json').write_text(json.dumps(manifest,indent=2)+'\n');(OUT/'validation.json').write_text(json.dumps(reports,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps(reports,ensure_ascii=False,indent=2))

@@ -66,6 +66,12 @@ with tempfile.TemporaryDirectory() as temp:
         assert full['bounding_boxes']['1']['status'] == 'damaged'
         assert full['bounding_boxes']['2']['status'] == 'intact'
         assert full['annotations'] == seed['annotations']
+        if code == '18592':
+            assert full['annotations']['184'] == '月'
+            assert full['bounding_boxes']['184']['suspicious'] is True
+            assert full['excluded_characters'] == []
+            assert len(full['unassigned_source_characters']) == 36
+            assert 'MISS' not in full['annotations'].values()
         assert {k: b['bbox'] for k, b in full['bounding_boxes'].items()} == {k: b['bbox'] for k, b in seed['bounding_boxes'].items()}
         assert not (output / (code + '.json')).exists()
         state = engine.open_image(ROOT / 'student_114' / full['image'])
@@ -97,6 +103,30 @@ with tempfile.TemporaryDirectory() as temp:
         assert reopened['annotations'] == full['annotations']
         assert editor.snapshot(reopened)['markup'].count('data-box-order-label="1"') == len(full['annotations'])
     engine._preview_cache.cleanup()
+    # Upgrade a v3 sidecar without rerunning the model or replacing any boxes.
+    sidecar = output / 'model_reviews/18592.json'
+    native = output / 'source_mismatches/18592.json'
+    legacy = json.loads(sidecar.read_text())
+    legacy['annotations']['184'] = 'MISS'
+    legacy['bounding_boxes']['184']['suspicious'] = False
+    legacy['excluded_characters'] = legacy.pop('unassigned_source_characters') + ['月']
+    sidecar.write_text(json.dumps(legacy))
+    current_native = json.loads(native.read_text())
+    current_native['note'] = 'old draft note'
+    native.write_text(json.dumps(current_native))
+    protected = {p: p.read_bytes() for p in output.rglob('*') if p.is_file()
+                 and p not in (sidecar, native, output / '.state/source_mismatches/18592.json')}
+    patch = runpy.run_path(str(PACKAGE / 'fix_18592.py'))
+    with redirect_stdout(io.StringIO()):
+        patch['fix_18592'](output)
+    updated = json.loads(sidecar.read_text())
+    assert updated['annotations']['184'] == '月'
+    assert updated['bounding_boxes']['184']['suspicious']
+    assert updated['excluded_characters'] == []
+    for key, box in legacy['bounding_boxes'].items():
+        for field in ('bbox', 'status', 'damage_level', 'order'):
+            assert updated['bounding_boxes'][key].get(field) == box.get(field)
+    assert all(path.read_bytes() == value for path, value in protected.items())
     with zipfile.ZipFile(output.parent / 'my_annotations_backup.zip') as z:
         assert z.testzip() is None
         assert len(json.loads(z.read('user_work_manifest.json'))['images']) == 9

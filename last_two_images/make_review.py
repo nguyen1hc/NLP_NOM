@@ -40,7 +40,7 @@ const face=document.getElementById('face'),box=document.getElementById('box'),un
 const overview=document.getElementById('overview'),detail=document.getElementById('detail');
 let picture=new Image(), rows=[];
 function options(){
- document.getElementById('unlocated').textContent=(data[face.value].unlocated.excluded_source_positions||[]).map(r=>`${r.source_index}: ${r.character} — ${r.reason}`).join(String.fromCharCode(10));
+ document.getElementById('unlocated').textContent=(data[face.value].unlocated.unassigned_source_positions||[]).map(r=>`${r.source_index}: ${r.character} — ${r.reason}`).join(String.fromCharCode(10));
  const prior=Number(box.value); rows=data[face.value].rows.filter(r=>!uncertain.checked||r.review_required);
  box.replaceChildren(...rows.map(r=>{let o=document.createElement('option');o.value=r.id;o.textContent=`${r.id}: ${r.character}${r.review_required?' • cần rà':''}`;return o;}));
  if(rows.some(r=>r.id===prior))box.value=prior;draw();

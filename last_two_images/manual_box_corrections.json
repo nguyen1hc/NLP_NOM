@@ -540,10 +540,11 @@
         3840
       ],
       "review_required": true,
-      "reason": "Nguồn ghi 月; ảnh có dạng 日. Giữ nguyên Content, tạm ghép MISS và loại một 月; cần người dùng xác nhận.",
+      "reason": "Nguồn 月, ảnh dạng 日: giữ nhãn nguồn và bật Suspicious.",
       "observed_character": "日",
       "source_character": "月",
-      "annotation": "MISS"
+      "annotation": "月",
+      "suspicious": true
     },
     "91": {
       "bbox": [
