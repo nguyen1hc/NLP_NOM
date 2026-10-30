@@ -2,6 +2,7 @@
   {
     "id": 1,
     "previous_id": 1,
+    "source_index": 1,
     "character": "后",
     "bbox": [
       2380,
@@ -16,6 +17,7 @@
   {
     "id": 2,
     "previous_id": 2,
+    "source_index": 2,
     "character": "佛",
     "bbox": [
       1910,
@@ -30,6 +32,7 @@
   {
     "id": 3,
     "previous_id": 3,
+    "source_index": 3,
     "character": "三",
     "bbox": [
       1430,
@@ -44,6 +47,7 @@
   {
     "id": 4,
     "previous_id": 4,
+    "source_index": 4,
     "character": "位",
     "bbox": [
       900,
@@ -58,6 +62,7 @@
   {
     "id": 5,
     "previous_id": 5,
+    "source_index": 5,
     "character": "計",
     "bbox": [
       2765,
@@ -72,6 +77,7 @@
   {
     "id": 6,
     "previous_id": 6,
+    "source_index": 6,
     "character": "開",
     "bbox": [
       2765,
@@ -86,1182 +92,982 @@
   {
     "id": 7,
     "previous_id": 7,
+    "source_index": 7,
     "character": "陶",
     "bbox": [
-      2490,
-      1499,
-      2730,
-      1680
+      2510,
+      1500,
+      2750,
+      1685
     ],
     "group": "A_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà từng chữ trong cột tên bên phải; box theo nét, không chia đều chiều cao."
   },
   {
     "id": 8,
     "previous_id": 8,
+    "source_index": 8,
     "character": "氏",
     "bbox": [
-      2490,
-      1660,
-      2730,
-      1863
+      2510,
+      1700,
+      2750,
+      1845
     ],
     "group": "A_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà từng chữ trong cột tên bên phải; box theo nét, không chia đều chiều cao."
   },
   {
     "id": 9,
     "previous_id": 9,
+    "source_index": 9,
     "character": "號",
     "bbox": [
-      2490,
-      1843,
-      2730,
-      2042
+      2510,
+      1860,
+      2750,
+      2015
     ],
     "group": "A_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà từng chữ trong cột tên bên phải; box theo nét, không chia đều chiều cao."
   },
   {
     "id": 10,
     "previous_id": 10,
+    "source_index": 10,
     "character": "妙",
     "bbox": [
-      2490,
-      2029,
-      2730,
-      2219
+      2510,
+      2040,
+      2750,
+      2205
     ],
     "group": "A_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà từng chữ trong cột tên bên phải; box theo nét, không chia đều chiều cao."
   },
   {
     "id": 11,
     "previous_id": 11,
+    "source_index": 11,
     "character": "金",
     "bbox": [
-      2513,
-      2199,
-      2730,
-      2352
+      2510,
+      2220,
+      2750,
+      2340
     ],
     "group": "A_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà từng chữ trong cột tên bên phải; box theo nét, không chia đều chiều cao."
   },
   {
     "id": 12,
     "previous_id": 12,
+    "source_index": 12,
     "character": "孺",
     "bbox": [
-      2490,
-      2335,
-      2730,
-      2564
+      2510,
+      2400,
+      2750,
+      2555
     ],
     "group": "A_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà từng chữ trong cột tên bên phải; box theo nét, không chia đều chiều cao."
   },
   {
     "id": 13,
     "previous_id": 13,
+    "source_index": 13,
     "character": "人",
     "bbox": [
-      2490,
-      2544,
-      2730,
-      2771
+      2510,
+      2560,
+      2750,
+      2695
     ],
     "group": "A_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà từng chữ trong cột tên bên phải; box theo nét, không chia đều chiều cao."
   },
   {
     "id": 14,
     "previous_id": 14,
+    "source_index": 14,
     "character": "由",
     "bbox": [
-      2672,
-      2724,
-      2788,
-      2866
+      2655,
+      2690,
+      2810,
+      2770
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 15,
     "previous_id": 15,
+    "source_index": 15,
     "character": "本",
     "bbox": [
-      2672,
-      2832,
-      2788,
-      2984
+      2655,
+      2775,
+      2810,
+      2855
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 16,
     "previous_id": 16,
+    "source_index": 16,
     "character": "社",
     "bbox": [
-      2672,
-      2940,
-      2788,
-      3092
+      2655,
+      2860,
+      2810,
+      2950
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 17,
     "previous_id": 17,
+    "source_index": 17,
     "character": "前",
     "bbox": [
-      2672,
-      3062,
-      2788,
-      3201
+      2655,
+      2955,
+      2810,
+      3040
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 18,
     "previous_id": 18,
+    "source_index": 18,
     "character": "里",
     "bbox": [
-      2672,
-      3157,
-      2788,
-      3309
+      2655,
+      3045,
+      2810,
+      3120
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 19,
     "previous_id": 19,
+    "source_index": 19,
     "character": "長",
     "bbox": [
-      2672,
-      3265,
-      2788,
-      3417
+      2655,
+      3125,
+      2810,
+      3205
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 20,
     "previous_id": 20,
+    "source_index": 20,
     "character": "里",
     "bbox": [
-      2672,
-      3373,
-      2788,
-      3525
+      2655,
+      3210,
+      2810,
+      3280
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 21,
     "previous_id": 21,
+    "source_index": 21,
     "character": "長",
     "bbox": [
-      2672,
-      3482,
-      2788,
-      3634
+      2655,
+      3285,
+      2810,
+      3360
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 22,
     "previous_id": 22,
+    "source_index": 22,
     "character": "給",
     "bbox": [
-      2672,
-      3590,
-      2788,
-      3742
+      2655,
+      3365,
+      2810,
+      3460
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 23,
     "previous_id": 23,
+    "source_index": 23,
     "character": "憑",
     "bbox": [
-      2672,
-      3698,
-      2788,
-      3850
+      2655,
+      3465,
+      2810,
+      3550
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 24,
     "previous_id": 24,
+    "source_index": 24,
     "character": "本",
     "bbox": [
-      2672,
-      3806,
-      2788,
-      3958
+      2655,
+      3555,
+      2810,
+      3640
     ],
     "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 25,
     "previous_id": 25,
+    "source_index": 25,
     "character": "總",
     "bbox": [
-      2672,
-      3915,
-      2788,
-      4067
+      2655,
+      3645,
+      2810,
+      3760
     ],
     "group": "A_note_right",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 26,
     "previous_id": 26,
+    "source_index": 26,
     "character": "□",
     "bbox": [
-      2672,
-      4023,
-      2788,
-      4175
+      2655,
+      3765,
+      2810,
+      3880
     ],
     "group": "A_note_right",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 27,
     "previous_id": 27,
+    "source_index": 27,
     "character": "□",
     "bbox": [
-      2672,
-      4131,
-      2788,
-      4283
+      2655,
+      3885,
+      2810,
+      4000
     ],
     "group": "A_note_right",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 28,
     "previous_id": 28,
+    "source_index": 28,
     "character": "總",
     "bbox": [
-      2672,
-      4239,
-      2788,
-      4391
+      2655,
+      4005,
+      2810,
+      4115
     ],
     "group": "A_note_right",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 29,
     "previous_id": 29,
+    "source_index": 29,
     "character": "務",
     "bbox": [
-      2672,
-      4348,
-      2788,
-      4500
+      2655,
+      4120,
+      2810,
+      4240
     ],
     "group": "A_note_right",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 30,
     "previous_id": 30,
+    "source_index": 30,
     "character": "幹",
     "bbox": [
-      2672,
-      4456,
-      2788,
-      4608
+      2655,
+      4245,
+      2810,
+      4375
     ],
     "group": "A_note_right",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Rà cột ghi chú phải dưới 陶氏; các chỗ mất nét giữ cờ cần rà."
   },
   {
     "id": 31,
-    "previous_id": 31,
-    "character": "□",
-    "bbox": [
-      2672,
-      4564,
-      2788,
-      4716
-    ],
-    "group": "A_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 32,
-    "previous_id": 32,
-    "character": "□",
-    "bbox": [
-      2513,
-      2724,
-      2627,
-      2876
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 33,
-    "previous_id": 33,
-    "character": "□",
-    "bbox": [
-      2513,
-      2832,
-      2627,
-      2984
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 34,
-    "previous_id": 34,
-    "character": "□",
-    "bbox": [
-      2513,
-      2940,
-      2627,
-      3092
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 35,
-    "previous_id": 35,
-    "character": "□",
-    "bbox": [
-      2513,
-      3049,
-      2627,
-      3201
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 36,
-    "previous_id": 36,
-    "character": "□",
-    "bbox": [
-      2513,
-      3157,
-      2627,
-      3309
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 37,
-    "previous_id": 37,
-    "character": "安",
-    "bbox": [
-      2513,
-      3265,
-      2627,
-      3417
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 38,
-    "previous_id": 38,
-    "character": "□",
-    "bbox": [
-      2513,
-      3373,
-      2627,
-      3525
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 39,
-    "previous_id": 39,
-    "character": "□",
-    "bbox": [
-      2513,
-      3482,
-      2627,
-      3634
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 40,
-    "previous_id": 40,
-    "character": "□",
-    "bbox": [
-      2513,
-      3590,
-      2627,
-      3742
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 41,
-    "previous_id": 41,
-    "character": "□",
-    "bbox": [
-      2513,
-      3698,
-      2627,
-      3850
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 42,
-    "previous_id": 42,
-    "character": "□",
-    "bbox": [
-      2513,
-      3806,
-      2627,
-      3958
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 43,
-    "previous_id": 43,
-    "character": "生",
-    "bbox": [
-      2513,
-      3915,
-      2627,
-      4067
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 44,
-    "previous_id": 44,
-    "character": "於",
-    "bbox": [
-      2513,
-      4034,
-      2627,
-      4175
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 45,
-    "previous_id": 45,
-    "character": "□",
-    "bbox": [
-      2513,
-      4131,
-      2627,
-      4283
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 46,
-    "previous_id": 46,
-    "character": "□",
-    "bbox": [
-      2513,
-      4239,
-      2627,
-      4391
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 47,
-    "previous_id": 47,
-    "character": "□",
-    "bbox": [
-      2513,
-      4348,
-      2627,
-      4500
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 48,
-    "previous_id": 48,
-    "character": "□",
-    "bbox": [
-      2513,
-      4456,
-      2627,
-      4608
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 49,
-    "previous_id": 49,
-    "character": "□",
-    "bbox": [
-      2513,
-      4564,
-      2627,
-      4716
-    ],
-    "group": "A_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 50,
     "previous_id": 50,
+    "source_index": 50,
     "character": "一",
     "bbox": [
-      2265,
-      1435,
-      2475,
+      2280,
+      1515,
+      2480,
       1625
     ],
     "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 51,
+    "id": 32,
     "previous_id": 51,
+    "source_index": 51,
     "character": "捐",
     "bbox": [
-      2265,
-      1645,
-      2473,
-      1835
+      2280,
+      1650,
+      2480,
+      1810
     ],
     "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 52,
+    "id": 33,
     "previous_id": 52,
+    "source_index": 52,
     "character": "錢",
     "bbox": [
-      2265,
-      1815,
-      2475,
-      2005
+      2280,
+      1825,
+      2480,
+      1960
     ],
     "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 53,
+    "id": 34,
     "previous_id": 53,
+    "source_index": 53,
     "character": "叄",
     "bbox": [
-      2265,
-      1945,
-      2475,
-      2135
+      2280,
+      1970,
+      2480,
+      2095
     ],
     "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 54,
+    "id": 35,
     "previous_id": 54,
+    "source_index": 54,
     "character": "拾",
     "bbox": [
-      2265,
-      2070,
-      2475,
-      2260
+      2280,
+      2105,
+      2480,
+      2225
     ],
     "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 55,
+    "id": 36,
     "previous_id": 55,
+    "source_index": 55,
     "character": "貫",
     "bbox": [
-      2265,
-      2205,
-      2475,
-      2395
+      2280,
+      2235,
+      2480,
+      2420
     ],
     "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 56,
+    "id": 37,
     "previous_id": 56,
+    "source_index": 56,
     "character": "供",
     "bbox": [
-      2265,
-      2415,
-      2475,
-      2605
+      2280,
+      2710,
+      2480,
+      2845
     ],
     "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 57,
+    "id": 38,
     "previous_id": 57,
+    "source_index": 57,
     "character": "田",
     "bbox": [
-      2265,
-      2645,
-      2475,
-      2835
+      2280,
+      2865,
+      2480,
+      2970
     ],
     "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 58,
+    "id": 39,
     "previous_id": 58,
+    "source_index": 58,
     "character": "壹",
     "bbox": [
-      2265,
-      2845,
-      2475,
-      3035
+      2280,
+      2980,
+      2480,
+      3145
     ],
     "group": "A_offering_main",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 59,
+    "id": 40,
     "previous_id": 59,
+    "source_index": 59,
     "character": "皐",
     "bbox": [
-      2265,
-      3010,
-      2475,
-      3200
+      2280,
+      3150,
+      2480,
+      3335
     ],
     "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
   },
   {
-    "id": 60,
+    "id": 41,
     "previous_id": 60,
+    "source_index": 60,
     "character": "在",
     "bbox": [
-      2265,
-      3290,
-      2475,
+      2280,
+      3340,
+      2480,
       3480
     ],
     "group": "A_offering_main",
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
+  },
+  {
+    "id": 42,
+    "previous_id": 61,
+    "source_index": 61,
+    "character": "園",
+    "bbox": [
+      2280,
+      3490,
+      2480,
+      3645
+    ],
+    "group": "A_offering_main",
+    "review_required": false,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
+  },
+  {
+    "id": 43,
+    "previous_id": 62,
+    "source_index": 62,
+    "character": "𡧲",
+    "bbox": [
+      2280,
+      3655,
+      2480,
+      3835
+    ],
+    "group": "A_offering_main",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
+  },
+  {
+    "id": 44,
+    "previous_id": 63,
+    "source_index": 63,
+    "character": "處",
+    "bbox": [
+      2280,
+      3850,
+      2480,
+      4000
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Vẽ lại cột tiền/ruộng theo từng glyph; khoảng trống sau 貫 không sinh thêm box."
+  },
+  {
+    "id": 45,
+    "previous_id": 64,
+    "source_index": 64,
+    "character": "東",
+    "bbox": [
+      2425,
+      3990,
+      2555,
+      4115
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Sau 處, ghi chú chuyển sang cột nhỏ bên phải."
+  },
+  {
+    "id": 46,
+    "previous_id": 65,
+    "source_index": 65,
+    "character": "近",
+    "bbox": [
+      2425,
+      4120,
+      2555,
+      4240
+    ],
+    "group": "A_offering_main",
+    "review_required": false,
+    "reason": "Sau 處, ghi chú chuyển sang cột nhỏ bên phải."
+  },
+  {
+    "id": 47,
+    "previous_id": 66,
+    "source_index": 66,
+    "character": "阮",
+    "bbox": [
+      2425,
+      4250,
+      2555,
+      4360
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Sau 處, ghi chú chuyển sang cột nhỏ bên phải."
+  },
+  {
+    "id": 48,
+    "previous_id": 67,
+    "source_index": 67,
+    "character": "富",
+    "bbox": [
+      2425,
+      4365,
+      2555,
+      4465
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Sau 處, ghi chú chuyển sang cột nhỏ bên phải."
+  },
+  {
+    "id": 49,
+    "previous_id": 68,
+    "source_index": 68,
+    "character": "金",
+    "bbox": [
+      2425,
+      4470,
+      2555,
+      4580
+    ],
+    "group": "A_offering_main",
+    "review_required": true,
+    "reason": "Sau 處, ghi chú chuyển sang cột nhỏ bên phải."
+  },
+  {
+    "id": 50,
+    "previous_id": 69,
+    "source_index": 69,
+    "character": "西",
+    "bbox": [
+      2280,
+      4000,
+      2420,
+      4165
+    ],
+    "group": "A_offering_small",
+    "review_required": true,
+    "reason": "Cột nhỏ bên trái 西近裴文彭, không nối dưới cột chữ lớn."
+  },
+  {
+    "id": 51,
+    "previous_id": 70,
+    "source_index": 70,
+    "character": "近",
+    "bbox": [
+      2280,
+      4170,
+      2420,
+      4270
+    ],
+    "group": "A_offering_small",
+    "review_required": false,
+    "reason": "Cột nhỏ bên trái 西近裴文彭, không nối dưới cột chữ lớn."
+  },
+  {
+    "id": 52,
+    "previous_id": 71,
+    "source_index": 71,
+    "character": "裴",
+    "bbox": [
+      2280,
+      4275,
+      2420,
+      4380
+    ],
+    "group": "A_offering_small",
+    "review_required": true,
+    "reason": "Cột nhỏ bên trái 西近裴文彭, không nối dưới cột chữ lớn."
+  },
+  {
+    "id": 53,
+    "previous_id": 72,
+    "source_index": 72,
+    "character": "文",
+    "bbox": [
+      2280,
+      4385,
+      2420,
+      4465
+    ],
+    "group": "A_offering_small",
+    "review_required": false,
+    "reason": "Cột nhỏ bên trái 西近裴文彭, không nối dưới cột chữ lớn."
+  },
+  {
+    "id": 54,
+    "previous_id": 73,
+    "source_index": 73,
+    "character": "彭",
+    "bbox": [
+      2280,
+      4470,
+      2420,
+      4600
+    ],
+    "group": "A_offering_small",
+    "review_required": false,
+    "reason": "Cột nhỏ bên trái 西近裴文彭, không nối dưới cột chữ lớn."
+  },
+  {
+    "id": 55,
+    "previous_id": 74,
+    "source_index": 74,
+    "character": "原",
+    "bbox": [
+      2050,
+      1560,
+      2255,
+      1755
+    ],
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
+  },
+  {
+    "id": 56,
+    "previous_id": 75,
+    "source_index": 75,
+    "character": "供",
+    "bbox": [
+      2050,
+      1765,
+      2255,
+      1875
+    ],
+    "group": "A_original_offering",
+    "review_required": true,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
+  },
+  {
+    "id": 57,
+    "previous_id": 76,
+    "source_index": 76,
+    "character": "前",
+    "bbox": [
+      2050,
+      1885,
+      2255,
+      2045
+    ],
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
+  },
+  {
+    "id": 58,
+    "previous_id": 77,
+    "source_index": 77,
+    "character": "堂",
+    "bbox": [
+      2050,
+      2055,
+      2255,
+      2200
+    ],
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
+  },
+  {
+    "id": 59,
+    "previous_id": 78,
+    "source_index": 78,
+    "character": "大",
+    "bbox": [
+      2050,
+      2210,
+      2255,
+      2370
+    ],
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
+  },
+  {
+    "id": 60,
+    "previous_id": 79,
+    "source_index": 79,
+    "character": "柱",
+    "bbox": [
+      2050,
+      2380,
+      2255,
+      2510
+    ],
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
   },
   {
     "id": 61,
-    "previous_id": 61,
-    "character": "園",
+    "previous_id": 80,
+    "source_index": 80,
+    "character": "壹",
     "bbox": [
-      2265,
-      3470,
-      2475,
-      3655
+      2050,
+      2520,
+      2255,
+      2680
     ],
-    "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
   },
   {
     "id": 62,
-    "previous_id": 62,
-    "character": "𡧲",
+    "previous_id": 81,
+    "source_index": 81,
+    "character": "株",
     "bbox": [
-      2270,
-      3647,
-      2475,
-      3832
+      2050,
+      2690,
+      2255,
+      2840
     ],
-    "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
   },
   {
     "id": 63,
-    "previous_id": 63,
-    "character": "處",
+    "previous_id": 82,
+    "source_index": 82,
+    "character": "對",
     "bbox": [
-      2265,
-      3830,
-      2475,
-      4020
+      2050,
+      2855,
+      2255,
+      3025
     ],
-    "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
   },
   {
     "id": 64,
-    "previous_id": 64,
-    "character": "東",
+    "previous_id": 83,
+    "source_index": 83,
+    "character": "聯",
     "bbox": [
-      2265,
-      4035,
-      2475,
-      4225
+      2050,
+      3035,
+      2255,
+      3185
     ],
-    "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
   },
   {
     "id": 65,
-    "previous_id": 65,
-    "character": "近",
+    "previous_id": 84,
+    "source_index": 84,
+    "character": "壹",
     "bbox": [
-      2265,
-      4195,
-      2475,
-      4381
+      2050,
+      3195,
+      2255,
+      3325
     ],
-    "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "A_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
   },
   {
     "id": 66,
-    "previous_id": 66,
-    "character": "阮",
+    "previous_id": 85,
+    "source_index": 85,
+    "character": "雙",
     "bbox": [
-      2276,
-      4365,
-      2475,
-      4555
+      2050,
+      3335,
+      2255,
+      3565
     ],
-    "group": "A_offering_main",
+    "group": "A_original_offering",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột 原供前堂大柱壹株對聯壹雙 kết thúc ở khoảng y=3505, bỏ box kéo xuống đáy."
   },
   {
     "id": 67,
-    "previous_id": 67,
-    "character": "富",
+    "previous_id": 86,
+    "source_index": 86,
+    "character": "阮",
     "bbox": [
-      2265,
-      4500,
-      2475,
-      4690
+      1815,
+      1530,
+      2095,
+      1665
     ],
-    "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_name",
+    "review_required": false,
+    "reason": "Vẽ lại năm chữ 阮氏號妙科 trên nét chữ lớn."
   },
   {
     "id": 68,
-    "previous_id": 68,
-    "character": "金",
+    "previous_id": 87,
+    "source_index": 87,
+    "character": "氏",
     "bbox": [
-      2265,
-      4650,
-      2475,
-      4840
+      1815,
+      1670,
+      2095,
+      1820
     ],
-    "group": "A_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_name",
+    "review_required": false,
+    "reason": "Vẽ lại năm chữ 阮氏號妙科 trên nét chữ lớn."
   },
   {
     "id": 69,
-    "previous_id": 69,
-    "character": "西",
+    "previous_id": 88,
+    "source_index": 88,
+    "character": "號",
     "bbox": [
-      2190,
-      3968,
-      2310,
-      4132
+      1815,
+      1825,
+      2095,
+      1960
     ],
-    "group": "A_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_name",
+    "review_required": false,
+    "reason": "Vẽ lại năm chữ 阮氏號妙科 trên nét chữ lớn."
   },
   {
     "id": 70,
-    "previous_id": 70,
-    "character": "近",
+    "previous_id": 89,
+    "source_index": 89,
+    "character": "妙",
     "bbox": [
-      2190,
-      4138,
-      2310,
-      4302
+      1815,
+      1970,
+      2095,
+      2095
     ],
-    "group": "A_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_name",
+    "review_required": false,
+    "reason": "Vẽ lại năm chữ 阮氏號妙科 trên nét chữ lớn."
   },
   {
     "id": 71,
-    "previous_id": 71,
-    "character": "裴",
+    "previous_id": 90,
+    "source_index": 90,
+    "character": "科",
     "bbox": [
-      2190,
-      4308,
-      2310,
-      4472
+      1815,
+      2105,
+      2095,
+      2285
     ],
-    "group": "A_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_name",
+    "review_required": false,
+    "reason": "Vẽ lại năm chữ 阮氏號妙科 trên nét chữ lớn."
   },
   {
     "id": 72,
-    "previous_id": 72,
-    "character": "文",
-    "bbox": [
-      2190,
-      4478,
-      2310,
-      4642
-    ],
-    "group": "A_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 73,
-    "previous_id": 73,
-    "character": "彭",
-    "bbox": [
-      2190,
-      4648,
-      2310,
-      4812
-    ],
-    "group": "A_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 74,
-    "previous_id": 74,
-    "character": "原",
-    "bbox": [
-      2028,
-      1531,
-      2232,
-      1740
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 75,
-    "previous_id": 75,
-    "character": "供",
-    "bbox": [
-      2028,
-      1720,
-      2232,
-      1889
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 76,
-    "previous_id": 76,
-    "character": "前",
-    "bbox": [
-      2046,
-      1884,
-      2232,
-      2040
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 77,
-    "previous_id": 77,
-    "character": "堂",
-    "bbox": [
-      2028,
-      2036,
-      2232,
-      2213
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 78,
-    "previous_id": 78,
-    "character": "大",
-    "bbox": [
-      2028,
-      2196,
-      2232,
-      2369
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 79,
-    "previous_id": 79,
-    "character": "柱",
-    "bbox": [
-      2028,
-      2353,
-      2232,
-      2606
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 80,
-    "previous_id": 80,
-    "character": "壹",
-    "bbox": [
-      2028,
-      2586,
-      2232,
-      2842
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 81,
-    "previous_id": 81,
-    "character": "株",
-    "bbox": [
-      2028,
-      2823,
-      2232,
-      3030
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 82,
-    "previous_id": 82,
-    "character": "對",
-    "bbox": [
-      2028,
-      3010,
-      2231,
-      3165
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 83,
-    "previous_id": 83,
-    "character": "聯",
-    "bbox": [
-      2028,
-      3145,
-      2232,
-      3370
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 84,
-    "previous_id": 84,
-    "character": "壹",
-    "bbox": [
-      2028,
-      3350,
-      2232,
-      3566
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 85,
-    "previous_id": 85,
-    "character": "雙",
-    "bbox": [
-      2028,
-      3549,
-      2232,
-      3779
-    ],
-    "group": "A_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 86,
-    "previous_id": 86,
-    "character": "阮",
-    "bbox": [
-      1825,
-      1508,
-      2055,
-      1703
-    ],
-    "group": "B_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 87,
-    "previous_id": 87,
-    "character": "氏",
-    "bbox": [
-      1825,
-      1683,
-      2055,
-      1904
-    ],
-    "group": "B_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 88,
-    "previous_id": 88,
-    "character": "號",
-    "bbox": [
-      1830,
-      1830,
-      2070,
-      1995
-    ],
-    "group": "B_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 89,
-    "previous_id": 89,
-    "character": "妙",
-    "bbox": [
-      1840,
-      1985,
-      2060,
-      2160
-    ],
-    "group": "B_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 90,
-    "previous_id": 90,
-    "character": "科",
-    "bbox": [
-      1840,
-      2145,
-      2075,
-      2320
-    ],
-    "group": "B_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 91,
     "previous_id": 91,
+    "source_index": 91,
     "character": "由",
     "bbox": [
       1900,
@@ -1274,8 +1080,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 92,
+    "id": 73,
     "previous_id": 92,
+    "source_index": 92,
     "character": "本",
     "bbox": [
       1900,
@@ -1288,8 +1095,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 93,
+    "id": 74,
     "previous_id": 93,
+    "source_index": 93,
     "character": "村",
     "bbox": [
       1900,
@@ -1302,8 +1110,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 94,
+    "id": 75,
     "previous_id": 94,
+    "source_index": 94,
     "character": "老",
     "bbox": [
       1900,
@@ -1316,8 +1125,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 95,
+    "id": 76,
     "previous_id": 95,
+    "source_index": 95,
     "character": "饒",
     "bbox": [
       1900,
@@ -1330,8 +1140,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 96,
+    "id": 77,
     "previous_id": 96,
+    "source_index": 96,
     "character": "武",
     "bbox": [
       1900,
@@ -1344,8 +1155,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 97,
+    "id": 78,
     "previous_id": 97,
+    "source_index": 97,
     "character": "德",
     "bbox": [
       1900,
@@ -1358,8 +1170,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 98,
+    "id": 79,
     "previous_id": 98,
+    "source_index": 98,
     "character": "□",
     "bbox": [
       1900,
@@ -1372,8 +1185,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 99,
+    "id": 80,
     "previous_id": 99,
+    "source_index": 99,
     "character": "□",
     "bbox": [
       1900,
@@ -1386,8 +1200,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 100,
+    "id": 81,
     "previous_id": 100,
+    "source_index": 100,
     "character": "□",
     "bbox": [
       1900,
@@ -1400,8 +1215,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 101,
+    "id": 82,
     "previous_id": 101,
+    "source_index": 101,
     "character": "生",
     "bbox": [
       1900,
@@ -1414,8 +1230,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 102,
+    "id": 83,
     "previous_id": 102,
+    "source_index": 102,
     "character": "於",
     "bbox": [
       1900,
@@ -1428,8 +1245,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 103,
+    "id": 84,
     "previous_id": 103,
+    "source_index": 103,
     "character": "乙",
     "bbox": [
       1900,
@@ -1442,8 +1260,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 104,
+    "id": 85,
     "previous_id": 104,
+    "source_index": 104,
     "character": "丑",
     "bbox": [
       1900,
@@ -1456,8 +1275,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 105,
+    "id": 86,
     "previous_id": 105,
+    "source_index": 105,
     "character": "年",
     "bbox": [
       1900,
@@ -1470,8 +1290,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 106,
+    "id": 87,
     "previous_id": 106,
+    "source_index": 106,
     "character": "行",
     "bbox": [
       1900,
@@ -1484,8 +1305,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 107,
+    "id": 88,
     "previous_id": 107,
+    "source_index": 107,
     "character": "庚",
     "bbox": [
       1900,
@@ -1498,50 +1320,9 @@
     "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
   },
   {
-    "id": 108,
-    "previous_id": 108,
-    "character": "□",
-    "bbox": [
-      1900,
-      4610,
-      2045,
-      4670
-    ],
-    "group": "B_note_left",
-    "review_required": true,
-    "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
-  },
-  {
-    "id": 109,
-    "previous_id": 109,
-    "character": "□",
-    "bbox": [
-      1900,
-      4670,
-      2045,
-      4735
-    ],
-    "group": "B_note_left",
-    "review_required": true,
-    "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
-  },
-  {
-    "id": 110,
-    "previous_id": 110,
-    "character": "□",
-    "bbox": [
-      1900,
-      4735,
-      2045,
-      4800
-    ],
-    "group": "B_note_left",
-    "review_required": true,
-    "reason": "Chỉnh cột phải và nối 行庚□□□ xuống cuối cột; vùng mờ cần rà."
-  },
-  {
-    "id": 111,
+    "id": 89,
     "previous_id": 111,
+    "source_index": 111,
     "character": "卒",
     "bbox": [
       1778,
@@ -1554,8 +1335,9 @@
     "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
   },
   {
-    "id": 112,
+    "id": 90,
     "previous_id": 112,
+    "source_index": 112,
     "character": "於",
     "bbox": [
       1778,
@@ -1568,8 +1350,9 @@
     "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
   },
   {
-    "id": 113,
+    "id": 91,
     "previous_id": 113,
+    "source_index": 113,
     "character": "甲",
     "bbox": [
       1778,
@@ -1582,8 +1365,9 @@
     "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
   },
   {
-    "id": 114,
+    "id": 92,
     "previous_id": 114,
+    "source_index": 114,
     "character": "戌",
     "bbox": [
       1778,
@@ -1596,8 +1380,9 @@
     "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
   },
   {
-    "id": 115,
+    "id": 93,
     "previous_id": 115,
+    "source_index": 115,
     "character": "年",
     "bbox": [
       1778,
@@ -1610,8 +1395,9 @@
     "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
   },
   {
-    "id": 116,
+    "id": 94,
     "previous_id": 116,
+    "source_index": 116,
     "character": "七",
     "bbox": [
       1778,
@@ -1624,8 +1410,9 @@
     "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
   },
   {
-    "id": 117,
+    "id": 95,
     "previous_id": 117,
+    "source_index": 117,
     "character": "月",
     "bbox": [
       1778,
@@ -1638,8 +1425,9 @@
     "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
   },
   {
-    "id": 118,
+    "id": 96,
     "previous_id": 118,
+    "source_index": 118,
     "character": "□",
     "bbox": [
       1778,
@@ -1652,8 +1440,9 @@
     "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
   },
   {
-    "id": 119,
+    "id": 97,
     "previous_id": 119,
+    "source_index": 119,
     "character": "□",
     "bbox": [
       1778,
@@ -1666,848 +1455,849 @@
     "reason": "Cột trái bắt đầu ở 卒, không bắt đầu ở 行; cần rà các nét mờ."
   },
   {
-    "id": 120,
+    "id": 98,
     "previous_id": 120,
+    "source_index": 120,
     "character": "一",
     "bbox": [
-      1670,
-      1497,
-      1880,
-      1662
+      1620,
+      1540,
+      1855,
+      1655
+    ],
+    "group": "B_offering_large",
+    "review_required": false,
+    "reason": "Rà riêng sáu chữ 一捐錢叄拾貫, không ghép phần tên cạnh bên."
+  },
+  {
+    "id": 99,
+    "previous_id": 121,
+    "source_index": 121,
+    "character": "捐",
+    "bbox": [
+      1620,
+      1665,
+      1855,
+      1815
+    ],
+    "group": "B_offering_large",
+    "review_required": false,
+    "reason": "Rà riêng sáu chữ 一捐錢叄拾貫, không ghép phần tên cạnh bên."
+  },
+  {
+    "id": 100,
+    "previous_id": 122,
+    "source_index": 122,
+    "character": "錢",
+    "bbox": [
+      1620,
+      1825,
+      1855,
+      1955
+    ],
+    "group": "B_offering_large",
+    "review_required": false,
+    "reason": "Rà riêng sáu chữ 一捐錢叄拾貫, không ghép phần tên cạnh bên."
+  },
+  {
+    "id": 101,
+    "previous_id": 123,
+    "source_index": 123,
+    "character": "叄",
+    "bbox": [
+      1620,
+      1965,
+      1855,
+      2080
+    ],
+    "group": "B_offering_large",
+    "review_required": false,
+    "reason": "Rà riêng sáu chữ 一捐錢叄拾貫, không ghép phần tên cạnh bên."
+  },
+  {
+    "id": 102,
+    "previous_id": 124,
+    "source_index": 124,
+    "character": "拾",
+    "bbox": [
+      1620,
+      2090,
+      1855,
+      2220
+    ],
+    "group": "B_offering_large",
+    "review_required": false,
+    "reason": "Rà riêng sáu chữ 一捐錢叄拾貫, không ghép phần tên cạnh bên."
+  },
+  {
+    "id": 103,
+    "previous_id": 125,
+    "source_index": 125,
+    "character": "貫",
+    "bbox": [
+      1620,
+      2225,
+      1855,
+      2395
     ],
     "group": "B_offering_large",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Rà riêng sáu chữ 一捐錢叄拾貫, không ghép phần tên cạnh bên."
+  },
+  {
+    "id": 104,
+    "previous_id": 126,
+    "source_index": 126,
+    "character": "供",
+    "bbox": [
+      1610,
+      2510,
+      1785,
+      2635
+    ],
+    "group": "B_offering_note_right",
+    "review_required": false,
+    "reason": "Bốn chữ 供田貮皐 ở đầu chung, rồi mới chia làm hai cột ghi chú nhỏ."
+  },
+  {
+    "id": 105,
+    "previous_id": 127,
+    "source_index": 127,
+    "character": "田",
+    "bbox": [
+      1610,
+      2645,
+      1785,
+      2740
+    ],
+    "group": "B_offering_note_right",
+    "review_required": false,
+    "reason": "Bốn chữ 供田貮皐 ở đầu chung, rồi mới chia làm hai cột ghi chú nhỏ."
+  },
+  {
+    "id": 106,
+    "previous_id": 128,
+    "source_index": 128,
+    "character": "貮",
+    "bbox": [
+      1610,
+      2750,
+      1785,
+      2860
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Bốn chữ 供田貮皐 ở đầu chung, rồi mới chia làm hai cột ghi chú nhỏ."
+  },
+  {
+    "id": 107,
+    "previous_id": 129,
+    "source_index": 129,
+    "character": "皐",
+    "bbox": [
+      1610,
+      2865,
+      1785,
+      3035
+    ],
+    "group": "B_offering_note_right",
+    "review_required": false,
+    "reason": "Bốn chữ 供田貮皐 ở đầu chung, rồi mới chia làm hai cột ghi chú nhỏ."
+  },
+  {
+    "id": 108,
+    "previous_id": 130,
+    "source_index": 130,
+    "character": "內",
+    "bbox": [
+      1695,
+      3050,
+      1805,
+      3165
+    ],
+    "group": "B_offering_note_right",
+    "review_required": false,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 109,
+    "previous_id": 131,
+    "source_index": 131,
+    "character": "壹",
+    "bbox": [
+      1695,
+      3170,
+      1805,
+      3280
+    ],
+    "group": "B_offering_note_right",
+    "review_required": false,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 110,
+    "previous_id": 132,
+    "source_index": 132,
+    "character": "皐",
+    "bbox": [
+      1695,
+      3285,
+      1805,
+      3375
+    ],
+    "group": "B_offering_note_right",
+    "review_required": false,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 111,
+    "previous_id": 133,
+    "source_index": 133,
+    "character": "在",
+    "bbox": [
+      1695,
+      3380,
+      1805,
+      3475
+    ],
+    "group": "B_offering_note_right",
+    "review_required": false,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 112,
+    "previous_id": 134,
+    "source_index": 134,
+    "character": "池",
+    "bbox": [
+      1695,
+      3480,
+      1805,
+      3590
+    ],
+    "group": "B_offering_note_right",
+    "review_required": false,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 113,
+    "previous_id": 135,
+    "source_index": 135,
+    "character": "□",
+    "bbox": [
+      1695,
+      3595,
+      1805,
+      3700
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 114,
+    "previous_id": 136,
+    "source_index": 136,
+    "character": "東",
+    "bbox": [
+      1695,
+      3705,
+      1805,
+      3800
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 115,
+    "previous_id": 137,
+    "source_index": 137,
+    "character": "近",
+    "bbox": [
+      1695,
+      3805,
+      1805,
+      3910
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 116,
+    "previous_id": 138,
+    "source_index": 138,
+    "character": "武",
+    "bbox": [
+      1695,
+      3915,
+      1805,
+      4030
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 117,
+    "previous_id": 139,
+    "source_index": 139,
+    "character": "□",
+    "bbox": [
+      1695,
+      4035,
+      1805,
+      4130
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 118,
+    "previous_id": 140,
+    "source_index": 140,
+    "character": "□",
+    "bbox": [
+      1695,
+      4135,
+      1805,
+      4225
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 119,
+    "previous_id": 141,
+    "source_index": 141,
+    "character": "□",
+    "bbox": [
+      1695,
+      4230,
+      1805,
+      4330
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
+  },
+  {
+    "id": 120,
+    "previous_id": 142,
+    "source_index": 142,
+    "character": "西",
+    "bbox": [
+      1695,
+      4335,
+      1805,
+      4430
+    ],
+    "group": "B_offering_note_right",
+    "review_required": true,
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
   },
   {
     "id": 121,
-    "previous_id": 121,
-    "character": "捐",
+    "previous_id": 143,
+    "source_index": 143,
+    "character": "近",
     "bbox": [
-      1670,
-      1642,
-      1880,
-      1824
+      1695,
+      4435,
+      1805,
+      4535
     ],
-    "group": "B_offering_large",
+    "group": "B_offering_note_right",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột nhỏ phải của phần ruộng; vùng cuối bị mờ, giữ cờ cần rà."
   },
   {
     "id": 122,
-    "previous_id": 122,
-    "character": "錢",
+    "previous_id": 147,
+    "source_index": 147,
+    "character": "內",
     "bbox": [
-      1670,
-      1806,
-      1880,
-      1945
+      1550,
+      3045,
+      1710,
+      3160
     ],
-    "group": "B_offering_large",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_offering_note_left",
+    "review_required": false,
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 123,
-    "previous_id": 123,
-    "character": "叄",
+    "previous_id": 148,
+    "source_index": 148,
+    "character": "壹",
     "bbox": [
-      1670,
-      1925,
-      1880,
-      2112
+      1550,
+      3170,
+      1710,
+      3250
     ],
-    "group": "B_offering_large",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_offering_note_left",
+    "review_required": false,
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 124,
-    "previous_id": 124,
-    "character": "拾",
+    "previous_id": 149,
+    "source_index": 149,
+    "character": "皋",
     "bbox": [
-      1670,
-      2092,
-      1880,
-      2268
+      1550,
+      3255,
+      1710,
+      3350
     ],
-    "group": "B_offering_large",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_offering_note_left",
+    "review_required": false,
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 125,
-    "previous_id": 125,
-    "character": "貫",
+    "previous_id": 150,
+    "source_index": 150,
+    "character": "在",
     "bbox": [
-      1670,
-      2248,
-      1880,
-      2423
+      1550,
+      3360,
+      1710,
+      3450
     ],
-    "group": "B_offering_large",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_offering_note_left",
+    "review_required": false,
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 126,
-    "previous_id": 126,
-    "character": "供",
+    "previous_id": 151,
+    "source_index": 151,
+    "character": "海",
     "bbox": [
-      1690,
-      2448,
-      1810,
-      2612
+      1550,
+      3460,
+      1710,
+      3570
     ],
-    "group": "B_offering_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_offering_note_left",
+    "review_required": false,
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 127,
-    "previous_id": 127,
-    "character": "田",
+    "previous_id": 152,
+    "source_index": 152,
+    "character": "□",
     "bbox": [
-      1690,
-      2569,
-      1810,
-      2734
+      1550,
+      3575,
+      1710,
+      3670
     ],
-    "group": "B_offering_note_right",
+    "group": "B_offering_note_left",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 128,
-    "previous_id": 128,
-    "character": "貮",
+    "previous_id": 153,
+    "source_index": 153,
+    "character": "社",
     "bbox": [
-      1690,
-      2690,
-      1810,
-      2855
+      1550,
+      3675,
+      1710,
+      3760
     ],
-    "group": "B_offering_note_right",
+    "group": "B_offering_note_left",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 129,
-    "previous_id": 129,
-    "character": "皐",
+    "previous_id": 154,
+    "source_index": 154,
+    "character": "地",
     "bbox": [
-      1690,
-      2819,
-      1810,
-      2976
+      1550,
+      3765,
+      1710,
+      3850
     ],
-    "group": "B_offering_note_right",
+    "group": "B_offering_note_left",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 130,
-    "previous_id": 130,
-    "character": "內",
+    "previous_id": 155,
+    "source_index": 155,
+    "character": "分",
     "bbox": [
-      1690,
-      2932,
-      1809,
-      3097
+      1550,
+      3855,
+      1710,
+      3985
     ],
-    "group": "B_offering_note_right",
+    "group": "B_offering_note_left",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 131,
-    "previous_id": 131,
-    "character": "壹",
+    "previous_id": 156,
+    "source_index": 156,
+    "character": "□",
     "bbox": [
-      1690,
-      3053,
-      1810,
-      3218
+      1550,
+      3990,
+      1710,
+      4080
     ],
-    "group": "B_offering_note_right",
+    "group": "B_offering_note_left",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 132,
-    "previous_id": 132,
-    "character": "皐",
+    "previous_id": 157,
+    "source_index": 157,
+    "character": "□",
     "bbox": [
-      1690,
-      3174,
-      1810,
-      3339
+      1550,
+      4085,
+      1710,
+      4165
     ],
-    "group": "B_offering_note_right",
+    "group": "B_offering_note_left",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 133,
-    "previous_id": 133,
-    "character": "在",
+    "previous_id": 158,
+    "source_index": 158,
+    "character": "本",
     "bbox": [
-      1690,
-      3295,
-      1810,
-      3460
+      1550,
+      4170,
+      1710,
+      4265
     ],
-    "group": "B_offering_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_offering_note_left",
+    "review_required": false,
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 134,
-    "previous_id": 134,
-    "character": "池",
+    "previous_id": 159,
+    "source_index": 159,
+    "character": "村",
     "bbox": [
-      1690,
-      3416,
-      1810,
-      3581
+      1550,
+      4270,
+      1710,
+      4370
     ],
-    "group": "B_offering_note_right",
+    "group": "B_offering_note_left",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột nhỏ trái bắt đầu từ 內壹皋在海; không đặt các □ cuối cột phải vào đầu cột này."
   },
   {
     "id": 135,
-    "previous_id": 135,
-    "character": "□",
+    "previous_id": 161,
+    "source_index": 161,
+    "character": "原",
     "bbox": [
-      1690,
-      3538,
-      1810,
-      3702
+      1360,
+      1560,
+      1615,
+      1735
     ],
-    "group": "B_offering_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 136,
-    "previous_id": 136,
-    "character": "東",
+    "previous_id": 162,
+    "source_index": 162,
+    "character": "供",
     "bbox": [
-      1690,
-      3659,
-      1808,
-      3824
+      1360,
+      1750,
+      1615,
+      1890
     ],
-    "group": "B_offering_note_right",
+    "group": "B_original_offering",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 137,
-    "previous_id": 137,
-    "character": "近",
+    "previous_id": 163,
+    "source_index": 163,
+    "character": "對",
     "bbox": [
-      1690,
-      3781,
-      1810,
-      3945
+      1360,
+      1900,
+      1615,
+      2050
     ],
-    "group": "B_offering_note_right",
+    "group": "B_original_offering",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 138,
-    "previous_id": 138,
-    "character": "武",
+    "previous_id": 164,
+    "source_index": 164,
+    "character": "聯",
     "bbox": [
-      1690,
-      3901,
-      1810,
-      4066
+      1360,
+      2060,
+      1615,
+      2210
     ],
-    "group": "B_offering_note_right",
+    "group": "B_original_offering",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 139,
-    "previous_id": 139,
-    "character": "□",
+    "previous_id": 165,
+    "source_index": 165,
+    "character": "壹",
     "bbox": [
-      1690,
-      4022,
-      1810,
-      4187
+      1360,
+      2220,
+      1615,
+      2325
     ],
-    "group": "B_offering_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 140,
-    "previous_id": 140,
-    "character": "□",
+    "previous_id": 166,
+    "source_index": 166,
+    "character": "雙",
     "bbox": [
-      1690,
-      4143,
-      1810,
-      4308
+      1360,
+      2335,
+      1615,
+      2480
     ],
-    "group": "B_offering_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 141,
-    "previous_id": 141,
-    "character": "□",
+    "previous_id": 167,
+    "source_index": 167,
+    "character": "橫",
     "bbox": [
-      1690,
-      4264,
-      1810,
-      4429
+      1360,
+      2490,
+      1615,
+      2650
     ],
-    "group": "B_offering_note_right",
+    "group": "B_original_offering",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 142,
-    "previous_id": 142,
-    "character": "西",
+    "previous_id": 168,
+    "source_index": 168,
+    "character": "飛",
     "bbox": [
-      1690,
-      4385,
-      1810,
-      4550
+      1360,
+      2660,
+      1615,
+      2810
     ],
-    "group": "B_offering_note_right",
+    "group": "B_original_offering",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 143,
-    "previous_id": 143,
-    "character": "近",
+    "previous_id": 169,
+    "source_index": 169,
+    "character": "大",
     "bbox": [
-      1690,
-      4506,
-      1810,
-      4671
+      1360,
+      2820,
+      1615,
+      2950
     ],
-    "group": "B_offering_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 144,
-    "previous_id": 144,
-    "character": "□",
+    "previous_id": 170,
+    "source_index": 170,
+    "character": "字",
     "bbox": [
-      1690,
-      4628,
-      1810,
-      4792
+      1360,
+      2960,
+      1615,
+      3120
     ],
-    "group": "B_offering_note_right",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 145,
-    "previous_id": 145,
-    "character": "□",
+    "previous_id": 171,
+    "source_index": 171,
+    "character": "壹",
     "bbox": [
-      1590,
-      2448,
-      1710,
-      2612
+      1360,
+      3130,
+      1615,
+      3305
     ],
-    "group": "B_offering_note_left",
+    "group": "B_original_offering",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 146,
-    "previous_id": 146,
-    "character": "□",
+    "previous_id": 172,
+    "source_index": 172,
+    "character": "片",
     "bbox": [
-      1590,
-      2593,
-      1710,
-      2758
+      1360,
+      3310,
+      1615,
+      3460
     ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "B_original_offering",
+    "review_required": false,
+    "reason": "Cột 原供對聯壹雙橫飛大字壹片 kết thúc khoảng y=3460."
   },
   {
     "id": 147,
-    "previous_id": 147,
-    "character": "內",
+    "previous_id": 173,
+    "source_index": 173,
+    "character": "梅",
     "bbox": [
-      1590,
-      2746,
-      1710,
-      2903
+      1060,
+      1535,
+      1335,
+      1740
     ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "C_name",
+    "review_required": false,
+    "reason": "Rà cột 梅氏號妙竹孺人 theo đường nét thực tế."
   },
   {
     "id": 148,
-    "previous_id": 148,
-    "character": "壹",
+    "previous_id": 174,
+    "source_index": 174,
+    "character": "氏",
     "bbox": [
-      1590,
-      2884,
-      1710,
-      3048
+      1060,
+      1745,
+      1335,
+      1895
     ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "C_name",
+    "review_required": false,
+    "reason": "Rà cột 梅氏號妙竹孺人 theo đường nét thực tế."
   },
   {
     "id": 149,
-    "previous_id": 149,
-    "character": "皋",
+    "previous_id": 175,
+    "source_index": 175,
+    "character": "號",
     "bbox": [
-      1590,
-      3029,
-      1710,
-      3194
+      1060,
+      1900,
+      1335,
+      2055
     ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "C_name",
+    "review_required": false,
+    "reason": "Rà cột 梅氏號妙竹孺人 theo đường nét thực tế."
   },
   {
     "id": 150,
-    "previous_id": 150,
-    "character": "在",
+    "previous_id": 176,
+    "source_index": 176,
+    "character": "妙",
     "bbox": [
-      1590,
-      3174,
-      1710,
-      3339
+      1060,
+      2060,
+      1335,
+      2205
     ],
-    "group": "B_offering_note_left",
+    "group": "C_name",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Rà cột 梅氏號妙竹孺人 theo đường nét thực tế."
   },
   {
     "id": 151,
-    "previous_id": 151,
-    "character": "海",
+    "previous_id": 177,
+    "source_index": 177,
+    "character": "竹",
     "bbox": [
-      1590,
-      3320,
-      1710,
-      3484
+      1060,
+      2210,
+      1335,
+      2350
     ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "C_name",
+    "review_required": false,
+    "reason": "Rà cột 梅氏號妙竹孺人 theo đường nét thực tế."
   },
   {
     "id": 152,
-    "previous_id": 152,
-    "character": "□",
+    "previous_id": 178,
+    "source_index": 178,
+    "character": "孺",
     "bbox": [
-      1590,
-      3465,
-      1710,
-      3630
+      1060,
+      2355,
+      1335,
+      2505
     ],
-    "group": "B_offering_note_left",
+    "group": "C_name",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Rà cột 梅氏號妙竹孺人 theo đường nét thực tế."
   },
   {
     "id": 153,
-    "previous_id": 153,
-    "character": "社",
+    "previous_id": 179,
+    "source_index": 179,
+    "character": "人",
     "bbox": [
-      1590,
-      3610,
-      1710,
-      3767
+      1060,
+      2510,
+      1335,
+      2635
     ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "group": "C_name",
+    "review_required": false,
+    "reason": "Rà cột 梅氏號妙竹孺人 theo đường nét thực tế."
   },
   {
     "id": 154,
-    "previous_id": 154,
-    "character": "地",
-    "bbox": [
-      1590,
-      3756,
-      1710,
-      3920
-    ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 155,
-    "previous_id": 155,
-    "character": "分",
-    "bbox": [
-      1590,
-      3901,
-      1710,
-      4066
-    ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 156,
-    "previous_id": 156,
-    "character": "□",
-    "bbox": [
-      1590,
-      4046,
-      1710,
-      4211
-    ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 157,
-    "previous_id": 157,
-    "character": "□",
-    "bbox": [
-      1590,
-      4192,
-      1710,
-      4356
-    ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 158,
-    "previous_id": 158,
-    "character": "本",
-    "bbox": [
-      1590,
-      4337,
-      1710,
-      4502
-    ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 159,
-    "previous_id": 159,
-    "character": "村",
-    "bbox": [
-      1590,
-      4482,
-      1710,
-      4647
-    ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 160,
-    "previous_id": 160,
-    "character": "□",
-    "bbox": [
-      1590,
-      4628,
-      1710,
-      4792
-    ],
-    "group": "B_offering_note_left",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 161,
-    "previous_id": 161,
-    "character": "原",
-    "bbox": [
-      1405,
-      1534,
-      1605,
-      1810
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 162,
-    "previous_id": 162,
-    "character": "供",
-    "bbox": [
-      1405,
-      1799,
-      1605,
-      2063
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 163,
-    "previous_id": 163,
-    "character": "對",
-    "bbox": [
-      1405,
-      2043,
-      1605,
-      2278
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 164,
-    "previous_id": 164,
-    "character": "聯",
-    "bbox": [
-      1405,
-      2268,
-      1605,
-      2476
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 165,
-    "previous_id": 165,
-    "character": "壹",
-    "bbox": [
-      1405,
-      2456,
-      1605,
-      2634
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 166,
-    "previous_id": 166,
-    "character": "雙",
-    "bbox": [
-      1405,
-      2614,
-      1605,
-      2837
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 167,
-    "previous_id": 167,
-    "character": "橫",
-    "bbox": [
-      1405,
-      2817,
-      1605,
-      2967
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 168,
-    "previous_id": 168,
-    "character": "飛",
-    "bbox": [
-      1405,
-      2956,
-      1605,
-      3156
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 169,
-    "previous_id": 169,
-    "character": "大",
-    "bbox": [
-      1405,
-      3136,
-      1605,
-      3364
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 170,
-    "previous_id": 170,
-    "character": "字",
-    "bbox": [
-      1405,
-      3344,
-      1605,
-      3590
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 171,
-    "previous_id": 171,
-    "character": "壹",
-    "bbox": [
-      1405,
-      3570,
-      1605,
-      3788
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 172,
-    "previous_id": 172,
-    "character": "片",
-    "bbox": [
-      1405,
-      3768,
-      1605,
-      3936
-    ],
-    "group": "B_original_offering",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 173,
-    "previous_id": 173,
-    "character": "梅",
-    "bbox": [
-      1085,
-      1571,
-      1315,
-      1745
-    ],
-    "group": "C_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 174,
-    "previous_id": 174,
-    "character": "氏",
-    "bbox": [
-      1085,
-      1725,
-      1315,
-      1942
-    ],
-    "group": "C_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 175,
-    "previous_id": 175,
-    "character": "號",
-    "bbox": [
-      1085,
-      1922,
-      1315,
-      2091
-    ],
-    "group": "C_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 176,
-    "previous_id": 176,
-    "character": "妙",
-    "bbox": [
-      1085,
-      2071,
-      1315,
-      2234
-    ],
-    "group": "C_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 177,
-    "previous_id": 177,
-    "character": "竹",
-    "bbox": [
-      1085,
-      2214,
-      1315,
-      2356
-    ],
-    "group": "C_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 178,
-    "previous_id": 178,
-    "character": "孺",
-    "bbox": [
-      1085,
-      2336,
-      1315,
-      2501
-    ],
-    "group": "C_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 179,
-    "previous_id": 179,
-    "character": "人",
-    "bbox": [
-      1085,
-      2481,
-      1313,
-      2687
-    ],
-    "group": "C_name",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 180,
     "previous_id": 180,
+    "source_index": 180,
     "character": "由",
     "bbox": [
       1205,
@@ -2520,8 +2310,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 181,
+    "id": 155,
     "previous_id": 181,
+    "source_index": 181,
     "character": "本",
     "bbox": [
       1205,
@@ -2534,8 +2325,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 182,
+    "id": 156,
     "previous_id": 182,
+    "source_index": 182,
     "character": "村",
     "bbox": [
       1205,
@@ -2548,8 +2340,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 183,
+    "id": 157,
     "previous_id": 183,
+    "source_index": 183,
     "character": "阮",
     "bbox": [
       1205,
@@ -2562,8 +2355,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 184,
+    "id": 158,
     "previous_id": 184,
+    "source_index": 184,
     "character": "㞢",
     "bbox": [
       1205,
@@ -2576,8 +2370,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 185,
+    "id": 159,
     "previous_id": 185,
+    "source_index": 185,
     "character": "繼",
     "bbox": [
       1205,
@@ -2590,8 +2385,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 186,
+    "id": 160,
     "previous_id": 186,
+    "source_index": 186,
     "character": "室",
     "bbox": [
       1205,
@@ -2604,8 +2400,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 187,
+    "id": 161,
     "previous_id": 187,
+    "source_index": 187,
     "character": "貫",
     "bbox": [
       1205,
@@ -2618,8 +2415,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 188,
+    "id": 162,
     "previous_id": 188,
+    "source_index": 188,
     "character": "金",
     "bbox": [
       1205,
@@ -2632,8 +2430,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 189,
+    "id": 163,
     "previous_id": 189,
+    "source_index": 189,
     "character": "洞",
     "bbox": [
       1205,
@@ -2646,8 +2445,9 @@
     "reason": "Đối chiếu các chữ đầu cột trên ảnh; bỏ cách chia đều theo dòng PDF."
   },
   {
-    "id": 190,
+    "id": 164,
     "previous_id": 190,
+    "source_index": 190,
     "character": "縣",
     "bbox": [
       1205,
@@ -2660,8 +2460,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 191,
+    "id": 165,
     "previous_id": 191,
+    "source_index": 191,
     "character": "凍",
     "bbox": [
       1205,
@@ -2674,8 +2475,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 192,
+    "id": 166,
     "previous_id": 192,
+    "source_index": 192,
     "character": "魯",
     "bbox": [
       1205,
@@ -2688,8 +2490,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 193,
+    "id": 167,
     "previous_id": 193,
+    "source_index": 193,
     "character": "社",
     "bbox": [
       1205,
@@ -2702,8 +2505,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 194,
+    "id": 168,
     "previous_id": 194,
+    "source_index": 194,
     "character": "生",
     "bbox": [
       1205,
@@ -2716,8 +2520,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 195,
+    "id": 169,
     "previous_id": 195,
+    "source_index": 195,
     "character": "於",
     "bbox": [
       1205,
@@ -2730,8 +2535,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 196,
+    "id": 170,
     "previous_id": 196,
+    "source_index": 196,
     "character": "戊",
     "bbox": [
       1205,
@@ -2744,8 +2550,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 197,
+    "id": 171,
     "previous_id": 197,
+    "source_index": 197,
     "character": "□",
     "bbox": [
       1205,
@@ -2758,8 +2565,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 198,
+    "id": 172,
     "previous_id": 198,
+    "source_index": 198,
     "character": "年",
     "bbox": [
       1205,
@@ -2772,8 +2580,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 199,
+    "id": 173,
     "previous_id": 199,
+    "source_index": 199,
     "character": "行",
     "bbox": [
       1205,
@@ -2786,8 +2595,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 200,
+    "id": 174,
     "previous_id": 200,
+    "source_index": 200,
     "character": "更",
     "bbox": [
       1205,
@@ -2800,50 +2610,9 @@
     "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
   },
   {
-    "id": 201,
-    "previous_id": 201,
-    "character": "□",
-    "bbox": [
-      1205,
-      4610,
-      1350,
-      4670
-    ],
-    "group": "C_note_left",
-    "review_required": true,
-    "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
-  },
-  {
-    "id": 202,
-    "previous_id": 202,
-    "character": "□",
-    "bbox": [
-      1205,
-      4670,
-      1350,
-      4730
-    ],
-    "group": "C_note_left",
-    "review_required": true,
-    "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
-  },
-  {
-    "id": 203,
-    "previous_id": 203,
-    "character": "□",
-    "bbox": [
-      1205,
-      4730,
-      1350,
-      4800
-    ],
-    "group": "C_note_left",
-    "review_required": true,
-    "reason": "Cột ghi chú phải tiếp tục qua vị trí 197–203; các nét mờ ở cuối cột chưa xác minh."
-  },
-  {
-    "id": 204,
+    "id": 175,
     "previous_id": 204,
+    "source_index": 204,
     "character": "壽",
     "bbox": [
       1090,
@@ -2856,8 +2625,9 @@
     "reason": "Rà riêng cụm 壽八十二: 壽 là một chữ cao; 八 nhỏ nằm phía trên 十, không chia 壽 thành hai box."
   },
   {
-    "id": 205,
+    "id": 176,
     "previous_id": 205,
+    "source_index": 205,
     "character": "八",
     "bbox": [
       1090,
@@ -2870,8 +2640,9 @@
     "reason": "Rà riêng cụm 壽八十二: 壽 là một chữ cao; 八 nhỏ nằm phía trên 十, không chia 壽 thành hai box."
   },
   {
-    "id": 206,
+    "id": 177,
     "previous_id": 206,
+    "source_index": 206,
     "character": "十",
     "bbox": [
       1090,
@@ -2884,8 +2655,9 @@
     "reason": "Rà riêng cụm 壽八十二: 壽 là một chữ cao; 八 nhỏ nằm phía trên 十, không chia 壽 thành hai box."
   },
   {
-    "id": 207,
+    "id": 178,
     "previous_id": 207,
+    "source_index": 207,
     "character": "二",
     "bbox": [
       1085,
@@ -2898,8 +2670,9 @@
     "reason": "Rà riêng cụm 壽八十二: 壽 là một chữ cao; 八 nhỏ nằm phía trên 十, không chia 壽 thành hai box."
   },
   {
-    "id": 208,
+    "id": 179,
     "previous_id": 208,
+    "source_index": 208,
     "character": "忌",
     "bbox": [
       1060,
@@ -2912,8 +2685,9 @@
     "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
   },
   {
-    "id": 209,
+    "id": 180,
     "previous_id": 209,
+    "source_index": 209,
     "character": "四",
     "bbox": [
       1060,
@@ -2926,8 +2700,9 @@
     "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
   },
   {
-    "id": 210,
+    "id": 181,
     "previous_id": 210,
+    "source_index": 210,
     "character": "月",
     "bbox": [
       1060,
@@ -2940,8 +2715,9 @@
     "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
   },
   {
-    "id": 211,
+    "id": 182,
     "previous_id": 211,
+    "source_index": 211,
     "character": "十",
     "bbox": [
       1060,
@@ -2954,8 +2730,9 @@
     "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
   },
   {
-    "id": 212,
+    "id": 183,
     "previous_id": 212,
+    "source_index": 212,
     "character": "二",
     "bbox": [
       1060,
@@ -2968,8 +2745,9 @@
     "reason": "Cột ghi chú trái bắt đầu bằng 壽; không đặt bảy chữ cuối cột phải ở đây."
   },
   {
-    "id": 213,
+    "id": 184,
     "previous_id": 213,
+    "source_index": 213,
     "character": "MISS",
     "bbox": [
       1060,
@@ -2984,339 +2762,258 @@
     "observed_character": "日"
   },
   {
-    "id": 214,
+    "id": 185,
     "previous_id": 214,
+    "source_index": 214,
     "character": "一",
     "bbox": [
-      840,
-      1572,
-      1040,
-      1728
+      820,
+      1560,
+      1045,
+      1665
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 215,
+    "id": 186,
     "previous_id": 215,
+    "source_index": 215,
     "character": "捐",
     "bbox": [
-      840,
-      1722,
-      1040,
-      1878
+      820,
+      1680,
+      1045,
+      1820
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 216,
+    "id": 187,
     "previous_id": 216,
+    "source_index": 216,
     "character": "錢",
     "bbox": [
-      840,
-      1862,
-      1040,
-      2018
+      820,
+      1830,
+      1045,
+      1980
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 217,
+    "id": 188,
     "previous_id": 217,
+    "source_index": 217,
     "character": "叄",
     "bbox": [
-      840,
-      2002,
-      1040,
-      2158
+      820,
+      1990,
+      1045,
+      2140
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 218,
+    "id": 189,
     "previous_id": 218,
+    "source_index": 218,
     "character": "拾",
     "bbox": [
-      840,
-      2142,
-      1040,
-      2298
+      820,
+      2150,
+      1045,
+      2285
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 219,
+    "id": 190,
     "previous_id": 219,
+    "source_index": 219,
     "character": "貫",
     "bbox": [
-      840,
-      2292,
-      1040,
-      2448
+      820,
+      2290,
+      1045,
+      2450
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 220,
+    "id": 191,
     "previous_id": 220,
+    "source_index": 220,
     "character": "供",
     "bbox": [
-      840,
-      2527,
-      1040,
-      2705
+      820,
+      2615,
+      1045,
+      2735
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 221,
+    "id": 192,
     "previous_id": 221,
+    "source_index": 221,
     "character": "田",
     "bbox": [
-      840,
-      2685,
-      1040,
-      2875
+      820,
+      2740,
+      1045,
+      2850
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 222,
+    "id": 193,
     "previous_id": 222,
+    "source_index": 222,
     "character": "壹",
     "bbox": [
-      840,
-      2865,
-      1040,
-      3055
+      820,
+      2860,
+      1045,
+      3010
     ],
     "group": "C_offering_main",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 223,
+    "id": 194,
     "previous_id": 223,
+    "source_index": 223,
     "character": "皐",
     "bbox": [
-      840,
-      3045,
-      1040,
-      3235
+      820,
+      3020,
+      1045,
+      3200
     ],
     "group": "C_offering_main",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 224,
+    "id": 195,
     "previous_id": 224,
+    "source_index": 224,
     "character": "在",
     "bbox": [
-      840,
-      3225,
-      1040,
-      3415
+      820,
+      3210,
+      1045,
+      3335
     ],
     "group": "C_offering_main",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 225,
+    "id": 196,
     "previous_id": 225,
+    "source_index": 225,
     "character": "池",
     "bbox": [
-      840,
-      3405,
-      1040,
+      820,
+      3340,
+      1045,
+      3465
+    ],
+    "group": "C_offering_main",
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
+  },
+  {
+    "id": 197,
+    "previous_id": 226,
+    "source_index": 226,
+    "character": "戶",
+    "bbox": [
+      820,
+      3470,
+      1045,
       3595
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 226,
-    "previous_id": 226,
-    "character": "戶",
-    "bbox": [
-      840,
-      3575,
-      1040,
-      3765
-    ],
-    "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 227,
+    "id": 198,
     "previous_id": 227,
+    "source_index": 227,
     "character": "處",
     "bbox": [
-      840,
-      3735,
-      1040,
-      3925
+      820,
+      3600,
+      1045,
+      3750
     ],
     "group": "C_offering_main",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Cột cúng tiến trái: box theo từng glyph, không kéo qua khoảng trống."
   },
   {
-    "id": 228,
+    "id": 199,
     "previous_id": 228,
+    "source_index": 228,
     "character": "東",
     "bbox": [
-      840,
-      3935,
-      1040,
-      4125
+      950,
+      3755,
+      1085,
+      3875
     ],
     "group": "C_offering_main",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Phần 東近武 nằm ở cột chữ nhỏ bên phải."
   },
   {
-    "id": 229,
+    "id": 200,
     "previous_id": 229,
+    "source_index": 229,
     "character": "近",
     "bbox": [
-      840,
-      4095,
-      1040,
-      4285
+      950,
+      3880,
+      1085,
+      3990
     ],
     "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "review_required": false,
+    "reason": "Phần 東近武 nằm ở cột chữ nhỏ bên phải."
   },
   {
-    "id": 230,
+    "id": 201,
     "previous_id": 230,
+    "source_index": 230,
     "character": "武",
     "bbox": [
-      840,
-      4275,
-      1040,
-      4465
+      950,
+      3995,
+      1085,
+      4110
     ],
     "group": "C_offering_main",
     "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 231,
-    "previous_id": 231,
-    "character": "□",
-    "bbox": [
-      840,
-      4435,
-      1040,
-      4625
-    ],
-    "group": "C_offering_main",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 232,
-    "previous_id": 232,
-    "character": "□",
-    "bbox": [
-      823,
-      3871,
-      937,
-      4029
-    ],
-    "group": "C_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 233,
-    "previous_id": 233,
-    "character": "南",
-    "bbox": [
-      823,
-      4025,
-      937,
-      4183
-    ],
-    "group": "C_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 234,
-    "previous_id": 234,
-    "character": "近",
-    "bbox": [
-      823,
-      4179,
-      937,
-      4337
-    ],
-    "group": "C_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 235,
-    "previous_id": 235,
-    "character": "武",
-    "bbox": [
-      823,
-      4333,
-      937,
-      4491
-    ],
-    "group": "C_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 236,
-    "previous_id": 236,
-    "character": "□",
-    "bbox": [
-      823,
-      4487,
-      937,
-      4645
-    ],
-    "group": "C_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
-  },
-  {
-    "id": 237,
-    "previous_id": 237,
-    "character": "□",
-    "bbox": [
-      823,
-      4641,
-      937,
-      4799
-    ],
-    "group": "C_offering_small",
-    "review_required": true,
-    "reason": "Ảnh mờ/mất nét; vị trí còn là bản nháp, cần kiểm tra từng chữ."
+    "reason": "Phần 東近武 nằm ở cột chữ nhỏ bên phải."
   }
 ]

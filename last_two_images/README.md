@@ -1,72 +1,78 @@
-# 17077 và 18592 — bản bổ sung sau ZIP mới nhất của người dùng
+# Làm lại 17077 và 18592 — gói v3
 
-Gói này giữ nguyên 7 bài từ `input/user_seven_annotations.zip`: 17390, 18591,
-31962, 55432, 46302, 55431, 46303. Đặc biệt, dùng box 55431 và 46303 mà người
-dùng vừa sửa, không dùng lại bản assistant cũ. JSON gốc student_114 không đổi.
+Bản này thay box của hai ảnh 17077, 18592. Giữ nguyên dữ liệu 7 bài từ ZIP
+người dùng gửi gần nhất: 17390, 18591, 31962, 55432, 46302, 55431, 46303.
+Nếu Kaggle đang có bản mới hơn của 7 bài, cell giữ bản đang có.
 
-## Phần đã sửa
+## Thay đổi hình học và ghép chữ
 
-- **17077: 276 box.** Rà lại các ghi chú nhỏ, chỉnh biên 20 box để chứa nét chữ,
-  trong đó có cụm ngày tháng 四月二十六日忌. Nguồn có 279 ký tự sau chuẩn hóa;
-  bốn 〇 ở Excluded, box 186 là MISS cho 其 trong 以廣其傳. Các vị trí đã được
-  xem trên ảnh phóng to; việc này không xác nhận độ đúng của mọi phiên đọc.
-- **18592: 237 vị trí dự thảo, chưa hoàn tất.** Chỉnh cột ghi chú, chuyển phần
-  tiếp nối 行庚□□□ và □年行更□□□ về cuối cột phải thay vì đầu cột trái.
-  Vẽ lại cụm 壽八十二: 壽 là một chữ cao, 八 nhỏ ở sát trên 十.
-  45 ký hiệu [] thành □. 220 vị trí vẫn mang cờ cần rà vì mờ hoặc chưa đối
-  chiếu đủ; các □ ở phần mất nét chưa có ranh giới chắc chắn. Không dùng việc
-  đủ số lượng để kết luận box đúng.
-- Tại **18592 box 213**, nguồn ghi 月 nhưng ảnh có dạng 日. Đây là đề xuất cần
-  xác nhận: giữ Content nguyên văn, dùng MISS ở box và Excluded một 月.
-  Hai ảnh dùng Other và lưu đầy đủ nhãn trong `model_reviews`, tránh mất thông
-  tin do định dạng Other của app chỉ xuất tọa độ.
+- **17077: 276 box.** Rà lại các dải chữ, chỉnh biên 110 box chạm/cắt nét;
+  giữ những box đã phù hợp. Nguồn 279 ký tự; bốn 〇 trong Excluded, box 186
+  là MISS ở 其 trong 以廣其傳. Còn 5 vị trí cần rà nét/phiên đọc.
+- **18592: 201 box, không còn 237 ô chia theo số chữ nguồn.** Vẽ lại 138
+  tọa độ trong lần này và giữ các sửa trước ở ghi chú/ngày tháng đã phù hợp.
+  Hai cột 原供… kết thúc giữa bia, không kéo tới đáy. Phần ghi ruộng chuyển
+  sang hai cột chữ nhỏ; các glyph 供田貮皐 nằm ở đầu chung trước khi chia cột.
+- Bỏ **36 box chưa xác định được vị trí từng chữ** trong vùng mờ. Chữ tương
+  ứng vẫn giữ trong Content và được liệt kê trong
+  `review/18592_unlocated.json` với chỉ số nguồn (đếm từ 1, gồm tiêu đề).
+  Đây là các vị trí chưa ghép được, **không phải kết luận chữ không có trên bia**.
+- Box **184 mới** (213 cũ, vị trí nguồn 213) đề xuất MISS: nguồn 月, ảnh có
+  dạng 日. Giữ 月 trong Content và ghi Excluded để người dùng xác nhận.
+  Tổng Excluded 18592 là 37: 36 vị trí chưa định vị + một 月 đề xuất khác chữ.
+- 18592 còn **95 box cần rà** và các vùng chưa định vị. Gói là bản làm lại
+  để kiểm tra, **chưa phải hai bài đã chốt đúng toàn bộ**. Không sử dụng số
+  lượng khớp nguồn làm bằng chứng box đúng.
 
-`data/*.json` là bản rà, không phải nhãn Intact/Damaged đã chạy model.
-Các trạng thái khởi tạo chỉ phục vụ nạp app; đã bỏ các cờ Expert Prediction và
-Suspicious cũ do assistant suy đoán. Model thật sẽ chạy trên Kaggle, chỉ đánh
-giá hỏng trên box cố định. Model không tự chọn mức hỏng hoặc xác minh chữ.
+Không chỉnh chữ Hán Nôm để ép khớp box. Hai Content chỉ bỏ ngoặc và đổi []
+thành □; 18592 vẫn đủ 45 □ trong nguồn, trong đó 15 đã ghép vào box. JSON
+`student_114/student_114.json` gốc không đổi. Content của 7 bài giữ nguyên.
+
+## Trạng thái và định dạng
+
+Các trạng thái trong dữ liệu đóng gói chưa phải kết quả model mới. Cell Kaggle
+chạy model hỏng của app trên **box cố định**, không detect lại box. Mức hỏng
+và các chữ mờ vẫn cần kiểm tra. Không tự gán Expert Prediction hoặc Suspicious.
+
+Hai ảnh dùng Other, với nhãn đầy đủ tại `annotations/model_reviews/*.json`.
+Native `source_mismatches/*.json` chỉ chứa tọa độ theo schema của app.
+Excluded trong sidecar và bản rà là danh sách đối chiếu; không phải chức năng
+Excluded gốc của app cho loại Extra Content. Giữ nguyên cả thư mục output
+hoặc dùng `my_annotations_backup.zip` để không mất các thông tin bổ sung này.
+
+Launcher đã sửa lỗi Other có nhãn nhưng không hiện chữ/màu ở Status & Order.
+Gói có thêm bản code hỗ trợ ở thư mục gốc, để khôi phục được khi thư mục
+`annotations/_support` không được đưa lên Dataset đầy đủ.
 
 ## Nạp vào Kaggle
 
-1. Tải `last_two_kaggle.zip`, tạo/cập nhật Dataset rồi Add Input vào notebook.
-   Chỉ gắn một Dataset có `last_two_manifest.json` để tránh chọn nhầm bản cũ.
-2. Lưu bài đang làm và dừng ô chạy web. Chạy các ô cài app/model và khai báo
-   REPO_PYTHON, REPO_DIR, IMAGE_DIR, SOURCE_JSON như trước.
-3. Chạy cell trong `kaggle/kaggle_cell.py`, rồi ô mở web dùng APP_LAUNCHER.
-   Source vẫn trỏ tới student_114.json gốc.
-4. Cell tự phục hồi 7 bài nếu output trống; giữ các file/Content đã có của 7 bài
-   nếu session còn dữ liệu. Nếu có box mới của 17077/18592 khác bản đã biết,
-   cell dừng thay vì ghi đè. Chạy cell sau khi dừng web để tránh sửa đồng thời.
-5. Model chỉ chạy cho 17077 và 18592, không tạo lại box. Sau đó có backup đủ
-   9 ảnh tại `/kaggle/working/my_annotations_backup.zip`. Tải ZIP này về trước
-   khi kết thúc session. Output không tự tồn tại qua mọi session mới.
+1. Tải ZIP mới `last_two_kaggle.zip`, cập nhật Dataset và phiên bản Input của
+   notebook. Chỉ gắn một Dataset có `last_two_manifest.json`; bản mới là v3.
+2. Lưu bài và dừng web. Sau các cell cài app/model và đường dẫn, chạy
+   `kaggle/kaggle_cell.py`. Giữ SOURCE_JSON trỏ tới student_114.json gốc.
+3. Cell phục hồi 7 bài nếu output trống, giữ 7 bài nếu đã có. Model chỉ chạy
+   hai ảnh bổ sung. Nếu phát hiện box do người dùng chỉnh khác bản cũ đã biết,
+   cell dừng và giữ nguyên output. Có backup trước khi thay dữ liệu.
+4. Mở web bằng cell dùng APP_LAUNCHER. Sau khi sửa, Save Annotation ở Review.
+5. Tải `/kaggle/working/my_annotations_backup.zip` trước khi end session.
+   Đây là backup cả 9 ảnh và các file phụ; không phải khẳng định 9 bài hoàn tất.
 
-**Giới hạn của ZIP người dùng:** 55431 được lưu dạng Other chỉ gồm tọa độ,
-không có nhãn/trạng thái trong ZIP. Gói giữ nguyên tọa độ mới, không ghép
-sidecar cũ khác box. Nếu output hiện tại còn sidecar 55431 thì cell giữ lại.
-Không thể phục hồi nhãn/trạng thái chưa có trong file đã gửi.
+ZIP gốc người dùng của **55431** là Other chỉ có tọa độ, không có nhãn/trạng
+thái. Gói không gắn nhãn cũ khác box vào đó. Sidecar đang có trên Kaggle,
+nếu có, được giữ nguyên.
 
-## Kiểm tra và tái tạo
+## Đối chiếu và kiểm tra
 
-`review.html` cho phép chọn ảnh và số box để xem vị trí cùng lý do cần rà.
-Màu xanh chỉ có nghĩa đã xem vị trí; không phải trạng thái Intact.
+Mở `review.html` trong trình duyệt để chọn từng box, xem số cũ/số mới,
+vị trí nguồn và danh sách chưa ghép được. Xanh = đã xem vị trí; vàng = cần rà,
+không phải Intact/Damaged. Vùng tím là khu vực chưa định vị được từng chữ.
 
-- `manual_box_corrections.json`: tọa độ sửa và lý do.
-- `review/*.json`, `validation.json`: danh sách vị trí cần rà và số lượng.
-- `input/*_seed.json`: dữ liệu đầu vào để tái tạo, có cả các ước lượng cũ.
-- Chạy `build.py` bằng môi trường có các dependency của app; đặt
-  SINONOM_REPO_DIR nếu clone app không ở `/tmp/sinonom-status-inspect`.
-- `test_apply.py` kiểm tra bằng Workflow thật: nạp đủ 9 ảnh từ output trống,
-  fallback khi Kaggle bỏ thư mục ẩn, giữ nguyên 7 bài mới nhất, không đổi
-  source/box khi đánh giá hỏng, đọc nhãn/thứ tự và chặn ghi đè box mới.
-  **Inference trong test là giả lập; chưa chạy model thật tại đây.**
+`redo_geometry.json` ghi tọa độ sửa và lý do bỏ box; `review/*.json` giữ
+liên hệ với số box cũ. `validation.json` ghi số lượng và tình trạng kiểm tra.
+`data/*.json` là bản đầy đủ để rà, không dùng trực tiếp như native JSON của app.
 
-## Sửa lỗi không hiện chữ ở Status & Order
-
-Giao diện gốc ẩn chữ và màu trạng thái khi issue_type là Other, kể cả khi
-launcher đã nạp đủ nhãn từ model_reviews. Launcher mới sửa điều kiện hiển thị
-cho các ảnh đã có đủ nhãn tương ứng box. Không thay nhãn, tọa độ hoặc Content.
-Với session đang chạy, dừng web và dùng `kaggle/fix_labels_cell.py`, rồi mở lại
-web bằng APP_LAUNCHER; không cần chạy lại model hoặc cell nạp dữ liệu.
-Test đã kiểm tra markup có đủ 276 nhãn của 17077, 237 nhãn của 18592, giữ
-nguyên state và vẫn ẩn nhãn với bản Other chưa có mapping.
+Tái tạo: chạy `build.py`, `make_review.py`, `package.py`. Cần dependency của
+app; SINONOM_REPO_DIR chỉ đến clone SinoNom-Annotation. `test_apply.py` dùng
+Workflow thật kiểm tra nạp, Save/reopen, đủ nhãn trong markup Status & Order,
+backup, giữ 7 bài và chặn ghi đè box mới. Test dùng inference giả lập; model
+thật chưa chạy trong môi trường soạn gói. Hình học không thay khi model chạy.

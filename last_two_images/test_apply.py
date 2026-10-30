@@ -39,6 +39,7 @@ with tempfile.TemporaryDirectory() as temp:
     staged = temp / 'input'
     shutil.copytree(PACKAGE, staged)
     shutil.rmtree(staged / 'annotations/.state')  # Kaggle may omit hidden paths.
+    shutil.rmtree(staged / 'annotations/_support')  # Root support-code fallback.
     job = runpy.run_path(str(staged / 'apply_last_two.py'))
     output = temp / 'annotations'
 
@@ -85,6 +86,16 @@ with tempfile.TemporaryDirectory() as temp:
         bare['annotations'] = {}
         bare['text_sequence'] = []
         assert 'data-box-order-label="1"' not in editor.snapshot(bare)['markup']
+        # Saving/reopening Other must retain the companion labels and geometry.
+        state['current_step'] = 7
+        with redirect_stdout(io.StringIO()):
+            state = engine.apply(state, 'save')
+        reopened = engine.open_image(ROOT / 'student_114' / full['image'])
+        reopened = engine.apply(reopened, 'next')
+        reopened = engine.apply(reopened, 'next')
+        assert reopened['current_step'] == 4
+        assert reopened['annotations'] == full['annotations']
+        assert editor.snapshot(reopened)['markup'].count('data-box-order-label="1"') == len(full['annotations'])
     engine._preview_cache.cleanup()
     with zipfile.ZipFile(output.parent / 'my_annotations_backup.zip') as z:
         assert z.testzip() is None

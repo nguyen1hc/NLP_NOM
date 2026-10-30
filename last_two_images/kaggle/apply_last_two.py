@@ -6,7 +6,15 @@ ROOT=Path(__file__).resolve().parent
 TARGETS=('17077','18592')
 
 def shape(doc):
-    return hashlib.sha256(json.dumps({k:b['bbox'] for k,b in doc['bounding_boxes'].items()},sort_keys=True).encode()).hexdigest()
+    return hashlib.sha256(json.dumps({k:[float(v) for v in b['bbox']] for k,b in doc['bounding_boxes'].items()},sort_keys=True).encode()).hexdigest()
+
+def box_set(doc):
+    return hashlib.sha256(json.dumps(sorted([float(v) for v in b['bbox']] for b in doc['bounding_boxes'].values())).encode()).hexdigest()
+
+def known_geometry(doc, allowed, sets=()):
+    # App saves coordinates as floats; 120 and 120.0 describe the same box.
+    legacy={k:[int(v) if float(v).is_integer() else v for v in b['bbox']] for k,b in doc['bounding_boxes'].items()}
+    return box_set(doc) in sets or shape(doc) in allowed or hashlib.sha256(json.dumps(legacy,sort_keys=True).encode()).hexdigest() in allowed
 
 def apply(repo,images,output,predict=None):
     repo,images,output=map(Path,(repo,images,output))
@@ -16,6 +24,11 @@ def apply(repo,images,output,predict=None):
     from annotation.text_alignment import characters
     from text_detection.fusion import fuse_localizations
     support=ROOT/'annotations/_support'
+    if not (support/'launch_with_original_source.py').is_file():
+        support=ROOT
+    for name in ('launch_with_original_source.py','content_base.py','three_images_helper.py'):
+        if not (support/name).is_file():
+            raise FileNotFoundError('Dataset thiếu code hỗ trợ: '+str(support/name))
     helper=runpy.run_path(str(support/'three_images_helper.py'))
     manifest=json.loads((ROOT/'last_two_manifest.json').read_text())
     old={};fulls={};payload={}
@@ -23,7 +36,7 @@ def apply(repo,images,output,predict=None):
     for code in TARGETS:
         for p in (output/(code+'.json'),output/'source_mismatches'/(code+'.json')):
             remember(p)
-            if p.is_file() and shape(json.loads(p.read_text())) not in manifest['allowed_geometry'][code]:
+            if p.is_file() and not known_geometry(json.loads(p.read_text()),manifest['allowed_geometry'][code],manifest.get('allowed_box_sets',{}).get(code,[])):
                 raise ValueError('Có box mới cho '+code+'; giữ nguyên bài hiện tại, không ghi đè.')
         fulls[code]=json.loads((ROOT/'annotations/model_reviews'/(code+'.json')).read_text())
         with Image.open(images/fulls[code]['image']) as im:

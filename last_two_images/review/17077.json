@@ -2,6 +2,7 @@
   {
     "id": 1,
     "previous_id": 1,
+    "source_index": null,
     "character": "后",
     "bbox": [
       2524,
@@ -16,6 +17,7 @@
   {
     "id": 2,
     "previous_id": 2,
+    "source_index": null,
     "character": "碑",
     "bbox": [
       1834,
@@ -30,6 +32,7 @@
   {
     "id": 3,
     "previous_id": 3,
+    "source_index": null,
     "character": "誌",
     "bbox": [
       1134,
@@ -44,48 +47,52 @@
   {
     "id": 4,
     "previous_id": 4,
+    "source_index": null,
     "character": "河",
     "bbox": [
-      2906,
-      1326,
-      3054,
-      1489
+      2898,
+      1321,
+      3062,
+      1494
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 5,
     "previous_id": 5,
+    "source_index": null,
     "character": "城",
     "bbox": [
-      2908,
-      1479,
-      3079,
-      1647
+      2900,
+      1474,
+      3087,
+      1652
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 6,
     "previous_id": 6,
+    "source_index": null,
     "character": "第",
     "bbox": [
-      2906,
-      1637,
-      3094,
-      1802
+      2898,
+      1632,
+      3102,
+      1807
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 7,
     "previous_id": 7,
+    "source_index": null,
     "character": "三",
     "bbox": [
       2907,
@@ -100,6 +107,7 @@
   {
     "id": 8,
     "previous_id": 8,
+    "source_index": null,
     "character": "户",
     "bbox": [
       2906,
@@ -114,76 +122,82 @@
   {
     "id": 9,
     "previous_id": 9,
+    "source_index": null,
     "character": "香",
     "bbox": [
-      2906,
-      2111,
-      3054,
-      2279
+      2898,
+      2106,
+      3062,
+      2284
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 10,
     "previous_id": 10,
+    "source_index": null,
     "character": "義",
     "bbox": [
-      2906,
-      2269,
-      3063,
-      2437
+      2898,
+      2264,
+      3071,
+      2442
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 11,
     "previous_id": 11,
+    "source_index": null,
     "character": "村",
     "bbox": [
-      2906,
-      2427,
-      3081,
-      2595
+      2898,
+      2422,
+      3089,
+      2600
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 12,
     "previous_id": 12,
+    "source_index": null,
     "character": "為",
     "bbox": [
-      2906,
-      2585,
-      3091,
-      2753
+      2898,
+      2580,
+      3099,
+      2758
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 13,
     "previous_id": 13,
+    "source_index": null,
     "character": "立",
     "bbox": [
-      2906,
-      2743,
-      3094,
-      2911
+      2898,
+      2738,
+      3102,
+      2916
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 14,
     "previous_id": 14,
+    "source_index": null,
     "character": "碑",
     "bbox": [
       2906,
@@ -198,6 +212,7 @@
   {
     "id": 15,
     "previous_id": 15,
+    "source_index": null,
     "character": "誌",
     "bbox": [
       2909,
@@ -212,48 +227,52 @@
   {
     "id": 16,
     "previous_id": 16,
+    "source_index": null,
     "character": "事",
     "bbox": [
-      2907,
-      3217,
-      3078,
-      3385
+      2899,
+      3212,
+      3086,
+      3390
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 17,
     "previous_id": 17,
+    "source_index": null,
     "character": "盖",
     "bbox": [
-      2910,
-      3375,
-      3063,
-      3543
+      2902,
+      3370,
+      3071,
+      3548
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 18,
     "previous_id": 18,
+    "source_index": null,
     "character": "聞",
     "bbox": [
-      2906,
-      3533,
-      3094,
-      3701
+      2898,
+      3528,
+      3102,
+      3706
     ],
     "group": "column_01",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 19,
     "previous_id": 19,
+    "source_index": null,
     "character": "孝",
     "bbox": [
       2737,
@@ -268,6 +287,7 @@
   {
     "id": 20,
     "previous_id": 20,
+    "source_index": null,
     "character": "者",
     "bbox": [
       2737,
@@ -282,6 +302,7 @@
   {
     "id": 21,
     "previous_id": 21,
+    "source_index": null,
     "character": "人",
     "bbox": [
       2737,
@@ -296,20 +317,22 @@
   {
     "id": 22,
     "previous_id": 22,
+    "source_index": null,
     "character": "之",
     "bbox": [
-      2737,
-      1804,
-      2918,
-      1963
+      2729,
+      1799,
+      2926,
+      1968
     ],
     "group": "column_02",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 23,
     "previous_id": 23,
+    "source_index": null,
     "character": "本",
     "bbox": [
       2737,
@@ -324,6 +347,7 @@
   {
     "id": 24,
     "previous_id": 24,
+    "source_index": null,
     "character": "善",
     "bbox": [
       2755,
@@ -338,6 +362,7 @@
   {
     "id": 25,
     "previous_id": 25,
+    "source_index": null,
     "character": "者",
     "bbox": [
       2737,
@@ -352,20 +377,22 @@
   {
     "id": 26,
     "previous_id": 26,
+    "source_index": null,
     "character": "人",
     "bbox": [
-      2737,
-      2427,
-      2925,
-      2595
+      2729,
+      2422,
+      2933,
+      2600
     ],
     "group": "column_02",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 27,
     "previous_id": 27,
+    "source_index": null,
     "character": "之",
     "bbox": [
       2743,
@@ -380,6 +407,7 @@
   {
     "id": 28,
     "previous_id": 28,
+    "source_index": null,
     "character": "根",
     "bbox": [
       2737,
@@ -394,6 +422,7 @@
   {
     "id": 29,
     "previous_id": 29,
+    "source_index": null,
     "character": "敬",
     "bbox": [
       2737,
@@ -408,6 +437,7 @@
   {
     "id": 30,
     "previous_id": 30,
+    "source_index": null,
     "character": "其",
     "bbox": [
       2737,
@@ -422,6 +452,7 @@
   {
     "id": 31,
     "previous_id": 31,
+    "source_index": null,
     "character": "所",
     "bbox": [
       2737,
@@ -436,6 +467,7 @@
   {
     "id": 32,
     "previous_id": 32,
+    "source_index": null,
     "character": "尊",
     "bbox": [
       2737,
@@ -450,6 +482,7 @@
   {
     "id": 33,
     "previous_id": 33,
+    "source_index": null,
     "character": "爱",
     "bbox": [
       2737,
@@ -464,6 +497,7 @@
   {
     "id": 34,
     "previous_id": 34,
+    "source_index": null,
     "character": "其",
     "bbox": [
       2738,
@@ -478,6 +512,7 @@
   {
     "id": 35,
     "previous_id": 35,
+    "source_index": null,
     "character": "所",
     "bbox": [
       2737,
@@ -492,6 +527,7 @@
   {
     "id": 36,
     "previous_id": 36,
+    "source_index": null,
     "character": "親",
     "bbox": [
       2737,
@@ -506,6 +542,7 @@
   {
     "id": 37,
     "previous_id": 37,
+    "source_index": null,
     "character": "古",
     "bbox": [
       2737,
@@ -520,6 +557,7 @@
   {
     "id": 38,
     "previous_id": 38,
+    "source_index": null,
     "character": "今",
     "bbox": [
       2602,
@@ -534,6 +572,7 @@
   {
     "id": 39,
     "previous_id": 39,
+    "source_index": null,
     "character": "同",
     "bbox": [
       2599,
@@ -548,6 +587,7 @@
   {
     "id": 40,
     "previous_id": 40,
+    "source_index": null,
     "character": "一",
     "bbox": [
       2599,
@@ -562,6 +602,7 @@
   {
     "id": 41,
     "previous_id": 41,
+    "source_index": null,
     "character": "揆",
     "bbox": [
       2599,
@@ -576,6 +617,7 @@
   {
     "id": 42,
     "previous_id": 42,
+    "source_index": null,
     "character": "也",
     "bbox": [
       2599,
@@ -590,6 +632,7 @@
   {
     "id": 43,
     "previous_id": 43,
+    "source_index": null,
     "character": "兹",
     "bbox": [
       2599,
@@ -604,20 +647,22 @@
   {
     "id": 44,
     "previous_id": 44,
+    "source_index": null,
     "character": "因",
     "bbox": [
-      2599,
-      2269,
-      2787,
-      2437
+      2591,
+      2264,
+      2795,
+      2442
     ],
     "group": "column_03",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 45,
     "previous_id": 45,
+    "source_index": null,
     "character": "有",
     "bbox": [
       2599,
@@ -632,20 +677,22 @@
   {
     "id": 46,
     "previous_id": 46,
+    "source_index": null,
     "character": "河",
     "bbox": [
-      2599,
-      2590,
-      2769,
-      2753
+      2591,
+      2585,
+      2777,
+      2758
     ],
     "group": "column_03",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 47,
     "previous_id": 47,
+    "source_index": null,
     "character": "東",
     "bbox": [
       2599,
@@ -660,20 +707,22 @@
   {
     "id": 48,
     "previous_id": 48,
+    "source_index": null,
     "character": "省",
     "bbox": [
-      2599,
-      2901,
-      2787,
-      3069
+      2591,
+      2896,
+      2795,
+      3074
     ],
     "group": "column_03",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 49,
     "previous_id": 49,
+    "source_index": null,
     "character": "懷",
     "bbox": [
       2601,
@@ -688,6 +737,7 @@
   {
     "id": 50,
     "previous_id": 50,
+    "source_index": null,
     "character": "德",
     "bbox": [
       2599,
@@ -702,6 +752,7 @@
   {
     "id": 51,
     "previous_id": 51,
+    "source_index": null,
     "character": "府",
     "bbox": [
       2599,
@@ -716,20 +767,22 @@
   {
     "id": 52,
     "previous_id": 52,
+    "source_index": null,
     "character": "慈",
     "bbox": [
-      2599,
-      3533,
-      2777,
-      3701
+      2591,
+      3528,
+      2785,
+      3706
     ],
     "group": "column_03",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 53,
     "previous_id": 53,
+    "source_index": null,
     "character": "廉",
     "bbox": [
       2599,
@@ -744,6 +797,7 @@
   {
     "id": 54,
     "previous_id": 54,
+    "source_index": null,
     "character": "縣",
     "bbox": [
       2599,
@@ -758,6 +812,7 @@
   {
     "id": 55,
     "previous_id": 55,
+    "source_index": null,
     "character": "雲",
     "bbox": [
       2600,
@@ -772,34 +827,37 @@
   {
     "id": 56,
     "previous_id": 56,
+    "source_index": null,
     "character": "耕",
     "bbox": [
-      2599,
-      4165,
-      2787,
-      4361
+      2591,
+      4160,
+      2795,
+      4366
     ],
     "group": "column_03",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 57,
     "previous_id": 57,
+    "source_index": null,
     "character": "縂",
     "bbox": [
-      2460,
-      1339,
-      2648,
-      1489
+      2452,
+      1334,
+      2656,
+      1494
     ],
     "group": "column_04",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 58,
     "previous_id": 58,
+    "source_index": null,
     "character": "雲",
     "bbox": [
       2460,
@@ -814,34 +872,37 @@
   {
     "id": 59,
     "previous_id": 59,
+    "source_index": null,
     "character": "耕",
     "bbox": [
-      2466,
-      1637,
-      2648,
-      1805
+      2458,
+      1632,
+      2656,
+      1810
     ],
     "group": "column_04",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 60,
     "previous_id": 60,
+    "source_index": null,
     "character": "社",
     "bbox": [
-      2460,
-      1795,
-      2648,
-      1963
+      2452,
+      1790,
+      2656,
+      1968
     ],
     "group": "column_04",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 61,
     "previous_id": 61,
+    "source_index": null,
     "character": "金",
     "bbox": [
       2461,
@@ -856,6 +917,7 @@
   {
     "id": 62,
     "previous_id": 62,
+    "source_index": null,
     "character": "黄",
     "bbox": [
       2460,
@@ -870,34 +932,37 @@
   {
     "id": 63,
     "previous_id": 63,
+    "source_index": null,
     "character": "村",
     "bbox": [
-      2460,
-      2269,
-      2648,
-      2437
+      2452,
+      2264,
+      2656,
+      2442
     ],
     "group": "column_04",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 64,
     "previous_id": 64,
+    "source_index": null,
     "character": "人",
     "bbox": [
-      2460,
-      2433,
-      2648,
-      2595
+      2452,
+      2428,
+      2656,
+      2600
     ],
     "group": "column_04",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 65,
     "previous_id": 65,
+    "source_index": null,
     "character": "陳",
     "bbox": [
       2469,
@@ -912,6 +977,7 @@
   {
     "id": 66,
     "previous_id": 66,
+    "source_index": null,
     "character": "氏",
     "bbox": [
       2464,
@@ -926,6 +992,7 @@
   {
     "id": 67,
     "previous_id": 67,
+    "source_index": null,
     "character": "富",
     "bbox": [
       2460,
@@ -940,20 +1007,22 @@
   {
     "id": 68,
     "previous_id": 68,
+    "source_index": null,
     "character": "適",
     "bbox": [
-      2464,
-      3059,
-      2646,
-      3225
+      2456,
+      3054,
+      2654,
+      3230
     ],
     "group": "column_04",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 69,
     "previous_id": 69,
+    "source_index": null,
     "character": "見",
     "bbox": [
       2460,
@@ -968,6 +1037,7 @@
   {
     "id": 70,
     "previous_id": 70,
+    "source_index": null,
     "character": "民",
     "bbox": [
       2460,
@@ -982,6 +1052,7 @@
   {
     "id": 71,
     "previous_id": 71,
+    "source_index": null,
     "character": "村",
     "bbox": [
       2471,
@@ -996,6 +1067,7 @@
   {
     "id": 72,
     "previous_id": 72,
+    "source_index": null,
     "character": "亭",
     "bbox": [
       2460,
@@ -1010,20 +1082,22 @@
   {
     "id": 73,
     "previous_id": 73,
+    "source_index": null,
     "character": "宇",
     "bbox": [
-      2460,
-      3849,
-      2648,
-      4017
+      2452,
+      3844,
+      2656,
+      4022
     ],
     "group": "column_04",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 74,
     "previous_id": 74,
+    "source_index": null,
     "character": "重",
     "bbox": [
       2460,
@@ -1038,48 +1112,52 @@
   {
     "id": 75,
     "previous_id": 75,
+    "source_index": null,
     "character": "新",
     "bbox": [
-      2460,
-      4165,
-      2648,
-      4361
+      2452,
+      4160,
+      2656,
+      4366
     ],
     "group": "column_04",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 76,
     "previous_id": 76,
+    "source_index": null,
     "character": "规",
     "bbox": [
-      2302,
-      1321,
-      2490,
-      1489
+      2294,
+      1316,
+      2498,
+      1494
     ],
     "group": "column_05",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 77,
     "previous_id": 77,
+    "source_index": null,
     "character": "模",
     "bbox": [
-      2302,
-      1479,
-      2490,
-      1647
+      2294,
+      1474,
+      2498,
+      1652
     ],
     "group": "column_05",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 78,
     "previous_id": 78,
+    "source_index": null,
     "character": "再",
     "bbox": [
       2302,
@@ -1094,6 +1172,7 @@
   {
     "id": 79,
     "previous_id": 79,
+    "source_index": null,
     "character": "造",
     "bbox": [
       2302,
@@ -1108,6 +1187,7 @@
   {
     "id": 80,
     "previous_id": 80,
+    "source_index": null,
     "character": "風",
     "bbox": [
       2302,
@@ -1122,6 +1202,7 @@
   {
     "id": 81,
     "previous_id": 81,
+    "source_index": null,
     "character": "淳",
     "bbox": [
       2302,
@@ -1136,6 +1217,7 @@
   {
     "id": 82,
     "previous_id": 82,
+    "source_index": null,
     "character": "俗",
     "bbox": [
       2302,
@@ -1150,6 +1232,7 @@
   {
     "id": 83,
     "previous_id": 83,
+    "source_index": null,
     "character": "美",
     "bbox": [
       2309,
@@ -1164,34 +1247,37 @@
   {
     "id": 84,
     "previous_id": 84,
+    "source_index": null,
     "character": "祀",
     "bbox": [
-      2302,
-      2594,
-      2490,
-      2753
+      2294,
+      2589,
+      2498,
+      2758
     ],
     "group": "column_05",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 85,
     "previous_id": 85,
+    "source_index": null,
     "character": "事",
     "bbox": [
-      2310,
-      2743,
-      2490,
-      2911
+      2302,
+      2738,
+      2498,
+      2916
     ],
     "group": "column_05",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 86,
     "previous_id": 86,
+    "source_index": null,
     "character": "風",
     "bbox": [
       2302,
@@ -1206,6 +1292,7 @@
   {
     "id": 87,
     "previous_id": 87,
+    "source_index": null,
     "character": "光",
     "bbox": [
       2302,
@@ -1220,6 +1307,7 @@
   {
     "id": 88,
     "previous_id": 88,
+    "source_index": null,
     "character": "為",
     "bbox": [
       2311,
@@ -1234,6 +1322,7 @@
   {
     "id": 89,
     "previous_id": 89,
+    "source_index": null,
     "character": "此",
     "bbox": [
       2309,
@@ -1248,6 +1337,7 @@
   {
     "id": 90,
     "previous_id": 90,
+    "source_index": null,
     "character": "情",
     "bbox": [
       2302,
@@ -1262,34 +1352,37 @@
   {
     "id": 91,
     "previous_id": 91,
+    "source_index": null,
     "character": "願",
     "bbox": [
-      2302,
-      3691,
-      2490,
-      3857
+      2294,
+      3686,
+      2498,
+      3862
     ],
     "group": "column_05",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 92,
     "previous_id": 92,
+    "source_index": null,
     "character": "出",
     "bbox": [
-      2302,
-      3849,
-      2490,
-      4017
+      2294,
+      3844,
+      2498,
+      4022
     ],
     "group": "column_05",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 93,
     "previous_id": 93,
+    "source_index": null,
     "character": "銀",
     "bbox": [
       2319,
@@ -1304,62 +1397,67 @@
   {
     "id": 94,
     "previous_id": 94,
+    "source_index": null,
     "character": "一",
     "bbox": [
-      2319,
-      4174,
-      2496,
-      4341
+      2311,
+      4169,
+      2504,
+      4346
     ],
     "group": "column_05",
-    "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "review_required": true,
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 95,
     "previous_id": 95,
+    "source_index": null,
     "character": "百",
     "bbox": [
-      2155,
-      1321,
-      2328,
-      1489
+      2147,
+      1316,
+      2336,
+      1494
     ],
     "group": "column_06",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 96,
     "previous_id": 96,
+    "source_index": null,
     "character": "伍",
     "bbox": [
-      2140,
-      1479,
-      2328,
-      1647
+      2132,
+      1474,
+      2336,
+      1652
     ],
     "group": "column_06",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 97,
     "previous_id": 97,
+    "source_index": null,
     "character": "十",
     "bbox": [
-      2141,
-      1637,
-      2328,
-      1805
+      2133,
+      1632,
+      2336,
+      1810
     ],
     "group": "column_06",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 98,
     "previous_id": 98,
+    "source_index": null,
     "character": "元",
     "bbox": [
       2149,
@@ -1374,6 +1472,7 @@
   {
     "id": 99,
     "previous_id": 99,
+    "source_index": null,
     "character": "以",
     "bbox": [
       2140,
@@ -1388,34 +1487,37 @@
   {
     "id": 100,
     "previous_id": 100,
+    "source_index": null,
     "character": "助",
     "bbox": [
-      2140,
-      2111,
-      2328,
-      2263
+      2132,
+      2106,
+      2336,
+      2268
     ],
     "group": "column_06",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 101,
     "previous_id": 101,
+    "source_index": null,
     "character": "民",
     "bbox": [
-      2140,
-      2269,
-      2328,
-      2434
+      2132,
+      2264,
+      2336,
+      2439
     ],
     "group": "column_06",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 102,
     "previous_id": 102,
+    "source_index": null,
     "character": "力",
     "bbox": [
       2151,
@@ -1430,20 +1532,22 @@
   {
     "id": 103,
     "previous_id": 103,
+    "source_index": null,
     "character": "以",
     "bbox": [
-      2140,
-      2589,
-      2328,
-      2739
+      2132,
+      2584,
+      2336,
+      2744
     ],
     "group": "column_06",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 104,
     "previous_id": 104,
+    "source_index": null,
     "character": "廣",
     "bbox": [
       2140,
@@ -1458,20 +1562,22 @@
   {
     "id": 105,
     "previous_id": 105,
+    "source_index": null,
     "character": "民",
     "bbox": [
-      2172,
-      2904,
-      2324,
-      3069
+      2164,
+      2899,
+      2332,
+      3074
     ],
     "group": "column_06",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 106,
     "previous_id": 106,
+    "source_index": null,
     "character": "财",
     "bbox": [
       2140,
@@ -1486,6 +1592,7 @@
   {
     "id": 107,
     "previous_id": 107,
+    "source_index": null,
     "character": "仍",
     "bbox": [
       2140,
@@ -1500,6 +1607,7 @@
   {
     "id": 108,
     "previous_id": 108,
+    "source_index": null,
     "character": "請",
     "bbox": [
       2154,
@@ -1514,6 +1622,7 @@
   {
     "id": 109,
     "previous_id": 109,
+    "source_index": null,
     "character": "寄",
     "bbox": [
       2140,
@@ -1528,20 +1637,22 @@
   {
     "id": 110,
     "previous_id": 110,
+    "source_index": null,
     "character": "后",
     "bbox": [
-      2140,
-      3691,
-      2328,
-      3857
+      2132,
+      3686,
+      2336,
+      3862
     ],
     "group": "column_06",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 111,
     "previous_id": 111,
+    "source_index": null,
     "character": "者",
     "bbox": [
       2140,
@@ -1556,20 +1667,22 @@
   {
     "id": 112,
     "previous_id": 112,
+    "source_index": null,
     "character": "三",
     "bbox": [
-      2160,
-      4004,
-      2296,
-      4136
+      2152,
+      3999,
+      2304,
+      4141
     ],
     "group": "column_06",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 113,
     "previous_id": 113,
+    "source_index": null,
     "character": "由",
     "bbox": [
       2264,
@@ -1584,6 +1697,7 @@
   {
     "id": 114,
     "previous_id": 114,
+    "source_index": null,
     "character": "考",
     "bbox": [
       2264,
@@ -1598,6 +1712,7 @@
   {
     "id": 115,
     "previous_id": 115,
+    "source_index": null,
     "character": "妣",
     "bbox": [
       2260,
@@ -1612,6 +1727,7 @@
   {
     "id": 116,
     "previous_id": 116,
+    "source_index": null,
     "character": "舆",
     "bbox": [
       2160,
@@ -1626,6 +1742,7 @@
   {
     "id": 117,
     "previous_id": 117,
+    "source_index": null,
     "character": "本",
     "bbox": [
       2160,
@@ -1640,6 +1757,7 @@
   {
     "id": 118,
     "previous_id": 118,
+    "source_index": null,
     "character": "身",
     "bbox": [
       2160,
@@ -1654,20 +1772,22 @@
   {
     "id": 119,
     "previous_id": 119,
+    "source_index": null,
     "character": "以",
     "bbox": [
-      2000,
-      1346,
-      2188,
-      1489
+      1992,
+      1341,
+      2196,
+      1494
     ],
     "group": "column_07",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 120,
     "previous_id": 120,
+    "source_index": null,
     "character": "傳",
     "bbox": [
       2000,
@@ -1682,6 +1802,7 @@
   {
     "id": 121,
     "previous_id": 121,
+    "source_index": null,
     "character": "不",
     "bbox": [
       2000,
@@ -1696,20 +1817,22 @@
   {
     "id": 122,
     "previous_id": 122,
+    "source_index": null,
     "character": "朽",
     "bbox": [
-      2000,
-      1812,
-      2188,
-      1963
+      1992,
+      1807,
+      2196,
+      1968
     ],
     "group": "column_07",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 123,
     "previous_id": 123,
+    "source_index": null,
     "character": "民",
     "bbox": [
       2000,
@@ -1724,6 +1847,7 @@
   {
     "id": 124,
     "previous_id": 124,
+    "source_index": null,
     "character": "村",
     "bbox": [
       2000,
@@ -1738,6 +1862,7 @@
   {
     "id": 125,
     "previous_id": 125,
+    "source_index": null,
     "character": "商",
     "bbox": [
       2000,
@@ -1752,6 +1877,7 @@
   {
     "id": 126,
     "previous_id": 126,
+    "source_index": null,
     "character": "同",
     "bbox": [
       2000,
@@ -1766,34 +1892,37 @@
   {
     "id": 127,
     "previous_id": 127,
+    "source_index": null,
     "character": "妥",
     "bbox": [
-      2000,
-      2585,
-      2183,
-      2739
+      1992,
+      2580,
+      2191,
+      2744
     ],
     "group": "column_07",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 128,
     "previous_id": 128,
+    "source_index": null,
     "character": "順",
     "bbox": [
-      2000,
-      2743,
-      2162,
-      2911
+      1992,
+      2738,
+      2170,
+      2916
     ],
     "group": "column_07",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 129,
     "previous_id": 129,
+    "source_index": null,
     "character": "玉",
     "bbox": [
       2000,
@@ -1808,6 +1937,7 @@
   {
     "id": 130,
     "previous_id": 130,
+    "source_index": null,
     "character": "成",
     "bbox": [
       2020,
@@ -1822,6 +1952,7 @@
   {
     "id": 131,
     "previous_id": 131,
+    "source_index": null,
     "character": "其",
     "bbox": [
       2001,
@@ -1836,20 +1967,22 @@
   {
     "id": 132,
     "previous_id": 132,
+    "source_index": null,
     "character": "事",
     "bbox": [
-      2011,
-      3375,
-      2188,
-      3543
+      2003,
+      3370,
+      2196,
+      3548
     ],
     "group": "column_07",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 133,
     "previous_id": 133,
+    "source_index": null,
     "character": "凡",
     "bbox": [
       2016,
@@ -1864,6 +1997,7 @@
   {
     "id": 134,
     "previous_id": 134,
+    "source_index": null,
     "character": "至",
     "bbox": [
       2011,
@@ -1878,6 +2012,7 @@
   {
     "id": 135,
     "previous_id": 135,
+    "source_index": null,
     "character": "忌",
     "bbox": [
       2000,
@@ -1892,6 +2027,7 @@
   {
     "id": 136,
     "previous_id": 136,
+    "source_index": null,
     "character": "日",
     "bbox": [
       2032,
@@ -1906,48 +2042,52 @@
   {
     "id": 137,
     "previous_id": 137,
+    "source_index": null,
     "character": "炤",
     "bbox": [
-      2000,
-      4165,
-      2188,
-      4361
+      1992,
+      4160,
+      2196,
+      4366
     ],
     "group": "column_07",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 138,
     "previous_id": 138,
+    "source_index": null,
     "character": "禮",
     "bbox": [
-      1852,
-      1321,
-      2040,
-      1489
+      1844,
+      1316,
+      2048,
+      1494
     ],
     "group": "column_08",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 139,
     "previous_id": 139,
+    "source_index": null,
     "character": "而",
     "bbox": [
-      1869,
-      1479,
-      2040,
-      1647
+      1861,
+      1474,
+      2048,
+      1652
     ],
     "group": "column_08",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 140,
     "previous_id": 140,
+    "source_index": null,
     "character": "行",
     "bbox": [
       1857,
@@ -1962,6 +2102,7 @@
   {
     "id": 141,
     "previous_id": 141,
+    "source_index": null,
     "character": "與",
     "bbox": [
       1852,
@@ -1976,6 +2117,7 @@
   {
     "id": 142,
     "previous_id": 142,
+    "source_index": null,
     "character": "春",
     "bbox": [
       1852,
@@ -1990,6 +2132,7 @@
   {
     "id": 143,
     "previous_id": 143,
+    "source_index": null,
     "character": "秋",
     "bbox": [
       1852,
@@ -2004,6 +2147,7 @@
   {
     "id": 144,
     "previous_id": 144,
+    "source_index": null,
     "character": "從",
     "bbox": [
       1852,
@@ -2018,34 +2162,37 @@
   {
     "id": 145,
     "previous_id": 145,
+    "source_index": null,
     "character": "祀",
     "bbox": [
-      1852,
-      2427,
-      2021,
-      2595
+      1844,
+      2422,
+      2029,
+      2600
     ],
     "group": "column_08",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 146,
     "previous_id": 146,
+    "source_index": null,
     "character": "配",
     "bbox": [
-      1863,
-      2590,
-      2040,
-      2753
+      1855,
+      2585,
+      2048,
+      2758
     ],
     "group": "column_08",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 147,
     "previous_id": 147,
+    "source_index": null,
     "character": "饗",
     "bbox": [
       1852,
@@ -2060,6 +2207,7 @@
   {
     "id": 148,
     "previous_id": 148,
+    "source_index": null,
     "character": "人",
     "bbox": [
       1852,
@@ -2074,6 +2222,7 @@
   {
     "id": 149,
     "previous_id": 149,
+    "source_index": null,
     "character": "有",
     "bbox": [
       1855,
@@ -2088,6 +2237,7 @@
   {
     "id": 150,
     "previous_id": 150,
+    "source_index": null,
     "character": "心",
     "bbox": [
       1868,
@@ -2102,6 +2252,7 @@
   {
     "id": 151,
     "previous_id": 151,
+    "source_index": null,
     "character": "也",
     "bbox": [
       1852,
@@ -2116,20 +2267,22 @@
   {
     "id": 152,
     "previous_id": 152,
+    "source_index": null,
     "character": "精",
     "bbox": [
-      1852,
-      3533,
-      2040,
-      3701
+      1844,
+      3528,
+      2048,
+      3706
     ],
     "group": "column_08",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 153,
     "previous_id": 153,
+    "source_index": null,
     "character": "誠",
     "bbox": [
       1858,
@@ -2144,6 +2297,7 @@
   {
     "id": 154,
     "previous_id": 154,
+    "source_index": null,
     "character": "必",
     "bbox": [
       1852,
@@ -2158,6 +2312,7 @@
   {
     "id": 155,
     "previous_id": 155,
+    "source_index": null,
     "character": "達",
     "bbox": [
       1869,
@@ -2172,34 +2327,37 @@
   {
     "id": 156,
     "previous_id": 156,
+    "source_index": null,
     "character": "于",
     "bbox": [
-      1852,
-      4216,
-      2040,
-      4361
+      1844,
+      4211,
+      2048,
+      4366
     ],
     "group": "column_08",
-    "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "review_required": true,
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 157,
     "previous_id": 157,
+    "source_index": null,
     "character": "鬼",
     "bbox": [
-      1684,
-      1321,
-      1872,
-      1489
+      1676,
+      1316,
+      1880,
+      1494
     ],
     "group": "column_09",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 158,
     "previous_id": 158,
+    "source_index": null,
     "character": "神",
     "bbox": [
       1684,
@@ -2214,6 +2372,7 @@
   {
     "id": 159,
     "previous_id": 159,
+    "source_index": null,
     "character": "德",
     "bbox": [
       1684,
@@ -2228,20 +2387,22 @@
   {
     "id": 160,
     "previous_id": 160,
+    "source_index": null,
     "character": "能",
     "bbox": [
-      1695,
-      1795,
-      1872,
-      1963
+      1687,
+      1790,
+      1880,
+      1968
     ],
     "group": "column_09",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 161,
     "previous_id": 161,
+    "source_index": null,
     "character": "忘",
     "bbox": [
       1684,
@@ -2256,6 +2417,7 @@
   {
     "id": 162,
     "previous_id": 162,
+    "source_index": null,
     "character": "乎",
     "bbox": [
       1684,
@@ -2270,6 +2432,7 @@
   {
     "id": 163,
     "previous_id": 163,
+    "source_index": null,
     "character": "名",
     "bbox": [
       1695,
@@ -2284,20 +2447,22 @@
   {
     "id": 164,
     "previous_id": 164,
+    "source_index": null,
     "character": "姓",
     "bbox": [
-      1684,
-      2427,
-      1872,
-      2565
+      1676,
+      2422,
+      1880,
+      2570
     ],
     "group": "column_09",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 165,
     "previous_id": 165,
+    "source_index": null,
     "character": "宜",
     "bbox": [
       1684,
@@ -2312,20 +2477,22 @@
   {
     "id": 166,
     "previous_id": 166,
+    "source_index": null,
     "character": "垂",
     "bbox": [
-      1687,
-      2743,
-      1872,
-      2877
+      1679,
+      2738,
+      1880,
+      2882
     ],
     "group": "column_09",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 167,
     "previous_id": 167,
+    "source_index": null,
     "character": "於",
     "bbox": [
       1695,
@@ -2340,20 +2507,22 @@
   {
     "id": 168,
     "previous_id": 168,
+    "source_index": null,
     "character": "永",
     "bbox": [
-      1684,
-      3059,
-      1866,
-      3227
+      1676,
+      3054,
+      1874,
+      3232
     ],
     "group": "column_09",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 169,
     "previous_id": 169,
+    "source_index": null,
     "character": "久",
     "bbox": [
       1718,
@@ -2368,6 +2537,7 @@
   {
     "id": 170,
     "previous_id": 170,
+    "source_index": null,
     "character": "其",
     "bbox": [
       1689,
@@ -2382,6 +2552,7 @@
   {
     "id": 171,
     "previous_id": 171,
+    "source_index": null,
     "character": "贵",
     "bbox": [
       1684,
@@ -2396,34 +2567,37 @@
   {
     "id": 172,
     "previous_id": 172,
+    "source_index": null,
     "character": "位",
     "bbox": [
-      1686,
-      3691,
-      1870,
-      3859
+      1678,
+      3686,
+      1878,
+      3864
     ],
     "group": "column_09",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 173,
     "previous_id": 173,
+    "source_index": null,
     "character": "號",
     "bbox": [
-      1707,
-      3849,
-      1872,
-      4017
+      1699,
+      3844,
+      1880,
+      4022
     ],
     "group": "column_09",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 174,
     "previous_id": 174,
+    "source_index": null,
     "character": "舆",
     "bbox": [
       1704,
@@ -2438,20 +2612,22 @@
   {
     "id": 175,
     "previous_id": 175,
+    "source_index": null,
     "character": "忌",
     "bbox": [
-      1684,
-      4165,
-      1872,
-      4361
+      1676,
+      4160,
+      1880,
+      4366
     ],
     "group": "column_09",
-    "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "review_required": true,
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 176,
     "previous_id": 176,
+    "source_index": null,
     "character": "日",
     "bbox": [
       1543,
@@ -2466,6 +2642,7 @@
   {
     "id": 177,
     "previous_id": 177,
+    "source_index": null,
     "character": "並",
     "bbox": [
       1544,
@@ -2480,62 +2657,67 @@
   {
     "id": 178,
     "previous_id": 178,
+    "source_index": null,
     "character": "禮",
     "bbox": [
-      1543,
-      1637,
-      1731,
-      1805
+      1535,
+      1632,
+      1739,
+      1810
     ],
     "group": "column_10",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 179,
     "previous_id": 179,
+    "source_index": null,
     "character": "品",
     "bbox": [
-      1543,
-      1795,
-      1731,
-      1963
+      1535,
+      1790,
+      1739,
+      1968
     ],
     "group": "column_10",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 180,
     "previous_id": 180,
+    "source_index": null,
     "character": "詳",
     "bbox": [
-      1543,
-      1953,
-      1721,
-      2121
+      1535,
+      1948,
+      1729,
+      2126
     ],
     "group": "column_10",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 181,
     "previous_id": 181,
+    "source_index": null,
     "character": "誌",
     "bbox": [
-      1543,
-      2111,
-      1706,
-      2279
+      1535,
+      2106,
+      1714,
+      2284
     ],
     "group": "column_10",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 182,
     "previous_id": 182,
+    "source_index": null,
     "character": "于",
     "bbox": [
       1543,
@@ -2550,76 +2732,82 @@
   {
     "id": 183,
     "previous_id": 183,
+    "source_index": null,
     "character": "石",
     "bbox": [
-      1549,
-      2427,
-      1731,
-      2557
+      1541,
+      2422,
+      1739,
+      2562
     ],
     "group": "column_10",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 184,
     "previous_id": 184,
+    "source_index": null,
     "character": "以",
     "bbox": [
-      1543,
-      2588,
-      1731,
-      2752
+      1535,
+      2583,
+      1739,
+      2757
     ],
     "group": "column_10",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 185,
     "previous_id": 185,
+    "source_index": null,
     "character": "廣",
     "bbox": [
-      1556,
-      2743,
-      1731,
-      2887
+      1548,
+      2738,
+      1739,
+      2892
     ],
     "group": "column_10",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 186,
     "previous_id": 186,
+    "source_index": null,
     "character": "MISS",
     "bbox": [
-      1544,
-      2901,
-      1728,
-      3055
+      1536,
+      2896,
+      1736,
+      3060
     ],
     "group": "column_10",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 187,
     "previous_id": 187,
+    "source_index": null,
     "character": "傳",
     "bbox": [
-      1543,
-      3059,
-      1731,
-      3227
+      1535,
+      3054,
+      1739,
+      3232
     ],
     "group": "column_10",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 188,
     "previous_id": 188,
+    "source_index": null,
     "character": "云",
     "bbox": [
       1564,
@@ -2634,6 +2822,7 @@
   {
     "id": 189,
     "previous_id": 189,
+    "source_index": null,
     "character": "耳",
     "bbox": [
       1556,
@@ -2648,20 +2837,22 @@
   {
     "id": 190,
     "previous_id": 190,
+    "source_index": null,
     "character": "顯",
     "bbox": [
-      1393,
-      1141,
-      1581,
-      1309
+      1385,
+      1136,
+      1589,
+      1314
     ],
     "group": "father_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 191,
     "previous_id": 191,
+    "source_index": null,
     "character": "考",
     "bbox": [
       1393,
@@ -2676,6 +2867,7 @@
   {
     "id": 192,
     "previous_id": 192,
+    "source_index": null,
     "character": "陳",
     "bbox": [
       1407,
@@ -2690,20 +2882,22 @@
   {
     "id": 193,
     "previous_id": 193,
+    "source_index": null,
     "character": "贵",
     "bbox": [
-      1399,
-      1617,
-      1581,
-      1772
+      1391,
+      1612,
+      1589,
+      1777
     ],
     "group": "father_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 194,
     "previous_id": 194,
+    "source_index": null,
     "character": "公",
     "bbox": [
       1398,
@@ -2718,20 +2912,22 @@
   {
     "id": 195,
     "previous_id": 195,
+    "source_index": null,
     "character": "諱",
     "bbox": [
-      1395,
-      1931,
-      1581,
-      2099
+      1387,
+      1926,
+      1589,
+      2104
     ],
     "group": "father_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 196,
     "previous_id": 196,
+    "source_index": null,
     "character": "德",
     "bbox": [
       1402,
@@ -2746,6 +2942,7 @@
   {
     "id": 197,
     "previous_id": 197,
+    "source_index": null,
     "character": "歸",
     "bbox": [
       1397,
@@ -2760,20 +2957,22 @@
   {
     "id": 198,
     "previous_id": 198,
+    "source_index": null,
     "character": "字",
     "bbox": [
-      1411,
-      2405,
-      1581,
-      2569
+      1403,
+      2400,
+      1589,
+      2574
     ],
     "group": "father_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 199,
     "previous_id": 199,
+    "source_index": null,
     "character": "福",
     "bbox": [
       1399,
@@ -2788,6 +2987,7 @@
   {
     "id": 200,
     "previous_id": 200,
+    "source_index": null,
     "character": "慎",
     "bbox": [
       1393,
@@ -2802,20 +3002,22 @@
   {
     "id": 201,
     "previous_id": 201,
+    "source_index": null,
     "character": "府",
     "bbox": [
-      1393,
-      2879,
-      1581,
-      3038
+      1385,
+      2874,
+      1589,
+      3043
     ],
     "group": "father_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 202,
     "previous_id": 202,
+    "source_index": null,
     "character": "君",
     "bbox": [
       1393,
@@ -2830,6 +3032,7 @@
   {
     "id": 203,
     "previous_id": 203,
+    "source_index": null,
     "character": "十",
     "bbox": [
       1455,
@@ -2844,6 +3047,7 @@
   {
     "id": 204,
     "previous_id": 204,
+    "source_index": null,
     "character": "月",
     "bbox": [
       1454,
@@ -2858,6 +3062,7 @@
   {
     "id": 205,
     "previous_id": 205,
+    "source_index": null,
     "character": "三",
     "bbox": [
       1454,
@@ -2872,6 +3077,7 @@
   {
     "id": 206,
     "previous_id": 206,
+    "source_index": null,
     "character": "十",
     "bbox": [
       1454,
@@ -2886,6 +3092,7 @@
   {
     "id": 207,
     "previous_id": 207,
+    "source_index": null,
     "character": "日",
     "bbox": [
       1454,
@@ -2900,6 +3107,7 @@
   {
     "id": 208,
     "previous_id": 208,
+    "source_index": null,
     "character": "忌",
     "bbox": [
       1454,
@@ -2914,34 +3122,37 @@
   {
     "id": 209,
     "previous_id": 209,
+    "source_index": null,
     "character": "顯",
     "bbox": [
-      1239,
-      1166,
-      1427,
-      1334
+      1231,
+      1161,
+      1435,
+      1339
     ],
     "group": "mother_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 210,
     "previous_id": 210,
+    "source_index": null,
     "character": "妣",
     "bbox": [
-      1239,
-      1324,
-      1427,
-      1492
+      1231,
+      1319,
+      1435,
+      1497
     ],
     "group": "mother_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 211,
     "previous_id": 211,
+    "source_index": null,
     "character": "陳",
     "bbox": [
       1248,
@@ -2956,6 +3167,7 @@
   {
     "id": 212,
     "previous_id": 212,
+    "source_index": null,
     "character": "公",
     "bbox": [
       1242,
@@ -2970,6 +3182,7 @@
   {
     "id": 213,
     "previous_id": 213,
+    "source_index": null,
     "character": "正",
     "bbox": [
       1239,
@@ -2984,48 +3197,52 @@
   {
     "id": 214,
     "previous_id": 214,
+    "source_index": null,
     "character": "室",
     "bbox": [
-      1256,
-      1956,
-      1427,
-      2099
+      1248,
+      1951,
+      1435,
+      2104
     ],
     "group": "mother_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 215,
     "previous_id": 215,
+    "source_index": null,
     "character": "阮",
     "bbox": [
-      1239,
-      2127,
-      1427,
-      2282
+      1231,
+      2122,
+      1435,
+      2287
     ],
     "group": "mother_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 216,
     "previous_id": 216,
+    "source_index": null,
     "character": "贵",
     "bbox": [
-      1239,
-      2272,
-      1427,
-      2440
+      1231,
+      2267,
+      1435,
+      2445
     ],
     "group": "mother_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 217,
     "previous_id": 217,
+    "source_index": null,
     "character": "氏",
     "bbox": [
       1239,
@@ -3040,20 +3257,22 @@
   {
     "id": 218,
     "previous_id": 218,
+    "source_index": null,
     "character": "諱",
     "bbox": [
-      1239,
-      2588,
-      1427,
-      2756
+      1231,
+      2583,
+      1435,
+      2761
     ],
     "group": "mother_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 219,
     "previous_id": 219,
+    "source_index": null,
     "character": "汝",
     "bbox": [
       1239,
@@ -3068,6 +3287,7 @@
   {
     "id": 220,
     "previous_id": 220,
+    "source_index": null,
     "character": "號",
     "bbox": [
       1239,
@@ -3082,6 +3302,7 @@
   {
     "id": 221,
     "previous_id": 221,
+    "source_index": null,
     "character": "妙",
     "bbox": [
       1239,
@@ -3096,48 +3317,52 @@
   {
     "id": 222,
     "previous_id": 222,
+    "source_index": null,
     "character": "清",
     "bbox": [
-      1259,
-      3220,
-      1427,
-      3388
+      1251,
+      3215,
+      1435,
+      3393
     ],
     "group": "mother_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 223,
     "previous_id": 223,
+    "source_index": null,
     "character": "孺",
     "bbox": [
-      1245,
-      3364,
-      1431,
-      3516
+      1237,
+      3359,
+      1439,
+      3521
     ],
     "group": "mother_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 224,
     "previous_id": 224,
+    "source_index": null,
     "character": "人",
     "bbox": [
-      1262,
-      3499,
-      1436,
-      3626
+      1254,
+      3494,
+      1444,
+      3631
     ],
     "group": "mother_name",
-    "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "review_required": true,
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 225,
     "previous_id": 225,
+    "source_index": null,
     "character": "四",
     "bbox": [
       1328,
@@ -3152,6 +3377,7 @@
   {
     "id": 226,
     "previous_id": 226,
+    "source_index": null,
     "character": "月",
     "bbox": [
       1318,
@@ -3166,6 +3392,7 @@
   {
     "id": 227,
     "previous_id": 227,
+    "source_index": null,
     "character": "二",
     "bbox": [
       1315,
@@ -3180,6 +3407,7 @@
   {
     "id": 228,
     "previous_id": 228,
+    "source_index": null,
     "character": "十",
     "bbox": [
       1325,
@@ -3194,6 +3422,7 @@
   {
     "id": 229,
     "previous_id": 229,
+    "source_index": null,
     "character": "六",
     "bbox": [
       1314,
@@ -3208,6 +3437,7 @@
   {
     "id": 230,
     "previous_id": 230,
+    "source_index": null,
     "character": "日",
     "bbox": [
       1316,
@@ -3222,6 +3452,7 @@
   {
     "id": 231,
     "previous_id": 231,
+    "source_index": null,
     "character": "忌",
     "bbox": [
       1315,
@@ -3236,90 +3467,97 @@
   {
     "id": 232,
     "previous_id": 232,
+    "source_index": null,
     "character": "陳",
     "bbox": [
-      1081,
-      1148,
-      1269,
-      1309
+      1073,
+      1143,
+      1277,
+      1314
     ],
     "group": "benefactor_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 233,
     "previous_id": 233,
+    "source_index": null,
     "character": "氏",
     "bbox": [
-      1081,
-      1299,
-      1269,
-      1467
+      1073,
+      1294,
+      1277,
+      1472
     ],
     "group": "benefactor_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 234,
     "previous_id": 234,
+    "source_index": null,
     "character": "富",
     "bbox": [
-      1081,
-      1457,
-      1269,
-      1625
+      1073,
+      1452,
+      1277,
+      1630
     ],
     "group": "benefactor_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 235,
     "previous_id": 235,
+    "source_index": null,
     "character": "號",
     "bbox": [
-      1081,
-      1615,
-      1269,
-      1783
+      1073,
+      1610,
+      1277,
+      1788
     ],
     "group": "benefactor_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 236,
     "previous_id": 236,
+    "source_index": null,
     "character": "妙",
     "bbox": [
-      1081,
-      1773,
-      1269,
-      1941
+      1073,
+      1768,
+      1277,
+      1946
     ],
     "group": "benefactor_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 237,
     "previous_id": 237,
+    "source_index": null,
     "character": "贵",
     "bbox": [
-      1081,
-      1931,
-      1262,
-      2099
+      1073,
+      1926,
+      1270,
+      2104
     ],
     "group": "benefactor_name",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 238,
     "previous_id": 238,
+    "source_index": null,
     "character": "月",
     "bbox": [
       1094,
@@ -3334,6 +3572,7 @@
   {
     "id": 239,
     "previous_id": 239,
+    "source_index": null,
     "character": "日",
     "bbox": [
       1108,
@@ -3348,6 +3587,7 @@
   {
     "id": 240,
     "previous_id": 240,
+    "source_index": null,
     "character": "忌",
     "bbox": [
       1094,
@@ -3362,34 +3602,37 @@
   {
     "id": 241,
     "previous_id": 241,
+    "source_index": null,
     "character": "忌",
     "bbox": [
-      925,
-      1321,
-      1113,
-      1489
+      917,
+      1316,
+      1121,
+      1494
     ],
     "group": "offerings",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 242,
     "previous_id": 242,
+    "source_index": null,
     "character": "日",
     "bbox": [
-      925,
-      1479,
-      1113,
-      1647
+      917,
+      1474,
+      1121,
+      1652
     ],
     "group": "offerings",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 243,
     "previous_id": 243,
+    "source_index": null,
     "character": "禮",
     "bbox": [
       925,
@@ -3404,6 +3647,7 @@
   {
     "id": 244,
     "previous_id": 244,
+    "source_index": null,
     "character": "用",
     "bbox": [
       926,
@@ -3418,48 +3662,52 @@
   {
     "id": 245,
     "previous_id": 245,
+    "source_index": null,
     "character": "翰",
     "bbox": [
-      925,
-      1953,
-      1113,
-      2121
+      917,
+      1948,
+      1121,
+      2126
     ],
     "group": "offerings",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 246,
     "previous_id": 246,
+    "source_index": null,
     "character": "歆",
     "bbox": [
-      925,
-      2111,
-      1109,
-      2279
+      917,
+      2106,
+      1117,
+      2284
     ],
     "group": "offerings",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 247,
     "previous_id": 247,
+    "source_index": null,
     "character": "粢",
     "bbox": [
-      925,
-      2269,
-      1113,
-      2428
+      917,
+      2264,
+      1121,
+      2433
     ],
     "group": "offerings",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 248,
     "previous_id": 248,
+    "source_index": null,
     "character": "盛",
     "bbox": [
       938,
@@ -3474,6 +3722,7 @@
   {
     "id": 249,
     "previous_id": 249,
+    "source_index": null,
     "character": "金",
     "bbox": [
       925,
@@ -3488,34 +3737,37 @@
   {
     "id": 250,
     "previous_id": 250,
+    "source_index": null,
     "character": "銀",
     "bbox": [
-      930,
-      2743,
-      1112,
-      2911
+      922,
+      2738,
+      1120,
+      2916
     ],
     "group": "offerings",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 251,
     "previous_id": 251,
+    "source_index": null,
     "character": "芙",
     "bbox": [
-      925,
-      2901,
-      1113,
-      3069
+      917,
+      2896,
+      1121,
+      3074
     ],
     "group": "offerings",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 252,
     "previous_id": 252,
+    "source_index": null,
     "character": "酒",
     "bbox": [
       925,
@@ -3530,6 +3782,7 @@
   {
     "id": 253,
     "previous_id": 253,
+    "source_index": null,
     "character": "具",
     "bbox": [
       925,
@@ -3544,20 +3797,22 @@
   {
     "id": 254,
     "previous_id": 254,
+    "source_index": null,
     "character": "足",
     "bbox": [
-      925,
-      3375,
-      1108,
-      3536
+      917,
+      3370,
+      1116,
+      3541
     ],
     "group": "offerings",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 255,
     "previous_id": 255,
+    "source_index": null,
     "character": "三",
     "bbox": [
       1019,
@@ -3572,6 +3827,7 @@
   {
     "id": 256,
     "previous_id": 256,
+    "source_index": null,
     "character": "忌",
     "bbox": [
       1019,
@@ -3586,6 +3842,7 @@
   {
     "id": 257,
     "previous_id": 257,
+    "source_index": null,
     "character": "亦",
     "bbox": [
       1019,
@@ -3600,6 +3857,7 @@
   {
     "id": 258,
     "previous_id": 258,
+    "source_index": null,
     "character": "周",
     "bbox": [
       1019,
@@ -3614,6 +3872,7 @@
   {
     "id": 259,
     "previous_id": 259,
+    "source_index": null,
     "character": "由",
     "bbox": [
       903,
@@ -3628,6 +3887,7 @@
   {
     "id": 260,
     "previous_id": 260,
+    "source_index": null,
     "character": "每",
     "bbox": [
       903,
@@ -3642,6 +3902,7 @@
   {
     "id": 261,
     "previous_id": 261,
+    "source_index": null,
     "character": "忌",
     "bbox": [
       903,
@@ -3656,6 +3917,7 @@
   {
     "id": 262,
     "previous_id": 262,
+    "source_index": null,
     "character": "準",
     "bbox": [
       903,
@@ -3670,6 +3932,7 @@
   {
     "id": 263,
     "previous_id": 263,
+    "source_index": null,
     "character": "銀",
     "bbox": [
       903,
@@ -3684,6 +3947,7 @@
   {
     "id": 264,
     "previous_id": 264,
+    "source_index": null,
     "character": "二",
     "bbox": [
       900,
@@ -3698,6 +3962,7 @@
   {
     "id": 265,
     "previous_id": 265,
+    "source_index": null,
     "character": "元",
     "bbox": [
       900,
@@ -3712,155 +3977,166 @@
   {
     "id": 266,
     "previous_id": 266,
+    "source_index": null,
     "character": "保",
     "bbox": [
-      784,
-      1191,
-      969,
-      1359
+      776,
+      1186,
+      977,
+      1364
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 267,
     "previous_id": 267,
+    "source_index": null,
     "character": "大",
     "bbox": [
-      781,
-      1349,
-      938,
-      1517
+      773,
+      1344,
+      946,
+      1522
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 268,
     "previous_id": 268,
+    "source_index": null,
     "character": "七",
     "bbox": [
-      781,
-      1507,
-      969,
-      1675
+      773,
+      1502,
+      977,
+      1680
     ],
     "group": "date_inscription",
-    "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "review_required": true,
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 269,
     "previous_id": 269,
+    "source_index": null,
     "character": "年",
     "bbox": [
-      781,
-      1665,
-      969,
-      1833
+      773,
+      1660,
+      977,
+      1838
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 270,
     "previous_id": 270,
+    "source_index": null,
     "character": "歲",
     "bbox": [
-      781,
-      1823,
-      969,
-      1991
+      773,
+      1818,
+      977,
+      1996
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 271,
     "previous_id": 271,
+    "source_index": null,
     "character": "在",
     "bbox": [
-      781,
-      1981,
-      969,
-      2149
+      773,
+      1976,
+      977,
+      2154
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 272,
     "previous_id": 272,
+    "source_index": null,
     "character": "壬",
     "bbox": [
-      786,
-      2139,
-      969,
-      2307
+      778,
+      2134,
+      977,
+      2312
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 273,
     "previous_id": 273,
+    "source_index": null,
     "character": "申",
     "bbox": [
-      792,
-      2297,
-      969,
-      2465
+      784,
+      2292,
+      977,
+      2470
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 274,
     "previous_id": 274,
+    "source_index": null,
     "character": "吉",
     "bbox": [
-      793,
-      2455,
-      969,
-      2623
+      785,
+      2450,
+      977,
+      2628
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 275,
     "previous_id": 275,
+    "source_index": null,
     "character": "日",
     "bbox": [
-      791,
-      2613,
-      969,
-      2781
+      783,
+      2608,
+      977,
+      2786
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   },
   {
     "id": 276,
     "previous_id": 276,
+    "source_index": null,
     "character": "立",
     "bbox": [
-      783,
-      2771,
-      969,
-      2939
+      775,
+      2766,
+      977,
+      2944
     ],
     "group": "date_inscription",
     "review_required": false,
-    "reason": "Đã đối chiếu vị trí trên dải ảnh phóng to; chưa đánh giá Intact/Damaged."
+    "reason": "Rà lại dải ảnh; nới biên ở các nét chạm cạnh box. Giữ nguyên chữ nguồn, không ép đếm."
   }
 ]

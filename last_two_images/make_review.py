@@ -9,6 +9,7 @@ for code in ('17077', '18592'):
     data[code] = {
         'image': 'data:image/jpeg;base64,' + base64.b64encode((HERE.parent / 'student_114' / (code + '.jpg')).read_bytes()).decode(),
         'rows': json.loads((HERE / 'review' / (code + '.json')).read_text()),
+        'unlocated': json.loads((HERE / 'review/18592_unlocated.json').read_text()) if code == '18592' else {},
     }
 html = '''<!doctype html><html lang="vi"><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -19,6 +20,7 @@ button,select{font:inherit;padding:8px;margin:4px;background:#292e32;color:white
 .tools{position:sticky;top:0;background:#141719;padding:8px;z-index:2}
 .panes{display:grid;grid-template-columns:minmax(250px,1fr) minmax(300px,1fr);gap:16px}
 canvas{width:100%;height:auto;background:#292e32}#detail{position:sticky;top:120px}
+#unlocated{white-space:pre-line}
 #note{max-width:950px;min-height:55px}.muted{color:#bec4c9;font-size:14px}
 @media(max-width:700px){.panes{grid-template-columns:1fr}#detail{position:static}}
 </style>
@@ -28,6 +30,7 @@ canvas{width:100%;height:auto;background:#292e32}#detail{position:sticky;top:120
 <label><input type="checkbox" id="uncertain"> Chỉ ô cần rà</label>
 <button id="prev">←</button><select id="box"></select><button id="next">→</button>
 <div id="note"></div></div>
+<details><summary>Các vị trí nguồn chưa ghép được — vẫn giữ nguyên trong Content</summary><p id="unlocated"></p></details>
 <div class="panes"><canvas id="overview"></canvas><div><canvas id="detail"></canvas></div></div>
 <p class="muted">Chọn số box hoặc bấm vào ảnh tổng thể. Trang này chỉ để xem; sửa và lưu trên app Kaggle.
 Giữ nguyên Content Hán Nôm ngoài chuẩn hóa dấu ngoặc và [].</p>
@@ -37,6 +40,7 @@ const face=document.getElementById('face'),box=document.getElementById('box'),un
 const overview=document.getElementById('overview'),detail=document.getElementById('detail');
 let picture=new Image(), rows=[];
 function options(){
+ document.getElementById('unlocated').textContent=(data[face.value].unlocated.excluded_source_positions||[]).map(r=>`${r.source_index}: ${r.character} — ${r.reason}`).join(String.fromCharCode(10));
  const prior=Number(box.value); rows=data[face.value].rows.filter(r=>!uncertain.checked||r.review_required);
  box.replaceChildren(...rows.map(r=>{let o=document.createElement('option');o.value=r.id;o.textContent=`${r.id}: ${r.character}${r.review_required?' • cần rà':''}`;return o;}));
  if(rows.some(r=>r.id===prior))box.value=prior;draw();
@@ -47,6 +51,7 @@ function draw(){
  overview.width=1300;overview.height=Math.round(picture.naturalHeight*1300/picture.naturalWidth);
  const ctx=overview.getContext('2d'),scale=1300/picture.naturalWidth;
  ctx.drawImage(picture,0,0,overview.width,overview.height);
+ for(const r of (data[face.value].unlocated.unresolved_image_regions||[])){let [x,y,xx,yy]=r.bbox;ctx.strokeStyle='#cc66ff';ctx.setLineDash([8,5]);ctx.lineWidth=2;ctx.strokeRect(x*scale,y*scale,(xx-x)*scale,(yy-y)*scale);ctx.setLineDash([]);}
  const current=rows.find(r=>r.id===Number(box.value));
  for(const r of data[face.value].rows){let [x,y,xx,yy]=r.bbox;ctx.strokeStyle=r.id===current?.id?'#ff4173':r.review_required?'#ffb000':'#00ddff';ctx.lineWidth=r.id===current?.id?4:1;ctx.strokeRect(x*scale,y*scale,(xx-x)*scale,(yy-y)*scale);}
  detail.width=900;detail.height=900;const d=detail.getContext('2d');d.fillStyle='#292e32';d.fillRect(0,0,900,900);
@@ -54,7 +59,7 @@ function draw(){
  const [x,y,xx,yy]=current.bbox,side=Math.max(xx-x,yy-y)+180;
  const sx=(x+xx-side)/2,sy=(y+yy-side)/2,z=900/side;
  d.drawImage(picture,sx,sy,side,side,0,0,900,900);d.strokeStyle='#ff4173';d.lineWidth=3;d.strokeRect((x-sx)*z,(y-sy)*z,(xx-x)*z,(yy-y)*z);
- document.getElementById('note').textContent=`Box ${current.id} · nhãn ${current.character}`+(current.source_character?` · nguồn ${current.source_character} / ảnh dự kiến ${current.observed_character}`:'')+` — ${current.reason}`;
+ document.getElementById('note').textContent=`Box ${current.id} · số cũ ${current.previous_id}`+(current.source_index?` · vị trí nguồn ${current.source_index}`:'')+` · nhãn ${current.character}`+(current.source_character?` · nguồn ${current.source_character} / ảnh dự kiến ${current.observed_character}`:'')+` — ${current.reason}`;
 }
 face.onchange=load;uncertain.onchange=options;box.onchange=draw;
 document.getElementById('prev').onclick=()=>{box.selectedIndex=Math.max(0,box.selectedIndex-1);draw();};

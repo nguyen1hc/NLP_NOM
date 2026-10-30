@@ -11,7 +11,7 @@ with zipfile.ZipFile(here / 'last_two_kaggle.zip', 'w', zipfile.ZIP_DEFLATED) as
     for path in sorted(package.rglob('*')):
         if path.is_file() and '__pycache__' not in path.parts:
             archive.write(path, path.relative_to(package).as_posix())
-    for name in ('review.html', 'validation.json'):
+    for name in ('review.html', 'validation.json', 'redo_geometry.json', '18592_before_after.jpg'):
         archive.write(here / name, name)
     for path in sorted((here / 'review').glob('*.json')):
         archive.write(path, 'review/' + path.name)
